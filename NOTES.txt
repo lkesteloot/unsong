@@ -1,0 +1,20 @@
+
+
+- Detect Hebrew text and fall back on other font.
+- Deal with brackets in text.
+    - Add backslash-escape.
+    - Remove space in "[ !" that I added earlier.
+- Maybe parse <i> directly as alternative to underscore.
+- See what max size of Lulu book is. Maybe split book.
+- In table of contents handle long chapter names (wrap earlier).
+- Why are some lines too long? Grep for paragraph ending
+    with "FISH IN A BARREL". Is it the capitals?
+- Get an English hyphenation dictionary, if we don't have
+    one already. Make sure it works with all-caps words.
+- Some em-dashes are being inserted by accident. See where he
+    uses multiple hyphens.
+- Remove space before two-part punctuation.
+- Looks like em dashes are actual em dashes with spaces around them.
+    Replace with three hyphens without spaces.
+- Make sure ellipses look good. What did we do for Klat book?
+

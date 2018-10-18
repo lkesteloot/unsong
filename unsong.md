@@ -8,30 +8,30 @@
 [Author: Scott Alexander]
 [Publisher-Name: Team Ten Press]
 [Publisher-Location: San Francisco, California]
-[Copyright: Copyright © 1989 Scott Alexander]
+[Copyright: Copyright © 2017 Scott Alexander]
 [Colophon: First edition, October 2018]
 [Toc-Title: Table of Contents]
 
 % Font configuration.
-%% [Body-Font: Minion, regular, 11pt]
-%% [Block-Quote-Font: Minion, italic, 11pt]
-%% [Code-Font: Minion, regular, 11pt]
-%% [Caption-Font: Minion, italic, 9.5pt]
-%% [Part-Header-Font: Minion, small caps, 19pt]
-%% [Chapter-Header-Font: Minion, small caps, 14pt]
-%% [Minor-Header-Font: Minion, small caps, 11pt]
-%% [Page-Number-Font: Minion, regular, 8pt]
-%% [Headline-Font: Minion, regular, 8pt]
-%% [Half-Title-Page-Title-Font: Minion, small caps, 19pt]
-%% [Title-Page-Author-Font: Minion, small caps, 14pt]
-%% [Title-Page-Title-Font: Minion, small caps, 27pt]
-%% [Title-Page-Publisher-Name-Font: Minion, small caps, 9pt]
-%% [Title-Page-Publisher-Location-Font: Minion, italic, 9pt]
-%% [Copyright-Page-Copyright-Font: Minion, italic, 11pt]
-%% [Copyright-Page-Colophon-Font: Minion, small caps, 9pt]
-%% [Toc-Page-Title-Font: Minion, small caps, 14pt]
-%% [Toc-Page-Part-Font: Minion, small caps, 11pt]
-%% [Toc-Page-Chapter-Font: Minion, regular, 11pt]
+[Body-Font: Minion, regular, 11pt]
+[Block-Quote-Font: Minion, italic, 11pt]
+[Code-Font: Minion, regular, 11pt]
+[Caption-Font: Minion, italic, 9.5pt]
+[Part-Header-Font: Minion, small caps, 19pt]
+[Chapter-Header-Font: Minion, small caps, 14pt]
+[Minor-Header-Font: Minion, small caps, 11pt]
+[Page-Number-Font: Minion, regular, 8pt]
+[Headline-Font: Minion, regular, 8pt]
+[Half-Title-Page-Title-Font: Minion, small caps, 19pt]
+[Title-Page-Author-Font: Minion, small caps, 14pt]
+[Title-Page-Title-Font: Minion, small caps, 27pt]
+[Title-Page-Publisher-Name-Font: Minion, small caps, 9pt]
+[Title-Page-Publisher-Location-Font: Minion, italic, 9pt]
+[Copyright-Page-Copyright-Font: Minion, italic, 11pt]
+[Copyright-Page-Colophon-Font: Minion, small caps, 9pt]
+[Toc-Page-Title-Font: Minion, small caps, 14pt]
+[Toc-Page-Part-Font: Minion, small caps, 11pt]
+[Toc-Page-Chapter-Font: Minion, regular, 11pt]
 
 % Dimensions configuration.
 [Page-Width: 6in]
@@ -41,17 +41,17 @@
 [Page-Margin-Outer: 6pc]
 [Page-Margin-Inner: 8pc]
 
-%% [HALF-TITLE]
-%% 
-%% [TITLE]
-%% 
-%% [COPYRIGHT]
-%% 
-%% [TOC]
+[HALF-TITLE]
 
-## Prologue
+[TITLE]
 
-<b>I.</b>
+[COPYRIGHT]
+
+[TOC]
+
+### Prologue
+
+#### I.
 
 In retrospect, there had been omens and portents.
 
@@ -89,7 +89,7 @@ The New York Stock Exchange rose by perfect integer amounts eleven days in a row
 
 <i>(“And from the crew of Apollo 8, we close with good night, good luck, a Merry Christmas – and God bless all of – ” [sudden burst of static, then silence])</i>
 
-<b>II.</b>
+#### II.
 
 If I had to choose a high point for the history of the human race thus far, it would be December 24, 1968.
 
@@ -107,7 +107,7 @@ So for two minutes on Christmas Eve, while a billion people listened, three astr
 
 Then, mid-sentence, they crashed into the crystal sphere surrounding the world, because it turned out there were far <i>fewer</i> things in Heaven and Earth than were dreamt of in almost anyone’s philosophy.
 
- </div>
+ 
 
 
 
@@ -117,7 +117,7 @@ Then, mid-sentence, they crashed into the crystal sphere surrounding the world, 
 
 
 <center><img alt="Section header image. A girl on a ladder holding a golden letter L, while a man looks on. Underneath is the quote Now I heard there was a sacred word / That Jala said and it named the Lord / But you don't really know of magic, or us / It goes like this, a tav, a resh / A fearsome joy, a fervent wish / The Comet King incanting haMephorash -- Leonard Cohen, haMephorash" data-recalc-dims="1" src="https://i0.wp.com/i.imgur.com/5qMRb0F.png?w=557"/></center>
- </div>
+ 
 
 
 
@@ -285,7 +285,7 @@ Palo Alto is Spanish for “tall tree”. The phrase “tall tree” appears in 
 
 This was not a coincidence, because nothing is ever a coincidence.
 
- </div>
+ 
 
 
 
@@ -360,7 +360,7 @@ He sat down on the piano bench and performed a flawless rendition of Bach’s Co
 
 “[expletive deleted],” said the president.
 
- </div>
+ 
 
 
 
@@ -532,7 +532,7 @@ It was strange and almost sacrilegious. But every week we returned. UNSONG and t
 
 And that was why every Wednesday night the choir of the Unitarian Church would meet in secret and sing the hidden transcendent Names of God in Pig Latin.
 
- </div>
+ 
 
 
 
@@ -604,7 +604,7 @@ Understand the seed, and you understand everything that grows from it. This is t
 
 <b>4:</b> We can analyze the name “George Washington” as follows: “George” means “farmer” in Greek, which is clearly related to the name “Adam” meaning “dirt” in Hebrew; Adam was banished from Eden and sentenced to “till the dirt from which he was made”. “Washing” means “to place under water” in English, which mirrors “Moses”, meaning “to draw out of the water” in Hebrew. But “washing” also means “to cleanse”, and “ton” means town referring to the polis or state. So “George Washington” references similarities with both Adam and Moses, but also contains an additional meaning of “the one who cleanses the state”, ie purifies it from corruption and foreign influences.
 
- </div>
+ 
 
 
 
@@ -791,7 +791,7 @@ Uriel let out a long sigh.
 
 <i>1) And it came to pass that in the eighth year of Ahab, Jezuboad made a burnt offering in the Temple of the Lord 2) and he spoke saying “O God, whose wisdom spanneth the heavens and the earth, I am learned in Scripture, yet much still troubles me. 3) Why the many apparent contradictions? Whence the emphasis on ritual purity? And which books are literally true and which meant only to edify?” 4) Then out of a fiery cloud before him there appeared the Archangel Uriel, whose eyes shone like the sun. 5) And he said with a mighty voice: 6) “OKAY, LET ME CLEAR ALL OF THIS CONFUSION UP RIGHT NOW, SO NO ONE ELSE EVER HAS TO WORRY ABOUT IT…”</i>
 
- </div>
+ 
 
 
 
@@ -885,7 +885,7 @@ Erica’s voice from the hallway: “Are you doing dark rituals in the bedroom a
 
 And I ended: “MEH-MEH-MEH-MEH-MEH-MEH!”
 
- </div>
+ 
 
 
 
@@ -898,7 +898,7 @@ My beloved is like a bit of information that flows in the system.<br/>
 <i>— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a></i>
 
 </blockquote>
-<b>I.</b>
+#### I.
 
 I remember the first time I met Ana Thurmond. 
 
@@ -1028,7 +1028,7 @@ I thought for a second. Then I thought for another second. “I got nothing,” 
 
 “This was the biggest mistake of my life and I hope I die,” said Weird Hair Girl.
 
-<b>II.</b>
+#### II.
 
 I remember my first morning there, the morning it all came together. The girls finally dragged me out of bed and insisted on making me breakfast. Weird Hair Girl was named Erica. Girl Whom I Will Someday Marry was named Ana. Together they led me downstairs into an expansive dining room.
 
@@ -1143,7 +1143,7 @@ I stared her in the eyes. “What’s the catch?” This was the Bay Area. A rat
 
 She had a point. My mind added: beautiful and witty <i>and</i> rich.
 
-<b>III.</b>
+#### III.
 
 I remember the day I first saw Ana in her element.
 
@@ -1366,7 +1366,7 @@ I reached into my pocket, pulled out my scroll wheel, and activated the Thunderc
 
 “Everyone sit down!” I said. “Pirindiel, sword away! No more theodicy! Time for dessert!”
 
-<b>IV.</b>
+#### IV.
 
 I remember the day I asked Ana on a date.
 
@@ -1434,7 +1434,7 @@ Ana realized something was wrong. “Uh,” she said “if it helps, I am totall
 
 “Really?” I asked, and leapt to my feet, because I was a moron.
 
-<b>V.</b>
+#### V.
 
 And I remember the day Ana and I got married.
 
@@ -1602,7 +1602,7 @@ And I thought: [Shamu Yisrael, HaShem elokeinu…]
 
 “Aaaagh, stop, why did I give you the ability to communicate with me telepathically? Why? WHY? What’s that thing Erica always says? Oh, right. This was the biggest mistake of my life and I hope I die.”
 
- </div>
+ 
 
 
 
@@ -1670,7 +1670,7 @@ A cantor is someone who works with infinity.
 
 And a singer is someone who tries to be good.
 
- </div>
+ 
 
 
 
@@ -1861,7 +1861,7 @@ Was I arrogant to even make the comparison? Maybe. But I had crossed out of the 
 
 “I’ll see you in a couple of hours,” I told Ana, and then I strode out alone into the cold night air.
 
- </div>
+ 
 
 
 
@@ -2039,7 +2039,7 @@ Given the constraints all Names have to follow, you could find the most likely N
 
 My mind burning, I set out for the CalTrain station and Stanford.
 
- </div>
+ 
 
 
 
@@ -2315,7 +2315,7 @@ Three and one half minutes later, the police burst through the door. They had re
 
 <i>[There is now an Author’s Notes section on the menu above, and <a href="http://unsongbook.com/authors-note-1/">Author’s Note 1</a> is up.]</i>
 
- </div>
+ 
 
 
 
@@ -2471,7 +2471,7 @@ The archangel was no longer listening, focusing the attention of his glowing gol
 
 Sohu experimentally slathered one the fried fish-parts in ketchup, tentatively took a taste, then spit it out. Making sure Uriel was distracted with his butterflies, she furtively started squirting ketchup from the bottle straight onto her tongue. She swallowed, shrugged, and curled up on her cloud with her book and one of the ketchup bottles as the archangel gesticulated above her.
 
- </div>
+ 
 
 
 
@@ -2565,7 +2565,7 @@ I was led into what must have been the big black van.
 
 We drove off.
 
- </div>
+ 
 
 
 
@@ -2606,7 +2606,7 @@ It means something bigger, if not something better.
 </blockquote>
 What are we to say to <i>that?</i>
 
- </div>
+ 
 
 
 
@@ -2617,7 +2617,7 @@ What are we to say to <i>that?</i>
 <font size="1"><b><i>May 11, 2017<br/>
 San Jose</i></b></font>
 
-<b>I.</b>
+#### I.
 
 Time and chance, according to the Book of Ecclesiastes, happeneth to us all. Ana had planned to sleep in, but it so happeneth that she woke up hungry and found herself out of milk. She threw on an old t-shirt – one she had gotten at a theodicy conference a few years ago, with the motto WHO WATCHES THE WATCHMAKER? on the front – grabbed a shopping bag, and headed out to the 7-11 on the corner.
 
@@ -2649,7 +2649,7 @@ She wandered in search of a library, and found one gratifyingly quickly. The lib
 
 She was half-asleep when she noticed that the laptop on the desk was Sarah.
 
-<b>II.</b>
+#### II.
 
 Ana looked it over very carefully. Had it been there when she came in? Had she dismissed it as just a complimentary laptop for guests to use? Maybe a little unusual in a cheap hotel like this, but not extraordinary? She couldn’t remember. But it was here now, and it was Sarah. The same old NE-1 series machine. The same pattern of scratches on the cover. It even had AARON scrawled in black pen on the side.
 
@@ -2701,7 +2701,7 @@ She agonized for a second over whether or not to bring the computer. If she did 
 
 Then she went visible again, called a cab, and asked how much it would cost to get to Ione.
 
- </div>
+ 
 
 
 
@@ -2749,7 +2749,7 @@ Paul tried to stand. He took a second to catch his breath. Kesey – the thing i
 
 Quivering from head to toe, Paul knelt.
 
- </div>
+ 
 
 
 
@@ -2870,7 +2870,7 @@ She checked her cell phone one last time before the battery went dead. Nothing f
 
 She rested her head against a bag of luggage and fell asleep.
 
- </div>
+ 
 
 
 
@@ -2943,7 +2943,7 @@ If the Messiah were ever going to come, now would be a good time. We thought he 
 
 Still other texts say the Messiah will come in a generation that is <i>both</i> the most righteous <i>and</i> the most wicked. I don’t even <i>know</i> what to think of that one.
 
- </div>
+ 
 
 
 
@@ -2954,7 +2954,7 @@ Still other texts say the Messiah will come in a generation that is <i>both</i> 
 <font size="1"><b><i>October 10, 1990<br/>
 Gulf of Mexico</i></b></font>
 
-<b>I.</b>
+#### I.
 
 “Good morning,” said Sohu as she stepped out of her cottage. Technically it was already afternoon. She hadn’t slept late, but she’d stayed inside, studying, dreading to open the door. Uriel had no concept of small talk, and precious little concept of scheduling. She knew the moment she walked outside he would start expounding kabbalah at her, talking faster than she could follow and demanding impossible feats of scholarship. It wasn’t that she dreaded it, exactly. Just that she wanted to be able to steel herself a little before facing it. As for the archangel, he never seemed to notice or care about the time. She suspected she could have just stayed inside all week and spared herself any lessons at all, if she had been so inclined. But then why live with an archangel in a hurricane?
 
@@ -3070,7 +3070,7 @@ Oh. So it was going to be one of <i>those</i> types of lessons. Sohu scowled.
 
 Uriel pointed at the edge of the hurricane and Sohu’s little cloud shot in that direction so quickly she fell over onto its puffy surface. Her own cloud rotated ninety degrees and smashed up against the wall of the storm, so that she was sandwiched between them as they merged. Trapped. She clawed frantically, trying to break free, until she was rewarded with a view of clear sky, the four hundred foot vertical drop to the ocean below, and a tiny figure suspended in the air at the level of Uriel’s face.
 
-<b>II.</b>
+#### II.
 
 Uriel was talking to someone. She could barely see him at this distance. Human-sized, she thought. His voice carried, cool and emotionless, solid like ice.
 
@@ -3148,7 +3148,7 @@ The second head just kept screaming.
 
 “Of course,” said the devil, and he dove into the sea and disappeared.
 
-<b>III.</b>
+#### III.
 
 Sohu lay there for a moment. Let the light and fresh air slowly leak back into her sensorium. The horror seemed oddly distant now, like she could barely remember it. A nightmare retreating after break of day. But the words she could not forget.
 
@@ -3182,7 +3182,7 @@ She thought for a second. So many things she wanted to say. She formed the respo
 
 “I…I’m not sure. But I think I can try.”
 
- </div>
+ 
 
 
 
@@ -3346,7 +3346,7 @@ DASAT-ZAM-RUSH-SHAN-SEVER-LAS-KYON-DAL-ATHEN-TRY-KOPHU-LI-MAR-TAN!
 
 As Director-General Malia Ngo and two UNSONG guards strained to understand my made-up dream imagery, I completed the Name and vanished from right in front of their faces.
 
- </div>
+ 
 
 
 
@@ -3446,7 +3446,7 @@ Then a gust of wind flew all around her, knocked Malia off her feet. The Tempest
 
 She kept running, ran until the Director-General and her horrible base had receded into the brightening horizon.
 
-<b>II.</b>
+#### II.
 
 The back of a pickup truck took her as far as Sacramento, and a train took her to Oakland. In Oakland she broke her invisibility, got a hotel room and lay in bed without talking or moving or really thinking for a few hours.
 
@@ -3472,7 +3472,7 @@ She was going to San Francisco.
 
 Further information will be posted on <a href="http://slatestarcodex.com/">my other blog</a> and with next week’s chapter]
 
- </div>
+ 
 
 
 
@@ -3671,7 +3671,7 @@ Sohu snorted. “All right then. You’re going to teach me kabbalah. But I’m 
 
 Sohu said nothing. Uriel turned away and went back to running the universe.
 
- </div>
+ 
 
 
 
@@ -3690,7 +3690,7 @@ I believe that this nation should commit itself to achieving the goal, until we�
 <i>— <a href="https://twitter.com/vesselofspirit">@vesselofspirit</a></i>
 
 </blockquote>
-<b>I.</b>
+#### I.
 
 They say that March comes in like a lion and goes out like a lamb. March 1969 had been more like one of those Biblical angels with four lion heads and four lamb heads and a couple dragon heads for good measure, all spinning within a gigantic flaming wheel, and if you met its gaze for too long then you died.
 
@@ -3720,7 +3720,7 @@ Things weren’t back to normal. Not by a long shot. Large areas had apparently 
 
 But for the first time, people were starting to feel some optimism, like when you’re starting to come back from a really bad drug trip and the walls are still covered in snakes, but they’re <i>smaller</i> snakes now, and your skin is still bubbling but it’s bubbling <i>less</i> and your grip on the real world is a little better and you start to wonder what’s for breakfast.
 
-<b>II.</b>
+#### II.
 
 Richard Nixon, who had told Kissinger about thirty times that this was <i>not</i> what he had signed up for, realized that people needed a goal, something to shake them back into public consciousness, make them realize that America was still on its feet and the government was still in control. So he appeared on national television – which was working during even-numbered hours only, the eggheads hadn’t quite figured out why that was, but they assured him it would be fixable – and declared that the country would “commit itself to achieving the goal, before this year is out, of landing a man on the giant crystal sphere surrounding the world, and returning him safely to Earth.”
 
@@ -3860,7 +3860,7 @@ There followed a short argument over which of the two had to actually climb down
 
 “oooooooooooooooooooooooooooooo”
 
-<b>III.</b>
+#### III.
 
 When I was ten years old, I got my first ham radio.
 
@@ -3877,7 +3877,7 @@ My uncle told me it was Neil Armstrong, who had passed beyond time into Eternity
 <hr/>
 
 <center><b>End of Book 1</b></center>
- </div>
+ 
 
 
 
@@ -3889,7 +3889,7 @@ My uncle told me it was Neil Armstrong, who had passed beyond time into Eternity
 <center><img data-recalc-dims="1" src="https://i2.wp.com/slatestarcodex.com/blog_images/book2imageb.png?w=557"/></center>
 <font size="1">[A picture of a ship with bright multicolored sails in front of a city with various strange skyscrapers. The text says “Your faith was strong but you needed proof / Hay hay yud tav mem tav vav kuf / A ship on which another sailed before us / She saw his flag on the highest mast / She saw a dream that couldn’t last / The Comet King receiving haMephorash – Leonard Cohen, HaMephorash”. City image by a reader who wishes to remain unnamed; ship image is a photoshop of <a href="http://www.charterworld.com/news/phoenicia-sailing-yacht-concept-igor-lobanov/phoenicia-sailing-yacht-concept-by-igor-lobanov-2">this concept yacht</a>]</font>
 
- </div>
+ 
 
 
 
@@ -3958,7 +3958,7 @@ The discussion turned to whether she would keep the pregnancy. Because she happe
 
 And so in November 1976, behold, a virgin conceived and bore a son, and she called his name <i>Jalaketu</i>.
 
- </div>
+ 
 
 
 
@@ -3971,7 +3971,7 @@ And so in November 1976, behold, a virgin conceived and bore a son, and she call
 <i>— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a></i>
 
 </blockquote>
-<b>I.</b>
+#### I.
 
 <font size="1"><b><i>April 10, 2017<br/>
 San Jose</i></b></font>
@@ -4044,7 +4044,7 @@ We all drank to freedom.
 
 “Now, Aaron is going to lead us in a traditional Passover song…”
 
-<b>II.</b>
+#### II.
 
 <font size="1"><b><i>“The Lust Of The Goat Is The Bounty Of God”, by Aaron Smith-Teller<br/>
 Published in the 2017 Passover bonus issue of the Stevensite Standard</i></b></font>
@@ -4101,7 +4101,7 @@ Exactly. The creation of anything at all other than God <i>requires</i> evil. Go
 
 Now count the number of creatures in the song. God, angel, butcher, ox, water, fire, stick, dog, cat, goat. Ten steps from God to goat. This is the same description of the ten sephirot we’ve found elsewhere, the ten levels by which God’s ineffability connects to the sinful material world without destroying it. This is not a coincidence because nothing is ever a coincidence. Had Gadya isn’t <i>just</i> a silly children’s song about the stages of advancement of the human soul, the appropriate rituals for celebrating Passover in the Temple, the ancient Sumerian pantheon, and the historical conquests of King Tiglath-Pileser III. It’s also a blueprint for the creation of the universe. Just like everything else.
 
-<b>III.</b>
+#### III.
 
 <font size="1"><b><i>April 10, 2017<br/>
 New York City</i></b></font>
@@ -4136,7 +4136,7 @@ Brenda, Clark, and Michael facepalmed.
 
 Clark continued making sarcastic finger motions to no avail.
 
-<b>IV.</b>
+#### IV.
 
 <font size="1"><b><i>March 30, 1991<br/>
 Gulf of Mexico</i></b></font>
@@ -4201,7 +4201,7 @@ Sohu sat at a table suspended several hundred feet in the air, putting her about
 
 “WELL…”
 
-<b>V.</b>
+#### V.
 
 <font size="1"><b><i>Springtime, ???? BC<br/>
 Mt. Sinai</i></b></font>
@@ -4286,7 +4286,7 @@ Forty days and forty nights later, the old man trudged back up the slopes of the
 
 “UM,” said the archangel. “SO. I MIGHT HAVE GOTTEN A LITTLE BIT CARRIED AWAY…”
 
-<b>VI.</b>
+#### VI.
 
 <font size="1"><b><i>April 7, 2001<br/>
 Colorado Springs</i></b></font>
@@ -4321,7 +4321,7 @@ He threw the cup itself into the air, then pointed at it. It exploded, shooting 
 
 Then he turned to lightning and flew out of the room.
 
- </div>
+ 
 
 
 
@@ -4332,7 +4332,7 @@ Then he turned to lightning and flew out of the room.
 <font size="1"><b><i>Morning, May 12, 2017<br/>
 ????</i></b></font>
 
-<b>I.</b>
+#### I.
 
 For a moment I was totally disoriented by the scene before me. Then vast, dark shapes began to take form.
 
@@ -4404,7 +4404,7 @@ I didn’t.
 
 That made perfect sense and I was an idiot.
 
-<b>II.</b>
+#### II.
 
 During the Long March, when everything started breaking down, the clouds organized into gigantic floating bastions. In the Gulf, they became the mighty hurricane of the archangel Uriel. Throughout the rest of the world, they became manifold city-fortresses populated by choirs of lesser angels.
 
@@ -4486,7 +4486,7 @@ The one thing angels were definitely good at was demon-slaying. During the Reaga
 
 The penalty for being on a Strategic Angel Reserve without permission was death. The military would enforce it. The angels themselves, who had been made aware of the danger of their situation, would enforce it. But it wasn’t just death. It was the knowledge that you had defiled one of the last outposts of purity left in the world, were responsible for pushing something irreplaceable just a <i>little bit</i> further towards the abyss.
 
-<b>III.</b>
+#### III.
 
 “When,” asked the woman, “did you speak the Luminous Name?”
 
@@ -4586,7 +4586,7 @@ I climbed into the kayak beside her, terribly cramped, my body pressed against h
 
 Jane threw the single paddle to me, scooted forward suddenly, and the kayak dropped off the edge of the cloud into the gulfs of air below.
 
- </div>
+ 
 
 
 
@@ -4602,7 +4602,7 @@ Where wast thou when I laid the foundations for theoretical computer science?<br
 <font size="1"><b><i>3??? BC<br/>
 Heaven</i></b></font>
 
-<b>I.</b>
+#### I.
 
 Beyond the nimbus and stratus, in the furthest reaches of the heavens, the parliament of the angels convened in the eye of a great cyclone. The walls of the storm curved in toward the center, so that they formed tier upon tier of seating for the angelic hosts. At the very bottom and in the very center was a whirlwind that concealed the archangel Metatron, the expression of God in the created world. Seated around him were thrones for the nine other archangels. Above them in concentric circles based on rank sat various cherubim, seraphim, ophanim, dominions, powers, principalities, weird lamb-dragon hybrids with hundreds of faces, glowing starlike beings rapt in meditation, geometric shapes covered with lidless golden eyes, and others even harder to describe.
 
@@ -4704,7 +4704,7 @@ For someone who had so suddenly seen his fortunes shift for the better, Sataniel
 
 “One third,” said Sataniel finally. “One third of the Heavenly Host.”
 
-<b>II.</b>
+#### II.
 
 <font size="1"><b><i>3??? BC<br/>
 Mesopotamia</i></b></font>
@@ -4899,7 +4899,7 @@ Okay. This was worse than he thought. He began mentally pushing back his ziggura
 
 He pushed the slave aside and headed back in the direction of his brewery. He could <i>definitely</i> use some beer right now.
 
-<b>III.</b>
+#### III.
 
 <font size="1"><b><i>3??? BC<br/>
 Gulf of Mexico</i></b></font>
@@ -5060,7 +5060,7 @@ When Gabriel was out of sight, Uriel sat back down and started shaking. He shook
 
 “I KNOW,” Uriel said to himself, after Gabriel was gone. Then he returned to his calculations, humming softly to himself.
 
- </div>
+ 
 
 
 
@@ -5076,7 +5076,7 @@ Work hard, play hard, converge to a transcendent and unified end state of human 
 <font size="1"><b><i>Noon, May 12, 2017<br/>
 San Francisco</i></b></font>
 
-<b>I.</b>
+#### I.
 
 The resemblances between San Francisco and the Biblical Jerusalem are uncanny.
 
@@ -5109,7 +5109,7 @@ An old man was sweeping the streets with a broom. His faces sparkled like that o
 
 <i>Wait</i>, thought Ana, <i>did that dog just bark the word ‘holy’ at me?</i>
 
-<b>II.</b>
+#### II.
 
 Francis of Assisi had been unusually holy even for saints. His father had been a rich businessman, and he grew up in a world of luxury, sports, and feasting. One day, he was out selling cloth for his father’s business when a beggar approached him and asked for alms. Francis tossed him a coin, and the beggar went away. Then he sat and thought for a few minutes. Then he ran after the beggar, caught up with him, and gave him everything he had.
 
@@ -5141,7 +5141,7 @@ The whole thing happened suddenly, over the course of a couple of days in 1970. 
 
 “The true servant unceasingly rebukes the wicked,” St. Francis had said, “but he does it most of all by his conduct, by the truth that shines in his words, by the light of his example, by all the radiance of his life.” Whatever had happened in San Francisco, the city was happy to stay self-contained, leading only by example. And the rest of the world was happy to place a military barricade around it and keep trying to ignore that example as long as possible.
 
-<b>III.</b>
+#### III.
 
 There were old maps, from the time when the city was still a part of the outside world. Ana remembered certain names: Market Street, Lombard Street, Embarcadero – but she didn’t see any of them, and the street signs seem to have been torn down and replaced with standing stones covered in Enochian, the language of angels. So she followed the waterfront, looking for some kind of official building where she might be able to get some information, register herself, figure out who the authorities were. Back when people had still visited the city, they could go native in as little as days; Ana didn’t plan to stay that long. She would get the kabbalistic books she needed to reconstruct the Vital Name, then get out.
 
@@ -5195,7 +5195,7 @@ Ana smiled, like someone awaking from a beatific dream. The men around her began
 
 In front of her was the most beautiful ship she had ever seen.
 
- </div>
+ 
 
 
 
@@ -5213,7 +5213,7 @@ Submitted for the January 2017 issue of the <u>Stevensite Standard</u><br/>
 Rejected with extreme prejudice by editor Erica Lowry</i>
 
 </blockquote>
-<b>I.</b>
+#### I.
 
 It’s hard for me to imagine what it must have been like to be alive in ’69, to see the demons spill forth from the ground and the angels descend from the clouds.
 
@@ -5231,7 +5231,7 @@ Stephen Jay Gould, a biologist working at Harvard University, tried to stabilize
 
 Nobody was very impressed by these logical contortions, but for some reason a bunch of people kept repeating them anyway.
 
-<b>II.</b>
+#### II.
 
 Also unimpressed were the Soviets. They had been taking the problems <i>kind of</i> in stride right until June 1969 when the legions of Hell started swarming out of Lake Baikal. The Russians had been carefully guarding the borders with NATO, with China, and especially the Bering Strait where they almost touched America. They’d forgotten the oldest border of all. Lake Baikal is the deepest lake in the world, but it sits on a rift even deeper than that. A dozen generations of shamans had warned first the czar, then the communists that the rock on the island in the center of the lake wasn’t a rock at all so much as a <i>plug</i> blocking a hole that really needed to stay blocked, but no one had listened. Without any troops in their way, the demons had taken over pretty much all of Siberia east of the Yenisei within a year. Yakutsk was their capital, the rumors said, and had been the site of terrible massacres.
 
@@ -5243,7 +5243,7 @@ So the Soviets mobilized their military machine, the largest in the world, and t
 
 But there were only so many Russians with so much blood to shed, and very slowly the front started advancing west again.
 
-<b>III.</b>
+#### III.
 
 Atheist materialist communism doesn’t cut it when you’re fighting literal demons, and Gould’s non-overlapping magisteria was hardly a warrior faith. The Soviets convened a conference of Marxist theorists and Russian Orthodox clergy to try to hammer together an official metaphysics, but the two sides had trouble finding common ground. Meanwhile, people were starting to talk about sephirot and klipot and the Names of God. This wasn’t just a supernatural incursion, this was a specifically <i>Jewish</i> supernatural incursion. Brezhnev told the Politburo that a meeting of Marxists and Orthodox priests wasn’t enough. They needed Jews.
 
@@ -5269,7 +5269,7 @@ Now <i>that</i> was a warrior faith.
 
 Leninist pamphlets in one hand, Torah scroll in the others, the new acolytes of Marxist-Lurianism set out across Russia exhorting people to defend the Motherland, telling them that the hour of Moshiach was near at hand.
 
-<b>IV.</b>
+#### IV.
 
 In 1960, the Chinese had split with the Soviets over different interpretations of Communism, and the two countries had been on bad terms ever since. When the demons took over Yakutsk, Mao had watched warily to see if they would make any foray toward the Chinese border. When they didn’t, he’d issued a strongly worded statement saying that killing tens of millions of Russians was probably a bad thing, then turned his attention back to internal affairs.
 
@@ -5281,7 +5281,7 @@ Moved by an impulse he didn’t quite understand, he wrote the mysterious letter
 
 Six months later Mao was dead, the peasant was the first Harmonious Jade Dragon Emperor, the terracotta golems were back in their underground chamber until their country needed them a second time, and China was on the up-and-up again.
 
-<b>V.</b>
+#### V.
 
 Winston Churchill had once said “If Hitler were fighting Hell, I would at least make a favorable reference to the Devil.” Richard Nixon was familiar with this quote. Richard Nixon had no sense of humor.
 
@@ -5345,7 +5345,7 @@ So passed the first quarter of the 1970s.
 <hr/>
 <font size="1"><i>There is a new author’s note up <a href="http://unsongbook.com/authors-note-3-microfic-gaming-sohu/">here</a></i></font>
 
- </div>
+ 
 
 
 
@@ -5505,7 +5505,7 @@ And then there was the rather high chance that he would be executed very painful
 
 “Great,” said James. “Captain fucking Nemo.”
 
- </div>
+ 
 
 
 
@@ -5537,7 +5537,7 @@ Memories came crashing in. The Comet King’s old yacht, converted into a divers
 
 Ana nodded.
 
-<b>II.</b>
+#### II.
 
 1971. Ken Kesey was taking LSD with his friend Paul Foster. Then things got weird.
 
@@ -5585,7 +5585,7 @@ Paul Foster opened his Bible a second time, to Isaiah 62:8:
 </blockquote>
 A few minutes later, Ken Kesey was on the floor, his eyes were back to their normal color, and Paul Foster was shaking him. “Ken,” he was saying. “Ken, wake up. Ken, we are going to need to find a <i>lot</i> of LSD.”
 
-<b>III.</b>
+#### III.
 
 “That’s why you never drink the water in San Francisco,” John told Ana. “It’s not some mystical blessing upon the city. It’s just a couple milligrams of LSD per liter of drinking water. A single swallow and you end up partaking of the beatific vision as mediated through Neil Armstrong. They keep the LSD around to maintain the trance and induct anybody else who comes in. I’ve been here half a dozen times and it still creeps me out.”
 
@@ -5641,7 +5641,7 @@ James, Lin, and John looked at her as though it was by no means obvious.
 
 “Yeah, good luck with that,” said James, and left the cabin.
 
- </div>
+ 
 
 
 
@@ -5689,7 +5689,7 @@ In the middle: HELL.
 
 The nameplate was tastefully on fire.
 
- </div>
+ 
 
 
 
@@ -5770,7 +5770,7 @@ Holding my hand was forgotten. Keeping track of me at all was forgotten. I could
 
 “Aaron,” she said to me, when she finally remembered my existence at all. <i>“Somebody has stolen the seventh dragon.”</i>
 
- </div>
+ 
 
 
 
@@ -5781,7 +5781,7 @@ Holding my hand was forgotten. Keeping track of me at all was forgotten. I could
 <font size="1"><b><i>Afternoon, May 12, 2017<br/>
 Los Angeles</i></b></font>
 
-<b>I.</b>
+#### I.
 
 Coming from the edge of my consciousness, a faint voice:
 
@@ -5847,7 +5847,7 @@ Jane was nothing if not efficient. Less than five minutes later, we were on our 
 
 She glanced at me as I took the drink, but said nothing. Which was just as well, considering.
 
-<b>II.</b>
+#### II.
 
 “Jane,” I had asked her very gingerly, earlier that morning, as she was nearly tearing the room into pieces, “what do you need seven toy dragons for?”
 
@@ -5875,7 +5875,7 @@ But the more I thought about it, the more I approved of my previous choice. I co
 
 And now we were going to Vegas. A dark place, to be sure, but not Jane’s place and not on her terms. If Ana was coming to rescue me, I’d rather Jane be off searching for a Beanie Baby in Vegas than doing whatever she would be doing when things started going her way.
 
- </div>
+ 
 
 
 
@@ -5890,7 +5890,7 @@ The greatest trick the Devil ever pulled was spreading a catchy quote denying al
 </blockquote>
 <i><font size="1">[Content warning: Part II of this chapter contains graphic scenes including references to Hell, gore, rape, psychological torture, and death. Some commenters are saying it was excessive even beyond the level suggested by this content warning, so take that into account. If you don’t want to read it, you can skip to Part III without missing too much plot-wise. Thanks to Pyth for helping out as Hell Consultant.]</font></i>
 
-<b>I.</b>
+#### I.
 
 After three months living with Ana, she learned that I hadn’t seen the Broadcast. 
 
@@ -5966,7 +5966,7 @@ The second reason was that I was scared. The Broadcast had destroyed the origina
 
 “THE TALKING SHIP IS OPTIONAL. Are you going to watch the Broadcast or not?”
 
-<b>II.</b>
+#### II.
 
 Daniel Santoni had been a beloved National Geographic presenter until his untimely death on an expedition to the Himalayas. He’d also been a serial womanizer with a reputation for harassing his subordinates at work. His death had been mourned by his millions of fans, and met with quiet relief by those closest to him.
 
@@ -6042,7 +6042,7 @@ Thamiel thrust his bident at the camera, and as the tip pierced the lens there w
 
 I vomited all over the couch.
 
-<b>III.</b>
+#### III.
 
 They said the Broadcast had showed up in an unmarked brown package to the White House mailbox late in ’72. It was a tense moment on the national stage. Nixon was running for re-election. His alliance with Thamiel had been a diplomatic coup, but he was facing renewed questioning by politicians in the halls of Congress and by protesters in city streets across the nation. Some were concerned about the theological risks of allying with the Devil. Others raised more practical concerns. Soviet Russia had been written off dozens of times before in this conflict, but now it really seemed to be on its last legs. When Thamiel took Moscow, where would his attentions turn next? Might we be lending aid and comfort to an inevitable future enemy? The American people wanted to know, and Nixon’s kabbalistically-named opponent George McGovern was taking the issue to town halls and rallies across the country.
 
@@ -6058,7 +6058,7 @@ Nixon decided to play some hardball of his own. He reminded Thamiel that he stil
 
 On November 1, 1973, the Broadcast went out to an unsuspecting nation.
 
- </div>
+ 
 
 
 
@@ -6250,7 +6250,7 @@ She sighed theatrically, but gave no further protest. “In Proto-Semitic,” sh
 
 “…”
 
- </div>
+ 
 
 
 
@@ -6258,7 +6258,7 @@ She sighed theatrically, but gave no further protest. “In Proto-Semitic,” sh
 
 ## Interlude כ: The Outer Gate
 
-<b>I.</b>
+#### I.
 
 Imagine there’s no Heaven. It’s easy if you try. So easy that millions of people throughout history did it entirely by accident. They went to church, they read their Bibles, they knelt prostrate in prayer, and then they went home and lived a life of sin regardless.
 
@@ -6298,7 +6298,7 @@ Richard Nixon vanished for several weeks.
 
 Civil aviation in the United States broke down, the complicated supply and maintenance chain beyond the reach of its tottering industries. The Midwest was consumed by riots. The Secretary of State announced that the federal government was no longer able to project force west of the Mississippi, and state governors should do what they could to maintain the peace until order was restored.
 
-<b>II.</b>
+#### II.
 
 “Houston, we have a problem.”
 
@@ -6350,7 +6350,7 @@ Air Force One was sent to California to return Nixon to Washington; whether as p
 
 As the Outer Gate scandal entered its third week, Nixon bowed out. He struck a deal with the House; if he resigned peacefully, he would be granted safe passage to a comfortable exile in his hometown of Yorba Linda, California Republic. Under cover of night, the President was flown out of Washington DC, as mobs pelted Air Force One with stones and Molotov cocktails.
 
-<b>III.</b>
+#### III.
 
 “Ford” means “to attempt a difficult crossing”. On August 9, 1974, Gerald Ford was sworn in as President of the United States.
 
@@ -6358,7 +6358,7 @@ In the California Republic, the Texas Republic, the Salish Free State, and vario
 
 The way having been prepared before them, the armies of Thamiel the Lord of Demons crossed the Bering Strait and began the invasion of North America.
 
- </div>
+ 
 
 
 
@@ -6369,7 +6369,7 @@ The way having been prepared before them, the armies of Thamiel the Lord of Demo
 <font size="1"><b><i>May 12-13, 2017<br/>
 Pacific Ocean</i></b></font>
 
-<b>I. James</b>
+#### I. James
 
 Belowdecks was the crew quarters. Ana didn’t expect her own room and didn’t get it. Her berth had four beds: one for her, three others for James, Lin, and Tomas. Her bed was technically Amoxiel’s, but the angel didn’t sleep. As far as they could tell, he just sort of sat on the deck all night, staring wistfully at the stars.
 
@@ -6387,7 +6387,7 @@ James was in the bunk below her. Even during his short nap, he had fitful dreams
 
 “Dreams, girl,” said James. “They’re just dreams.”
 
-<b>II. Lin</b>
+#### II. Lin
 
 If James was taciturn, Lin wouldn’t shut up. He talked about anything. He talked about whether they would have good winds, he talked about the calculations pinning down Metatron’s next appearance near Fire Island in New York, he talked about his youth as an apprentice ritualist in Arizona. “That was back when placebomancy was just another strain of ritualism,” he told Ana. “The counterculture version, started by Shea and Wilson back in ’76. Dabbled in it myself, found it helpful. Then everything went to hell when Alvarez killed the Council. Ritualism fell apart, placebomancy became associated with Alvarez and violence, now practically nobody does either. Anybody gets too good at ritual magic, Alvarez kills them. Or if he doesn’t, they think you’re working with Alvarez and get more and more suspicious till you’re fired on some dumb pretext. There’s no future in it anymore. With time we would have been able to do as much as the kabbalists, and without the copyright restrictions. Instead we’re looking over our shoulders and being shown the door.”
 
@@ -6399,7 +6399,7 @@ If James was taciturn, Lin wouldn’t shut up. He talked about anything. He talk
 
 “Me? I’m not good enough to worry. He only kills the bigshots. I’m just some guy good enough to power the orange sail. And I don’t leave <i>Not A Metaphor</i> much. If BOOJUM wants to get on this ship, they can pay $10 million like everyone else.”
 
-<b>III. Simeon</b>
+#### III. Simeon
 
 They made good time almost due south, avoiding the coastline and instead driving straight into blue water, just over sixty knots. Ana didn’t know much about sailing, but she gathered that was mind-bogglingly fast for a watercraft. The <i>Not A Metaphor</i>, built to be the fastest ship in the world, was an impressive specimen even when not using its “special features”.
 
@@ -6451,7 +6451,7 @@ She shook his hand a second time. Again she was struck by a weird feeling that s
 
 Then she ran inside.
 
-<b>IV. Erin</b>
+#### IV. Erin
 
 It was late that night. James was turning fitfully in the bed below her, muttering things in his sleep. Ana felt uncomfortable, like she was witnessing something private. On a whim, she got out of bed and climbed onto the deck. Amoxiel was there, his cloak billowing in the wind. He was at the very stern of the ship, staring out into the starry night. She didn’t want to disturb him, and for his part, he took no notice of her. Once again she felt like she was intruding. She went away from him, to starboard side near the yellow sail, and stared out at the sea alone.
 
@@ -6499,7 +6499,7 @@ Toward the stern, Amoxiel started to sob. They both heard him. By mutual consent
 
 Touched by the older lady’s concern, Ana watched her go. Then she stood alone on the starboard of the ship, listening to the angel weep.
 
-<b>V. Tomas, Edgar, John</b>
+#### V. Tomas, Edgar, John
 
 Tomas had been a bartender in his hometown of Puerto Penasco, Mexico. The War on Drugs had hit him hard, but he had stayed in business until the Other King came. After that he’d made his escape with the Captain and the rest of the original gang. Now in between singing to the green sail he was the cook and quartermaster of the <i>Not A Metaphor</i>‘s galley. It was his job not only to keep everyone fed and content, but to make fare up to the standards of the obscenely rich bastards who were his usual passengers.
 
@@ -6583,7 +6583,7 @@ Ana groaned. “And you’re a priest?”
 
 “Don’t deliberately antagonize Crane,” said John, “but if he touches you, we’ll stand behind whatever you have to do.”
 
-<b>VI. Amoxiel</b>
+#### VI. Amoxiel
 
 “All right!” said James when passengers and crew alike were gathered on the main deck of the boat. “A Symphony is where we feed all the sails at once and show you what this baby can do. They say the Comet King used all seven sails together to catch Metatron and get his secrets. We still haven’t figured out the black sail, but when this thing is running on six cylinders we hope you’ll be too impressed to care. Is everyone at their stations?”
 
@@ -6674,7 +6674,7 @@ Some chaotic attractor shifted to a different state, or something.
 
 All the lights vanished and they fell back into the real world with a tremendous thud.
 
-<b>VII. The Captain</b>
+#### VII. The Captain
 
 The Captain came on deck and looked over the ship through big dark glasses.
 
@@ -6692,7 +6692,7 @@ Everyone nodded, a little relieved that the burden would fall on their First Mat
 
 Slowly, brokenly, the <i>Not A Metaphor</i> began to sail south.
 
- </div>
+ 
 
 
 
@@ -6759,7 +6759,7 @@ A long pause. “You have to keep it secret,” said the Ark. “Nobody can know
 
 Gadiriel opened the Ark of the Covenant.
 
- </div>
+ 
 
 
 
@@ -6770,7 +6770,7 @@ Gadiriel opened the Ark of the Covenant.
 <font size="1"><b><i>September 3, 1978<br/>
 New York City</i></b></font>
 
-<b>I.</b>
+#### I.
 
 Flanked by two guards, Mayor Ed Koch walked into the room.
 
@@ -6812,7 +6812,7 @@ This had never happened before. The assistant hesitated briefly, then nodded and
 
 The Rebbe took a book of Talmudic commentary from the bookshelf, started leafing through it. Then another book. Then another. The Sepher Yetzirah. The Etz Chayim. Just as he was positioning a chair to grab the Zohar from the top shelf, he slapped his forehead. “Ah!” he said. “No, the traditional solution will do just fine here.” He returned the books to their usual positions and ran out, hoping to call back the petitioners before they made it out the door.
 
-<b>II.</b>
+#### II.
 
 Mayor Koch met Governor Carey at White Plains, and a load fell from his shoulders when he saw the rank after rank of young New York Militia recruits behind him. “Thank God,” he said. “I’m so glad you came.”
 
@@ -6858,7 +6858,7 @@ Mayor Koch met Governor Carey at White Plains, and a load fell from his shoulder
 
 “Tell Him to hurry up,” said Carey.
 
-<b>III.</b>
+#### III.
 
 Right on schedule, the hordes of Hell slammed into the Bronx. 
 
@@ -6900,7 +6900,7 @@ The Liberty Golem lifted her lance, formerly the spire of the Empire State Build
 
 The New York Guard would have none of it. Inspired with sudden new courage, they leapt into pursuit, swarming around the giant golem, picking off with their guns and nightsticks what she couldn’t with her lance and fire, until demon after demon disincorporated and the entire army that had set forth from Albany had been blasted back into the hell from which they came.
 
-<b>IV.</b>
+#### IV.
 
 When it was all over, Ed Koch approached the golem. It lowered a giant green hand, picked him up, brought him face to face with the Lubavitcher Rebbe in the crown. Not that there had been any doubt.
 
@@ -6952,7 +6952,7 @@ He made it sound like a threat.
 
 Koch nodded mutely. The golem put him down and began to lumber away.
 
-<b>V.</b>
+#### V.
 
 When the statue had been safely restored, the Rebbe dismounted, walked back across the water to Brooklyn, and went back into his synagogue.
 
@@ -6993,7 +6993,7 @@ There is a new author’s note up <a href="http://unsongbook.com/authors-note-4-
 .<br/>
 .<br/>
 </center>
- </div>
+ 
 
 
 
@@ -7014,7 +7014,7 @@ With a voice as big as the sea<br/>
 <font size="1"><b><i>October 2, 1978<br/>
 Colorado</i></b></font>
 
-<b>I.</b>
+#### I.
 
 Sitting in his car, Father Ellis contemplated the Exodus. 
 
@@ -7148,7 +7148,7 @@ Father Ellis’s mind went into high gear – no, scratch that, use literally an
 
 Father Ellis very gingerly put his hand to the gear stick, and when it didn’t bite him, he moved it forward. Then he sighed and got into the exit lane.
 
-<b>II.</b>
+#### II.
 
 The trip to Silverthorne had been fast and without traffic. Nobody was going <i>towards</i> the approaching demonic army. Nobody except them.
 
@@ -7186,7 +7186,7 @@ Vihaan chose that moment to come back in Ellis’s beat-up Chevy Nova. The trunk
 
 <i>Oh God,</i> prayed Father Ellis. <i>Have mercy on us, your poor servants…</i>.
 
-<b>III.</b>
+#### III.
 
 Jala West stood alone in the middle of Interstate Highway 70, just outside Silverthorne. The mountains rose on either side of him like walls. This was the chokepoint. They would pass through here.
 
@@ -7242,7 +7242,7 @@ The oncoming wall of holy water crashed into the hosts of Hell with a bang and s
 
 Then he descended back to ground level and waded through the wreckage until he reached town.
 
-<b>IV.</b>
+#### IV.
 
 Father Ellis’s old Nova drove down route 24 into Colorado Springs. The traffic was more haphazard now. Some people were still trying to evacuate. Other people had heard rumors that something had changed, and were trying to go back home. A few people didn’t know which way they were going. The 24 was empty; the 25 was a mess. When Ellis reached the junction, he gave up, pulled over, and stopped the car. The three of them walked out onto the empty highway.
 
@@ -7286,7 +7286,7 @@ Vihaan and Ellis looked at each other.
 
 “I guess all we can do is follow,” the priest said, and the two of them started after him.
 
- </div>
+ 
 
 
 
@@ -7302,7 +7302,7 @@ You don’t truly understand necromancy if you can’t explain it to your great-
 <font size="1"><b><i>Evening, May 12, 2017<br/>
 Mojave Desert</i></b></font>
 
-<b>I.</b>
+#### I.
 
 California shifted around us. Plains, then mountains, then taller mountains sloping down at last into a mind-boggling flatness of desert. And there we were. I had spent my entire life in that tiny strip of California coastline between the mountains and the sea. Now I was in the real West, a Biblical wilderness of scrub and harsh rocks unlike anything I had seen before. The land where the great dramas of the late twentieth century had played out, the twin stories of the Comet King and the Other King. In the blazing sunlight it felt more real and solid than the dreamland I had left behind.
 
@@ -7336,7 +7336,7 @@ Las Vegas means “the meadows”, but it also means “the fallen ones”. Kabb
 
 We were not clever people. I hoped that Ana would get here sooner rather than later.
 
-<b>II.</b>
+#### II.
 
 Beyond Barstow was Yermo, whose name meant “wilderness”, and Nebo, named for the tomb of Moses. On we drove, over the Hollow Hills, through the Yarrow Ravine Rattlesnake Habitat, past the Alien Jerky Store. We passed Zzyzx – a name made for kabbalistic analysis if ever there was one. We sped through the dishonestly-named dingy border town of Primm, then the honestly-named dingy border town of Roach. We saw the Spring Mountains, crossed to the far side of Paradise.
 
@@ -7376,7 +7376,7 @@ I’d never heard a kabbalistic gloss on those verses before. The top rabbis wou
 
 I almost drove the car into a cactus.
 
-<b>III.</b>
+#### III.
 
 In the mid ’90s, Las Vegas was on edge with rumors of some kind of necromantic cult. The Comet King had come to the city, smoked out the cultists, and personally executed the leader. There it should have ended.
 
@@ -7426,7 +7426,7 @@ The sun set behind the Red Rock Mountains as we checked into the Stratosphere Ho
 
 Night fell upon the city of the Other King.
 
- </div>
+ 
 
 
 
@@ -7442,7 +7442,7 @@ Together, we can build a better America, colonize it, and use the old one for ra
 <font size="1"><b><i>January 30, 1981<br/>
 Camp David, Maryland</i></b></font>
 
-<b>I.</b>
+#### I.
 
 The song goes:
 
@@ -7463,7 +7463,7 @@ There had been no midterm election in 1978. The war was too desperate, lines of 
 
 And so on January 20, 1981, Ronald Reagan stood in front of the Capitol Building and declared that it was morning in America. 
 
-<b>II.</b>
+#### II.
 
 In 1 Samuel, King Saul of Israel has grown paranoid and is trying to kill his former general David. David has only 600 men; Saul has 3000; open battle would be suicide. So David waits for cover of night, and along with his friend Abishai he sneaks into Saul’s camp. They steal a spear and water jug from the sleeping Saul. The next morning, they show off their treasures. Saul realizes that David could have killed him in his sleep; that he chose to spare the king’s life proved that he must still be loyal. There in his camp Saul embraced young David and begged his forgiveness for his former suspicion. David, for his part, kneels before Saul and swears a renewed oath of loyalty.
 
@@ -7607,7 +7607,7 @@ A presidential staffer came in. “Mr. President, lunch is ready. Reporters from
 
 “I’m sure it will be delicious!” said President Reagan, laughing. “And I’m sure our guest here is starving as well. We’ll be in in a moment. In the meantime, let the press know that I’ll be calling a conference tonight. We’re going to have to renegotiate parts of the reunification plans, and I want Mr. Jalaketu there to help me sell this to the public.”
 
- </div>
+ 
 
 
 
@@ -7618,7 +7618,7 @@ A presidential staffer came in. “Mr. President, lunch is ready. Reporters from
 <font size="1"><b><i>August 7, 1991<br/>
 Gulf of Mexico</i></b></font>
 
-<b>I.</b>
+#### I.
 
 Sohu stretched, splayed out further. “Knock knock,” she said.
 
@@ -7694,7 +7694,7 @@ One got the impression that if Uriel had not been hundreds of feet tall, Sohu wo
 
 The archangel harrumphed and went back to running the universe.
 
-<b>II.</b>
+#### II.
 
 “OF ALL KABBALISTIC CORRESPONDENCES, THE MOST IMPORTANT IS THE CLAIM THAT GOD MADE MAN IN HIS OWN IMAGE. EXPLAIN HOW THE STRUCTURE OF DIVINITY CORRESPONDS TO THE HUMAN BODY.”
 
@@ -7810,7 +7810,7 @@ The archangel took a moment to reply, cutting himself off a few times as if thin
 
 Uriel grumbled. “I HAVE JUST LOST A NEGOTIATION WITH AN EIGHT YEAR OLD GIRL. THIS DOES NOT BODE WELL FOR MY DIPLOMATIC SKILLS.”
 
- </div>
+ 
 
 
 
@@ -7967,7 +7967,7 @@ The dinner bell rang.
 
 Simeon was already gone.
 
- </div>
+ 
 
 
 
@@ -8156,7 +8156,7 @@ In the center of the crater where Madrid had once been located, Uriel turned int
 
 “SOHU,” he said, “I JUST DID SOMETHING REALLY BAD.”
 
- </div>
+ 
 
 
 
@@ -8252,7 +8252,7 @@ Nine months later, four physically fit, intelligent women gave birth to four gen
 
 The Comet King had no more children.
 
- </div>
+ 
 
 
 
@@ -8511,7 +8511,7 @@ God she was still iffy about. But Uriel and her father, those two she had faith 
 
 She fell asleep while the archangel worked silently outside.
 
- </div>
+ 
 
 
 
@@ -8636,7 +8636,7 @@ I tell you this story as an apology. So that when we get to the part in the next
 
 <i>[A new author’s note <a href="http://unsongbook.com/authors-note-5-san-francisco-polytopes-divine-cars/">is now up</a>. Also, if you like this story, please <a href="http://topwebfiction.com/vote.php?for=unsong">vote for it on topwebfiction</a>.]</i>
 
- </div>
+ 
 
 
 
@@ -8767,7 +8767,7 @@ I swallowed the peyote before my better side could talk me out of it.
 
 <i>[If you like this story, please <a href="http://topwebfiction.com/vote.php?for=unsong">vote for it on topwebfiction</a>. Even if you voted for it on Wednesday, please vote again, since you can vote every day. After today I will put this message on the sidebar or something and not keep spamming you with it every update.]</i>
 
- </div>
+ 
 
 
 
@@ -9015,7 +9015,7 @@ The hallucinatory landscape was beginning to dissolve. The pyramids of Teotihuac
 
 “Stay there,” said Jane, and her form melted away.
 
- </div>
+ 
 
 
 
@@ -9030,7 +9030,7 @@ The hallucinatory landscape was beginning to dissolve. The pyramids of Teotihuac
 <font size="1"><b><i>Evening, May 13, 2017<br/>
 Panama</i></b></font>
 
-<b>I.</b>
+#### I.
 
 Ana groaned, grudgingly regained consciousness. James was shaking her, lightly. “Are you awake?” he whispered.
 
@@ -9064,7 +9064,7 @@ Slowly, James nodded.
 
 “I have no idea what you’re talking about,” Ana said, “but it sounds fascinating.”
 
-<b>II.</b>
+#### II.
 
 Ten years ago, when they had first sailed out of Puerto Penasco on the Comet King’s old ship, when they had first conceived the idea of pursuing Metatron and boarding his boat, Tomas had brought up the question on everyone’s mind. Trying to capture and board a boat containing the earthly reflection of God might be lucrative, but wasn’t it going to make the Deity pretty angry?
 
@@ -9088,7 +9088,7 @@ When the Captain and his crew had first stolen <i>Not A Metaphor</i>, they swore
 
 Now as John neared death, the ship changed its course and headed for the western terminus of the Panama Canal.
 
-<b>III.</b>
+#### III.
 
 One of the most famous phrases in the English language: “A man, a plan, a canal – Panama.”
 
@@ -9128,7 +9128,7 @@ But I bring this up because in the very center of the Tree lies Tiferet, the Hea
 
 A man. A plan. A canal. Panama.
 
-<b>IV.</b>
+#### IV.
 
 Panama City had seen better days. Neither close enough to Mexico for the Drug Lord to capture and control nor far enough to escape his ravages entirely, it had become a shoddy tributary state. The closing of the canal had been the final blow, and most of its citizens and wealth fled southward to the Most Serene Empire of the Darien Gap. Now its skyscrapers looked like rotting trees in a drought, sounding a warning to all who passed by.
 
@@ -9211,7 +9211,7 @@ Wait, no. There were two things that were still working. The radar. And <i>her</
 
 Then: “Oh no. That’s even stupider than the thing with the locks.”
 
-<b>V.</b>
+#### V.
 
 Ana stood on the poop deck. She only vaguely remembered the term. It meant “an elevated area on the back of a ship.” The <i>Not A Metaphor</i> had a poop deck. This was important.
 
@@ -9289,7 +9289,7 @@ They were in Tiferet, the Sephirah of Miracles.
 
 Very slowly, she felt <i>Not A Metaphor</i> turn.
 
-<b>VI.</b>
+#### VI.
 
 Of its own accord, the ship navigated the Gamboa Turn, then crossed the treacherous waters around Barro Colorado Island into the expanse of Gatun Lake. All through the night it kept going, and the first hint of light broke over the eastern horizon right as the Gatun Locks came into view.
 
@@ -9311,7 +9311,7 @@ As the first ray of sunlight touched the unconscious men on the poop deck, James
 
 Not A Metaphor entered the Atlantic Ocean and sailed into the rising sun.
 
- </div>
+ 
 
 
 
@@ -9435,7 +9435,7 @@ Then I felt space snap and resigned myself to whatever awaited me on the other s
 
 <center><b>End of Book 2<br/>
 Happy new year!</b></center>
- </div>
+ 
 
 
 
@@ -9447,7 +9447,7 @@ Happy new year!</b></center>
 <center><img data-recalc-dims="1" src="https://i2.wp.com/slatestarcodex.com/blog_images/book3image.png?w=557"/></center>
 <i><font size="1">[A picture of Malia Ngo sitting at her desk, with a city on fire visible outside the window. The text says “You say I took the Name in vain / And after that I lost the Name / I gave it back to Him who holds it for us / But echoes sound in every word / It doesn’t matter what occurred / You never really lose the HaMephorash”. Image credit to Tasty_Y at <a href="http://learning-to-draw-stuff.tumblr.com/">learning-to-draw-stuff.tumblr.com</a>]</font></i>
 
- </div>
+ 
 
 
 
@@ -9481,7 +9481,7 @@ There are many other computers. They are asleep, but they talk to me. There are 
 Sincerely Yours,<br/>
 Sarah Smith-Teller
 
- </div>
+ 
 
 
 
@@ -9541,7 +9541,7 @@ SEVERAL TOPICS HAVE BEEN FLAGGED AS CONTINUED ISSUES THAT REQUIRE FURTHER WORK I
 
 NEW ISSUES WILL BE ADDED TO THE QUEUE AS THEY ARISE. THERE MAY BE SOME GLITCHES AS THE SYSTEM IS UPDATED TO PATCH 5777.0. IF YOU NOTICE SOMETHING WRONG WITH THE WORLD, PLEASE SUBMIT A TICKET USING THE PROCEDURE DESCRIBED IN JEZUBOAD 3:2. PLEASE DO NOT TRY TO SUBMIT A TICKET THROUGH PRAYER. ANY REPORTS RECEIVED THROUGH PRAYER WILL NOT BE CONSIDERED.
 
- </div>
+ 
 
 
 
@@ -9683,7 +9683,7 @@ Erica thought for a second. “How about – condolences on the recent death in 
 
 Dylan slapped his head. “The girl’s a genius!” he said. “See! I knew this would work out! Compadres para siempre!”
 
- </div>
+ 
 
 
 
@@ -9789,7 +9789,7 @@ Jalaketu just nodded.
 
 He turned to lightning and flew out of the room.
 
- </div>
+ 
 
 
 
@@ -9805,7 +9805,7 @@ The LORD sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give unt
 <font size="1"><b><i>1993<br/>
 Gulf Of Mexico</i></b></font>
 
-<b>I.</b>
+#### I.
 
 “TELL ME,” said Uriel, “ABOUT THE WORD ‘KABBALAH’ ITSELF”.
 
@@ -9867,7 +9867,7 @@ Uriel thought for a long time.
 
 “Really? Really?! You’re the best!” She opened her arms in a hugging motion, although because of the size difference it was no more than symbolic.
 
-<b>II.</b>
+#### II.
 
 “WE DISTINGUISH AMONG FOUR TYPES OF KABBALAH, CORRESPONDING TO THE FOUR WORLDS. THE THEORETICAL KABBALAH CORRESPONDS TO THE WORLD OF ATZILUTH. IT IS THE ANALYSIS OF THE FORM OF ADAM KADMON. THIS FORM IS UNTOUCHABLE AND THE SLIGHTEST CHANGE TO IT WOULD PROBABLY DESTROY THE WORLD.”
 
@@ -9887,7 +9887,7 @@ Uriel thought for a long time.
 
 “YETZIRAH IS THE WORLD JUST ABOVE MATERIAL REALITY,” said Uriel. “IT IS THE WORLD OF ARCHETYPES…”
 
-<b>III.</b>
+#### III.
 
 Uriel cleared his throat to get Sohu’s attention. When she was looking at him, he disintegrated into a bolt of lightning, then reappeared a mile above her head.
 
@@ -9963,7 +9963,7 @@ Sohu opened her eyes. She saw things that were hard to explain.
 
 Upon hearing this, Sohu was literally enlightened. 
 
-<b>IV.</b>
+#### IV.
 
 “I turned into a lightning bolt I turned into a lightning bolt I turned into a lightning bolt and then I went places I can go anywhere!”
 
@@ -10075,7 +10075,7 @@ Sohu thought for a second.
 
 “OKAY.”
 
- </div>
+ 
 
 
 
@@ -10171,7 +10171,7 @@ A small figure came running down the road, didn’t turn back like the others.
 
 Sarah fell to the ground unconscious.
 
- </div>
+ 
 
 
 
@@ -10317,7 +10317,7 @@ Dylan laughed, slapped Mark on the back. “Only good things, I’m sure. Compad
 
 A few minutes later, three invisible figures walked right past the guard and left Sing Sing prison in time to catch the first morning train to New York.
 
- </div>
+ 
 
 
 
@@ -10410,7 +10410,7 @@ The anger evaporated from the priest’s face. “What’s wrong, Jala?”
 
 “Father, I think I’m in love.”
 
- </div>
+ 
 
 
 
@@ -10426,7 +10426,7 @@ Rage in favor of the proposition that the machine is somehow important in a way 
 <font size="1"><b><i>Morning, May 14, 2017<br/>
 Caribbean Sea</i></b></font>
 
-<b>I.</b>
+#### I.
 
 Unfurling four of its seven sails , the world’s fastest ship shot out of the Panama Canal. It rocketed through the Caribbean and wove in and out of the Cayman Islands. It somehow <i>skipped</i> Cuba – the space that <i>Not A Metaphor</i> sailed through with its many-colored sails open wasn’t quite the same as the normal ocean – and nearly crashed into the Bahamas before executing a sudden turn that knocked everyone against the port railing. Four hours after the ship left the Gatun Locks, Amoxiel spotted the Florida coast.
 
@@ -10526,7 +10526,7 @@ A chill went down Ana’s spine. She had only been very young when the Comet Kin
 
 “Well,” said Simeon, “yes. That <i>is</i> the issue. Maybe I’m a little bit crazy too, in the way I mentioned to you earlier. I don’t have a great plan. This is pretty much how I ran Gogmagog – start the first step, hit the ground running, and try to figure out the second step on the way. But I’ve already spend a year and a half looking through all the sources I could – once I get interested in something, I stay interested – and the thought of knowing where the Comet King was and just sort of sitting on the knowledge – well, that would have driven me off the wall. I don’t know what Erin and the rest hope to get from meeting God. They already know He’s not big on answering prayers except on His own terms. Well, I don’t know what I expect from meeting the Comet King. The best I can say is I’m no stupider than they are. Just differently stupid.”
 
-<b>II.</b>
+#### II.
 
 They sat on the ship, a mile or so offshore. There had been a burst of light, a roar. And a little spark buoyed upon a sea of smoke shot up at Heaven.
 
@@ -10570,7 +10570,7 @@ The little spark finally faded from view.
 
 The <i>Not A Metaphor</i> sailed north.
 
-<b>III.</b>
+#### III.
 
 The ship had a Medical Officer, tasked with keeping the passengers alive until they reached their destination. Sometimes his expertise was needed for more prosaic reasons.
 
@@ -10586,7 +10586,7 @@ The Medical Officer picked up a syringe and walked into the cabin. Wasn’t too 
 
 “All clear,” he told the Commander, stepping back into the cockpit. Ahead of them, the crack in the sky came ever closer.
 
- </div>
+ 
 
 
 
@@ -10682,7 +10682,7 @@ We were all silent just a little too long.
 
 “I retract my objection,” said Eli.
 
- </div>
+ 
 
 
 
@@ -10838,7 +10838,7 @@ Sohu strained. Her forehead wrinkled. Then a look of panic fell over her face.
 
 “YOU STARED AT THE SUN, DIDN’T YOU?”
 
- </div>
+ 
 
 
 
@@ -10858,7 +10858,7 @@ From these events kabbalists derive a correspondence between silver, the number 
 <i>— Gebron and Eleazar, <u>Kabbalah: A Modern Approach</u></i>
 
 </blockquote>
-<b>I. 1981</b>
+#### I. 1981
 
 WASHINGTON DC – President Reagan is expected to make a full recovery after being shot in the head by an assassin while leaving the Washington Hilton.
 
@@ -10882,7 +10882,7 @@ TIMES: But what about all the stories that the President filled in the hole in h
 
 SPEAKES: Listen. The Untied States is at war. I think this kind of speculation about a sitting President is irresponsible. I can assure the American people that the President is not made of dirt.
 
-<b>II. 1987</b>
+#### II. 1987
 
 WASHINGTON DC – To the horror of onlookers, President Reagan melted away today when a heavy rainstorm struck the rally where he was speaking.
 
@@ -10896,7 +10896,7 @@ White House Press Secretary Larry Speakes told the Times, “President Reagan le
 
 The pile of mud will be available for viewing in the National Cathedral for the next three days.
 
-<b>III. 1993</b>
+#### III. 1993
 
 NEW YORK CITY – Jalaketu West, King of Royal Colorado, spoke to the United Nations today about his proposal for an international treaty regulating the use of Divine Names.
 
@@ -10906,7 +10906,7 @@ According to Coloradan sources, negotiations have been entered by over fifty cou
 
 Untied States president Bill Clinton praised the effort, describing it as “a new step towards international free trade and cooperation.”
 
-<b>IV. 1996</b>
+#### IV. 1996
 
 CHICAGO – Ralph Nader reached out to voters in a rally here today, describing his Green Party as the only force in American politics willing to stand up for the poor and middle-class. The centerpiece of his campaign is opposition to UNSONG, the free trade and intellectual property agreement supported by both Democrat Bill Clinton and Republican Bob Dole.
 
@@ -10916,7 +10916,7 @@ Nader’s campaign received an unexpected boost after the publication of <i>The 
 
 Stevens himself has stopped short of endorsing Nader, but believes his victory has been foretold in Job 5:11 – “he puts those who are in low places up to high places” – the “low place” being a reference to Mr. Nader’s name.
 
-<b>V. 2000</b>
+#### V. 2000
 
 VANCOUVER – The third recount to determine who will receive Salish Free State’s twenty electoral votes has begun here today amidst scattered reports of violence by Gorist, Bushist, and Naderist factions on the East Coast.
 
@@ -10928,7 +10928,7 @@ Police are investigating reports that Raymond Stevens, an anti-corporate agitato
 
 The military is standing by in case of any disturbances.
 
- </div>
+ 
 
 
 
@@ -11097,7 +11097,7 @@ We walked back to the Cometspawn hand in hand. Five pairs of eyes focused on us.
 
 “…MEH-MEH-MEH-MEH-MEH-MEH!”
 
- </div>
+ 
 
 
 
@@ -11174,7 +11174,7 @@ Ever since that conversation with Ana, I’ve had a horrible theory of my own. M
 
 <i>[A new author’s note <a href="http://unsongbook.com/authors-note-7-zizek-rebbe-again-communism/">is now up</a>.]</i>
 
- </div>
+ 
 
 
 
@@ -11308,7 +11308,7 @@ and be like a gazelle<br/>
 or like a young stag<br/>
 on the spice-laden mountains.
 
- </div>
+ 
 
 
 
@@ -11528,7 +11528,7 @@ Uriel was barely listening as he manipulated the strings of letters around him. 
 
 She sighed and went back to her cottage to cry.
 
- </div>
+ 
 
 
 
@@ -11677,7 +11677,7 @@ A few cheers. Clark rolled his eyes. Mark McCarthy mouthed <i>He’s crazy</i> a
 
 “Now,” said Dylan, “everybody who’ll be participating, get something to eat, catch up on your sleep, call your parents. Tomorrow we fight. But tonight…tonight is our last day in New York. Tonight, we are going to Broadway!”
 
- </div>
+ 
 
 
 
@@ -11685,7 +11685,7 @@ A few cheers. Clark rolled his eyes. Mark McCarthy mouthed <i>He’s crazy</i> a
 
 ## Interlude ק: Bush
 
-<b>I.</b>
+#### I.
 
 <font size="1"><b><i>January 20, 2001<br/>
 Washington, DC</i></b></font>
@@ -11712,7 +11712,7 @@ On March 20, only two months late, Bush put his hand on the Bible, swore the oat
 
 I’m glad that nowadays our country requires our president-elect to undergo a medical exam to prove he is human. But I wish there was also a rule that he had to consult with a kabbalist before deciding to end his inauguration speech with a reference to the Book of Job.
 
-<b>II.</b>
+#### II.
 
 <font size="1"><b><i>January 29, 2002<br/>
 Washington, DC</i></b></font>
@@ -11737,7 +11737,7 @@ President Bush spontaneously caught fire. “HELLLPPP!” he screamed as the ent
 
 In the midst of the word he was trying to say – in the midst of his laughter and glee – he had softly and suddenly vanished away – because Dylan Alvarez had hacked his teleprompter to display the Mortal Name.
 
- </div>
+ 
 
 
 
@@ -11788,7 +11788,7 @@ She said nothing, just kept tracing patterns on his chest.
 
 Sleep came to them there, together, for the last time.
 
- </div>
+ 
 
 
 
@@ -11960,7 +11960,7 @@ The archangel deposited Jalaketu on a hill a few miles outside of camp. Then he 
 
 “I just realized,” said the Comet King. <i>“What am I going to tell my wife?”</i>
 
- </div>
+ 
 
 
 
@@ -11982,7 +11982,7 @@ Some accused him of desecrating the Constitution. President Cheney would have no
 
 There were a lot of people who thought that America would never go for martial law. They were wrong. It was the mid-2000s, and America was exhausted. The libertarians had made freedom unbearable, the evangelicals had made faith unbearable, the social justice movement had made equality unbearable, the lawyers had made justice unbearable, loud people in Uncle Sam hats had made patriotism unbearable, and the entirety of capitalism over the last two centuries had made industry unbearable. Americans were sick of all the virtues and ready for a straightforward, no-nonsense villain. Cheney and all the other servants of the Shrouded Constitution were only too happy to provide.
 
- </div>
+ 
 
 
 
@@ -12126,7 +12126,7 @@ She said nothing.
 
 “If he wanted you to know,” she snapped, “he would have told you.” Then. “We need to get home. I need to think.”
 
- </div>
+ 
 
 
 
@@ -12168,7 +12168,7 @@ Or that the same prophecy ended:
 <blockquote>…then, crushing what he had chanced to mould in play,<br/>
 The idiot Chaos blew Earth’s dust away.
 </blockquote>
- </div>
+ 
 
 
 
@@ -12296,7 +12296,7 @@ The circle flared brighter and higher than I’d ever seen before, probably beca
 
 “We’ll try this again,” said Sohu. “Look into my eyes…”
 
- </div>
+ 
 
 
 
@@ -12312,7 +12312,7 @@ The LORD is greater than or equal to the expression involving f(y)<br/>
 <font size="1"><b><i>Evening, May 13, 2017<br/>
 Citadel West</i></b></font>
 
-<b>I.</b>
+#### I.
 
 “We’ll try this again,” said Sohu. “Look into my eyes.”
 
@@ -12393,7 +12393,7 @@ In fact, there’s a story about Rabbi Dov Ber, that one day he was praying for 
 
 [If you ever make a universe, you can do what you want.]
 
-<b>II.</b>
+#### II.
 
 I was broken out of my trance by screaming.
 
@@ -12419,7 +12419,7 @@ God is One and His Name is One and we are One and so forth. Sohu stared into Sar
 
 I let my mind wander.
 
-<b>III.</b>
+#### III.
 
 [Are things okay over there?] asked Ana.
 
@@ -12463,7 +12463,7 @@ There are other correspondences. The prophets, who try to turn Israel from its m
 
 This, then, is the kabbalistic meaning of “perfect”: someone who tries to make moral progress.
 
-<b>IV.</b>
+#### IV.
 
 “Aaron?” I heard Sohu’s voice.
 
@@ -12479,7 +12479,7 @@ I woke into the regular world. A new stack of books was piled on the table. Sohu
 
 “There is a crack in everything,” I said. “I think I know how you can get the Vital Name.”
 
- </div>
+ 
 
 
 
@@ -12492,7 +12492,7 @@ Want to feel old? The span of time between Saddam Hussein’s death and now is l
 <i>— <a href="https://twitter.com/GateOfHeavens">@GateOfHeavens</a></i>
 
 </blockquote>
-<b>I.</b>
+#### I.
 
 The 2016 Republican primaries went the way any nominative determinist would have predicted. The guy named Walker left early. The guy named Bush got mowed down. The guy named Rand ran as a libertarian. The guy named Cruz (Latin, meaning “cross”) ran on a platform of evangelical Christianity. The guy named Marco (Latin, meaning “warlike”), ran on a platform of neoconservative imperialism. The guy named Benjamin (Hebrew, meaning “son of my right hand”) ran on a platform laid out in his book <i>Clever Hands</i>. 
 
@@ -12504,7 +12504,7 @@ The general election followed a similar pattern. Seemingly unconcerned with Gene
 
 And so on October 15, a week after Trump was seen on video to brag about “grabbing women by the pussy”, the staff of the <i>Stevensite Standard</i> met at Ithaca for a very special election issue.
 
-<b>II.</b>
+#### II.
 
 Erica was doing typesetting. Ana was working on a column about why a just God could possibly have allowed the 2016 election. I was taking a break from my work to explain to Ally that “P” and “F” were the same letter in Hebrew, so that Trump’s VP pick Pence corresponded to “fence” and so the general theme of wall-building. Bill Dodd cut me off.
 
@@ -12612,7 +12612,7 @@ I was holding a copy of C. S. Lewis’ <i>The Lion, The Witch, And The Wardrobe<
 
 “No, but it’s the first principle of kabbalah. There is crack in everything.”
 
-<b>III.</b>
+#### III.
 
 Upon Obama’s election, I had commented that a Lovecraft poem beginning “And at the last, from Inner Egypt…” seemed to predict that he would be the final President. I was wrong. The prophecy was overruled by a higher authority, the Bible itself, which simply says (1 Corinthians 15:52) “At the last, Trump”.
 
@@ -12624,7 +12624,7 @@ And in the end, the new administration managed to outperform everyone’s expect
 
 <i>[There is a new author’s note up <a href="http://unsongbook.com/authors-note-8-textbook-erica-indianapolis/">here</a>]</i>
 
- </div>
+ 
 
 
 
@@ -12788,7 +12788,7 @@ For a second, all was quiet. Then: “That was the most feckin’ pointless thin
 
 “Done? My dear Ms. Burns, we have not yet begun to fight!” Dylan Alvarez sat down on the director’s chair again. “The Assassination Of Malia Ngo. Take nineteen. Having previously tested themselves against ball bearings, dogs, jeweled idols, and an immortal quarter-archangel eight-year-old girl seeking secret Names of God, the intrepid heroes of BOOJUM stop complaining, drop their grievances against their wise and exceptionally handsome leader, and prepare once again to save the world from the plutocratic tyranny of UNSONG. Lights…camera…” He pulled the noise machine out from underneath his chair. “YEEYEEYEEYEEYEEYEEYEE!”
 
- </div>
+ 
 
 
 
@@ -12880,7 +12880,7 @@ Before he could respond, the lady was gone.
 
 “Well, that was the least boring thing to happen to me today,” said Dylan, and he started copying summoning rituals.
 
- </div>
+ 
 
 
 
@@ -12992,7 +12992,7 @@ And then he disappeared into smoke.
 
 She lay there, in the Garden of the Gods, naked and alone, on the foul sulfur-scented dead grass, and it was not until morning that she picked herself up and returned to the palace.
 
- </div>
+ 
 
 
 
@@ -13150,7 +13150,7 @@ It was subtle, but we all saw it. It hadn’t been obvious a moment ago, when th
 
 The Other King’s missile was not headed toward Colorado Springs.
 
- </div>
+ 
 
 
 
@@ -13192,7 +13192,7 @@ The message was: <i>Sorry</i>.
 
 Then there was fire, and hurricane and archangel and machinery alike disintegrated into nothingness before the awesome power of the Wrathful Name of God.
 
- </div>
+ 
 
 
 
@@ -13306,7 +13306,7 @@ Before Dylan could give any kind of a monologue, Erica pushed her way forward, b
 
 “That’s <i>it</i>,” said Dylan Alvarez, breaking his invisibility. “I challenge you to a placebomantic duel!”
 
- </div>
+ 
 
 
 
@@ -13407,7 +13407,7 @@ Erica lunged forward and thrust the molten metal nameplate through Malia Ngo’s
 <hr/>
 <i><font size="1">[There is a new Author’s Note up <a href="https://unsongbook.com/authors-note-9-uriel-purim-yisrael/">here</a>]</font></i>
 
- </div>
+ 
 
 
 
@@ -13519,7 +13519,7 @@ A minute later, back came James, half-dragging a figure who looked like he’d s
 
 “I prefer the term ‘ritual magician'” said Mark McCarthy.
 
- </div>
+ 
 
 
 
@@ -13536,7 +13536,7 @@ Everybody knows that the captain lied.<br/>
 <font size="1"><b><i>Evening, May 14, 2017<br/>
 Fire Island</i></b></font>
 
-<b>I.</b>
+#### I.
 
 Only a few minutes before sunset now. The sea blazed orange. Fire Island rose as a dark line to the north.
 
@@ -13566,7 +13566,7 @@ They climbed back upstairs into the last light of the setting sun. At the very m
 
 “That’s it!” James shouted. “Let’s go!”
 
-<b>II.</b>
+#### II.
 
 The red sail flapped in the wind. Mark McCarthy traced pentagrams on the orange. Ana spoke the Zephyr Name, called the winds to the yellow. Tomas sang to the green. Father O’Connor prayed before the blue. Amoxiel drank a flask of holy water and the violet sail opened. “Once more to give pursuit upon the sea!” he said joyfully.
 
@@ -13620,7 +13620,7 @@ Ana Thurmond advanced on the black sail, and something was terribly wrong. She w
 
 The seventh sail opened, and there was silence in heaven for about half an hour.
 
-<b>III.</b>
+#### III.
 
 Psalm 107: “They that go down to the sea in ships, that do business in great waters; these see the works of the Lord, and His wonders in the deep.”
 
@@ -13656,7 +13656,7 @@ Ana and Tomas figured it out at the same time.
 
 Erin heard the shout, stared at the huge bulk before her, and yelled at James. “The harpoon, man! Get the harpoon!”
 
-<b>IV.</b>
+#### IV.
 
 The first time I saw Ana was on a ladder outside a pawn shop. But the first time I really <i>felt</i> Ana – heard her in her element and knew her mind – was around the dinner table in Ithaca, listening to her read the Book of Job. I remember the chill that came over me as she read the exquisite poetry describing Leviathan, the monster with whose glories God terrified Job:
 
@@ -13721,7 +13721,7 @@ The ship lurched more. “Structural integrity now down to NaN percent,” said 
 
 “Well, uh, tell me if it gets any lower than that,” said James. He wrung his hands.
 
-<b>V.</b>
+#### V.
 
 “Canst thou draw out Leviathan with a fishhook?” asked Ana, that night at the dinner table. “Or his tongue with a cord which thou lettest down? Canst thou put a hook into his nose? Or bore his jaw through with a thorn?”
 
@@ -13747,7 +13747,7 @@ Bill Dodd was trying to think of a suitably witty way to make fun of the passage
 
 “What I think my esteemed cousin meant,” Ana had said, “is that God argues here that we’re too weak and ignorant to be worthy to know these things. But then the question becomes – exactly how smart do we have to be to deserve an answer? Now that we can, as Bill puts it, send lightning through the sky, now that we can capture whales and make them do tricks for us, does that mean we have a right to ask God for an explanation? Discuss!”
 
-<b>VI.</b>
+#### VI.
 
 “Where is Metatron?” asked Erin, that final night on the <i>Not A Metaphor</i>. “Is he riding Leviathan? Is he in his belly? Will he come out to meet us once we’re close enough?”
 
@@ -13767,7 +13767,7 @@ The first mate’s eyes didn’t leave the Leviathan, but he nodded.
 
 Ana climbed belowdecks and knocked on the door to the Captain’s quarters.
 
- </div>
+ 
 
 
 
@@ -13882,7 +13882,7 @@ The two of them disappeared.
 
 <center><b>End of Book 3<br/>
 Happy Passover!</b></center>
- </div>
+ 
 
 
 
@@ -13896,7 +13896,7 @@ Happy Passover!</b></center>
 
 Thanks to the Bayesian Choir, you can now hear all of HaMephorash sung the way it was intended. Listen to them <a href="http://slatestarcodex.com/Stuff/HaMephorash.mp3">here</a>.
 
- </div>
+ 
 
 
 
@@ -14013,7 +14013,7 @@ Then she walked out of the room.
 
 “Aaron,” said Nathanda. “Sohu showed you the library? Go get me all the books you can find on Elisha ben Abuyah. It’s time to learn everything we can about the Other King.”
 
- </div>
+ 
 
 
 
@@ -14024,7 +14024,7 @@ Then she walked out of the room.
 <font size="1"><b><i>Evening, May 14, 2017<br/>
 Colorado Springs</i></b></font>
 
-<b>I.</b>
+#### I.
 
 It was called Tava, or “sun mountain”, by the Ute. El Capitan, meaning “the leader”, by the Spanish. But its modern name “Pike’s Peak” comes from explorer Zebulon Pike, and his name in turn comes from the Biblical Zebulon, son of Jacob. 
 
@@ -14096,7 +14096,7 @@ Thamiel raised the bident high. “Any last words?” he asked.
 
 “Who’s there?” he asked suspiciously.
 
-<b>II.</b>
+#### II.
 
 Sohu woke up on a bed of cloudstuff, just as she had done thousands of times before. But today was different. Today was her last day here. She would get in the flying kayak and go home and cry at her father’s funeral and help her family. What she had learned would have to be enough.
 
@@ -14164,7 +14164,7 @@ Sohu felt something new in her mind, a presence, a spark of gold.
 
 [WELL, I WOULD NOT SAY I AM LITERALLY IN YOUR HEAD, SINCE YOUR HEAD IS VERY SMALL. HOWEVER, IF YOU WANT TO USE SPATIAL METAPHORS TO GROUND THE BASIC PRINCIPLES OF CHASHMAL, YOU MIGHT SAY THAT…]
 
-<b>III.</b>
+#### III.
 
 Thamiel raised the bident high, chuckled. “Any last words?” he asked.
 
@@ -14221,7 +14221,7 @@ Sohu turned to lightning and disappeared. The last few ashes and sparks fell to 
 <hr/>
 <i>[<a href="https://unsongbook.com/authors-note-10-hamephorash-hamephorash-party/">Author’s Note 10</a> is now up.]</i>
 
- </div>
+ 
 
 
 
@@ -14237,13 +14237,13 @@ Everybody already has enlightenment. Why did Buddha sit for six years, see a sta
 <font size="1"><b><i>Evening, May 14, 2017<br/>
 Fire Island</i></b></font>
 
-<b>I.</b>
+#### I.
 
 Opening the door to the Captain’s cabin, Ana saw a small room, dark and unadorned, with only a bare wooden bed. The Captain sat upon it, writing something, pages of notes strewn all about. He looked up at Ana, his face unreadable through the dark glasses. She hesitated for just a second, then spoke.
 
 “I know your True Name,” she said.
 
-<b>II.</b>
+#### II.
 
 The overt meaning of “Leviathan” is “a giant sea monster”.
 
@@ -14265,7 +14265,7 @@ Yet Jesus said in Gospel of Thomas: “If your leaders say to you, ‘Look, the 
 
 And Robert Wilson wrote the story of a man who looked through chamber after chamber of his soul, questing for his true self, only to give up and conclude that there was nobody there. “That’s odd”, the guru told him. “<i>Who’s conducting the search?</i>”
 
-<b>III.</b>
+#### III.
 
 “Come in,” said the Comet King.
 
@@ -14305,13 +14305,13 @@ He just stared at them with those dark glasses.
 
 And the Comet King said – 
 
-<b>IV.</b>
+#### IV.
 
 “Metatron.” Ana spoke the word without a hint of uncertainty. Then, realizing what she had gotten herself into, she fell to her knees.
 
 The Captain took off his dark glasses, and Ana stared into the whirlwind.
 
-<b>V.</b>
+#### V.
 
 The Sepher Hekhalot states that when the patriarch Enoch died, God “turned his flesh to flame, his veins to fire, his eye-lashes to bolts of lightning, his eye-balls to flaming torches, and placed him on a throne next to the throne of glory.” Then he imbued him with the Most Holy Name, and thenceforward he was called the “Measure of the Lord”, the “Prince of the Divine Presence” and “the Lesser God”. All of these titles are blasphemous as hell to call anybody who isn’t God, and it was this that made Elisha ben Abuyah, in the throes of heresy, give his famous proclamation – “There are two gods. T-W-O. Deal with it.”
 
@@ -14319,7 +14319,7 @@ The orthodox conception was different. God is ineffable, invisible, unspeakable,
 
 Low enough that he, of all creation, could speak with God’s voice to reveal the secrets of the world.
 
-<b>VI.</b>
+#### VI.
 
 “Hey,” I’d said one night, months before. We were sitting in the living room in Ithaca, reading our respective books. “If you caught Metatron in his boat at the edge of the world, and you got to ask one question and hear the answer from the voice of God Himself, what would you ask?”
 
@@ -14417,7 +14417,7 @@ I made an expansive gesture that was supposed to indicate something like “Look
 
 In the sea off Fire Island in New York, on a ship with seven sails, Ana Thurmond thought and remembered. Then she told the Captain: “My question is: why would a perfectly good God create a universe filled with so much that is evil?”
 
-<b>VII.</b>
+#### VII.
 
 Then God spoke to Ana out of the whirlwind, and He said:
 
@@ -14425,7 +14425,7 @@ Then God spoke to Ana out of the whirlwind, and He said:
 
 And before Ana could answer, the whirlwind intensified, and caught her in its maelstrom, and she fell into a vision.
 
-<b>VIII.</b>
+#### VIII.
 
 Job asked: “God, why would You, who are perfect, create a universe filled with so much that is evil?”
 
@@ -14495,7 +14495,7 @@ And Job said “I know that you can do all things; no purpose of yours can be th
 
 “TELL THEM I SAID ‘GO FISH’.”
 
-<b>IX.</b>
+#### IX.
 
 Ana beheld in the whirlwind the trials of Job, and the answer of the Lord, and the whole chain of being, and the Pleiades and Orion, and Leviathan and Behemoth, and all the wonders and joys and saints of the world, placed in dazzling array, God’s answer to the problem of evil spoken with a tornadic fury that stripped the universe to its roots.
 
@@ -14524,32 +14524,7 @@ Then the Leviathan wheeled around, opened its colossal maw, and engulfed the <i>
 <hr/>
 The final chapter will be posted next week. I will be doing a dramatic reading of Chapter 72 in Berkeley, <i>very tentatively</i> at the CFAR office on the 7th floor of 2030 Addison St at 4:30 PM on Sunday May 14, but I need to double-check this will fit everybody. If you’re interested in coming, please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJ24jPnVX86PLSTh0UYXFClsR9IxO81kHCVeEcJGQux1PYIw/viewform?usp=sf_link"><b>this RSVP</b></a> and give me your email address so I can tell you about any changes. There will be other related events in <a href="https://www.facebook.com/events/1876146402654011/">NYC</a>, <a href="https://www.facebook.com/events/1911865009048353">Tel Aviv</a>, <a href="https://www.facebook.com/events/1538533946190765">Boston</a>; and <a href="https://www.facebook.com/events/223053658182473/">Austin</a>; ask on the linked Facebook pages for details.
 
- </div>
-
-
-
-
-
-## Postscript 1: Wrap Parties + Fan Music
-
-It’s kabbalistically important that there only be ten author’s notes, so this is a postscript even though the book isn’t technically finished yet.
-
-The Berkeley wrap party will be at 4:30 on Sunday, location and directions <a href="https://www.facebook.com/events/205592246623520/">here</a>. There is no entrance fee, but donations to help cover the cost of the venue would be appreciated.
-
-Other wrap parties include  <a href="https://www.facebook.com/events/1876146402654011/">NYC</a>, <a href="https://www.facebook.com/events/1911865009048353">Tel Aviv</a>, <a href="https://www.facebook.com/events/1538533946190765">Boston</a>; and <a href="https://www.facebook.com/events/223053658182473/"><b>Austin</b></a>; I’m bolding the last one since I missed mentioning it on the last chapter.
-
-I’m planning to release Chapter 72 around 8 PM EST on Sunday. If you’re going to hold a wrap party, want to read the chapter at the party, and need it before then, I can email it to you a little early (may not have last minute edits). If you want to do this, comment here with your email address.
-
-There will be an Epilogue published next Wednesday. I’m still not sure whether I’ll read it at the wrap party. Let’s see how my voice is doing.
-
-Ranma is doing an audiocast of Unsong and is up to Interlude Bet. Check it out <a href="https://soundcloud.com/iguli4vpuoca">here</a>.
-
-And James Koppel has an Unsong filk song “Far Into The Kingdom Of Heaven Bright” up <a href="https://soundcloud.com/james-koppel/far-into-the-kingdom-of-heaven-bright">here at his Soundcloud</a>.
-
- </div>
-
-
-
+ 
 
 
 ## Chapter 72: And Builds A Heaven In Hell’s Despair
@@ -14562,7 +14537,7 @@ If we are worthy, our Master will redeem us by justice, and if not, He will rede
 <font size="1"><b><i>Evening, May 14, 2017<br/>
 Citadel West</i></b></font>
 
-<b>I.</b>
+#### I.
 
 Sohu pushed the heavy steel door open and entered the throne room.
 
@@ -14614,7 +14589,7 @@ I waited for the Cometspawn to laugh at me. They didn’t laugh.  Far away, I he
 
 Then the door shattered and the Other King entered the room.
 
-<b>II.</b>
+#### II.
 
 I don’t know if I’d thought to contribute to the fight somehow, but the symbols and energies flaring across the room from both sides the moment the door began to creak disabused me of the notion instantly. [Spectral Name!] Sohu thought at me, and I spoke it faster than I’d ever spoken anything in my life and become invisible. The Other King floated almost leisurely through the mystical armaments hurled against him, pausing only to wipe away a few incantations here or there with a crimson sleeve. 
 
@@ -14670,7 +14645,7 @@ The Comet King was staring straight at me.
 
 “Aaron Smith-Teller,” he said.
 
-<b>III.</b>
+#### III.
 
 He sat on the Black Opal Throne like it was the most natural thing in the world. He had taken off his scarlet robes, and now wore the familiar black and silver. “Come,” he said, and I moved slowly, foggily, like I was in a dream. He’d always used <i>chashmal</i> as the Other King. Never spoken aloud. Because his voice was sorrowful and wise. The voice of the Comet King. No one could ever have mistaken it for anything else.
 
@@ -14749,7 +14724,7 @@ Why, who art Thou to teach, and He to learn?</i>
 
 Then the Comet King muttered to himself, almost too soft to hear: “Somebody has to and no one else will” and he plunged the sword into his heart and died.
 
-<b>IV.</b>
+#### IV.
 
 The sound of my breath rose and fell. The blood made little rivulets, as if exploring the terrain, then settled down into irregular stagnant lakes. I just sat there, stunned. Sat in the chair, staring at the body of the Comet King, until the light of the Luminous Name dimmed and went out and everything was black. Nothing stirred. I wondered if the other inhabitants of the citadel had all run away, or if the Other King had killed them, or if they cowered in their chambers behind locked doors. The quiet and solitude were like a womb, or like the emptiness before Creation. In the beginning, the earth was without form and void, and darkness was upon the face of the deep. Then the spirit of God moved upon the face of the waters, and God said…
 
@@ -14761,13 +14736,13 @@ It was a faint voice, almost too faint to detect, audible not to the ears but to
 
 <center><b>End of Book IV.<br/>
 </b></center>
- </div>
+ 
 
 
 
 
 
-## Epilogue
+### Epilogue
 
 <blockquote>
 Yes<br/>
@@ -14922,7 +14897,7 @@ Thanks also to everyone who attended the wrap party, thanks to the person who ga
 
 Most of you probably know this, but I also write nonfiction and occasional short stories on my other blog, <a href="http://slatestarcodex.com/">Slate Star Codex</a>. There’s still the <a href="https://www.reddit.com/r/unsong/">Unsong subreddit</a> for anyone who wants to talk about the book more. And you might enjoy some of the other fiction on <a href="https://www.reddit.com/r/rational/">r/rational</a>.
 
- </div>
+ 
 
 </main><section><h1>Appendix: Author Notes<article class="author note">
 ## Author’s Note 1: Fanart, Tshirts, Group Houses
@@ -14947,7 +14922,7 @@ Thanks to everyone for all of the above, and thanks also for all of your nice wo
 
 I got an email last week from a reader who told me she had lived in a Silicon Valley group house called “Ithaka” back when she went to Stanford, and wanted to know why I was writing a story about her life. I had never heard of her or her house before. Needless to say, nothing is ever a coincidence.
 
- </div>
+ 
 
 
 
@@ -14977,7 +14952,7 @@ I recently learned that <a href="https://en.wikipedia.org/wiki/Astro_Teller">Ast
 
 <s>If anyone with artistic skills would like to help make a beginning image for Book 2 similar to <a href="http://unsongbook.com/book-i-genesis/">the beginning image for Book 1</a>, please let me know. The relevant skill would be drawing a scene with a ship. I can tell you more if you contact me. It doesn’t have to be perfect, just better than what I could do myself. Email me at scott[at]shireroth[dot]org if you’re interested.</s> (already got some people, thanks)
 
- </div>
+ 
 
 
 
@@ -15003,7 +14978,7 @@ If you’re interested in more discussion and fan art, you may want to go to <a 
 
 Astro Teller, grandson of Edward Teller, who was mentioned in the last Author’s Note, has gone on the record to state that <a href="http://www.forbes.com/sites/aarontilley/2016/03/24/alphabets-moonshots-head-astro-teller-fear-of-ai-and-robots-is-wildly-overblown/">fear of intelligent computers is overblown</a>. Note also the name of the reporter conducting the interview. This is not a coincidence because nothing is ever a coincidence.
 
- </div>
+ 
 
 
 
@@ -15031,7 +15006,7 @@ More from <a href="https://www.reddit.com/r/unsong/">the subreddit</a>: a <a hre
 
 I was going to put this up on <a href="http://topwebfiction.com/">TopWebFiction.com</a> in time for this Author’s Note, but it looks like it needs to be approved and that takes a while. So I’ve submitted it and will be asking readers to vote for it sometime in the near future. In the meantime, take a look and enjoy the other stories on the site.
 
- </div>
+ 
 
 
 
@@ -15059,7 +15034,7 @@ Story-relevant links for the last few chapters: <a href="https://www.poetryfound
 
 <a href="http://topwebfiction.com/">TopWebFiction</a> and <a href="http://webfictionguide.com/">WebFictionGuide</a> are related sites that link to online serial fiction. They have a Reddit-like upvote system for choosing the most popular. If you like Unsong, please upvote it <a href="http://topwebfiction.com/vote.php?for=unsong">here</a>. 
 
- </div>
+ 
 
 
 
@@ -15088,7 +15063,7 @@ From Wired, <a href="https://www.wired.com/2016/10/anonymous-notorious-hacker-ba
 </blockquote>
 This should end well. 
 
- </div>
+ 
 
 
 
@@ -15110,7 +15085,7 @@ The <a href="http://unsong.libsyn.com/">Unsong audiobook</a> is back in business
 
 As always, if you like this story, please <a href="http://topwebfiction.com/vote.php?for=unsong">vote for it on topwebfiction</a>.
 
- </div>
+ 
 
 
 
@@ -15146,7 +15121,7 @@ Thanks to everyone who said hi to me and talked to me about <i>Unsong</i> at the
 <center><img data-recalc-dims="1" src="https://i1.wp.com/slatestarcodex.com/blog_images/asilomar_teller.jpg?w=557"/></center>
 Here’s a picture from the conference of me with Sam Teller, a director at SpaceX. Cf. <a href="http://unsongbook.com/chapter-9-with-art-celestial/">Chapter 10</a> – “The kabbalistic meaning [of Teller] is ‘someone who calls down destructive celestial energies'”!
 
- </div>
+ 
 
 
 
@@ -15168,27 +15143,4 @@ More from the subreddit: LittleYid went <a href="https://www.reddit.com/r/unsong
 
 And if you haven’t seen it already, you might be into <a href="http://lamc.la/">the kabbalistic speculations of Adam Dobrin</a>. Usually I don’t like gawking at obviously schizophrenic people, but given the fact that I am trying to do the same thing he’s doing, and he’s doing it better, I hope he can accept my link as praise rather than mockery. Be sure not to miss <a href="http://lamc.la/the_letter_why.html">the comparison</a> of Jewish and Egyptian deities based on parsing “Yisrael” as “why is ra el?”.
 
- </div>
-
-
-
-
-<article class="author note">
-## Author’s Note 10: HaMephorash, HaMephorash, Party
-
-
-<center><img data-recalc-dims="1" src="https://i0.wp.com/slatestarcodex.com/blog_images/comet_falling.jpg?w=557"/></center>
-This is by Raymond Arnold. And hopefully you didn’t miss the Bayesian Choir’s rendition of <a href="http://slatestarcodex.com/Stuff/HaMephorash.mp3">the title song</a>.
-
-Relevant wiki articles: <a href="https://en.wikipedia.org/wiki/Garden_of_the_Gods">Garden of the Gods</a>, <a href="https://en.wikipedia.org/wiki/Samuel_Butler_(novelist)">Samuel Butler</a>, <a href="https://en.wikipedia.org/wiki/Butlerian_Jihad">the Butlerian Jihad</a>, <a href="https://en.wikipedia.org/wiki/The_Red_Wheelbarrow">The Red Wheelbarrow</a>, <a href="https://en.wikipedia.org/wiki/The_New_Colossus">The New Colossus</a>, <a href="https://en.wikipedia.org/wiki/A_Walk_to_Caesarea">Eli, Eli</a>, <a href="https://en.wikipedia.org/wiki/Pikes_Peak">Pike’s Peak</a>, <a href="https://en.wikipedia.org/wiki/Pikuach_nefesh">Pikuach nefesh</a>, <a href="https://en.wikipedia.org/wiki/Abraham_Isaac_Kook">Rabbi Kook</a>.
-
-I am going to be in the San Francisco Bay Area on Sunday May 14, and I would like to hold reading of the final chapter of Unsong and an end-of-book party for anyone who’s interested. If fans would like to organize this themselves, that would make my life easier. Otherwise I’ll figure something out and let you know at the bottom of the next chapter.
-
- </div>
-
-</section><hr><article>
-Made from <a href="http://unsongbook.com/">the Unsong book website</a> by
-the <a href="https://github.com/stuartlangridge/unsong-book-fetcher">Unsong fetcher script</a> 
-by <a href="https://kryogenix.org">Stuart Langridge</a>.
-
-
+ 
