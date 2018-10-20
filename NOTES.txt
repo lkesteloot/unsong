@@ -22,6 +22,8 @@
 - Come up with a cover page.
 - The repeated "Chapter" in the TOC is unpleasant. What do other
     book like Harry Potter do?
+- Add an index?
+    - Link to first mention of each character and concept.
 - See what max size of Lulu book is. Maybe split book.
     - Max is 740.
     - Book 1: 1-239 (238)
@@ -33,3 +35,4 @@
 
 - Letter spacing looks weird. Are we loading the font correctly?
     - Seems okay when I zoom in.
+
