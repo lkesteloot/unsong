@@ -19,8 +19,10 @@
 - Fix blockquotes at top of chapters.
 - Fix embedded blockquotes (signs, etc.).
 - Fix date/location at top of chapters.
+- Deal with content warning.
 - Make high-res version of tree_of_life2.png image, and figure out
-    why it's not centered properly. Too small?
+    why it's not centered properly. Too small? Also fix all other
+    images.
 - Make sure there are no straight quotes, or they'll be turned
     into French guimets.
 - Insert various photos and drawings.

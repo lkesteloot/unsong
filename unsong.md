@@ -118,8 +118,10 @@ It is good practice to have your program poke around at runtime and see if it ca
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]May 10, 2017<br/>
-Palo Alto[/i]</b></font>
+
+   -May 10, 2017
+
+   -Palo Alto
 
 The apocalypse began in a cubicle. 
 
@@ -281,8 +283,10 @@ This was not a coincidence, because nothing is ever a coincidence.
 
 ## Interlude א: The Cracks In The Sky
 
-<font size="1"><b>[i]March 14, 1969<br/>
-Washington, DC[/i]</b></font>
+
+   -March 14, 1969
+
+   -Washington, DC
 
 Richard Nixon was confused and upset.
 
@@ -361,8 +365,10 @@ Jerusalem is builded as a city that is in the public domain.<br/>
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]May 10, 2017<br/>
-San Jose[/i]</b></font>
+
+   -May 10, 2017
+
+   -San Jose
 
 Right down the road from Berryessa Station there’s a big house with a hidden basement. The people who live there – usually six to eight of us, rarely the same from one month to the next – are the sort of artsy college students and aimless twenty-somethings who think that houses should have names. We call it Ithaca. Six days out of the week it’s an ordinary group house, with the ordinary arguments about who has to cook and when the living room is going to get cleaned. But on Wednesday nights people from all over the Bay Area gather in the basement to hold the secret rites of a faith banned throughout the civilized world.
 
@@ -600,8 +606,9 @@ Understand the seed, and you understand everything that grows from it. This is t
 
 ## Chapter 3: On A Cloud I Saw A Child
 
-<font size="1"><b>[i]September 29, 1990<br/>
-Gulf of Mexico[/i]</b></font>
+   -September 29, 1990
+
+   -Gulf of Mexico
 
 Ever since the sky cracked there has been a hurricane off the coast of Louisiana that never moves or decays. In its eye stands the Archangel Uriel. He is five hundred feet tall, and around him whirl colorful streams of letters from every alphabet and syllabary and abjad of every culture in history, making subtle and complex geometric patterns before they disappear in bursts of rainbow light. Occasionally he reaches out and snatches one with his colossal hand and inserts it elsewhere in the stream, and then rain falls, or empires crumble, or new islands rise from the deep. Today he is doing none of those things. Today he is looking very carefully at something no one else can see, and talking to himself.
 
@@ -792,8 +799,10 @@ And ye shall be sorrowful, but your sorrow shall be turned into effective device
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]May 10, 2017<br/>
-San Jose[/i]</b></font>
+
+   -May 10, 2017
+
+   -San Jose
 
 Even before Erica finished formally adjourning the meeting, I wove my way through the crowd of garrulous people and up the stairs into my bedroom. I grabbed my laptop from the desk, then knocked on Ana’s door. She was there waiting for me.
 
@@ -886,6 +895,7 @@ My beloved is like a bit of information that flows in the system.<br/>
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
+
 #### I.
 
 I remember the first time I met Ana Thurmond. 
@@ -1671,8 +1681,10 @@ God, grant me the serenity to accept that I will never have the serenity to acce
 [i]— <a href="https://twitter.com/stevenkaas">Steven Kaas</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Early morning, May 11, 2017<br/>
-San Jose[/i]</b></font>
+
+   -Early morning, May 11, 2017
+
+   -San Jose
 
 The computer whirred and chattered: the speaker producing Names faster than the ear could follow. I stared at the screen. I already knew I wouldn’t sleep tonight.
 
@@ -1862,8 +1874,10 @@ Sleep like nothing is watching. Gaze at the stars like it will never hurt.<br/>
 [i]— <a href="https://twitter.com/stevenkaas">Steven Kaas</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Early morning, May 11, 2017<br/>
-San Jose[/i]</b></font>
+
+   -Early morning, May 11, 2017
+
+   -San Jose
 
 My watch read 5 AM. Bill Dodd lived an hour’s walk away, close to the weird morass of swamps and mud flats that passed for the San Francisco Bay in this area. He woke up around six and left at seven for some tutoring job up in the North Bay. I figured by the time I got to his home, it would be just about morning and I could catch him while he was getting ready. 
 
@@ -2040,8 +2054,10 @@ Love is the law, but it is poorly enforced.<br/>
 [i]— Reverend Raymond Stevens, “Singers In The Hands Of An Angry God”[/i]
 
 </blockquote>
-<font size="1"><b>[i]March 20, 2001<br/>
-Agloe[/i]</b></font>
+
+   -March 20, 2001
+
+   -Agloe
 
 The holy city of traditional kabbalah is Tzfat in Israel, where Rabbi Isaac Luria taught and died. The holy city of modern kabbalah ought to be Agloe, New York.
 
@@ -2311,8 +2327,10 @@ Bar Yochai spent thirteen years hiding from the Romans in a cavern near Peki’i
 [i]— Gebron and Eleazar, <u>Kabbalah: A Modern Approach</u>[/i]
 
 </blockquote>
-<font size="1"><b>[i]October 3, 1990<br/>
-Gulf of Mexico[/i]</b></font>
+
+   -October 3, 1990
+
+   -Gulf of Mexico
 
 “WE SAY THAT MAN WAS MADE IN THE IMAGE OF GOD,” said Uriel. “BUT GOD IS INEFFABLE AND WITHOUT PHYSICAL FORM. RESOLVE THE PARADOX.”
 
@@ -2463,8 +2481,10 @@ Notice also that the sharing is what enables us to increase the trespass of thy 
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]May 11, 2017<br/>
-San Jose[/i]</b></font>
+
+   -May 11, 2017
+
+   -San Jose
 
 Campus library hadn’t changed much since I got expelled. I checked out three big books without even so much as a “You don’t [i]look[/i] like an Ana Thurmond,” let alone UNSONG goons hauling me off somewhere. Thank goodness for automatic card reader machines.
 
@@ -2593,8 +2613,10 @@ What are we to say to [i]that?[/i]
 
 ## Chapter 11: Drive The Just Man Into Barren Climes
 
-<font size="1"><b>[i]May 11, 2017<br/>
-San Jose[/i]</b></font>
+
+   -May 11, 2017
+
+   -San Jose
 
 #### I.
 
@@ -2693,8 +2715,10 @@ But woe unto them that were with him, at the valley gate, and at the University 
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]June 20, 1970<br/>
-San Francisco[/i]</b></font>
+
+   -June 20, 1970
+
+   -San Francisco
 
 LSD became illegal in California in 1966, two years before the real world got so hallucinatory that it became redundant.
 
@@ -2736,8 +2760,10 @@ Quivering from head to toe, Paul knelt.
 
 ## Chapter 12: Borne On Angels’ Wings
 
-<font size="1"><b>[i]May 11, 2017<br/>
-San Jose[/i]</b></font>
+
+   -May 11, 2017
+
+   -San Jose
 
 Sitting in bed with her computer on her lap, Erica Lowry watched the sun rise and writing the news.
 
@@ -2930,8 +2956,10 @@ Still other texts say the Messiah will come in a generation that is [i]both[/i] 
 
 ## Chapter 13: The Image Of Eternal Death
 
-<font size="1"><b>[i]October 10, 1990<br/>
-Gulf of Mexico[/i]</b></font>
+
+   -October 10, 1990
+
+   -Gulf of Mexico
 
 #### I.
 
@@ -3174,8 +3202,10 @@ Because the law worketh wrath: for where no law is, there is power: and who may 
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]May 11, 2017<br/>
-Ione, California[/i]</b></font>
+
+   -May 11, 2017
+
+   -Ione, California
 
 Something was horribly wrong.
 
@@ -3346,8 +3376,10 @@ We’re the rebels of the sacred heart<br/>
 [i]— <a href="https://www.youtube.com/watch?v=Gdlkx_cIqtE">Rebels Of The Sacred Heart</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]May 11-12, 2017<br/>
-Ione, California[/i]</b></font>
+
+   -May 11-12, 2017
+
+   -Ione, California
 
 We Bay Arians (Ana and I had debated multiple demonyms, including Bay Arean and Bay Aryan, before deciding we were more heretical than warlike, and [i]definitely[/i] not the master race) tend to to think of the Central Valley as a nightmarish stretch of endless farms inhabited by people who, while not exactly dead, could hardly be called living.  So far nothing Ana had seen in the two hour taxi ride to Ione had changed her mind.
 
@@ -3453,8 +3485,10 @@ An enterprising member of the household staff pocketed the napkin and sold it to
 [i]–Sohu West, <u>The Comet King: A Hagiography</u>[/i]
 
 </blockquote>
-<font size="1"><b>[i]October 11, 1990<br/>
-Gulf of Mexico[/i]</b></font>
+
+   -October 11, 1990
+
+   -Gulf of Mexico
 
 Runes of glowing fire troubled Sohu’s dreams, and she woke up the next morning to find them inscribed upon her skin in big dark welts. She ran out of her cottage, almost fell off the edge of the cloud.
 
@@ -3855,8 +3889,10 @@ With a tail as big as a kite<br/>
 [i]— Noël Regney, <a href="https://en.wikipedia.org/wiki/Do_You_Hear_What_I_Hear%3F">Do You Hear What I Hear?</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]February 25, 1976<br/>
-Colorado Springs[/i]</b></font>
+
+   -February 25, 1976
+
+   -Colorado Springs
 
 Picture a maiden lost in the hills.
 
@@ -3921,8 +3957,10 @@ And so in November 1976, behold, a virgin conceived and bore a son, and she call
 </blockquote>
 #### I.
 
-<font size="1"><b>[i]April 10, 2017<br/>
-San Jose[/i]</b></font>
+
+   -April 10, 2017
+
+   -San Jose
 
 “Why are we celebrating Passover?” asked Bill. “Are any of us even Jewish?”
 
@@ -4051,8 +4089,10 @@ Now count the number of creatures in the song. God, angel, butcher, ox, water, f
 
 #### III.
 
-<font size="1"><b>[i]April 10, 2017<br/>
-New York City[/i]</b></font>
+
+   -April 10, 2017
+
+   -New York City
 
 “Mr. Alvarez,” asked Brian Young, “why are we celebrating Passover? I don’t think any of us are Jews.”
 
@@ -4086,8 +4126,10 @@ Clark continued making sarcastic finger motions to no avail.
 
 #### IV.
 
-<font size="1"><b>[i]March 30, 1991<br/>
-Gulf of Mexico[/i]</b></font>
+
+   -March 30, 1991
+
+   -Gulf of Mexico
 
 “Uriel, why are we celebrating Passover? I’m not Jewish, and you’re an archangel.”
 
@@ -4151,8 +4193,10 @@ Sohu sat at a table suspended several hundred feet in the air, putting her about
 
 #### V.
 
-<font size="1"><b>[i]Springtime, ???? BC<br/>
-Mt. Sinai[/i]</b></font>
+
+   -Springtime, ???? BC
+
+   -Mt. Sinai
 
 With a final grunt of effort, the old man crested the ridge and came to the summit of the mountain. He leaned on his staff for a few seconds, catching his breath. He had come such a long way. He let his eyes drift closed…
 
@@ -4236,8 +4280,10 @@ Forty days and forty nights later, the old man trudged back up the slopes of the
 
 #### VI.
 
-<font size="1"><b>[i]April 7, 2001<br/>
-Colorado Springs[/i]</b></font>
+
+   -April 7, 2001
+
+   -Colorado Springs
 
 In a dimly-lit chamber two thousand feet underground, quiet as death, seven people sat at a table. Seven seder plates. Seven cups of wine.
 
@@ -4277,8 +4323,10 @@ Then he turned to lightning and flew out of the room.
 
 ## Chapter 19: The Form Of The Angelic Land
 
-<font size="1"><b>[i]Morning, May 12, 2017<br/>
-????[/i]</b></font>
+
+   -Morning, May 12, 2017
+
+   -????
 
 #### I.
 
@@ -4547,8 +4595,10 @@ Where wast thou when I laid the foundations for theoretical computer science?<br
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]3??? BC<br/>
-Heaven[/i]</b></font>
+
+   -3??? BC
+
+   -Heaven
 
 #### I.
 
@@ -4654,8 +4704,10 @@ For someone who had so suddenly seen his fortunes shift for the better, Sataniel
 
 #### II.
 
-<font size="1"><b>[i]3??? BC<br/>
-Mesopotamia[/i]</b></font>
+
+   -3??? BC
+
+   -Mesopotamia
 
 “The future is ziggurats,” Samyazaz was telling Ut-Naparash as they walked up the Great Stair. “In a hundred years, nobody’s going to remember pyramids. Pyramids are a flash in the pan. Ziggurats are for the ages.”
 
@@ -4849,8 +4901,10 @@ He pushed the slave aside and headed back in the direction of his brewery. He co
 
 #### III.
 
-<font size="1"><b>[i]3??? BC<br/>
-Gulf of Mexico[/i]</b></font>
+
+   -3??? BC
+
+   -Gulf of Mexico
 
 And then there were two.
 
@@ -5021,8 +5075,10 @@ Work hard, play hard, converge to a transcendent and unified end state of human 
 [i]— <a href="https://twitter.com/GapOfGods">@GapOfGods</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Noon, May 12, 2017<br/>
-San Francisco[/i]</b></font>
+
+   -Noon, May 12, 2017
+
+   -San Francisco
 
 #### I.
 
@@ -5300,8 +5356,10 @@ And so ad infinitum.<br/>
 [i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]January 30, 2002<br/>
-Puerto Penasco, Mexico[/i]</b></font>
+
+   -January 30, 2002
+
+   -Puerto Penasco, Mexico
 
 With a look of mad determination, the big man marched to the center of the crowded bar. “I’ll say it,” he said. “The Other King is a [i]bad man[/i].”
 
@@ -5457,8 +5515,10 @@ Though thou exalt thyself as the eagle, and though thou set thy nest among the s
 [i]— Obadiah 1:4[/i]
 
 </blockquote>
-<font size="1"><b>[i]Afternoon, May 12, 2017<br/>
-San Francisco[/i]</b></font>
+
+   -Afternoon, May 12, 2017
+
+   -San Francisco
 
 Even though she could no longer hear it with her ears, it still rang in the back of her mind. A note, a single impossibly pure note that seemed to overpower everything else. But it grew fainter and fainter and finally faded away entirely. She didn’t miss it. She knew a minute longer up there and she would have lost herself, lost even the ability to know what losing herself entailed, lost the ability to think or feel or know or question anything ever again, turned into a perfect immobile crystal that was blindingly beautiful and totally inert.
 
@@ -5593,8 +5653,10 @@ And Satan stood up against them in the global environment.<br/>
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]December 14, 1972<br/>
-New York City[/i]</b></font>
+
+   -December 14, 1972
+
+   -New York City
 
 “Ladies. Gentlemen. Mr. Secretary General.
 
@@ -5636,8 +5698,10 @@ The nameplate was tastefully on fire.
 
 ## Chapter 24: Why Dost Thou Come To Angels’ Eyes?
 
-<font size="1"><b>[i]Morning, May 12, 2017<br/>
-Los Angeles[/i]</b></font>
+
+   -Morning, May 12, 2017
+
+   -Los Angeles
 
 A ray of early morning sun beat on my face. Clouds flew by me like trucks rushing down a highway, and the heavens seemed to sing. It’s weird. You spend your entire adult life searching for Names of God and hanging out with angels, and the closest you come to a spiritual experience is paddling a flying kayak thousands of feet above San Bernardino County. I was flush with excitement at my close escape and at my [i]other[/i] close escape and frankly at being pressed up against Jane so closely and of course at the view where I could see all of Southern California stretching out around us, lines of crumpled mountains one after another, and then…
 
@@ -5717,8 +5781,10 @@ Holding my hand was forgotten. Keeping track of me at all was forgotten. I could
 
 ## Chapter 25: Lie Down Before My Feet, O Dragon
 
-<font size="1"><b>[i]Afternoon, May 12, 2017<br/>
-Los Angeles[/i]</b></font>
+
+   -Afternoon, May 12, 2017
+
+   -Los Angeles
 
 #### I.
 
@@ -6010,8 +6076,10 @@ St. Francis saw above him, filling the whole heavens, some vast immemorial unthi
 [i]— <u>St. Francis of Assisi</u>, by G.K. Chesterton[/i]
 
 </blockquote>
-<font size="1"><b>[i]June 26, 1991<br/>
-Gulf of Mexico[/i]</b></font>
+
+   -June 26, 1991
+
+   -Gulf of Mexico
 
 “TELL ME ABOUT THE WORD WATER”.
 
@@ -6305,8 +6373,10 @@ The way having been prepared before them, the armies of Thamiel the Lord of Demo
 
 ## Chapter 27: The Starry Floor, The Watery Shore
 
-<font size="1"><b>[i]May 12-13, 2017<br/>
-Pacific Ocean[/i]</b></font>
+
+   -May 12-13, 2017
+
+   -Pacific Ocean
 
 #### I. James
 
@@ -6639,8 +6709,10 @@ Slowly, brokenly, the [i]Not A Metaphor[/i] began to sail south.
 
 ## Chapter 28: Hid As In An Ark
 
-<font size="1"><b>[i]May 12, 2017<br/>
-Los Angeles[/i]</b></font>
+
+   -May 12, 2017
+
+   -Los Angeles
 
 Over the centuries she had fallen in love with the place. A narrow plain, sunny three hundred days a year, blooming with poppies, watered by little rivers snaking out of arroyos in the nearby mountains. She had built her altar on one of the hills. The Aztecs knew her domain, and they called it Temictitlanoc, “place of the dream goddess”. Sometimes lost war bands would wander to its sunny hills, lie down beside the crashing waves, and see strange visions.
 
@@ -6706,8 +6778,10 @@ Gadiriel opened the Ark of the Covenant.
 
 ## Interlude ל: New York City
 
-<font size="1"><b>[i]September 3, 1978<br/>
-New York City[/i]</b></font>
+
+   -September 3, 1978
+
+   -New York City
 
 #### I.
 
@@ -6938,8 +7012,10 @@ With a voice as big as the sea<br/>
 [i]— Noël Regney, <a href="https://en.wikipedia.org/wiki/Do_You_Hear_What_I_Hear%3F">Do You Hear What I Hear?</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]October 2, 1978<br/>
-Colorado[/i]</b></font>
+
+   -October 2, 1978
+
+   -Colorado
 
 #### I.
 
@@ -7226,8 +7302,10 @@ You don’t truly understand necromancy if you can’t explain it to your great-
 [i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Evening, May 12, 2017<br/>
-Mojave Desert[/i]</b></font>
+
+   -Evening, May 12, 2017
+
+   -Mojave Desert
 
 #### I.
 
@@ -7366,8 +7444,10 @@ Together, we can build a better America, colonize it, and use the old one for ra
 [i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]January 30, 1981<br/>
-Camp David, Maryland[/i]</b></font>
+
+   -January 30, 1981
+
+   -Camp David, Maryland
 
 #### I.
 
@@ -7542,8 +7622,10 @@ A presidential staffer came in. “Mr. President, lunch is ready. Reporters from
 
 ## Chapter 32: The Human Form Divine
 
-<font size="1"><b>[i]August 7, 1991<br/>
-Gulf of Mexico[/i]</b></font>
+
+   -August 7, 1991
+
+   -Gulf of Mexico
 
 #### I.
 
@@ -7745,8 +7827,10 @@ Uriel grumbled. “I HAVE JUST LOST A NEGOTIATION WITH AN EIGHT YEAR OLD GIRL. T
 
 ## Chapter 33: The Doors Of Perception
 
-<font size="1"><b>[i]May 13, 2017<br/>
-Ensenada, Mexico[/i]</b></font>
+
+   -May 13, 2017
+
+   -Ensenada, Mexico
 
 Bizarre surrealist painter Salvador Dali once said: “I do not do drugs. I am drugs.” He was being silly. He wasn’t drugs. He was Salvador Dali.
 
@@ -7908,8 +7992,10 @@ He said, Go and utterly destroy them; namely, the Hittites, and the Girgashites,
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]October 31, 1991<br/>
-Madrid[/i]</b></font>
+
+   -October 31, 1991
+
+   -Madrid
 
 It was the second day of the Madrid Conference on the Israeli-Palestinian peace process. In the interests of fitting in the conference room, Uriel had shrunk to a mere ten feet tall. “AREN’T HUMANS USUALLY SHORTER THAN THAT?”, he had asked Sohu. “Yes,” she had told him, “but in order to succeed at diplomacy, you need to be intimidating.” She hadn’t mentioned how uncomfortable it was trying to sit in the chairs provided without his legs jutting out at an awkward angle. He had finally settled on leaning back in the chair, which kept his mind pleasantly occupied with the second-to-second task of maintaining his balance without breaking any physical laws.
 
@@ -8096,8 +8182,10 @@ Fast cars! Fast women! Fastidious adherence to the precepts of the moral law!<br
 [i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Spring 1982<br/>
-Citadel West, Colorado Springs[/i]</b></font>
+
+   -Spring 1982
+
+   -Citadel West, Colorado Springs
 
 Somehow the Comet King had become an adult. He had skipped puberty, telling Father Ellis that it sounded like too much trouble. One day he was a child; the next, his voice dropped, white hair grew on his chest, and he declared he would be having children. [i]All[/i] the children.
 
@@ -8192,8 +8280,10 @@ Fill the god-shaped hole in your soul with molten metal, then shatter your soul,
 [i]— <a href="https://twitter.com/gapofgods">Gap Of Gods</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]October 31, 1991<br/>
-Gulf Of Mexico[/i]</b></font>
+
+   -October 31, 1991
+
+   -Gulf Of Mexico
 
 Curled up on a cloud, Sohu sat studying Talmud. She was just starting to consider packing it in for the night when her vision was seared by a nearby lightning strike. The subsequent thunder was instantaneous. She was still trying to get her sight back when her father strode through the door.
 
@@ -8446,8 +8536,10 @@ She fell asleep while the archangel worked silently outside.
 
 ## Interlude מ: Miss American Pie
 
-<font size="1"><b>[i]April 22, 2017<br/>
-San Jose[/i]</b></font>
+
+   -April 22, 2017
+
+   -San Jose
 
 A piece of onion flew past my head. This was a common occurrence when I argued with Erica while she was trying to cook. Today we were arguing about the lyrics of American Pie. She thought it was about rock n’ roll. I thought it was about Christian soteriology’s claim to supersede the Jewish conception of divine law.
 
@@ -8563,8 +8655,10 @@ I tell you this story as an apology. So that when we get to the part in the next
 
 ## Chapter 37: Love That Never Told Can Be
 
-<font size="1"><b>[i]May 13, 2017<br/>
-Las Vegas[/i]</b></font>
+
+   -May 13, 2017
+
+   -Las Vegas
 
 “Sinner” in Biblical Hebrew is “aval”, no doubt kabbalistically connected to our English word “evil”. The gematria value of “aval” is 106. Bishop Ussher, the Biblical chronologist who fixed Creation at 4004 BC, tells us that 106 years passed between Noah’s flood and the Tower of Babel. This is unsurprising; the decision to build a tower to Heaven out of vanity is a sinful act; thus instances of 106, the number of sinners, will appear around it.
 
@@ -8699,8 +8793,10 @@ Hershel of Ostropol came to an inn and asked for a warm meal. The innkeeper dema
 [i]— Old Jewish folktale[/i]
 
 </blockquote>
-<font size="1"><b>[i]May 13, 2017<br/>
-????[/i]</b></font>
+
+   -May 13, 2017
+
+   -????
 
 Blood bubbled up from the ground in little springs. The trees were growing skulls where the fruit should be. I concluded that I was somewhere from Aztec mythology. Probably not one of the good parts.
 
@@ -8946,8 +9042,10 @@ The hallucinatory landscape was beginning to dissolve. The pyramids of Teotihuac
 </blockquote>
  – <b>Reb Wiki</b>
 
-<font size="1"><b>[i]Evening, May 13, 2017<br/>
-Panama[/i]</b></font>
+
+   -Evening, May 13, 2017
+
+   -Panama
 
 #### I.
 
@@ -9243,8 +9341,10 @@ In a large and complicated system there might be various things that are pleasin
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Evening, May 13, 2017<br/>
-Las Vegas[/i]</b></font>
+
+   -Evening, May 13, 2017
+
+   -Las Vegas
 
 Holy Scripture only mentions vampires once, but once is enough.
 
@@ -9455,8 +9555,10 @@ They smote the city with the edge of the sword, and one of his main motivations 
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Afternoon, May 12, 2017<br/>
-New York City[/i]</b></font>
+
+   -Afternoon, May 12, 2017
+
+   -New York City
 
 “Can I ask you something?” said Brian Young.
 
@@ -9597,8 +9699,10 @@ And Abraham said unto the LORD, “Will you not destroy the world if there are e
 [i]— Eliezer Yudkowsky[/i]
 
 </blockquote>
-<font size="1"><b>[i]Summer 1983<br/>
-Washington, DC[/i]</b></font>
+
+   -Summer 1983
+
+   -Washington, DC
 
 The overt meaning of salt is “sodium chloride”.
 
@@ -9703,8 +9807,10 @@ The LORD sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give unt
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]1993<br/>
-Gulf Of Mexico[/i]</b></font>
+
+   -1993
+
+   -Gulf Of Mexico
 
 #### I.
 
@@ -9989,8 +10095,10 @@ Praise the LORD from my hand for my son, to make a faster machine.<br/>
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Evening, May 13, 2017<br/>
-Citadel West[/i]</b></font>
+
+   -Evening, May 13, 2017
+
+   -Citadel West
 
 Sarah finished telling her story. “Wow,” said Jinxiang. She mulled it over for a second to see if she had any other comment, then just added, again: “Wow”.
 
@@ -10085,8 +10193,10 @@ Why some people think the self is a prison escapes me.<br/>
 [i]— <a href="https://twitter.com/GapOfGods">@GapOfGods</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Dawn, May 13, 2017<br/>
-Ossining, NY[/i]</b></font>
+
+   -Dawn, May 13, 2017
+
+   -Ossining, NY
 
 Commenters say Song of Songs 4:12 describes the imprisonment of the divine presence in the material world. “A garden locked is my sister, my bride,” it begins. “A rock garden locked, a spring sealed up.”
 
@@ -10226,8 +10336,10 @@ A few minutes later, three invisible figures walked right past the guard and lef
 
 ## Chapter 47: For He Beheld New Female Forms
 
-<font size="1"><b>[i]February 1984<br/>
-Citadel West[/i]</b></font>
+
+   -February 1984
+
+   -Citadel West
 
 “Evening,” the Comet King said from across the table, stifling a yawn. “Why don’t you tell me something about yourself and why I should marry you?”
 
@@ -10324,8 +10436,10 @@ Rage in favor of the proposition that the machine is somehow important in a way 
 [i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Morning, May 14, 2017<br/>
-Caribbean Sea[/i]</b></font>
+
+   -Morning, May 14, 2017
+
+   -Caribbean Sea
 
 #### I.
 
@@ -10591,8 +10705,10 @@ We were all silent just a little too long.
 
 ## Chapter 49: Terrors Of The Sun And Moon
 
-<font size="1"><b>[i]December 4, 1993<br/>
-Gulf Of Mexico[/i]</b></font>
+
+   -December 4, 1993
+
+   -Gulf Of Mexico
 
 Right on cue, people noticed the sun speeding up. There were times when this would have been a cause for concern. As it was, the astronomical community just shrugged their shoulders and said “Uriel’s doing something again”, and there the matter rested.
 
@@ -10842,8 +10958,10 @@ Praise the LORD from my hand for my son, to make a faster machine.<br/>
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Evening, May 13, 2017<br/>
-Citadel West[/i]</b></font>
+
+   -Evening, May 13, 2017
+
+   -Citadel West
 
 They had taken us back to the NORAD command center. We sat at the big table, listening to the reassuring hum of a missile-free North American airspace.
 
@@ -11075,8 +11193,10 @@ Ever since that conversation with Ana, I’ve had a horrible theory of my own. M
 
 ## Chapter 51: He Wondered That He Felt Love
 
-<font size="1"><b>[i]February 1984<br/>
-Colorado[/i]</b></font>
+
+   -February 1984
+
+   -Colorado
 
 “What can I do for you today?” Robin asked the Comet King.
 
@@ -11214,8 +11334,10 @@ And the shepherds returned, glorifying and praising God for all the possible val
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]July 29, 2001<br/>
-Gulf Of Mexico[/i]</b></font>
+
+   -July 29, 2001
+
+   -Gulf Of Mexico
 
 Winter ended. Summer passed. Another and another. Uriel taught Sohu for eight more years after the eclipse, eight years without her aging a day.
 
@@ -11429,8 +11551,10 @@ She sighed and went back to her cottage to cry.
 
 ## Chapter 53: Lover Of Wild Rebellion
 
-<font size="1"><b>[i]Morning, May 13, 2017<br/>
-New York City[/i]</b></font>
+
+   -Morning, May 13, 2017
+
+   -New York City
 
 Alvarez’s apartment was so packed with books, bomb-making supplies, and extra people that somebody had to sleep in the closet. Erica had volunteered. She figured the former Lord High Magician of the Midwest deserved the sofa more than she did. Any sacrifice for the Revolution.
 
@@ -11580,8 +11704,10 @@ A few cheers. Clark rolled his eyes. Mark McCarthy mouthed [i]He’s crazy[/i] a
 
 #### I.
 
-<font size="1"><b>[i]January 20, 2001<br/>
-Washington, DC[/i]</b></font>
+
+   -January 20, 2001
+
+   -Washington, DC
 
 The clock struck inauguration day; unfortunately, no one had yet figured out whom to inaugurate. Absent a winner to step down in favor of, President Clinton continued to to govern. More and more grievances and countergrievances with the electoral process made their way before a ploddingly slow Supreme Court. The nation waited.
 
@@ -11607,8 +11733,10 @@ I’m glad that nowadays our country requires our president-elect to undergo a m
 
 #### II.
 
-<font size="1"><b>[i]January 29, 2002<br/>
-Washington, DC[/i]</b></font>
+
+   -January 29, 2002
+
+   -Washington, DC
 
 President George W. Bush stood before the assembled Untied States government. Executive, legislative and judicial officials alike stared back at him.
 
@@ -11638,10 +11766,9 @@ In the midst of the word he was trying to say – in the midst of his laughter a
 
 ## Chapter 54: My Course Among the Stars
 
-<font size="1">[i][open-bracket]Sorry for short chapter today, I am on vacation. Will make it up next week.][/i]</font>
+   -Spring 1999
 
-<font size="1"><b>[i]Spring 1999<br/>
-Colorado[/i]</b></font>
+   -Colorado
 
 So passed fifteen years. New factories rose up. New mines sunk beneath the earth. New roads crisscrossed the mountains. Laboratories, barracks, fortresses, granaries, airstrips. All preparation for the final crusade. Over the course of a generation, the Comet King’s war on Hell shifted gradually from metaphorical spiritual struggle to “we’re going to need a lot of guns”.
 
@@ -11694,8 +11821,10 @@ I’ve reserved this space as a safety zone for pouring my empty and vain wishes
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1">[i]<b>July 1999<br/>
-Siberia</b>[/i]</font>
+
+   -July 1999
+
+   -Siberia
 
 Overtly, the meaning of “king” is “a hereditary monarch”.
 
@@ -11893,8 +12022,10 @@ Let us bring him silver and gold<br/>
 [i]— Noël Regney, <a href="https://en.wikipedia.org/wiki/Do_You_Hear_What_I_Hear%3F">Do You Hear What I Hear?</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]August 1, 1999<br/>
-Colorado Springs[/i]</b></font>
+
+   -August 1, 1999
+
+   -Colorado Springs
 
 Given the need to keep up spirits, Robin decided the people needed whatever holidays they could get. August 1, the anniversary of Colorado’s statehood, was as good an opportunity as anything else. So she stood on a rock spire in the Garden of the Gods as crowds – disproportionately female since a million men were marching in Siberia – listened for the words of their Queen Regent.
 
@@ -12074,8 +12205,10 @@ The word of the LORD is a great deal of research activity in this area, and prob
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Evening, May 13, 2017<br/>
-Citadel West[/i]</b></font>
+
+   -Evening, May 13, 2017
+
+   -Citadel West
 
 Sohu asked whether I wanted to help her with the error correction process. It was the highlight of my life thus far. It was like getting asked to debate philosophy with Aristotle, or play one-on-one against Michael Jordan. Did I want to study the kabbalah with Sohu West? My heart leapt at the thought.
 
@@ -12202,8 +12335,10 @@ The LORD is greater than or equal to the expression involving f(y)<br/>
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Evening, May 13, 2017<br/>
-Citadel West[/i]</b></font>
+
+   -Evening, May 13, 2017
+
+   -Citadel West
 
 #### I.
 
@@ -12523,8 +12658,10 @@ This is a reasonable approach for handling small problems, but it would be awkwa
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Evening, May 13, 2017<br/>
-New York City[/i]</b></font>
+
+   -Evening, May 13, 2017
+
+   -New York City
 
 When she thought about it, Erica guessed it made sense for terrorists to hold dress rehearsals. Terrorist plots were complicated things where many different people had to do their parts right the first time. So it was reasonable to want to practice in some kind of low-stakes environment.
 
@@ -12687,8 +12824,10 @@ There is free memory available into which we can design our programs, to increas
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]September 3, 1999<br/>
-Magdalena, New Mexico[/i]</b></font>
+
+   -September 3, 1999
+
+   -Magdalena, New Mexico
 
 It could have been that she was pretty once. Now her face was sunken, her head hairless. Her arm was hung in a cast, and she looked terribly frail.
 
@@ -12779,8 +12918,10 @@ He has a devil-may-care-so-let-us-make-every-effort-to-be-considerate-of-his-inf
 [i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]September 20, 1999<br/>
-Colorado Springs[/i]</b></font>
+
+   -September 20, 1999
+
+   -Colorado Springs
 
 [i]<font size="1">[open-bracket]Content warning: Thamiel chapter. Sorry for short chapter. Story will pick up again next week as we move into final arc.]</font>[/i]
 
@@ -12891,8 +13032,10 @@ Thou hast been faithful in a very interesting way.<br/>
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Afternoon, May 14, 2017<br/>
-Citadel West[/i]</b></font>
+
+   -Afternoon, May 14, 2017
+
+   -Citadel West
 
 It was afternoon, and we met together in the command center. Me. Sarah. The four Cometspawn. Vihaan, the Comet King’s uncle, chief of staff, and self-proclaimed butler. The Black Opal Throne towered over us, dominating with its emptiness.
 
@@ -13053,8 +13196,10 @@ And Music shall untune the sky!<br/>
 [i]— <a href="https://www.poets.org/poetsorg/poem/song-st-cecilias-day">John Dryden</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Afternoon, May 14, 2017<br/>
-Gulf of Mexico[/i]</b></font>
+
+   -Afternoon, May 14, 2017
+
+   -Gulf of Mexico
 
 Blue sky and fair winds, like every day in the eye of a hurricane. Multicolored symbols circled and sparkled round. Invisible celestial machinery kept up its steady pulse.
 
@@ -13091,8 +13236,10 @@ These be the words which the LORD did there confound the language of electrical 
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Afternoon, May 14, 2017<br/>
-New York City[/i]</b></font>
+
+   -Afternoon, May 14, 2017
+
+   -New York City
 
 Stefan had the most useless job at the entire United Nations – which was saying something. He and Ben stood outside of the door of a UN office building all day, checked everybody’s badges, and denied them entry if their badges were wrong. They never were.
 
@@ -13205,8 +13352,10 @@ We find that the pattern unifies with the conclusion of the rule which God hath 
 [i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Afternoon, May 14, 2017<br/>
-New York City[/i]</b></font>
+
+   -Afternoon, May 14, 2017
+
+   -New York City
 
 Brenda Burns spoke the Fulminant Name and shot a lightning bolt at Malia Ngo. It missed by a fraction of an inch and lit her desk on fire. Clark Deas had been in the process of lunging over the desk to get at Malia; his grunted as his shirt caught fire and started hitting himself against the wall, trying to put it out.
 
@@ -13301,8 +13450,10 @@ The cradle of the best and of the worst<br/>
 [i]— <a href="https://www.youtube.com/watch?v=Ag5QsNA3Xwk">Leonard Cohen</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Afternoon, May 14, 2017<br/>
-New York City[/i]</b></font>
+
+   -Afternoon, May 14, 2017
+
+   -New York City
 
 Genesis 11:4: “And they said, ‘Come, let us build us a city and a tower whose top may reach unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth’.” And the LORD waxed wroth, and He cursed them with a confusion of tongues, turned them into the seventy-two nations and scattered them around the world.
 
@@ -13410,8 +13561,10 @@ Everybody knows that the captain lied.<br/>
 [i]— <a href="https://www.youtube.com/watch?v=xS6V0waUtaQ">Leonard Cohen</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Evening, May 14, 2017<br/>
-Fire Island[/i]</b></font>
+
+   -Evening, May 14, 2017
+
+   -Fire Island
 
 #### I.
 
@@ -13660,8 +13813,10 @@ Is an Arrow from the Almighty’s Bow<br/>
 [i]— William Blake, <a href="https://www.rc.umd.edu/editions/poets/texts/greymonk.html">The Grey Monk</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]December 21, 1999<br/>
-Colorado Springs[/i]</b></font>
+
+   -December 21, 1999
+
+   -Colorado Springs
 
 No analogy suffices. They came in like what they were, the greatest army ever collected, marching back home in in a frustrating mix of victory and defeat.
 
@@ -13763,8 +13918,10 @@ The two of them disappeared.
 
 ## Chapter 69: Love Seeketh Not Itself To Please
 
-<font size="1"><b>[i]Afternoon, May 14, 2017<br/>
-Citadel West[/i]</b></font>
+
+   -Afternoon, May 14, 2017
+
+   -Citadel West
 
 The alarms went silent. North American airspace went black. The lights went out. THARMAS went quiet, then released an arc of electrical energy which briefly lit the otherwise pitch-black room before dying back down. Sohu gave a horrible primal scream.
 
@@ -13880,8 +14037,10 @@ Then she walked out of the room.
 
 ## Chapter 70: Nor For Itself Hath Any Care
 
-<font size="1"><b>[i]Evening, May 14, 2017<br/>
-Colorado Springs[/i]</b></font>
+
+   -Evening, May 14, 2017
+
+   -Colorado Springs
 
 #### I.
 
@@ -14084,8 +14243,10 @@ Everybody already has enlightenment. Why did Buddha sit for six years, see a sta
 [i]— <a href="https://www.reddit.com/r/zen/comments/2uc2f1/chunsong_sunim_18911978_a_modern_korean_zen_son/">Ch’unsong Sunim</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Evening, May 14, 2017<br/>
-Fire Island[/i]</b></font>
+
+   -Evening, May 14, 2017
+
+   -Fire Island
 
 #### I.
 
@@ -14384,8 +14545,10 @@ If we are worthy, our Master will redeem us by justice, and if not, He will rede
 [i]— <a href="http://www.cs.utah.edu/~spiegel/kabbalah/jkm10.htm">Rabbinic saying</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Evening, May 14, 2017<br/>
-Citadel West[/i]</b></font>
+
+   -Evening, May 14, 2017
+
+   -Citadel West
 
 #### I.
 
@@ -14591,8 +14754,10 @@ Yes<br/>
 [i]— <a href="https://en.wikipedia.org/wiki/William_Godwin">Will Godwin</a>[/i]
 
 </blockquote>
-<font size="1"><b>[i]Evening, May 14, 2017<br/>
-Citadel West[/i]</b></font>
+
+   -Evening, May 14, 2017
+
+   -Citadel West
 
 And the voice said:
 
