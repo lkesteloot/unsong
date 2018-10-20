@@ -12,6 +12,7 @@
     must not want to break at hyphen on next line.
 - Some em-dashes are being inserted by accident. See where he
     uses multiple hyphens.
+    - Never? Why did it look weird in places?
 - Remove space before two-part punctuation.
 - Looks like em dashes are actual em dashes with spaces around them.
     Replace with three hyphens without spaces.
