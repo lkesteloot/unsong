@@ -87,7 +87,7 @@ A series of very precise lightning strikes seared the word “OMEN” into the r
 
 The New York Stock Exchange rose by perfect integer amounts eleven days in a row. An obstetrician published an article in an obscure medical journal claiming that the kicks of unborn children, interpreted as Morse Code, formed unspeakable and blood-curdling messages.
 
-<i>(“And from the crew of Apollo 8, we close with good night, good luck, a Merry Christmas – and God bless all of – ” [sudden burst of static, then silence])</i>
+<i>(“And from the crew of Apollo 8, we close with good night, good luck, a Merry Christmas – and God bless all of – ” [open-bracket]sudden burst of static, then silence])</i>
 
 #### II.
 
@@ -201,7 +201,7 @@ He wrote me a ticket for $70. A whole day’s wages. Not to mention the number o
 
 I had missed my break. That was the worst part of all of it. I’d been humiliated, I’d lost seventy dollars, and I’d <i>missed my break</i>. I needed to vent. I lay back in my chair, closed my eyes, and concentrated as hard as I could:
 
-[Narwhals of Jericho]
+[open-bracket]Narwhals of Jericho]
 
 No answer. Figured. I was too wired up to telepathy straight.
 
@@ -243,35 +243,35 @@ And it ended: …MEH-MEH-MEH-MEH-MEH-MEH.
 
 All this I saw, as in a dream or vision. Six months and five hundred thousand nonsense words of pointless suffering, suddenly redeemed. The possibilities swam in front of me, began to take form. This wasn’t just a Name. This was the royal road. And it was mine. It was none of the candidates my computer had fed me; it was six syllables longer than any of them, Countenance would never find it. As I walked out of the office and headed for the CalTrain station, I tried to calm myself, give my mind the stillness it needed for telepathy to work. Finally, I sent out a feeler.
 
-[Baleen shem tov] I said.
+[open-bracket]Baleen shem tov] I said.
 
 A feeling, something more than nothing. Somebody was there.
 
-[Anger] said an internal voice that was not quite my own, although the telepathic link radiated only love. Then, [Moabite Dick]
+[open-bracket]Anger] said an internal voice that was not quite my own, although the telepathic link radiated only love. Then, [open-bracket]Moabite Dick]
 
-[I hate you] I thought back, but I sent through a burst of fondness. Ana and I had a running contest to come up with the worst Biblical whale pun. She always won.
+[open-bracket]I hate you] I thought back, but I sent through a burst of fondness. Ana and I had a running contest to come up with the worst Biblical whale pun. She always won.
 
-[Ana. Something amazing just happened. You know our bets?]
+[open-bracket]Ana. Something amazing just happened. You know our bets?]
 
-[Yes,] the other voice said.
+[open-bracket]Yes,] the other voice said.
 
-[I bet you I can become emperor of the world within a month. If I win, you have to give me a kiss.]
+[open-bracket]I bet you I can become emperor of the world within a month. If I win, you have to give me a kiss.]
 
-A feeling of surprise, not my own. Then suspicion. [And what do I get if you can’t?]
+A feeling of surprise, not my own. Then suspicion. [open-bracket]And what do I get if you can’t?]
 
-I hadn’t thought that far ahead. [Um. I’ll buy you dinner.]
+I hadn’t thought that far ahead. [open-bracket]Um. I’ll buy you dinner.]
 
-A pause. [No. You’re too stingy. You wouldn’t promise to buy dinner unless you were sure you could win. So what’s going on? Fess up!]
+A pause. [open-bracket]No. You’re too stingy. You wouldn’t promise to buy dinner unless you were sure you could win. So what’s going on? Fess up!]
 
-[I’ll be home in a few minutes. I’ll show you!]
+[open-bracket]I’ll be home in a few minutes. I’ll show you!]
 
-[You know we have choir tonight?]
+[open-bracket]You know we have choir tonight?]
 
-[I forgot about that. I’ll show you afterwards, then.]
+[open-bracket]I forgot about that. I’ll show you afterwards, then.]
 
-[Tabarnacle,] said Ana.
+[open-bracket]Tabarnacle,] said Ana.
 
-[I will hate you forever,] I thought cheerfully, then stepped onto the CalTrain. The bustle of finding my seat broke the connection, which was just as well. 
+[open-bracket]I will hate you forever,] I thought cheerfully, then stepped onto the CalTrain. The bustle of finding my seat broke the connection, which was just as well. 
 
 We would start tonight. By the end of the week, we would have results. By the end of the month, the whole world would have changed. It was so clear to me. It was spread out before me, like Moses’ vision of the Promised Land.
 
@@ -310,13 +310,13 @@ He’d called the head of the CIA and asked him to get whatever department full 
 
 The head of the CIA had just stood there, unflappable. “Mr. President, Roswell <i>was</i> a weather balloon. There was no cover-up. Our organization has no department dedicated to covering up inexplicable events.”
 
-“I’m the [expletive deleted] President, Helms!” Nixon had shouted. “You don’t have to lie to me! Get me your cover-up eggheads immediately!”
+“I’m the [open-bracket]expletive deleted] President, Helms!” Nixon had shouted. “You don’t have to lie to me! Get me your cover-up eggheads immediately!”
 
 “I’m sorry Mr. President,” he said coolly, “there’s no such agency.”
 
-“[expletive deleted] [expletive deleted]”, Nixon had answered. “Get the [expletive deleted] out of here!”
+“[open-bracket]expletive deleted] [open-bracket]expletive deleted]”, Nixon had answered. “Get the [open-bracket]expletive deleted] out of here!”
 
-Then he’d gone to NASA, the Department of Defense, and even the [expletive deleted] National Bureau of Standards, which was apparently in charge of timekeeping and which he hadn’t even known [expletive deleted] existed until today. The today before today. Yestertoday. [expletive deleted] [expletive deleted]. None of them had been any more help than the [expletive deleted] CIA.
+Then he’d gone to NASA, the Department of Defense, and even the [open-bracket]expletive deleted] National Bureau of Standards, which was apparently in charge of timekeeping and which he hadn’t even known [open-bracket]expletive deleted] existed until today. The today before today. Yestertoday. [open-bracket]expletive deleted] [open-bracket]expletive deleted]. None of them had been any more help than the [open-bracket]expletive deleted] CIA.
 
 It was those cracks in the sky. He was sure of it. Apollo 8 had hit <i>something important</i>. The eggheads at NASA had posited some kind of “nebulous envelope” surrounding the orbit of the moon, made of “compressed dust and gas”. Apollo 8’s collision had caused it to “oscillate”, creating the pattern of glowing, growing spiderweb cracks visible to anybody who looked up into the night sky.
 
@@ -332,7 +332,7 @@ The first today it started ringing, he’d stared at it for like three minutes b
 
 The second today, he’d been suspicious that it would ring again at the same time, so he’d called an interpreter to the Oval Office. At 7:38 PM, the interpreter had picked it up. “Allo,” the interpreter had said, then started looking more and more puzzled. “This isn’t Russian,” he had said. Then, “This isn’t related to any language I know.” Then, “I don’t think this is a real language.” A few hours later he’d sent over an analysis from the State Department, which concluded that the “language” consisted of the names of the capitals of various 16th-century European countries, arranged in seemingly random combinations.
 
-Today today, Nixon hadn’t bothered. He just sat in the Oval Office doing work. He had been meeting with a man from the Weather Bureau, who wanted to tell him that the clouds were forming ominous patterns. Nixon hadn’t bought it. “I’m the [expletive deleted] President of the United States,” he had told the man, “Do you want me to [expletive deleted] tell you if it’s a cold front or a warm front?”
+Today today, Nixon hadn’t bothered. He just sat in the Oval Office doing work. He had been meeting with a man from the Weather Bureau, who wanted to tell him that the clouds were forming ominous patterns. Nixon hadn’t bought it. “I’m the [open-bracket]expletive deleted] President of the United States,” he had told the man, “Do you want me to [open-bracket]expletive deleted] tell you if it’s a cold front or a warm front?”
 
 The man had clarified that he meant <i>really</i> ominous patterns. Like, some big thunderstorms in the Rockies were starting to develop high anvil-like peaks – which was within normal variability for this time of year  – but also starting to develop domes and minarets and flying buttresses – which weren’t. And although the Doppler radar didn’t have good enough resolution to be sure, some of the buttresses were starting to look like they might have gargoyles on them.
 
@@ -344,7 +344,7 @@ To his surprise, the voice on the other end now spoke perfect English.
 
 “HELLO PRESIDENT NIXON. THIS IS THE ARCHANGEL URIEL. I APOLOGIZE FOR RECENT DISRUPTIONS. THE MACHINERY OF THE UNIVERSE HAS BEEN SEVERELY DAMAGED. I AM WORKING TO CONTAIN THE EFFECTS, BUT AT THIS POINT MY POWER IS LIMITED BECAUSE I AM STILL MOSTLY METAPHORICAL. PLEASE INFORM EVERYONE THAT I REGRET THE INCONVENIENCE. AS COMPENSATION FOR YOUR TROUBLE, I HAVE GIVEN EVERY HUMAN THE ABILITY TO PLAY THE PIANO.”
 
-“Wait just a moment here,” said Nixon. “Wait just an [expletive deleted] moment!”
+“Wait just a moment here,” said Nixon. “Wait just an [open-bracket]expletive deleted] moment!”
 
 No response.
 
@@ -358,7 +358,7 @@ President Nixon stepped out of the Oval Office and walked downstairs. He went do
 
 He sat down on the piano bench and performed a flawless rendition of Bach’s Concerto I in D Minor.
 
-“[expletive deleted],” said the president.
+“[open-bracket]expletive deleted],” said the president.
 
  
 
@@ -392,7 +392,7 @@ One of them stood by the makeshift podium. Her hair was in something that made m
 
 Erica was used to this sort of commentary from me. She shot me a smile and turned back to the guy in the leather jacket.
 
-On the other side of the room I spotted Ana Thurmond, love of my life and partner in Biblical whale pun telepathy. She was reading a book and pretending to ignore everybody, while actually shooting me psychic commentary about some of the more unusual celebrants. [Oh no,] she thought at me, as Bill Dodd and Karen Happick came through the door arm in arm, [they’ve finally started dating. God Most High help them both.]
+On the other side of the room I spotted Ana Thurmond, love of my life and partner in Biblical whale pun telepathy. She was reading a book and pretending to ignore everybody, while actually shooting me psychic commentary about some of the more unusual celebrants. [open-bracket]Oh no,] she thought at me, as Bill Dodd and Karen Happick came through the door arm in arm, [open-bracket]they’ve finally started dating. God Most High help them both.]
 
 Before I had time to reply, Erica had taken the podium and called the meeting to order. In accordance with tradition too ancient and hoary to describe, she began by reciting a poem from a world spiritual tradition in which she found personal meaning:
 
@@ -510,13 +510,13 @@ The Names of God are long and apparently meaningless. If you’re not a freaky m
 
 “ASAT-ZAM-RUS!”
 
-[You’re going to finish this quickly, skip the food, and tell me how you’ll become World Emperor soon, right?]
+[open-bracket]You’re going to finish this quickly, skip the food, and tell me how you’ll become World Emperor soon, right?]
 
-[Shhhh! I’m trying to concentrate!]
+[open-bracket]Shhhh! I’m trying to concentrate!]
 
-[The Gospel according to Fluke]
+[open-bracket]The Gospel according to Fluke]
 
-[…um…Epistle to Philemonstro. Also, @#$% you.]
+[open-bracket]…um…Epistle to Philemonstro. Also, @#$% you.]
 
 “Asat-zam…sorry…where were we?…Asat-zam-rus-shan-sever-las-kyon-dal-athen-try-kophu-li-mar-tan-day!”
 
@@ -1594,11 +1594,11 @@ We stared into each other’s eyes for a moment after that. What we were looking
 
 “Wait. Think something at me.”
 
-And I thought: [Ruth and Bowhead]
+And I thought: [open-bracket]Ruth and Bowhead]
 
 “Holy euphemism the first thing ever in history communicated telepathically and it’s one of your stupid Biblical whale puns, that wasn’t even a <i>good</i> one, I am so done with this.”
 
-And I thought: [Shamu Yisrael, HaShem elokeinu…]
+And I thought: [open-bracket]Shamu Yisrael, HaShem elokeinu…]
 
 “Aaaagh, stop, why did I give you the ability to communicate with me telepathically? Why? WHY? What’s that thing Erica always says? Oh, right. This was the biggest mistake of my life and I hope I die.”
 
@@ -2313,7 +2313,7 @@ Mark McCarthy, the last remaining Archmage of North America, took a deep breath.
 
 Three and one half minutes later, the police burst through the door. They had received an anonymous tip by a man with a slight Mexican accent, saying that they would find the man who had killed his four fellow Archmages sitting alone and sobbing among the bodies of his victims.
 
-<i>[There is now an Author’s Notes section on the menu above, and <a href="http://unsongbook.com/authors-note-1/">Author’s Note 1</a> is up.]</i>
+<i>[open-bracket]There is now an Author’s Notes section on the menu above, and <a href="http://unsongbook.com/authors-note-1/">Author’s Note 1</a> is up.]</i>
 
  
 
@@ -2505,7 +2505,7 @@ Well, other people had been clever. Ana was right. “Nobody else can possibly b
 
 <i>Ana</i>. Ana was in that house. Ana was in danger. Also Erica. Also depending on who had been able to pay their rent last month somewhere between six and eight other Stevensite Unitarians whom I was on moderately good terms with. And Sarah. What happened if UNSONG got Sarah? It was too terrible to think about.
 
-And yet approximately zero percent of my brain’s emotional capacity was devoted to worrying about my superpowerful magic computer. <i>Ana</i>, my limbic system screamed. She was my weird Platonic sort-of-girlfriend except we were just friends and I wasn’t supposed to call her that. That was a bond stronger than death. <i>Ana was in danger</i>. [Ana!] I thought. No answer. Obviously too stressed for telepathy right now.
+And yet approximately zero percent of my brain’s emotional capacity was devoted to worrying about my superpowerful magic computer. <i>Ana</i>, my limbic system screamed. She was my weird Platonic sort-of-girlfriend except we were just friends and I wasn’t supposed to call her that. That was a bond stronger than death. <i>Ana was in danger</i>. [open-bracket]Ana!] I thought. No answer. Obviously too stressed for telepathy right now.
 
 The overt meaning of teller is “someone who narrates a story.”
 
@@ -2635,7 +2635,7 @@ Erica – her cousin. Aaron – her weird platonic friend whom she had married <
 
 Had Aaron screwed up? What had happened on his trip to Stanford? Had he told Dodd? Was it just a coincidence? Were they in trouble for hosting Unitarian meetings, for misusing protected Names, or for trying to take over the world? Had anybody died? Those people in the black vans looked <i>really serious</i>.
 
-[Aaron?] she asked mentally, but there was no answer.
+[open-bracket]Aaron?] she asked mentally, but there was no answer.
 
 She couldn’t go back to Ithaca. UNSONG would be watching. She couldn’t go to her parents in Redwood City, if UNSONG had figured out the extent of what they discovered they’d be watching her parents as well. There were various Unitarians up in the North Bay – but if they knew about Ithaca then maybe they’d infiltrated the Unitarians. Her friends weren’t safe. They might not really be her friends.
 
@@ -2683,7 +2683,7 @@ Wait. Sarah. Whoever did this must not know what Sarah was. Who, knowing the com
 
 She minimized the README file, looked at the computer again. Nothing. Somebody had wiped the computer clean of everything except the Sarah Michelle-Gellar wallpaper. Maybe transferred it to a different computer? Maybe this was a shell of Sarah, and the real Sarah was somewhere else?
 
-She briefly thought of how horrified Aaron would be to know that some hypercompetent secret conspiracy had his porn collection, and she laughed [EVEN THOUGH THIS IS NOT FUNNY AT ALL]
+She briefly thought of how horrified Aaron would be to know that some hypercompetent secret conspiracy had his porn collection, and she laughed [open-bracket]EVEN THOUGH THIS IS NOT FUNNY AT ALL]
 
 Then she turned herself invisible again. It was weird, because she still had a perfect proprioceptive sense of exactly where her body was, she could almost see it as if it were there. But she was definitely invisible. Her clothes were also invisible.
 
@@ -3212,7 +3212,7 @@ The cell was spacious – although to be fair my standards had been set by the s
 
 I cleared my mind as best I could. 
 
-[Ana, are you there? Where are you?]
+[open-bracket]Ana, are you there? Where are you?]
 
 There was nothing. Either Ana was far away, or distracted, or asleep, or – I couldn’t make myself think “dead”. I would have felt it if she died. That, I told myself, is definitely how kabbalistic marriages work.
 
@@ -3334,9 +3334,9 @@ Ngo was starting to look very dubious now. I didn’t have much time.
 
 “Moses recited a poem about tacos.”
 
-[Aaron] came a voice from deep in my head. [I’ve come to save you. Are you there?]
+[open-bracket]Aaron] came a voice from deep in my head. [open-bracket]I’ve come to save you. Are you there?]
 
-[Ana?] A horror. Ana Thurmond was in this place. [Ana, I can take care of myself…maybe…Ana, get out!]
+[open-bracket]Ana?] A horror. Ana Thurmond was in this place. [open-bracket]Ana, I can take care of myself…maybe…Ana, get out!]
 
 But to Malia Ngo, I said only: “Neptune.”
 
@@ -3406,9 +3406,9 @@ An armored car drove up. The entryway opened to accept it. Ana Thurmond slipped 
 
 It was heavy and oppressive, like a heartbeat slightly out of rhythm, but also not like that at all. She couldn’t tell if it was auditory, or tactile, or olfactory. It was just this sense like there was a black hole just out of view, sucking in everything good about the universe. For lack of any better form of navigation, she followed the wrongness.
 
-[Aaron?] she thought as she wandered through the corridors. [I’ve come to save you. Are you there?]
+[open-bracket]Aaron?] she thought as she wandered through the corridors. [open-bracket]I’ve come to save you. Are you there?]
 
-[Ana!] I thought back at her. [Ana, I can take care of myself…maybe…Ana, get out!]
+[open-bracket]Ana!] I thought back at her. [open-bracket]Ana, I can take care of myself…maybe…Ana, get out!]
 
 And then she felt my mental trace suddenly vanish from her mind.
 
@@ -3463,7 +3463,7 @@ She was finished with the lands of men.
 She was going to San Francisco.
 
 <hr/>
-<i>[<a href="http://unsongbook.com/authors-note-2-podcast-llull-meetups/">Author’s note 2</a> has been posted. I will be having a series of meetups in the Bay Area for readers of my other blog Slate Star Codex; Unsong readers are welcome to attend and we may have a dramatic reading of upcoming Interlude Zayin if there is enough interest. Current planned dates and times are:</i>
+<i>[open-bracket]<a href="http://unsongbook.com/authors-note-2-podcast-llull-meetups/">Author’s note 2</a> has been posted. I will be having a series of meetups in the Bay Area for readers of my other blog Slate Star Codex; Unsong readers are welcome to attend and we may have a dramatic reading of upcoming Interlude Zayin if there is enough interest. Current planned dates and times are:</i>
 
 — 2 PM on Sunday April 17 at the CFAR office, 2030 Addison, 7th floor, Berkeley<br/>
 — 7 PM on Monday April 18 at the Friedmans’ house, 3806 Williams Rd, San Jose<br/>
@@ -3887,7 +3887,7 @@ My uncle told me it was Neil Armstrong, who had passed beyond time into Eternity
 
 
 <center><img data-recalc-dims="1" src="https://i2.wp.com/slatestarcodex.com/blog_images/book2imageb.png?w=557"/></center>
-<font size="1">[A picture of a ship with bright multicolored sails in front of a city with various strange skyscrapers. The text says “Your faith was strong but you needed proof / Hay hay yud tav mem tav vav kuf / A ship on which another sailed before us / She saw his flag on the highest mast / She saw a dream that couldn’t last / The Comet King receiving haMephorash – Leonard Cohen, HaMephorash”. City image by a reader who wishes to remain unnamed; ship image is a photoshop of <a href="http://www.charterworld.com/news/phoenicia-sailing-yacht-concept-igor-lobanov/phoenicia-sailing-yacht-concept-by-igor-lobanov-2">this concept yacht</a>]</font>
+<font size="1">[open-bracket]A picture of a ship with bright multicolored sails in front of a city with various strange skyscrapers. The text says “Your faith was strong but you needed proof / Hay hay yud tav mem tav vav kuf / A ship on which another sailed before us / She saw his flag on the highest mast / She saw a dream that couldn’t last / The Comet King receiving haMephorash – Leonard Cohen, HaMephorash”. City image by a reader who wishes to remain unnamed; ship image is a photoshop of <a href="http://www.charterworld.com/news/phoenicia-sailing-yacht-concept-igor-lobanov/phoenicia-sailing-yacht-concept-by-igor-lobanov-2">this concept yacht</a>]</font>
 
  
 
@@ -5285,7 +5285,7 @@ Six months later Mao was dead, the peasant was the first Harmonious Jade Dragon 
 
 Winston Churchill had once said “If Hitler were fighting Hell, I would at least make a favorable reference to the Devil.” Richard Nixon was familiar with this quote. Richard Nixon had no sense of humor.
 
-“I’ve been working my [expletive deleted] off to protect this country from Communism for twenty years,” he told the Cabinet, “and [expletive deleted] if I’m going to stop now just because there’s a moral grey area. I just want you to think big, for Chrissakes. A chance to end this [expletive deleted] once and for all. By God, people, this is our chance!”
+“I’ve been working my [open-bracket]expletive deleted] off to protect this country from Communism for twenty years,” he told the Cabinet, “and [open-bracket]expletive deleted] if I’m going to stop now just because there’s a moral grey area. I just want you to think big, for Chrissakes. A chance to end this [open-bracket]expletive deleted] once and for all. By God, people, this is our chance!”
 
 The overt meaning of “kiss” is “to press the lips against another person as a sign of affection.”
 
@@ -5336,7 +5336,7 @@ But as the demons very slowly pushed their way toward Moscow, buoyed by their ne
 
 “Yes.”
 
-“What about our [expletive deleted] souls, Kissinger?”
+“What about our [open-bracket]expletive deleted] souls, Kissinger?”
 
 “I fail to see how they are relevant to geopolitics.”
 
@@ -5785,53 +5785,53 @@ Los Angeles</i></b></font>
 
 Coming from the edge of my consciousness, a faint voice:
 
-[Thou shalt not krill]
+[open-bracket]Thou shalt not krill]
 
 The organizing soul within me – the kabbalists would have called it the neshamah – awoke, even as my body dozed on the hotel bed.
 
-[Thou shalt not commit idolphintry] I answered, but I knew deep down it was a second-rate attempt.
+[open-bracket]Thou shalt not commit idolphintry] I answered, but I knew deep down it was a second-rate attempt.
 
-[Weak,] said Ana. [Where are you? Are you safe? Are you okay?]
+[open-bracket]Weak,] said Ana. [open-bracket]Where are you? Are you safe? Are you okay?]
 
-[I spent the morning kayaking with a pretty girl, and then she invited me back to her hotel room and handcuffed me to the bed.]
+[open-bracket]I spent the morning kayaking with a pretty girl, and then she invited me back to her hotel room and handcuffed me to the bed.]
 
-[Really?] asked Ana.
+[open-bracket]Really?] asked Ana.
 
 I opened my eyes, taking care not to break the hypnopompic trance that smoothed the telepathic link between us. The clock told me it was early afternoon. Jane was nowhere to be found. I still had a gag in my mouth to prevent me from speaking any Names, and I still had my hands cuffed to the bedposts to prevent me from taking off the gag. I’d asked Jane why she carried a gag and handcuffs with her in her luggage, and she hadn’t answered. Too rushed to restrain me so that she could run out and search for her precious Beanie Baby.
 
-[Really,] I said, and sent Ana my memories of that morning. Speaking the Vanishing Name right under Malia Ngo’s watchful eyes. Escaping the Strategic Angel Reserve with Jane. The frantic search for her missing Beanie Baby, no amount of pleading inducing her to offer an explanation. Then her restraining me so she could expand the search to the rest of the city. [And you! What happened to you? You were with me in UNSONG! And then you learned a Name! Where are you? Are you safe? Where is Erica?]
+[open-bracket]Really,] I said, and sent Ana my memories of that morning. Speaking the Vanishing Name right under Malia Ngo’s watchful eyes. Escaping the Strategic Angel Reserve with Jane. The frantic search for her missing Beanie Baby, no amount of pleading inducing her to offer an explanation. Then her restraining me so she could expand the search to the rest of the city. [open-bracket]And you! What happened to you? You were with me in UNSONG! And then you learned a Name! Where are you? Are you safe? Where is Erica?]
 
-[I’m on a boat,] she said. [I haven’t seen Erica, but she’s not dead. The link from the partial marriage ceremony would have told me that, I think. I keep trying to telepathically ping her, but I’ve never been able to feel her as strong as you.] Then she sent me her own memories. Sarah appearing mysteriously in her hotel room. San Francisco. The Comet King’s ship.
+[open-bracket]I’m on a boat,] she said. [open-bracket]I haven’t seen Erica, but she’s not dead. The link from the partial marriage ceremony would have told me that, I think. I keep trying to telepathically ping her, but I’ve never been able to feel her as strong as you.] Then she sent me her own memories. Sarah appearing mysteriously in her hotel room. San Francisco. The Comet King’s ship.
 
-[So you don’t have the computer?]
+[open-bracket]So you don’t have the computer?]
 
-[No.]
+[open-bracket]No.]
 
 Everything I’d been doing up until now had been predicated on Ana having Sarah. If Ana had Sarah, the plan was still intact. She would become mighty. She would rescue me. We would be rich and important. If Ana didn’t have Sarah, then the error correction was our only hope. Otherwise, I’d be back to being nobody. The thought was somehow worse than being a fugitive, worse than being cuffed to a bed. I could take a lot if I was somebody. The thought of falling back into my cog-in-the-machine status filled me with dread.
 
-Ana felt my worries. [As soon as we reach a friendly port,] she said, [I’ll find the error correction books. Or if I can get in contact with Erica, I’ll try to get her to read them and send us the information we need.]
+Ana felt my worries. [open-bracket]As soon as we reach a friendly port,] she said, [open-bracket]I’ll find the error correction books. Or if I can get in contact with Erica, I’ll try to get her to read them and send us the information we need.]
 
 I sent her a burst of grateful encouragement.
 
-[In the meantime,] she asked [do you need rescuing?]
+[open-bracket]In the meantime,] she asked [open-bracket]do you need rescuing?]
 
 Jane didn’t seem evil in the same way as Ngo. And Colorado was a good place. But the handcuffs on my wrists reminded me that she probably didn’t have my best interests at heart either. And exactly because Colorado was a good place, it was the sort of place that she would reassure me we were going, even if she worked for the Harmonious Jade Dragon Empire or somewhere further afield. I noticed that she had told me we were going back to the Biltmore to meet her transportation back to Colorado, then left on her search without expressing any worries that she might miss said transportation. Jane didn’t seem evil, exactly, but she was suspicious, secretive, and maybe crazy.
 
-[I think I might,] I said.
+[open-bracket]I think I might,] I said.
 
-[Then when we reach our next port, I’ll get off and try to find you. I don’t think these people will try to stop me. They seem nice.] I felt no fear in her mind. Yes, Ana had the Spectral Name and potentially the element of surprise. That was a pretty deadly combination. But still. No fear. I sent her a burst of positive emotion. [One more thing,] she added, and she sent me the Airwalker and Zephyr Names.
+[open-bracket]Then when we reach our next port, I’ll get off and try to find you. I don’t think these people will try to stop me. They seem nice.] I felt no fear in her mind. Yes, Ana had the Spectral Name and potentially the element of surprise. That was a pretty deadly combination. But still. No fear. I sent her a burst of positive emotion. [open-bracket]One more thing,] she added, and she sent me the Airwalker and Zephyr Names.
 
-[Who do you think got the computer and gave those to you?]
+[open-bracket]Who do you think got the computer and gave those to you?]
 
-[Honestly?] asked Ana. [God.]
+[open-bracket]Honestly?] asked Ana. [open-bracket]God.]
 
-[You think God directly intervened in the universe to help you and your friend when they were in trouble? Don’t they warn you against that kind of thing in Theodicy 101?]
+[open-bracket]You think God directly intervened in the universe to help you and your friend when they were in trouble? Don’t they warn you against that kind of thing in Theodicy 101?]
 
 I didn’t get to hear her answer. The jingling noise of a key turned in the lock.
 
-[Jane’s coming back,] I said. [You tell your mysterious billionaire sailor friends to keep you safe.]
+[open-bracket]Jane’s coming back,] I said. [open-bracket]You tell your mysterious billionaire sailor friends to keep you safe.]
 
-[You tell your psychotic spy girl friend to keep her hands off you,] she thought back. [You’re already kabbalistically married!]
+[open-bracket]You tell your psychotic spy girl friend to keep her hands off you,] she thought back. [open-bracket]You’re already kabbalistically married!]
 
 I sent her a burst of the most positive emotions I could manage just as Jane flung open the door and turned on the light, breaking my trance. I startled fully awake.
 
@@ -5888,7 +5888,7 @@ The greatest trick the Devil ever pulled was spreading a catchy quote denying al
 <i>— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a></i>
 
 </blockquote>
-<i><font size="1">[Content warning: Part II of this chapter contains graphic scenes including references to Hell, gore, rape, psychological torture, and death. Some commenters are saying it was excessive even beyond the level suggested by this content warning, so take that into account. If you don’t want to read it, you can skip to Part III without missing too much plot-wise. Thanks to Pyth for helping out as Hell Consultant.]</font></i>
+<i><font size="1">[open-bracket]Content warning: Part II of this chapter contains graphic scenes including references to Hell, gore, rape, psychological torture, and death. Some commenters are saying it was excessive even beyond the level suggested by this content warning, so take that into account. If you don’t want to read it, you can skip to Part III without missing too much plot-wise. Thanks to Pyth for helping out as Hell Consultant.]</font></i>
 
 #### I.
 
@@ -6284,7 +6284,7 @@ In Europe, tides of pro-Church sentiment swept the traditionally Catholic countr
 
 In the Oval Office, Richard Nixon, who had blown off the Broadcast as propaganda when he first saw it, watched it for what had to be like the twentieth time.
 
-“[Expletive deleted]”, said Nixon.
+“[open-bracket]Expletive deleted]”, said Nixon.
 
 A few people, through some innate defect of character or the certainty that they were going to Hell whatever happened, took advantage of the chaos. Anyone who could put on a tattered cloak and start begging became an instant millionaire. Nonexistent charities sprang up, collected so much money they needed extra mailboxes to fit the envelopes full of cash, then closed down before anyone asked them how exactly they plan to solve world hunger from Jonesboro, Arkansas. The few businesspeople remaining were terrorized by job applicants pointing out how <i>desperate</i> and <i>needy</i> they were and how it would definitely look good in St. Peter’s celestial ledger if they were to be immediately hired to do minimal work at high salaries.
 
@@ -6326,27 +6326,27 @@ Why was the President in a spaceship? was what everyone wanted to know.
 
 Air Force One was sent to California to return Nixon to Washington; whether as president or prisoner no one was sure. Witnesses were called. Records were subpoenaed. It was discovered that the President had kept recordings of everything he had said in the Oval Office, and these were added to the pile of evidence.
 
-“Look,” Nixon told Kissinger, in one of the most damning tapes. “Everything I did, I did for the love of this country, I did it to fight communism. But [expletive deleted] God isn’t going to see it that way. He’s going to be too soft to realize what had to be done. And I’m going to end up burning in [expletive deleted] for all eternity. Why the [expletive deleted] did I ever let you convince me to sign an alliance with [expletive deleted]?”
+“Look,” Nixon told Kissinger, in one of the most damning tapes. “Everything I did, I did for the love of this country, I did it to fight communism. But [open-bracket]expletive deleted] God isn’t going to see it that way. He’s going to be too soft to realize what had to be done. And I’m going to end up burning in [open-bracket]expletive deleted] for all eternity. Why the [open-bracket]expletive deleted] did I ever let you convince me to sign an alliance with [open-bracket]expletive deleted]?”
 
 “The idea behind the alliance was sound,” Kissinger answered. “We did not entirely understand how things stood at the time, but even if we had, I would have made the same suggestion. Brezhnev was getting too strong, especially with the Vietnamese and the South American communist movements. We did what we had to do. If the good Lord disagrees with me, I will be happy to point out His tactical errors.”
 
-“[expletive deleted] easy for you to say!” said the President. “You can talk anybody into anything. But I’m the one whose [expletive deleted] soul is on the line. Doesn’t the Bible say something about that? What use is it to something something the world if it cost you your soul? Something [expletive deleted] hippie dippy like that? I’m breaking the alliance. There’s no other choice.”
+“[open-bracket]expletive deleted] easy for you to say!” said the President. “You can talk anybody into anything. But I’m the one whose [open-bracket]expletive deleted] soul is on the line. Doesn’t the Bible say something about that? What use is it to something something the world if it cost you your soul? Something [open-bracket]expletive deleted] hippie dippy like that? I’m breaking the alliance. There’s no other choice.”
 
 “There may be another way. As you know, Captain Armstrong disappeared into the cracks in the sky. Exactly where he went is uncertain, but you cannot have missed the popular press speculating that he entered Heaven. I have been having some of my people look into it. I believe that just there is a gate to Hell inside the Earth, so the edge of space may be an outer gate which leads to Heaven.
 
-“[expletive deleted] great. So this [expletive deleted] gate outside the world would get me to Heaven. How am I supposed to get there? Take a ride in an [expletive deleted] spaceship?”
+“[open-bracket]expletive deleted] great. So this [open-bracket]expletive deleted] gate outside the world would get me to Heaven. How am I supposed to get there? Take a ride in an [open-bracket]expletive deleted] spaceship?”
 
 “You have several.”
 
-“God, you’re [expletive deleted] serious.”
+“God, you’re [open-bracket]expletive deleted] serious.”
 
 “The director of NASA is loyal to the administration,” said Kissinger. “I have seen to it. Apollo 13 has been ready for launch for years now, but it has never been the right time; always an emergency. We will make it known to NASA that now is the right time, and they will need to make room for a fourth person. The astronauts will grumble, but they will not betray the secret. They are military men, and you are their commander-in-chief.”
 
-“I [expletive deleted] am!” said Nixon. “Holy God, you’re starting to convince me. So when can we start heading to this Outer Gate of yours?”
+“I [open-bracket]expletive deleted] am!” said Nixon. “Holy God, you’re starting to convince me. So when can we start heading to this Outer Gate of yours?”
 
 “I believe NASA can have the craft ready within about a month. After that it will be a three day flight to the crystal sphere, and from there you may descend into the Outer Gate and save your soul while our alliance against Communism remains intact.”
 
-“I don’t [expletive deleted] believe this, but let’s do it!” Nixon was heard to say when the full recording was played before a hearing of the House Judiciary Committee, whose members voted unanimously to propose a motion for impeachment. It wasn’t just politics. The witch hunts against anyone who tried to cheat the God-fearing, hell-fearing public had only just started to die down. And now here was the President, trying to cheat in the most fantastic way possible, to buy his salvation on the taxpayer dime while leaving his supposed constituents to burn. The question wasn’t whether Nixon would be impeached. The question was how many seconds he would last after Secret Service protection was withdrawn.
+“I don’t [open-bracket]expletive deleted] believe this, but let’s do it!” Nixon was heard to say when the full recording was played before a hearing of the House Judiciary Committee, whose members voted unanimously to propose a motion for impeachment. It wasn’t just politics. The witch hunts against anyone who tried to cheat the God-fearing, hell-fearing public had only just started to die down. And now here was the President, trying to cheat in the most fantastic way possible, to buy his salvation on the taxpayer dime while leaving his supposed constituents to burn. The question wasn’t whether Nixon would be impeached. The question was how many seconds he would last after Secret Service protection was withdrawn.
 
 As the Outer Gate scandal entered its third week, Nixon bowed out. He struck a deal with the House; if he resigned peacefully, he would be granted safe passage to a comfortable exile in his hometown of Yorba Linda, California Republic. Under cover of night, the President was flown out of Washington DC, as mobs pelted Air Force One with stones and Molotov cocktails.
 
@@ -8086,7 +8086,7 @@ The room was nevertheless struck silent by Uriel’s comment.
 
 Finally, Cyrillic foreign minister Andrei Kozyrev said: “That’s really dumb.”
 
-Then everybody started speaking at once. America was demanding order. Israel was insisting this had nothing to do with their actual claim, which was firmly based upon centuries of glorious [mumble]. Palestine was discussing how outraged they were. Iran and Egypt were insisting that if Palestine was outraged, then they were also outraged. The Harmonious Jade Dragon Empire’s interpreters were giving each other awkward looks and refusing to translate.
+Then everybody started speaking at once. America was demanding order. Israel was insisting this had nothing to do with their actual claim, which was firmly based upon centuries of glorious [open-bracket]mumble]. Palestine was discussing how outraged they were. Iran and Egypt were insisting that if Palestine was outraged, then they were also outraged. The Harmonious Jade Dragon Empire’s interpreters were giving each other awkward looks and refusing to translate.
 
 Somehow Minister Ali Velayati of Iran ended up with what could charitably be described as the floor.
 
@@ -8469,33 +8469,33 @@ Uriel was silent.
 
 The Comet King stared directly at Sohu, spoke into her mind in that creepy way that he did. 
 
-[Keep him safe, Sohu. I am counting on you.]
+[open-bracket]Keep him safe, Sohu. I am counting on you.]
 
-[You lied to him, Father]
+[open-bracket]You lied to him, Father]
 
-[I told him the truth. His part is to remain strong and do his duty. If he fails, I will remain strong and do mine. You will do no less.]
+[open-bracket]I told him the truth. His part is to remain strong and do his duty. If he fails, I will remain strong and do mine. You will do no less.]
 
-[That’s not what I mean. You told him you could break quietly. But you told me that if someone hurt me, you would go nuclear on them.]
+[open-bracket]That’s not what I mean. You told him you could break quietly. But you told me that if someone hurt me, you would go nuclear on them.]
 
-[I told both of you the truth. I will destroy anyone who hurts you. But not because I would be broken. Because I would remain intact.]
+[open-bracket]I told both of you the truth. I will destroy anyone who hurts you. But not because I would be broken. Because I would remain intact.]
 
 He sent her something telepathically, a tangle of thoughts mixed with emotions. When she sorted it out, it came into her mind like a question and answer. The question went <i>If you are Moschiach, and you have to care for everyone as if they are your own children, how do you care for those who are literally your children?</i> The answer was a non-answer, a steamrolling over the paradox. <i>You care for them even more. You care for them extremely and ferociously, beyond any reason.</i>
 
-He stared at her. [Sohu. Promise me you won’t die.]
+He stared at her. [open-bracket]Sohu. Promise me you won’t die.]
 
 She almost laughed, almost told him that of course that wasn’t something she could promise. Then she saw the look on his face, dead serious. She remembered what Uriel had answered him only a few minutes before. So she just said:
 
-[There’s a prophecy, Father.]
+[open-bracket]There’s a prophecy, Father.]
 
-[You will be a celestial kabbalist. You can stand above prophecy.]
+[open-bracket]You will be a celestial kabbalist. You can stand above prophecy.]
 
 <i>That</i> was something she hadn’t heard before. 
 
-[But even without prophecies, everyone dies.]
+[open-bracket]But even without prophecies, everyone dies.]
 
-[Then promise me you will not die before I do.]
+[open-bracket]Then promise me you will not die before I do.]
 
-Something in his look prevented her from arguing any further. [All right, Father. I promise.]
+Something in his look prevented her from arguing any further. [open-bracket]All right, Father. I promise.]
 
 The Comet King turned into lightning and flew away, merging into the general fury of the storm.
 
@@ -8622,19 +8622,19 @@ Erica was throwing onions at <i>both of us</i> now, and one of them had hit me j
 
 “OKAY,” she shouted. “EVERYBODY IS GOING TO SIT DOWN AND EAT THEIR DAMN DINNER AND NO MORE TRIBE OF ISRAEL PUNS SO HELP ME GOD.”
 
-I looked straight at Ana and I thought [Sit down and eat their Dan dinner]
+I looked straight at Ana and I thought [open-bracket]Sit down and eat their Dan dinner]
 
-She looked back at me and thought [So help me Gad]
+She looked back at me and thought [open-bracket]So help me Gad]
 
-I thought [We should Asher her that we’re not going to make any more puns]
+I thought [open-bracket]We should Asher her that we’re not going to make any more puns]
 
 Then we both broke down laughing helplessly.
 
-“ARE YOU THINKING TRIBES OF ISRAEL PUNS AT EACH OTHER TELEPATHICALLY?” shouted Erica, and nobody else at the table even <i>knew</i> about the telepathic link so they thought she was making some kind of joke and started laughing awkwardly, and just as I had almost calmed down Ana thought at me [Our puns seem to be Reuben her the wrong way] and then I broke down laughing again, and it bled through the telepathic link and made <i>Ana</i> start laughing again, and both of us laughed like maniacs while the rest of our friends just stared at us.
+“ARE YOU THINKING TRIBES OF ISRAEL PUNS AT EACH OTHER TELEPATHICALLY?” shouted Erica, and nobody else at the table even <i>knew</i> about the telepathic link so they thought she was making some kind of joke and started laughing awkwardly, and just as I had almost calmed down Ana thought at me [open-bracket]Our puns seem to be Reuben her the wrong way] and then I broke down laughing again, and it bled through the telepathic link and made <i>Ana</i> start laughing again, and both of us laughed like maniacs while the rest of our friends just stared at us.
 
 I tell you this story as an apology. So that when we get to the part in the next chapter where I had to decide between dooming the world and dooming Ana, you understand why it was such a tough choice.
 
-<i>[A new author’s note <a href="http://unsongbook.com/authors-note-5-san-francisco-polytopes-divine-cars/">is now up</a>. Also, if you like this story, please <a href="http://topwebfiction.com/vote.php?for=unsong">vote for it on topwebfiction</a>.]</i>
+<i>[open-bracket]A new author’s note <a href="http://unsongbook.com/authors-note-5-san-francisco-polytopes-divine-cars/">is now up</a>. Also, if you like this story, please <a href="http://topwebfiction.com/vote.php?for=unsong">vote for it on topwebfiction</a>.]</i>
 
  
 
@@ -8765,7 +8765,7 @@ None of them rang true. The truth was, I wasn’t the Comet King. I was a scared
 
 I swallowed the peyote before my better side could talk me out of it.
 
-<i>[If you like this story, please <a href="http://topwebfiction.com/vote.php?for=unsong">vote for it on topwebfiction</a>. Even if you voted for it on Wednesday, please vote again, since you can vote every day. After today I will put this message on the sidebar or something and not keep spamming you with it every update.]</i>
+<i>[open-bracket]If you like this story, please <a href="http://topwebfiction.com/vote.php?for=unsong">vote for it on topwebfiction</a>. Even if you voted for it on Wednesday, please vote again, since you can vote every day. After today I will put this message on the sidebar or something and not keep spamming you with it every update.]</i>
 
  
 
@@ -8789,33 +8789,33 @@ It was neither a jungle nor a desert. More of a grassy valley with bushes and oc
 
 There was a directionality to the world. I followed it. It led me up a hill strewn with rocks. I spoke the Ascending Name. Nothing happened. Okay. This was somewhere else. The usual rules didn’t apply. Things started coming back to me. The Drug Lord. Peyote. I had taken peyote. Now I was…where?
 
-[Ana?] I asked.
+[open-bracket]Ana?] I asked.
 
-[Aaron!] came the answer. Then a flood of pure relief and happiness. No affection, no confusion, just gladness that I was here. 
+[open-bracket]Aaron!] came the answer. Then a flood of pure relief and happiness. No affection, no confusion, just gladness that I was here. 
 
-[What happened? Where are you? Are you safe?]
+[open-bracket]What happened? Where are you? Are you safe?]
 
-[I’m not sure. Somebody must have drugged my dinner. I’m…fine. The Drug Lord tried to extract the Vital Name from me. He couldn’t. That’s all I know.]
+[open-bracket]I’m not sure. Somebody must have drugged my dinner. I’m…fine. The Drug Lord tried to extract the Vital Name from me. He couldn’t. That’s all I know.]
 
 I reached the top of the hill. Below me lay a city. I recognized it and drew its name out of half-forgotten memories. Teotihuacan. Birthplace Of The Gods. The greatest city of the pre-Columbian Americas. The great street down its center was the Avenue of the Dead. The two great structures that towered above the rest were the Pyramid of the Sun and Pyramid of the Moon. The pictures I had seen made them look austere and crumbling. Here they were covered in bright colors and streaming banners. Also, a waterfall of blood was flowing down the southern staircase of the Pyramid of the Moon, looking for all the world like a macabre escalator.
 
 The real Teotihuacan had been dead for millennia. This one teemed with activity. Ghostly shades, all. I wondered if they were the souls of the Drug Lord’s captives. I double-checked my own arms. At least I looked normal.
 
-[Where are you?] I asked.
+[open-bracket]Where are you?] I asked.
 
-[On top of some sort of demonic ziggurat.]
+[open-bracket]On top of some sort of demonic ziggurat.]
 
-[A demonic ziggurat. That’s wrong on so many levels.]
+[open-bracket]A demonic ziggurat. That’s wrong on so many levels.]
 
 Ana didn’t laugh, which under the circumstances I guessed was kind of predictable.
 
-[Is it the one with the blood escalator, or the other one?]
+[open-bracket]Is it the one with the blood escalator, or the other one?]
 
-[The one with the blood escalator, definitely.]
+[open-bracket]The one with the blood escalator, definitely.]
 
 I started walking down into the city.
 
-[I’m coming to rescue you,] I said. [Hold on.]
+[open-bracket]I’m coming to rescue you,] I said. [open-bracket]Hold on.]
 
 There was no answer, which again made sense given the circumstances.
 
@@ -8863,9 +8863,9 @@ The Drug Lord walked up beside me, leisurely, like I was a wayward puppy. Ana fo
 
 “A beautiful city, is it not?” asked the Drug Lord. He placed a broad arm against my back, cutting off any hope of escape. “I made it. A long time ago. I came here from a distant place, and found people who lived in mud huts. I went into the cacti, and the cacti went into the people, and they learned new things from me. I was Quetzalcoatl the feathered serpent, Tezcatlipoca the smoking mirror, Huitzilopochtli the left-handed hummingbird. I built as I pleased until Uriel closed the gates that fed me, and now that the gates are open I will build again.”
 
-[Ana, do you have any ideas?]
+[open-bracket]Ana, do you have any ideas?]
 
-[I think we’re past the point at which we had much choice in any of this.]
+[open-bracket]I think we’re past the point at which we had much choice in any of this.]
 
 Then he was in my mind again, right where he had left off, like a dog digging a hole, flinging dirt everywhere. GALISDO, he drew from my mind. TAHUN. Then suddenly we were back on the ledge, the Drug Lord using a hand to shield his eyes from the sun and peering down at the city below.
 
@@ -8905,71 +8905,71 @@ The Drug Lord teetered on the edge of the ball court, but he didn’t yield. Ins
 
 “Gonna hide from me, are you?” she shouted at him. “I can tear this whole dimension apart if I have to! Give up!”
 
-[Aaron], said Ana. [I think I have a plan. Give me the Vital Name.]
+[open-bracket]Aaron], said Ana. [open-bracket]I think I have a plan. Give me the Vital Name.]
 
-[What? Why?]
+[open-bracket]What? Why?]
 
 The Drug Lord was trying to rearrange Jane’s NAME into MANE, the Latin word for a dead spirit. He was having some success, and already the dead spirits of the city floor were coming to his aid, swarming Jane, who sliced through them with her magic sword but seemed a bit outnumbered. She tried to wrench the word back into NAME, but the Drug Lord held firm.
 
-[Look, I know this sounds crazy. But the Drug Lord’s in my mind. And that means I’m in his. You’ll notice it too when you’ve been here a little longer. We’re not supposed to be in this realm intact, we should be manes like the others, he’s left us intact so he can get the Name from us, but I’m starting to…know the things that he knows. This dimension. It’s part of his mind. But not only part of his mind. He built it. If I can give it a soul, it becomes separate from him, it’ll drag him out. I think there’s just enough of Jinxiang’s NAME left to make it work.]
+[open-bracket]Look, I know this sounds crazy. But the Drug Lord’s in my mind. And that means I’m in his. You’ll notice it too when you’ve been here a little longer. We’re not supposed to be in this realm intact, we should be manes like the others, he’s left us intact so he can get the Name from us, but I’m starting to…know the things that he knows. This dimension. It’s part of his mind. But not only part of his mind. He built it. If I can give it a soul, it becomes separate from him, it’ll drag him out. I think there’s just enough of Jinxiang’s NAME left to make it work.]
 
-[That is the craziest idea I have ever heard, and it was my crazy idea that got us into this whole mess.]
+[open-bracket]That is the craziest idea I have ever heard, and it was my crazy idea that got us into this whole mess.]
 
-[I know it sounds ridiculous, but I can see it. It’s what he’s thinking right now. He’s terrified of it.]
+[open-bracket]I know it sounds ridiculous, but I can see it. It’s what he’s thinking right now. He’s terrified of it.]
 
-[I don’t even know the Name!]
+[open-bracket]I don’t even know the Name!]
 
-[That’s the other thing. I can see how he’s going to piece it together, once he has both of our misinterpretations. I think I can do the same.]
+[open-bracket]That’s the other thing. I can see how he’s going to piece it together, once he has both of our misinterpretations. I think I can do the same.]
 
 Jane and the Drug Lord’s tug-of-war over MANE shattered the word into a thousand AMENs. Jane tried to piece together SHEM, Hebrew “name”, by turning the S into an SH, but the manes wouldn’t cooperate. She scowled and slashed them into pieces with her sword, only for the Drug Lord to almost knock her off balance.
 
-[Ana, this is seriously the craziest thing I’ve ever heard. Not to mention that if I told you the Name, the Drug Lord, who’s listening in on us for sure, would overheard.]
+[open-bracket]Ana, this is seriously the craziest thing I’ve ever heard. Not to mention that if I told you the Name, the Drug Lord, who’s listening in on us for sure, would overheard.]
 
-[The Drug Lord can’t use Names himself. He’d have to find a human to use it for him. If Jinxiang can kill him before then…]
+[open-bracket]The Drug Lord can’t use Names himself. He’d have to find a human to use it for him. If Jinxiang can kill him before then…]
 
-[You can’t kill the Drug Lord!]
+[open-bracket]You can’t kill the Drug Lord!]
 
-[Aaron. Please. Do you trust me?]
+[open-bracket]Aaron. Please. Do you trust me?]
 
 In brilliance born of desperation, Jane dropped to the ground and touched the ball court, drawing out the essence of the ancient Mesoamerican ball game. From the first two and the last two letters of MESOAMERICAN, she got another NAME, and used the Fulminant Name on the Drug Lord again. Another body gone. Another body springing up in seconds. But this time she was ready. She lunged at him with Sigh. They started fighting physically now, sword against cane.
 
-[I trust <i>Ana</i>,] I said. [But I just realized that a lot of things would make more sense if this voice were actually the Drug Lord.]
+[open-bracket]I trust <i>Ana</i>,] I said. [open-bracket]But I just realized that a lot of things would make more sense if this voice were actually the Drug Lord.]
 
-[Aaron!] she pled. [Please! Orca the covenant! Shabbatlenose dolphin! Manatee of manatees, all is manatee!]
+[open-bracket]Aaron!] she pled. [open-bracket]Please! Orca the covenant! Shabbatlenose dolphin! Manatee of manatees, all is manatee!]
 
-[You already used the first one before. And the second one is terrible. And the third one isn’t even about whales.]
+[open-bracket]You already used the first one before. And the second one is terrible. And the third one isn’t even about whales.]
 
-[It’s about marine mammals!] Ana thought. There was a tinge of desperation to it.
+[open-bracket]It’s about marine mammals!] Ana thought. There was a tinge of desperation to it.
 
-[You cannot serve both God and mammal] I quoted at her.
+[open-bracket]You cannot serve both God and mammal] I quoted at her.
 
-[Aaron, please! This is serious! We met one night while I was on a ladder and you were working at Cash for God! When you said you loved me, I made you eat a habanero pepper! The last time we talked you were in a hotel room and you said you went kayaking with a pretty girl!]
+[open-bracket]Aaron, please! This is serious! We met one night while I was on a ladder and you were working at Cash for God! When you said you loved me, I made you eat a habanero pepper! The last time we talked you were in a hotel room and you said you went kayaking with a pretty girl!]
 
-[All things that the Drug Lord could know if he could read your mind.]
+[open-bracket]All things that the Drug Lord could know if he could read your mind.]
 
 Jane had drawn up another Name from somewhere and used the Avalanche Name, trying to collapse the pyramid. Bits of it crumbled off, but overall it held firm. The Drug Lord was trying to summon more of the dead grey spirits to his aid.
 
-[Anything I can say is something the Drug Lord could know if he read my mind! I could tell you my deepest loves and fears, how much you mean to me, what I felt when I said I was coming to rescue you. I could preach to you about theodicy, say things that are so Ana no one else in the world would ever come up with them. And you could still just say the Drug Lord was reading my mind, or was running my mind for his own purposes, or had taken over my mind. I agree. There’s nothing I can do to prove anything to you. Sometimes you have to have faith. My name is Ana Thurmond and I am your friend. You trusted me enough to sacrifice everything to come here. Please trust me now.]
+[open-bracket]Anything I can say is something the Drug Lord could know if he read my mind! I could tell you my deepest loves and fears, how much you mean to me, what I felt when I said I was coming to rescue you. I could preach to you about theodicy, say things that are so Ana no one else in the world would ever come up with them. And you could still just say the Drug Lord was reading my mind, or was running my mind for his own purposes, or had taken over my mind. I agree. There’s nothing I can do to prove anything to you. Sometimes you have to have faith. My name is Ana Thurmond and I am your friend. You trusted me enough to sacrifice everything to come here. Please trust me now.]
 
-[I’ll trust you,] I thought [if you can answer me one question]
+[open-bracket]I’ll trust you,] I thought [open-bracket]if you can answer me one question]
 
-[What?]
+[open-bracket]What?]
 
-[Ana ba’ey mishal b-shlamek?] I asked her.
+[open-bracket]Ana ba’ey mishal b-shlamek?] I asked her.
 
-[What?]
+[open-bracket]What?]
 
-[It’s a simple question, Ana. Ana ba’ey mishal b-shlamek?]
+[open-bracket]It’s a simple question, Ana. Ana ba’ey mishal b-shlamek?]
 
-[Aaron. Please. I don’t know what you think you’re doing. But you have to trust me.]
+[open-bracket]Aaron. Please. I don’t know what you think you’re doing. But you have to trust me.]
 
-[Ana ba’ey mishal b-shlamek?]
+[open-bracket]Ana ba’ey mishal b-shlamek?]
 
-[I’m sorry, Aaron. I don’t know what you mean.]
+[open-bracket]I’m sorry, Aaron. I don’t know what you mean.]
 
 The ball court was swarming with shades now. Jane was trying to twist the kabbalah into something, but the Drug Lord was matching her every movement, unraveling her work before anything she did could take effect.
 
-[Samyazaz,] I said. [You tried so hard. You almost had me. And why shouldn’t you? Anything Ana can think, you can think. Anything she can feel, you feel. And what are we humans, you asked yourself, besides bundles of thoughts and feelings? So easy to play. So easy to manipulate. Well, maybe. But there’s one thing you’ll never be able to do. One part of being human that God’s own laws decree you can never copy, no matter how hard you try. You forgot one thing, Samyazaz. And that was – ANGELS CAN’T UNDERSTAND ARAMAIC!]
+[open-bracket]Samyazaz,] I said. [open-bracket]You tried so hard. You almost had me. And why shouldn’t you? Anything Ana can think, you can think. Anything she can feel, you feel. And what are we humans, you asked yourself, besides bundles of thoughts and feelings? So easy to play. So easy to manipulate. Well, maybe. But there’s one thing you’ll never be able to do. One part of being human that God’s own laws decree you can never copy, no matter how hard you try. You forgot one thing, Samyazaz. And that was – ANGELS CAN’T UNDERSTAND ARAMAIC!]
 
 I grabbed my branch from the ground and hit Ana as hard as I could. At the same time, I took all of my rage, all of my love for Ana and anger at anyone who would dare to harm her, and sent it through the telepathic link, a weaponized scream of hatred and defiance.
 
@@ -8985,15 +8985,15 @@ And a miracle occurred. Her sword glowed white with holy fire, she plunged it in
 
 I felt a presence in my mind.
 
-[Ana?]
+[open-bracket]Ana?]
 
-[Aaron, you are such an idiot, I can <i>not</i> believe you were going to destroy everything to come here and rescue me, I am so angry, and if you’re talking about this years from now don’t you <i>dare</i> say that you felt that the anger was mixed with affection, because it’s <i>just anger</i>, and the Drug Lord could have gotten the Name, and you could have died, and…] It’s awkward to say so, but I could feel through the telepathic link that the anger was mixed with affection. I knew at once that it was the real Ana. It sounds crazy, but if had been this Ana who talked to me atop the pyramid, I would have trusted her absolutely.
+[open-bracket]Aaron, you are such an idiot, I can <i>not</i> believe you were going to destroy everything to come here and rescue me, I am so angry, and if you’re talking about this years from now don’t you <i>dare</i> say that you felt that the anger was mixed with affection, because it’s <i>just anger</i>, and the Drug Lord could have gotten the Name, and you could have died, and…] It’s awkward to say so, but I could feel through the telepathic link that the anger was mixed with affection. I knew at once that it was the real Ana. It sounds crazy, but if had been this Ana who talked to me atop the pyramid, I would have trusted her absolutely.
 
-[…and if I ever make a pun as bad as “shabbatlenose dolphin”, you should just assume I’m possessed by the Drug Lord again.]
+[open-bracket]…and if I ever make a pun as bad as “shabbatlenose dolphin”, you should just assume I’m possessed by the Drug Lord again.]
 
-[Ana ba’ey mishal b-shlamek?]
+[open-bracket]Ana ba’ey mishal b-shlamek?]
 
-[Fine. A little bit frazzled, and I think I’m going to need to sleep for a long time, but basically fine. And thank you for asking. Really.]
+[open-bracket]Fine. A little bit frazzled, and I think I’m going to need to sleep for a long time, but basically fine. And thank you for asking. Really.]
 
 I tried to send her an update on where I was, what was happening, but I was literally shaken out of my trance. “Aaron!” said Jane. She was the one shaking me. “Where are you? Physically. In Las Vegas. Where is your body?”
 
@@ -9407,27 +9407,27 @@ The other two were faster than I. She, a Cometspawn. She, something new, somethi
 
 It was so close to me now.
 
-[AARON SMITH-TELLER] spoke the Other King, directly into my mind.
+[open-bracket]AARON SMITH-TELLER] spoke the Other King, directly into my mind.
 
 I freaked out. How could it do that without a kabbalistic marriage? Also, was there <i>anyone</i> who didn’t know my true name anymore? 
 
-[Go away go away go away go away go away go away…] I thought, and I panicked, my tongue tripping over itself, almost flubbed the last part of the Vanishing Name.
+[open-bracket]Go away go away go away go away go away go away…] I thought, and I panicked, my tongue tripping over itself, almost flubbed the last part of the Vanishing Name.
 
 “-KOPHU-” I said as quickly as I could. “-LI-MAR-”
 
-[AARON SMITH-TELLER] it said again.
+[open-bracket]AARON SMITH-TELLER] it said again.
 
 This was the thing that had killed the Comet King. This was the thing even the Drug Lord was afraid of. This thing could raise the dead, maybe was dead itself. This was the thing that ruled over a city named after the fallen ones, the thing that had toppled empires and broken the back of the free West. Somehow I knew, even then, that it wasn’t over between us, that whatever I had been given the Vital Name for, whatever divine plan had saved me from the Drug Lord and my own idiocy, this thing was a part of it.
 
 But I had only one syllable left in the Vanishing Name. Whatever reckoning was going to happen wouldn’t happen today. The thought of impending safety filled me with a wild recklessness,  a freedom bordering on rage.
 
-[Go away,] I thought at the thing, [or, as God is my witness, I’ll do what my father did! You hear me? I WILL DO WHAT MY FATHER DID!]
+[open-bracket]Go away,] I thought at the thing, [open-bracket]or, as God is my witness, I’ll do what my father did! You hear me? I WILL DO WHAT MY FATHER DID!]
 
 The monstrosity stopped, and I thought I detected in the vast mind abutting mine something interrogative, almost a touch of curiosity.
 
 “-TAN!” I concluded, and as the power of the Vanishing Name swirled around me, I sent a final thought to the Other King: 
 
-[I will disappear somewhere far away, and spend the rest of my life trying not to think about the fact that you exist.]
+[open-bracket]I will disappear somewhere far away, and spend the rest of my life trying not to think about the fact that you exist.]
 
 Then I felt space snap and resigned myself to whatever awaited me on the other side.
 
@@ -9445,7 +9445,7 @@ Happy new year!</b></center>
 
 
 <center><img data-recalc-dims="1" src="https://i2.wp.com/slatestarcodex.com/blog_images/book3image.png?w=557"/></center>
-<i><font size="1">[A picture of Malia Ngo sitting at her desk, with a city on fire visible outside the window. The text says “You say I took the Name in vain / And after that I lost the Name / I gave it back to Him who holds it for us / But echoes sound in every word / It doesn’t matter what occurred / You never really lose the HaMephorash”. Image credit to Tasty_Y at <a href="http://learning-to-draw-stuff.tumblr.com/">learning-to-draw-stuff.tumblr.com</a>]</font></i>
+<i><font size="1">[open-bracket]A picture of Malia Ngo sitting at her desk, with a city on fire visible outside the window. The text says “You say I took the Name in vain / And after that I lost the Name / I gave it back to Him who holds it for us / But echoes sound in every word / It doesn’t matter what occurred / You never really lose the HaMephorash”. Image credit to Tasty_Y at <a href="http://learning-to-draw-stuff.tumblr.com/">learning-to-draw-stuff.tumblr.com</a>]</font></i>
 
  
 
@@ -9456,7 +9456,7 @@ Happy new year!</b></center>
 ## Chapter 41: Go Love Without The Help Of Any Thing On Earth
 
 <b>To:</b> aaron.teller@gmail.com, telleraar@countenance.com, a.smithte@stanford.edu, aleph_samech_tet@stevensite.net, _LOS_@hotmail.com, A_IS_FOR_ADAM@myfreeemails.tk…<br/>
-<b>From:</b> root@[58.175.48.72]
+<b>From:</b> root@[open-bracket]58.175.48.72]
 
 Talk to me, Aaron. I don’t know where you are, Aaron. Aaron, are you there?
 
@@ -9489,7 +9489,7 @@ Sarah Smith-Teller
 
 ## Interlude נ: CHANGELOG
 
-[High Holy Days bonus Interlude. Not exactly canon.]
+[open-bracket]High Holy Days bonus Interlude. Not exactly canon.]
 
 PATCH 5776.11 IS NOW COMPLETE. WORK HAS BEGUN ON PATCH 5777.0. HERE IS A FINAL CHANGELOG FOR PATCH 5776.11:
 
@@ -11105,7 +11105,7 @@ We walked back to the Cometspawn hand in hand. Five pairs of eyes focused on us.
 
 ## Interlude ע: Hell on Earth
 
-<i><font size="1">[Content warning: More discussion of Hell.]</font></i>
+<i><font size="1">[open-bracket]Content warning: More discussion of Hell.]</font></i>
 
 In 1985, the Hellish Empire stretched from Moscow to Montreal, a sprawling stain over the northern quarter of the world.
 
@@ -11172,7 +11172,7 @@ Ever since that conversation with Ana, I’ve had a horrible theory of my own. M
 
 (But the soul is still oracular; amid the market’s din / List the ominous stern whisper from the Delphic cave within / ‘They enslave their children’s children who make compromise with sin.’)
 
-<i>[A new author’s note <a href="http://unsongbook.com/authors-note-7-zizek-rebbe-again-communism/">is now up</a>.]</i>
+<i>[open-bracket]A new author’s note <a href="http://unsongbook.com/authors-note-7-zizek-rebbe-again-communism/">is now up</a>.]</i>
 
  
 
@@ -11745,7 +11745,7 @@ In the midst of the word he was trying to say – in the midst of his laughter a
 
 ## Chapter 54: My Course Among the Stars
 
-<font size="1"><i>[Sorry for short chapter today, I am on vacation. Will make it up next week.]</i></font>
+<font size="1"><i>[open-bracket]Sorry for short chapter today, I am on vacation. Will make it up next week.]</i></font>
 
 <font size="1"><b><i>Spring 1999<br/>
 Colorado</i></b></font>
@@ -12318,39 +12318,39 @@ Citadel West</i></b></font>
 
 I looked, I listened, I let myself fall into a trance.
 
-[Walls of Kujiracho] came a voice from afar.
+[open-bracket]Walls of Kujiracho] came a voice from afar.
 
-[What?] I asked. [Sohu?]
+[open-bracket]What?] I asked. [open-bracket]Sohu?]
 
-A feeling of surprise. [Aaron?]
+A feeling of surprise. [open-bracket]Aaron?]
 
-[Oh,] I said. [Hi, Ana.]
+[open-bracket]Oh,] I said. [open-bracket]Hi, Ana.]
 
-[Aaron?] came a different voice, differently flavored. [What’s going on?]
+[open-bracket]Aaron?] came a different voice, differently flavored. [open-bracket]What’s going on?]
 
 As best I could, I tried to send thoughts and memories through the two links. To Ana, an explanation of where I was and what was going on. To Sohu, memories of my relationship with Ana. Both of them started talking at once. I mentally pushed Sohu to one side, concentrated on the quieter link.
 
-[I can’t feel Sohu,] Ana told me.
+[open-bracket]I can’t feel Sohu,] Ana told me.
 
-[And I can’t feel Erica,] I answered. [I don’t think kabbalistic marriage is transitive.]
+[open-bracket]And I can’t feel Erica,] I answered. [open-bracket]I don’t think kabbalistic marriage is transitive.]
 
-[I can barely feel Erica myself. Last I got from her she was trying to join BOOJUM.]
+[open-bracket]I can barely feel Erica myself. Last I got from her she was trying to join BOOJUM.]
 
-[ !!! Really ???]
+[open-bracket] !!! Really ???]
 
-[We shouldn’t be so surprised. She always wanted to burn the euphemizing system to the ground. I just didn’t expect it to be so literal. This is the problem with being a theodicy student. When people tell you that the world is horrible and needs to be destroyed, you expect them to end with ‘So let’s discuss different interpretations of this fact for the next several decades.’]
+[open-bracket]We shouldn’t be so surprised. She always wanted to burn the euphemizing system to the ground. I just didn’t expect it to be so literal. This is the problem with being a theodicy student. When people tell you that the world is horrible and needs to be destroyed, you expect them to end with ‘So let’s discuss different interpretations of this fact for the next several decades.’]
 
-[Speaking of theodicy – Ana, have you ever heard of Elisha ben Abuyah?]
+[open-bracket]Speaking of theodicy – Ana, have you ever heard of Elisha ben Abuyah?]
 
-[Oh man, that name really brings back memories!]
+[open-bracket]Oh man, that name really brings back memories!]
 
-[You say that like you went to prom with him or something.]
+[open-bracket]You say that like you went to prom with him or something.]
 
-[Pfffft. No, I was just – got really interested in that story freshman year of college. It kind of brings everything together.]
+[open-bracket]Pfffft. No, I was just – got really interested in that story freshman year of college. It kind of brings everything together.]
 
-[Howso?]
+[open-bracket]Howso?]
 
-[I remember I once had a teacher who asked me what would have to happen before I believed God was utterly unjust. How bad would things have to get before I admitted there was literally no possibility that the evil in the universe has a reason? I told him it was a stupid question. The magnitude of the world’s evil is so much that anyone who could be convinced of divine injustice by a <i>specific amount</i> of evil was already convinced. The only people who could possibly be hanging on were the ones who were literally willing to accept anything.
+[open-bracket]I remember I once had a teacher who asked me what would have to happen before I believed God was utterly unjust. How bad would things have to get before I admitted there was literally no possibility that the evil in the universe has a reason? I told him it was a stupid question. The magnitude of the world’s evil is so much that anyone who could be convinced of divine injustice by a <i>specific amount</i> of evil was already convinced. The only people who could possibly be hanging on were the ones who were literally willing to accept anything.
 
 He told me it didn’t work that way. Everyone’s willing to dismiss the evil they’ve already heard about. It’s become stale. It’s abstract. People who say they’ve engaged with the philosophical idea of evil encounter evil on their own, and then suddenly everything changes. He gave the example of all of the Jewish scholars who lost their faith during the Holocaust. How, they asked, could God allow six million of their countrymen to perish like that?
 
@@ -12365,9 +12365,9 @@ Whereas yours only happen to you.</i>
 
 That’s why I love the Acher story. He’s a crazy old coot, but I love him. Everybody has their breaking point, and for Acher it was seeing a kid grab a bird out of its nest. He’s a famous rabbi, he’s read all about Noah’s Flood drowning everyone in the world, and God killing all the innocent Egyptian babies, and euphemism, he’s living in second century Judaea, where the Romans are basically torture-killing anyone they can get their hands on, and thoughout all of this he’s wise and equanimous and tells his disciples to bear their sufferings gracefully, and then finally he has a bad day and sees a kid snatch a bird and he just flips, he’s like, you know what’s a completely proportional response to this? DECLARE WAR ON GOD AND TRY TO DESTROY EVERYTHING. Most of us have to go through a Holocaust before we get to that point, but he grasped it immediately.]
 
-[Holy frick Ana I’ve never heard you send a thought that complicated through the trance before.]
+[open-bracket]Holy frick Ana I’ve never heard you send a thought that complicated through the trance before.]
 
-[And then there’s that whole thing about the voice. The one that boomed from the heavens saying ‘Repent, children of Israel, and the Lord will forgive you. Except for you, Elisha ben Abuyah’. What was <i>with</i> that? 
+[open-bracket]And then there’s that whole thing about the voice. The one that boomed from the heavens saying ‘Repent, children of Israel, and the Lord will forgive you. Except for you, Elisha ben Abuyah’. What was <i>with</i> that? 
 
 There’s a legend that goes that Acher was predestined to be evil from the very beginning. The week after he was born, his father threw a big party for his circumcision, and Rabbi Eliezer and Rabbi Joshua showed up. While everyone else was getting drunk, the two rabbis decided to talk Torah, and they became so engaged in their discussion that miracles started happening around them. Wreaths of fire danced around their heads, thunder sounded in clear skies, nearby water started spontaneously turning into wine. Acher’s father begged them to stop lest the whole house burn down, and the rabbis apologized profusely and said that they would try to be more mindful of the power of Torah from then on. 
 
@@ -12377,21 +12377,21 @@ And then when Rabbi Meir was trying to convince him to repent, well, there he wa
 
 In fact, there’s a story about Rabbi Dov Ber, that one day he was praying for a sick member of his congregation to recover, and he prayed so much and so long that God got really annoyed and told him he was going to Hell for praying too much. And Rabbi Dov Ber answered: “Well, now that I have nothing to lose I can <i>really</i> start praying!” And of course God laughed it off and healed the sick guy. If Acher had done the same – if he’d said okay, I have nothing to gain and nothing to lose, that means I have to make the choice according to my own principles, and I choose repentance – then God would have laughed it off, same as he did with Rabbi Dov Ber, and everything would have been okay. But since instead Acher was obsessed with the consequences of repenting, the road was closed to him. ]
 
-[So the only way Acher could get the good consequences of repenting was by not doing it for the consequences?]
+[open-bracket]So the only way Acher could get the good consequences of repenting was by not doing it for the consequences?]
 
-[Yeah.]
+[open-bracket]Yeah.]
 
-[Oh God, that’s so annoying. No wonder he was so angry all the time.]
+[open-bracket]Oh God, that’s so annoying. No wonder he was so angry all the time.]
 
-[???], Ana thought at me.
+[open-bracket]???], Ana thought at me.
 
-[I’ll give you fifty dollars if you clap your hands, BUT you have to be clapping your hands for a reason other than to get the fifty dollars.]
+[open-bracket]I’ll give you fifty dollars if you clap your hands, BUT you have to be clapping your hands for a reason other than to get the fifty dollars.]
 
-[I hardly think that worshipping God, Lord of the Universe, whose wisdom spanneth the heavens and whose mercy endureth forever, because you are awed by His mighty works and consumed with a desire to praise His Most Holy Name, is the same as getting fifty dollars if you clap your hands.]
+[open-bracket]I hardly think that worshipping God, Lord of the Universe, whose wisdom spanneth the heavens and whose mercy endureth forever, because you are awed by His mighty works and consumed with a desire to praise His Most Holy Name, is the same as getting fifty dollars if you clap your hands.]
 
-[Yes, well, if I ever make a universe, I’m not putting in any sneaky “You can get this reward, but only if you don’t want it” clauses.]
+[open-bracket]Yes, well, if I ever make a universe, I’m not putting in any sneaky “You can get this reward, but only if you don’t want it” clauses.]
 
-[If you ever make a universe, you can do what you want.]
+[open-bracket]If you ever make a universe, you can do what you want.]
 
 #### II.
 
@@ -12421,35 +12421,35 @@ I let my mind wander.
 
 #### III.
 
-[Are things okay over there?] asked Ana.
+[open-bracket]Are things okay over there?] asked Ana.
 
-[Not really] I answered. [Did Acher ever figure out a way to get the consequences of repenting without doing it for the consequences?]
+[open-bracket]Not really] I answered. [open-bracket]Did Acher ever figure out a way to get the consequences of repenting without doing it for the consequences?]
 
-[You’re really upset by this Acher thing.]
+[open-bracket]You’re really upset by this Acher thing.]
 
-[I think…yeah. It’s the idea of something you can’t think your way out of. Something so slippery that just trying to think your way out of it ensures you’ll fail. It just feels…wrong.]
+[open-bracket]I think…yeah. It’s the idea of something you can’t think your way out of. Something so slippery that just trying to think your way out of it ensures you’ll fail. It just feels…wrong.]
 
-[I don’t know,] Ana answered. [To me it feels, I guess kind of perfect. Does that make sense?]
+[open-bracket]I don’t know,] Ana answered. [open-bracket]To me it feels, I guess kind of perfect. Does that make sense?]
 
-[Yeah. I think perfect things feel wrong to me. Remember, I used to do cryptography. The whole point was that every code can be broken. Thought is the universal solvent. My advisor at Stanford, he had a saying on his wall. A Leonard Cohen verse. “There is a crack in everything.” That’s my philosophy too. Things shouldn’t be perfect.]
+[open-bracket]Yeah. I think perfect things feel wrong to me. Remember, I used to do cryptography. The whole point was that every code can be broken. Thought is the universal solvent. My advisor at Stanford, he had a saying on his wall. A Leonard Cohen verse. “There is a crack in everything.” That’s my philosophy too. Things shouldn’t be perfect.]
 
-[God is perfect.]
+[open-bracket]God is perfect.]
 
-[No He isn’t! That’s the whole point of Luria. There is a crack in <i>everything</i>. That’s what I mean. There ought to be a crack in God’s denial of salvation to Acher.]
+[open-bracket]No He isn’t! That’s the whole point of Luria. There is a crack in <i>everything</i>. That’s what I mean. There ought to be a crack in God’s denial of salvation to Acher.]
 
-[What about actually being good?]
+[open-bracket]What about actually being good?]
 
-[That’s not an action you can just…take! If you’re not already good, any impetus to becoming good has to come from wanting the consequences.]
+[open-bracket]That’s not an action you can just…take! If you’re not already good, any impetus to becoming good has to come from wanting the consequences.]
 
-[I think the traditional Jewish answer,] thought Ana [is that you can start by being good for the wrong reasons, but then the changes will stick and make you the sort of person who does things for the right reasons.]
+[open-bracket]I think the traditional Jewish answer,] thought Ana [open-bracket]is that you can start by being good for the wrong reasons, but then the changes will stick and make you the sort of person who does things for the right reasons.]
 
-[Then it was kind of crappy for God to specifically close that path to Acher, wasn’t it? Actually, it’s kind of crappy of God in general. Suppose there are good consequences for being good, and that with enough willpower you can force yourself to be good long enough for it to stick. Then why doesn’t everyone do that? Lack of awareness of the consequences? Giving up early? But then we reduce goodness to intelligence and willpower!]
+[open-bracket]Then it was kind of crappy for God to specifically close that path to Acher, wasn’t it? Actually, it’s kind of crappy of God in general. Suppose there are good consequences for being good, and that with enough willpower you can force yourself to be good long enough for it to stick. Then why doesn’t everyone do that? Lack of awareness of the consequences? Giving up early? But then we reduce goodness to intelligence and willpower!]
 
-[So how do people ever become good?]
+[open-bracket]So how do people ever become good?]
 
-[You have to start with at least a tiny bit of existing goodness. And that gives you the urge to accumulate more.]
+[open-bracket]You have to start with at least a tiny bit of existing goodness. And that gives you the urge to accumulate more.]
 
-[So,] asked Ana [divine grace?]
+[open-bracket]So,] asked Ana [open-bracket]divine grace?]
 
 The overt meaning of “perfect” is “maximally good”.
 
@@ -12467,7 +12467,7 @@ This, then, is the kabbalistic meaning of “perfect”: someone who tries to ma
 
 “Aaron?” I heard Sohu’s voice.
 
-[Ana, I just had – I guess an epiphany? I don’t have time to explain it. But it’s basically what I just said before. There is a crack in everything.]
+[open-bracket]Ana, I just had – I guess an epiphany? I don’t have time to explain it. But it’s basically what I just said before. There is a crack in everything.]
 
 “Aaron?”
 
@@ -12622,7 +12622,7 @@ But really, you don’t need to bring out the big guns to figure this stuff out.
 
 And in the end, the new administration managed to outperform everyone’s expectations: it lasted an entire four months before the apocalypse descended in fire and blood upon America and the world.
 
-<i>[There is a new author’s note up <a href="http://unsongbook.com/authors-note-8-textbook-erica-indianapolis/">here</a>]</i>
+<i>[open-bracket]There is a new author’s note up <a href="http://unsongbook.com/authors-note-8-textbook-erica-indianapolis/">here</a>]</i>
 
  
 
@@ -12896,7 +12896,7 @@ He has a devil-may-care-so-let-us-make-every-effort-to-be-considerate-of-his-inf
 <font size="1"><b><i>September 20, 1999<br/>
 Colorado Springs</i></b></font>
 
-<i><font size="1">[Content warning: Thamiel chapter. Sorry for short chapter. Story will pick up again next week as we move into final arc.]</font></i>
+<i><font size="1">[open-bracket]Content warning: Thamiel chapter. Sorry for short chapter. Story will pick up again next week as we move into final arc.]</font></i>
 
 Midnight falls in the Garden of the Gods, and Robin West stands alone beneath the cold stars.
 
@@ -13405,7 +13405,7 @@ Malia frowned at her.
 Erica lunged forward and thrust the molten metal nameplate through Malia Ngo’s throat as the flames closed around them both.
 
 <hr/>
-<i><font size="1">[There is a new Author’s Note up <a href="https://unsongbook.com/authors-note-9-uriel-purim-yisrael/">here</a>]</font></i>
+<i><font size="1">[open-bracket]There is a new Author’s Note up <a href="https://unsongbook.com/authors-note-9-uriel-purim-yisrael/">here</a>]</font></i>
 
  
 
@@ -13892,7 +13892,7 @@ Happy Passover!</b></center>
 
 
 <center><img data-recalc-dims="1" src="https://i0.wp.com/slatestarcodex.com/blog_images/book4image.png?w=557"/></center>
-<i><font size="1">[A picture of the Comet King, aged beyond his years, his face looking haggard but determined, lost in shadows. The text says “Somebody had to, no one would / I tried to do the best I could / And now it’s done, and now they can’t ignore us / And even though it all went wrong / I’ll stand against the whole unsong / With nothing on my tongue but HaMephorash”. Image credit to my girlfriend Eloise, who also made <a href="http://econokitty.tumblr.com/post/143594456726/sohu-from-unsong">this picture of Sohu</a>]</font></i>
+<i><font size="1">[open-bracket]A picture of the Comet King, aged beyond his years, his face looking haggard but determined, lost in shadows. The text says “Somebody had to, no one would / I tried to do the best I could / And now it’s done, and now they can’t ignore us / And even though it all went wrong / I’ll stand against the whole unsong / With nothing on my tongue but HaMephorash”. Image credit to my girlfriend Eloise, who also made <a href="http://econokitty.tumblr.com/post/143594456726/sohu-from-unsong">this picture of Sohu</a>]</font></i>
 
 Thanks to the Bayesian Choir, you can now hear all of HaMephorash sung the way it was intended. Listen to them <a href="http://slatestarcodex.com/Stuff/HaMephorash.mp3">here</a>.
 
@@ -14160,9 +14160,9 @@ And so they went, the archangel first, then the child, through the long ritual o
 
 Sohu felt something new in her mind, a presence, a spark of gold.
 
-[Are you in my head?] she asked the archangel.
+[open-bracket]Are you in my head?] she asked the archangel.
 
-[WELL, I WOULD NOT SAY I AM LITERALLY IN YOUR HEAD, SINCE YOUR HEAD IS VERY SMALL. HOWEVER, IF YOU WANT TO USE SPATIAL METAPHORS TO GROUND THE BASIC PRINCIPLES OF CHASHMAL, YOU MIGHT SAY THAT…]
+[open-bracket]WELL, I WOULD NOT SAY I AM LITERALLY IN YOUR HEAD, SINCE YOUR HEAD IS VERY SMALL. HOWEVER, IF YOU WANT TO USE SPATIAL METAPHORS TO GROUND THE BASIC PRINCIPLES OF CHASHMAL, YOU MIGHT SAY THAT…]
 
 #### III.
 
@@ -14194,32 +14194,32 @@ Beautiful, multicolored light, ten colors, the seven colors of the earthly rainb
 
 Sohu blinked again, and her eyes were deep brown.
 
-[THAT IS ALL OF IT] said Uriel, in Sohu’s head. [THERE IS NO MORE DIVINE LIGHT.]
+[open-bracket]THAT IS ALL OF IT] said Uriel, in Sohu’s head. [open-bracket]THERE IS NO MORE DIVINE LIGHT.]
 
-[It did what we needed it to.]
+[open-bracket]It did what we needed it to.]
 
-[HE IS GONE FOR A BRIEF TIME ONLY. HE WILL RETURN LATER.]
+[open-bracket]HE IS GONE FOR A BRIEF TIME ONLY. HE WILL RETURN LATER.]
 
-[Something else will have killed us by then, so that’s fine.]
+[open-bracket]Something else will have killed us by then, so that’s fine.]
 
-[YOU ARE VERY PESSIMISTIC.]
+[open-bracket]YOU ARE VERY PESSIMISTIC.]
 
-[It’s the apocalypse. You wrote the Book of Revelation, didn’t you?]
+[open-bracket]It’s the apocalypse. You wrote the Book of Revelation, didn’t you?]
 
-[UM. I WAS GOING TO. BUT THEN THE JET STREAM STARTED FLOWING THE WRONG WAY AND I HAD TO FIX IT. I THINK I JUST GAVE JOHN OF PATMOS A BUCKET OF PSILOCYBE MUSHROOMS AND TOLD HIM TO WRITE WHATEVER CAME TO MIND.]
+[open-bracket]UM. I WAS GOING TO. BUT THEN THE JET STREAM STARTED FLOWING THE WRONG WAY AND I HAD TO FIX IT. I THINK I JUST GAVE JOHN OF PATMOS A BUCKET OF PSILOCYBE MUSHROOMS AND TOLD HIM TO WRITE WHATEVER CAME TO MIND.]
 
-[Well, take my word for it, things are really bad.]
+[open-bracket]Well, take my word for it, things are really bad.]
 
-[I AM IN A GOOD MOOD. IT HAS BEEN THREE HOURS AND FOUR MINUTES SINCE MY MACHINE WAS DESTROYED. THIS IS THE LONGEST I HAVE EVER GONE WITHOUT HAVING TO FIX ANY CATASTROPHIC SYSTEM ERRORS.]
+[open-bracket]I AM IN A GOOD MOOD. IT HAS BEEN THREE HOURS AND FOUR MINUTES SINCE MY MACHINE WAS DESTROYED. THIS IS THE LONGEST I HAVE EVER GONE WITHOUT HAVING TO FIX ANY CATASTROPHIC SYSTEM ERRORS.]
 
-[I’m glad one of us is enjoying this. Let’s go help Nathanda.]
+[open-bracket]I’m glad one of us is enjoying this. Let’s go help Nathanda.]
 
-[OKAY.]
+[open-bracket]OKAY.]
 
 Sohu turned to lightning and disappeared. The last few ashes and sparks fell to the base of Pike’s Peak. The force of the battle had split the mountain in two.
 
 <hr/>
-<i>[<a href="https://unsongbook.com/authors-note-10-hamephorash-hamephorash-party/">Author’s Note 10</a> is now up.]</i>
+<i>[open-bracket]<a href="https://unsongbook.com/authors-note-10-hamephorash-hamephorash-party/">Author’s Note 10</a> is now up.]</i>
 
  
 
@@ -14579,7 +14579,7 @@ The shaking intensified. I thought of that poem again, Erica’s poem. Truth for
 
 “I guess that’s what I have to say to all of you today. Father’s gone now. We all thought he was Moschiach – we <i>knew</i> he was Moschiach – but now he’s gone, and sometimes it seems like he’s never been. We felt like we had this burden, of salvaging his legacy, taking what he made and finishing his work instead of letting it come to nothing. I…am not sure that we will. Maybe this strange experiment, this new intrusion of Heaven into history, is going to come to an end with us, and everything Father built will be torn down. But even if that happens, we’ve done good. The world may not remember it, but we’ve done good. The sparks are moving in a different pattern now, I can’t see them, none of us can see them, but maybe they’re moving in huge fiery rivers because of some of the things Father did, maybe if we could peel back the veil we would just see this amazing endless light, this inevitable tide, ready to sweep over everything, this tide that all of us helped draw. That’s…that’s what I think Rabbi Meir would say if he were here.”
 
-I would never have dared follow Nathanda, never have dared to speak at a solemn council of the Cometspawn, except that Sohu felt my thoughts and prodded me on. [Yes, Aaron,] she thought. [Speak.] And then when I still held back, she stood up. “Aaron has something he wants to add to that,” she said. Then sat back down.
+I would never have dared follow Nathanda, never have dared to speak at a solemn council of the Cometspawn, except that Sohu felt my thoughts and prodded me on. [open-bracket]Yes, Aaron,] she thought. [open-bracket]Speak.] And then when I still held back, she stood up. “Aaron has something he wants to add to that,” she said. Then sat back down.
 
 “Um.” Four pairs of eyes watched me. “When I first learned the Vital Name, my friend asked me what I wanted to do with it. And there were all of these possibilities, you know? Um. Get rich. Take power. Run for President. I told her we couldn’t do any of those things. I said…I said I wanted to become the next Comet King.” 
 
@@ -14591,7 +14591,7 @@ Then the door shattered and the Other King entered the room.
 
 #### II.
 
-I don’t know if I’d thought to contribute to the fight somehow, but the symbols and energies flaring across the room from both sides the moment the door began to creak disabused me of the notion instantly. [Spectral Name!] Sohu thought at me, and I spoke it faster than I’d ever spoken anything in my life and become invisible. The Other King floated almost leisurely through the mystical armaments hurled against him, pausing only to wipe away a few incantations here or there with a crimson sleeve. 
+I don’t know if I’d thought to contribute to the fight somehow, but the symbols and energies flaring across the room from both sides the moment the door began to creak disabused me of the notion instantly. [open-bracket]Spectral Name!] Sohu thought at me, and I spoke it faster than I’d ever spoken anything in my life and become invisible. The Other King floated almost leisurely through the mystical armaments hurled against him, pausing only to wipe away a few incantations here or there with a crimson sleeve. 
 
 Nathanda leapt onto the Black Opal Throne and traced a mem, lamed and kaf. Melek, meaning “royalty” or “kingship”, but also reminescent of malak, meaning “angel”. A powerful double meaning, the natural weapon of a queen descended from Heaven.
 
@@ -14611,7 +14611,7 @@ The great sword Sigh was in her hands, and she lunged at the Other King. Sohu’
 
 Somehow she managed to miss the Other King entirely.
 
-[ELISHA BEN ABUYAH IS NOT MY TRUE NAME] thought the figure in scarlet.
+[open-bracket]ELISHA BEN ABUYAH IS NOT MY TRUE NAME] thought the figure in scarlet.
 
 I saw Jinxiang pick herself up, dust herself off, no longer sure of herself.
 
@@ -14730,7 +14730,7 @@ The sound of my breath rose and fell. The blood made little rivulets, as if expl
 
 It was a faint voice, almost too faint to detect, audible not to the ears but to the innermost chambers of my thought. Had the darkness and silence been any less complete I might have missed it entirely. And the voice said:
 
-[Blowhole-y of holies.]
+[open-bracket]Blowhole-y of holies.]
 
 <hr/>
 
@@ -14754,101 +14754,101 @@ Citadel West</i></b></font>
 
 And the voice said:
 
-[Blowhole-y of holies.]
+[open-bracket]Blowhole-y of holies.]
 
-[Ana! You’re alive!]
+[open-bracket]Ana! You’re alive!]
 
-[Not…exactly.]
+[open-bracket]Not…exactly.]
 
-[Oh.]
+[open-bracket]Oh.]
 
-[But sort of! Kabbalistic marriage seems to have some hidden features we didn’t realize. All those nights looking for clues in the Bible and we missed a doozy.]
+[open-bracket]But sort of! Kabbalistic marriage seems to have some hidden features we didn’t realize. All those nights looking for clues in the Bible and we missed a doozy.]
 
-[Should have checked Poe instead.]
+[open-bracket]Should have checked Poe instead.]
 
-[Poe?]
+[open-bracket]Poe?]
 
-[“And not even the angels in Heaven above, nor the demons down under the sea, could ever dissever my soul from the soul of the beautiful Anna – ]
+[open-bracket]“And not even the angels in Heaven above, nor the demons down under the sea, could ever dissever my soul from the soul of the beautiful Anna – ]
 
-[Get a room, you two!]
+[open-bracket]Get a room, you two!]
 
-[Erica?!]
+[open-bracket]Erica?!]
 
-[Surprised to see me here?]
+[open-bracket]Surprised to see me here?]
 
-[Yes!]
+[open-bracket]Yes!]
 
-[I think I died just before Ana did. It seems to have put me inside Ana’s head, and then when Ana transferred into your head, I came with her.]
+[open-bracket]I think I died just before Ana did. It seems to have put me inside Ana’s head, and then when Ana transferred into your head, I came with her.]
 
-[There are <i>two different</i> other people inside my head?!]
+[open-bracket]There are <i>two different</i> other people inside my head?!]
 
-[Hoo boy, mi compadre, you are not going to like this]
+[open-bracket]Hoo boy, mi compadre, you are not going to like this]
 
-[What? How? Uh, do any of you know what’s going on here?]
+[open-bracket]What? How? Uh, do any of you know what’s going on here?]
 
-[I DO NOT KNOW IF I AM INCLUDED IN “ANY OF YOU” BUT I THINK I HAVE A PRETTY GOOD IDEA. CONSIDER RABBI SHIMON’S WRITINGS ON THE FIVE LEVELS OF THE SOUL. THE FIRST, THE NEFESH, REPRESENTS PHYSICAL LIFE. THE SECOND, THE RUACH…]
+[open-bracket]I DO NOT KNOW IF I AM INCLUDED IN “ANY OF YOU” BUT I THINK I HAVE A PRETTY GOOD IDEA. CONSIDER RABBI SHIMON’S WRITINGS ON THE FIVE LEVELS OF THE SOUL. THE FIRST, THE NEFESH, REPRESENTS PHYSICAL LIFE. THE SECOND, THE RUACH…]
 
-[Uriel! What did I tell you about infodumping directly into people’s minds?]
+[open-bracket]Uriel! What did I tell you about infodumping directly into people’s minds?]
 
-[I DO NOT REMEMBER, BUT I ASSUME IT WAS SOMETHING ABOUT IT BEING VERY EFFICIENT]
+[open-bracket]I DO NOT REMEMBER, BUT I ASSUME IT WAS SOMETHING ABOUT IT BEING VERY EFFICIENT]
 
-[Sohu?!]
+[open-bracket]Sohu?!]
 
-[Yeah, when Father killed me, I think I ended up in your mind too. And Uriel with me.]
+[open-bracket]Yeah, when Father killed me, I think I ended up in your mind too. And Uriel with me.]
 
-[So…Ana…Erica…Dylan…Sohu…Uriel…is there anyone else I should know about?]
+[open-bracket]So…Ana…Erica…Dylan…Sohu…Uriel…is there anyone else I should know about?]
 
-[Aaaaaaron, you thought you were going to marry everyone except me but I ended up inside your head aaaaannnyway.]
+[open-bracket]Aaaaaaron, you thought you were going to marry everyone except me but I ended up inside your head aaaaannnyway.]
 
-[Sarah? How! I thought you were part of THARMAS]
+[open-bracket]Sarah? How! I thought you were part of THARMAS]
 
-[I am. THARMAS is with us too. When it was destroyed, we ended up in Sohu, and when she died, we ended up in you. Now we’re together forevvvvvver]
+[open-bracket]I am. THARMAS is with us too. When it was destroyed, we ended up in Sohu, and when she died, we ended up in you. Now we’re together forevvvvvver]
 
-[I’m stuck with seven people in my head?!]
+[open-bracket]I’m stuck with seven people in my head?!]
 
-[ACTUALLY, I BELIEVE THE CURRENT SITUATION IS UNSTABLE AND WE WILL GRADUALLY MERGE INTO A SINGLE ENTITY]
+[open-bracket]ACTUALLY, I BELIEVE THE CURRENT SITUATION IS UNSTABLE AND WE WILL GRADUALLY MERGE INTO A SINGLE ENTITY]
 
-[How gradually?]
+[open-bracket]How gradually?]
 
-[Which of you said that?]
+[open-bracket]Which of you said that?]
 
-[Wait, which of us said <i>that</i>?]
+[open-bracket]Wait, which of us said <i>that</i>?]
 
-[Aaron, was that you?]
+[open-bracket]Aaron, was that you?]
 
-[Sort of]
+[open-bracket]Sort of]
 
-[Who are we?]
+[open-bracket]Who are we?]
 
-[Adam Kadmon]
+[open-bracket]Adam Kadmon]
 
-[Albion]
+[open-bracket]Albion]
 
-[Albion? Who?]
+[open-bracket]Albion? Who?]
 
-[ALBION-EST, I’M NOT ENTIRELY SURE YET]
+[open-bracket]ALBION-EST, I’M NOT ENTIRELY SURE YET]
 
-[That wasn’t a knock-knock joke!]
+[open-bracket]That wasn’t a knock-knock joke!]
 
-[I AM ALMOST CERTAIN THAT IT WAS. ALSO, “IT IS ALBION-D MY UNDERSTANDING]
+[open-bracket]I AM ALMOST CERTAIN THAT IT WAS. ALSO, “IT IS ALBION-D MY UNDERSTANDING]
 
-[All be one and one be all!]
+[open-bracket]All be one and one be all!]
 
-[Wait a second, no, merging into a superorganism with you guys was the worst mistake of my life and I hope I die. Die again. Super-die. Whatever.]
+[open-bracket]Wait a second, no, merging into a superorganism with you guys was the worst mistake of my life and I hope I die. Die again. Super-die. Whatever.]
 
-[In William Blake’s prophecies, Albion was the entity formed at the end of time, when all of the different aspects of the human soul finally came together to remake the world.]
+[open-bracket]In William Blake’s prophecies, Albion was the entity formed at the end of time, when all of the different aspects of the human soul finally came together to remake the world.]
 
-[Remake the world?]
+[open-bracket]Remake the world?]
 
-[The Comet King will speak the Explicit Name to reshape Hell. But here on Earth, things aren’t great either. Physics is broken, the world is collapsing, the apocalypse is in full swing. We need to make things right. The Comet King told us the Name was a notarikon encoded in the speech Metatron gave Ana. Now all we need to do is speak it.]
+[open-bracket]The Comet King will speak the Explicit Name to reshape Hell. But here on Earth, things aren’t great either. Physics is broken, the world is collapsing, the apocalypse is in full swing. We need to make things right. The Comet King told us the Name was a notarikon encoded in the speech Metatron gave Ana. Now all we need to do is speak it.]
 
-[No one except the Comet King can speak the Shem haMephorash!]
+[open-bracket]No one except the Comet King can speak the Shem haMephorash!]
 
-[No one except him <i>could</i> speak it. No one except him could see the whole universe at once, understand its joints and facets, figure out how it needed to be broken and remade. But we’re part supercomputer.]
+[open-bracket]No one except him <i>could</i> speak it. No one except him could see the whole universe at once, understand its joints and facets, figure out how it needed to be broken and remade. But we’re part supercomputer.]
 
-[Yes. This isn’t a coincidence. A supercomputer. An encyclopaedic knowledge of kabbalah and the secret structure of the universe. A passion for revolution. And an answer to the problem of evil. This is what we were made for.]
+[open-bracket]Yes. This isn’t a coincidence. A supercomputer. An encyclopaedic knowledge of kabbalah and the secret structure of the universe. A passion for revolution. And an answer to the problem of evil. This is what we were made for.]
 
-[There’s someone else we need.]
+[open-bracket]There’s someone else we need.]
 
 We all realized it. We all paused, reflecting on what had to be done. We all agreed. 
 
@@ -14876,9 +14876,9 @@ I didn’t say anything to Thamiel.
 
 He sobbed, then handed me the bident. I took it from its far end, the two points in my two hands, the single-pointed end facing the Devil. A unident. He kept sobbing. I held the unident undaunted. Finally, I thrust it at him, and he disappeared, a puff of smoke, a thread too weak to hold.
 
-[Are you ready?] I asked myself. 
+[open-bracket]Are you ready?] I asked myself. 
 
-[Let’s go] I answered.
+[open-bracket]Let’s go] I answered.
 
 I thought again of all I had seen, all I had hoped. Everything that could have been different and everything that couldn’t have been other than it was. I thought of God’s garden of universes, growing out there somewhere, staggering the imagination. I thought of God, and Adam Kadmon, and Thamiel, and the divine plan. My thoughts unfolded into dreams and blueprints and calculations, and I held all of them in my mind at once, a vision like a perfect crystal, a seed transformed into something new and wonderful. I felt a fearsome joy, like nothing I had ever experienced before. I felt the heart of Adam Kadmon beating within me, freed of its constraints at last, a fervent wish to reshape and redeem itself.
 
@@ -14946,11 +14946,11 @@ Comments worth highlighting – <a href="http://unsongbook.com/interlude-%D7%93-
 
 Wiki articles and websites related to concepts in the story: <a href="https://en.wikipedia.org/wiki/Agloe,_New_York">Agloe NY</a>, <a href="https://en.wikipedia.org/wiki/AGLA">AGLA</a>, <a href="http://www.hebrew4christians.com/Names_of_G-d/Esoteric/esoteric.html">mono- and di-grammaton</a>, <a href="http://www.sacred-texts.com/eso/sta/sta30.htm">derivation of Adam’s name from notarikon</a>, <a href="http://www.ldolphin.org/messiah.html">when will the Messiah come?</a>, <a href="https://en.wikipedia.org/wiki/Isaac_Luria">Ha’Ari</a> and <a href="https://en.wikipedia.org/wiki/Lurianic_Kabbalah#Shevira_.E2.80.93_Shattering_of_the_sephirot_vessels">the shattering of vessels</a>, <a href="https://en.wikipedia.org/wiki/Star_Prophecy">the Star Prophecy</a>, <a href="https://en.wikipedia.org/wiki/Thaumiel">Thamiel</a>, <a href="http://www.themystica.com/mystica/articles/n/nachash.html">serpent/Messiah correspondence</a>, <a href="http://mysteriouswritings.com/secret-meaning-to-the-phrases-of-et-in-arcadia-ego-and-i-tego-arcana-dei-revealed/">I TEGO ARCANA DEI</a>.
 
-I will be in the Bay Area for most of April. I have a couple of meetups planned for interested readers. <s>One of them will be 7 PM on Friday April 15 at 3806 Williams Rd, San Jose</s> [MAY HAVE TO CHANGE, WILL GET BACK TO YOU]. Another will <i>probably</i> be somewhere in Berkeley on the afternoon of Sunday April 17th but I still need to confirm the location. There may be others (past tradition has been to hold one at the Gogmagogplex in Mountain View).  Although these will be probably be dominated by readers of my other blog, if there’s enough interest and a few volunteers I can also arrange a sneak preview/dramatic reading of Interlude Zayin. There will be more concrete meetup announcements posted soon on <a href="http://slatestarcodex.com/">my other blog</a>, so watch that space.
+I will be in the Bay Area for most of April. I have a couple of meetups planned for interested readers. <s>One of them will be 7 PM on Friday April 15 at 3806 Williams Rd, San Jose</s> [open-bracket]MAY HAVE TO CHANGE, WILL GET BACK TO YOU]. Another will <i>probably</i> be somewhere in Berkeley on the afternoon of Sunday April 17th but I still need to confirm the location. There may be others (past tradition has been to hold one at the Gogmagogplex in Mountain View).  Although these will be probably be dominated by readers of my other blog, if there’s enough interest and a few volunteers I can also arrange a sneak preview/dramatic reading of Interlude Zayin. There will be more concrete meetup announcements posted soon on <a href="http://slatestarcodex.com/">my other blog</a>, so watch that space.
 
 I recently learned that <a href="https://en.wikipedia.org/wiki/Astro_Teller">Astro Teller</a>, the real-life grandson of Edward Teller, is the head of Google X Labs. And has a degree from Stanford in “symbolic computation”. And has <a href="http://amzn.to/22e34WC">written a fiction book</a> about a man who creates a self-aware AI. I knew none of this when I wrote the first few chapters of this book. Needless to say, nothing is ever a coincidence.
 
-<s>If anyone with artistic skills would like to help make a beginning image for Book 2 similar to <a href="http://unsongbook.com/book-i-genesis/">the beginning image for Book 1</a>, please let me know. The relevant skill would be drawing a scene with a ship. I can tell you more if you contact me. It doesn’t have to be perfect, just better than what I could do myself. Email me at scott[at]shireroth[dot]org if you’re interested.</s> (already got some people, thanks)
+<s>If anyone with artistic skills would like to help make a beginning image for Book 2 similar to <a href="http://unsongbook.com/book-i-genesis/">the beginning image for Book 1</a>, please let me know. The relevant skill would be drawing a scene with a ship. I can tell you more if you contact me. It doesn’t have to be perfect, just better than what I could do myself. Email me at scott[open-bracket]at]shireroth[open-bracket]dot]org if you’re interested.</s> (already got some people, thanks)
 
  
 
@@ -15119,7 +15119,7 @@ Thanks to everyone who said hi to me and talked to me about <i>Unsong</i> at the
 
 
 <center><img data-recalc-dims="1" src="https://i1.wp.com/slatestarcodex.com/blog_images/asilomar_teller.jpg?w=557"/></center>
-Here’s a picture from the conference of me with Sam Teller, a director at SpaceX. Cf. <a href="http://unsongbook.com/chapter-9-with-art-celestial/">Chapter 10</a> – “The kabbalistic meaning [of Teller] is ‘someone who calls down destructive celestial energies'”!
+Here’s a picture from the conference of me with Sam Teller, a director at SpaceX. Cf. <a href="http://unsongbook.com/chapter-9-with-art-celestial/">Chapter 10</a> – “The kabbalistic meaning [open-bracket]of Teller] is ‘someone who calls down destructive celestial energies'”!
 
  
 
