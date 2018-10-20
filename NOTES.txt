@@ -6,17 +6,9 @@
     - Or maybe do all this in the parsing stage, inserting tags
         or whatever to change font.
 - In table of contents handle long chapter names (wrap earlier).
-- Why are some lines too long? Grep for paragraph ending
-    with "FISH IN A BARREL". Is it the capitals? Look also
-    at paragraph starting "AR-ASH-KON-CHEL-NA-VAN-TSIS". It
-    must not want to break at hyphen on next line.
-- Some em-dashes are being inserted by accident. See where he
-    uses multiple hyphens.
-    - Never? Why did it look weird in places?
+- Why are some lines too long?
+- Fix all blockquotes.
 - Remove space before two-part punctuation.
-- Looks like em dashes are actual em dashes with spaces around them.
-    Replace with three hyphens without spaces.
-- Make sure ellipses look good. What did we do for Klat book?
 - Fix blockquotes at top of chapters.
 - Fix embedded blockquotes (signs, etc.).
 - Fix date/location at top of chapters.

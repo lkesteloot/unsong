@@ -207,13 +207,13 @@ I could have done it. I’d already made discoveries in the field—small ones, 
 
 The minutes on the timer ticked down. The words on the computer kept coming. My energy slowly seeped away. The domino whose fall would precipitate the End of Days teetered.
 
-There were forty seconds on the timer when the computer gave me a monster. It started ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN… and it just kept going. Fifty two letters. Two longer than the Wrathful Name. It was the longest Name I’d ever been given to test, by far. I was shocked Countenance would even bother.
+There were forty seconds on the timer when the computer gave me a monster. It started ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN... and it just kept going. Fifty two letters. Two longer than the Wrathful Name. It was the longest Name I’d ever been given to test, by far. I was shocked Countenance would even bother.
 
-I incanted: “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN…” until I reached the end of the word. It was not a Name of God.
+I incanted: “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN...” until I reached the end of the word. It was not a Name of God.
 
-I incanted: “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN…” until I reached the end of the next one. It wasn’t a Name of God either.
+I incanted: “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN...” until I reached the end of the next one. It wasn’t a Name of God either.
 
-I incanted: “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN…” and just as I finished, my timer reached zero and told me I was finished, for today, free until tomorrow morning crashed down on me and I started the same thing all over again.
+I incanted: “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN...” and just as I finished, my timer reached zero and told me I was finished, for today, free until tomorrow morning crashed down on me and I started the same thing all over again.
 
 “Meh,” I said. “Meh. Meh. Meh. Meh. Meh.”
 
@@ -227,9 +227,9 @@ Six thousand years earlier, the wind of God had moved upon the bare red dirt of 
 
 And that third Name was fifty-eight letters long.
 
-It began: ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN…
+It began: ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN...
 
-And it ended: …MEH-MEH-MEH-MEH-MEH-MEH.
+And it ended: ... MEH-MEH-MEH-MEH-MEH-MEH.
 
 All this I saw, as in a dream or vision. Six months and five hundred thousand nonsense words of pointless suffering, suddenly redeemed. The possibilities swam in front of me, began to take form. This wasn’t just a Name. This was the royal road. And it was mine. It was none of the candidates my computer had fed me; it was six syllables longer than any of them, Countenance would never find it. As I walked out of the office and headed for the CalTrain station, I tried to calm myself, give my mind the stillness it needed for telepathy to work. Finally, I sent out a feeler.
 
@@ -269,7 +269,7 @@ We would start tonight. By the end of the week, we would have results. By the en
 
 Palo Alto is Spanish for “tall tree”. The phrase “tall tree” appears in the Bible, in Daniel 4:10. King Nebuchadnezzer has a dream, and it goes like this:
 
-[i]“I saw a tall tree out in a field, growing higher and higher into the sky until it could be seen by everyone in all the world. Then as I lay there dreaming, I saw one of God’s angels coming down from heaven. And he shouted, ‘Cut down the tree; lop off its branches; shake off its leaves, and scatter its fruit…For this has been decreed, so that all the world may understand that the Most High dominates the kingdoms of the world and gives them to anyone he wants to, even the lowliest of men!’”[/i]
+[i]“I saw a tall tree out in a field, growing higher and higher into the sky until it could be seen by everyone in all the world. Then as I lay there dreaming, I saw one of God’s angels coming down from heaven. And he shouted, ‘Cut down the tree; lop off its branches; shake off its leaves, and scatter its fruit... For this has been decreed, so that all the world may understand that the Most High dominates the kingdoms of the world and gives them to anyone he wants to, even the lowliest of men!’”[/i]
 
 “Palo Alto!” announced the loudspeaker again. “Doors will be closing shortly. Palo Alto!”
 
@@ -328,7 +328,7 @@ Today today, Nixon hadn’t bothered. He just sat in the Oval Office doing work.
 
 The man had clarified that he meant [i]really[/i] ominous patterns. Like, some big thunderstorms in the Rockies were starting to develop high anvil-like peaks—which was within normal variability for this time of year —but also starting to develop domes and minarets and flying buttresses—which weren’t. And although the Doppler radar didn’t have good enough resolution to be sure, some of the buttresses were starting to look like they might have gargoyles on them.
 
-And before Nixon could say anything, the man had added that a Category 5 hurricane was forming in the Gulf of Mexico, and it was only March, and this literally [i]never[/i] happened before July, and something was [i]really[/i] wrong here…
+And before Nixon could say anything, the man had added that a Category 5 hurricane was forming in the Gulf of Mexico, and it was only March, and this literally [i]never[/i] happened before July, and something was [i]really[/i] wrong here...
 
 It was then, at 7:38 PM, that the red phone started ringing. He considered not picking it up, but at least it would be [i]differently[/i] confusing.
 
@@ -458,7 +458,7 @@ One of my few true talents is an ability to stride confidently to the front of t
 
 Fifty years ago, Apollo 8 cracked the sky open and people started discovering the Names of God. A decade later, corporations started patenting them, demanding license fees for anyone who wanted to work miracles with them. A decade after [i]that[/i], they codified the whole system into international law and created UNSONG— the United Nations Subcommittee On Names of God—to enforce it.
 
-And a decade after [i]that[/i], people started asking: why are we allowing this? Everything we know about God suggests that He loves all humans and is [i]not[/i] a fan of the rich getting richer. First came Reverend Stevens and his book. Then came the political movement, growing out of local Unitarian churches that insisted that God loved everyone alike and therefore everyone alike must know His Names. And finally, when every legitimate avenue of resistance had been crushed, there came groups like ours, stealing what Names we could find and teaching them to one another in hidden forests or dark basements. Spreading the illegal knowledge in preparation for…well…okay, the endgame wasn’t exactly our strong point. Reverend Stevens had said that once enough people knew the Names, it would spark a revolution in consciousness, an immanentization of the eschaton as the holy essence reverberated within the minds of all life. Sure. Let’s go with that.
+And a decade after [i]that[/i], people started asking: why are we allowing this? Everything we know about God suggests that He loves all humans and is [i]not[/i] a fan of the rich getting richer. First came Reverend Stevens and his book. Then came the political movement, growing out of local Unitarian churches that insisted that God loved everyone alike and therefore everyone alike must know His Names. And finally, when every legitimate avenue of resistance had been crushed, there came groups like ours, stealing what Names we could find and teaching them to one another in hidden forests or dark basements. Spreading the illegal knowledge in preparation for... well... okay, the endgame wasn’t exactly our strong point. Reverend Stevens had said that once enough people knew the Names, it would spark a revolution in consciousness, an immanentization of the eschaton as the holy essence reverberated within the minds of all life. Sure. Let’s go with that.
 
 But here I was. After getting expelled from Stanford, and taking minimum wage jobs to make ends meet, and being treated like scum by everyone in academic kabbalah, here all I needed to do was have some basic familiarity with the Names, know a couple of impressive-sounding things about Maharaj ranking, and I was Choir Director and a leading scientific authority. That felt good. And given all that the big theonomics companies had done to me, helping screw them over was icing on the cake. My life was already in the toilet. The same self-destructive urge that had led me to use the Wakening Name at work bound me here to Erica and her people.
 
@@ -510,9 +510,9 @@ The Names of God are long and apparently meaningless. If you’re not a freaky m
 
 [open-bracket]The Gospel according to Fluke]
 
-[open-bracket]…um…Epistle to Philemonstro. Also, @#$% you.]
+[open-bracket]... um... Epistle to Philemonstro. Also, @#$% you.]
 
-“Asat-zam…sorry…where were we?…Asat-zam-rus-shan-sever-las-kyon-dal-athen-try-kophu-li-mar-tan-day!”
+“Asat-zam... sorry... where were we?... Asat-zam-rus-shan-sever-las-kyon-dal-athen-try-kophu-li-mar-tan-day!”
 
 “ASAT-ZAM-RUS-SHAN-SEVER-LAS-KYON-DAL-ATHEN-TRY-KOPHU-LI-MAR-TAN-DAY!”
 
@@ -618,7 +618,7 @@ The colored streams of letters around his head whirl more wildly now.
 
 “KUF. YUD. KUF. A KAYAK. SOMETHING IMPORTANT IS HAPPENING INVOLVING A KAYAK.”
 
-The streams slow down. Somewhere in the wide world, something is happening involving a kayak, something important enough to disturb the subtle threads of the machinery of Heaven. Is it a prophet being carried down a river in Asia? A future king traversing an ocean in Europe? Is the kayak metaphorical? On the River of Time? On the Ocean of Knowledge? Might it…
+The streams slow down. Somewhere in the wide world, something is happening involving a kayak, something important enough to disturb the subtle threads of the machinery of Heaven. Is it a prophet being carried down a river in Asia? A future king traversing an ocean in Europe? Is the kayak metaphorical? On the River of Time? On the Ocean of Knowledge? Might it...
 
 A kayak shot out of the walls of cloud at two hundred miles an hour and missed Uriel’s head by half an inch.
 
@@ -644,7 +644,7 @@ They stared at each other for a moment. The girl, sopping wet, still shaking, st
 
 “I AM BUSY. I AM TRYING TO FIX CONTINENTAL DRIFT.”
 
-“I…didn’t know it was broken.”
+“I... didn’t know it was broken.”
 
 Uriel’s face became more animated, his speech faster.
 
@@ -728,13 +728,13 @@ Sohu closed her eyes, thought for a second. “Let this book of the law be ever 
 
 “JEZUBOAD 4:33.”
 
-“I…There’s no Book of Jezuboad.”
+“I... There’s no Book of Jezuboad.”
 
 “YES THERE IS.”
 
 “No there isn’t.”
 
-“YES TH…UH OH.”
+“YES TH... UH OH.”
 
 Uriel stood very quietly for a moment. The streams of letters ceased flowing. Then, all of a sudden, he said a very un-angelic word.
 
@@ -784,7 +784,7 @@ Uriel let out a long sigh.
 
 “READ,” he said.
 
-[i]1) And it came to pass that in the eighth year of Ahab, Jezuboad made a burnt offering in the Temple of the Lord 2) and he spoke saying “O God, whose wisdom spanneth the heavens and the earth, I am learned in Scripture, yet much still troubles me. 3) Why the many apparent contradictions? Whence the emphasis on ritual purity? And which books are literally true and which meant only to edify?” 4) Then out of a fiery cloud before him there appeared the Archangel Uriel, whose eyes shone like the sun. 5) And he said with a mighty voice: 6) “OKAY, LET ME CLEAR ALL OF THIS CONFUSION UP RIGHT NOW, SO NO ONE ELSE EVER HAS TO WORRY ABOUT IT…”[/i]
+[i]1) And it came to pass that in the eighth year of Ahab, Jezuboad made a burnt offering in the Temple of the Lord 2) and he spoke saying “O God, whose wisdom spanneth the heavens and the earth, I am learned in Scripture, yet much still troubles me. 3) Why the many apparent contradictions? Whence the emphasis on ritual purity? And which books are literally true and which meant only to edify?” 4) Then out of a fiery cloud before him there appeared the Archangel Uriel, whose eyes shone like the sun. 5) And he said with a mighty voice: 6) “OKAY, LET ME CLEAR ALL OF THIS CONFUSION UP RIGHT NOW, SO NO ONE ELSE EVER HAS TO WORRY ABOUT IT...”[/i]
 
 
 
@@ -830,7 +830,7 @@ Or, well, they [i]can[/i]. But nothing happens. No wave of light crashes through
 
 Llull was programmed by hobbyists and academics and had no practical utility. It was used in a few research applications, then abandoned to any amateur who might want to play around with it.
 
-But if someone were to come up with a way to [i]give[/i] a computer the divine spark, to ensoul it…
+But if someone were to come up with a way to [i]give[/i] a computer the divine spark, to ensoul it...
 
 Well, that person would have something producing Names thousand times as fast as the average sweatshop. Since there are about a thousand sweatshops seeking Divine Names all over the world, that one person with his single computer would have a magical discovery rate equal to the rest of the world combined. The very least he could expect would be to become stupendously rich.
 
@@ -876,9 +876,9 @@ I double-clicked on the little icon for Llull, loaded it up, set it on autopilot
 
 I stood up, towering above the white frame of the computer. I placed my hand above it in a posture of benediction, like the Pope blessing a small child. Features in a beatific smile. I cleared my mind. In the background, I could [i]feel[/i] Ana’s presence, telepathically bound to me, happy, radiant.
 
-I started: “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN…”
+I started: “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN...”
 
-Erica’s voice from the hallway: “Are you doing dark rituals in the bedroom again?! If you burn that carpet, I swear, you can summon Thamiel himself and all of his terrors will be as nothing compared to what I will put you through if…”
+Erica’s voice from the hallway: “Are you doing dark rituals in the bedroom again?! If you burn that carpet, I swear, you can summon Thamiel himself and all of his terrors will be as nothing compared to what I will put you through if...”
 
 And I ended: “MEH-MEH-MEH-MEH-MEH-MEH!”
 
@@ -914,7 +914,7 @@ I opened the door and caused a stunningly beautiful girl to fall off a stepladde
 
 I looked up at the sign again. It read CASH OR GOD
 
-“It’s a kabbalistic protest,” she said faintly. “Against a society that thinks…”
+“It’s a kabbalistic protest,” she said faintly. “Against a society that thinks...”
 
 “You’re not a kabbalist. If you were a kabbalist, you’d have more respect! You can’t just go removing letters from signs like that! Matthew 5:18: ‘Verily I say unto you, not a single letter, nor even a stroke of a letter, shall be removed until all is fulfilled.'”
 
@@ -964,7 +964,7 @@ You don’t understand how heavily these people train. It’s Torah eight hours 
 
 David looked at her. “I can quote you chapter and verse. Jonah 1:17.”
 
-“…would be a lovely answer, if I’d asked that. I asked you how long Joseph was in the belly of the whale.”
+“... would be a lovely answer, if I’d asked that. I asked you how long Joseph was in the belly of the whale.”
 
 The rabbi trap had been sprung. His face turned red.
 
@@ -996,7 +996,7 @@ Standing over me, as if scrutinizing a horse for purchase, was Weird Hair Girl. 
 
 “What was the joke?” asked my blonde girl.
 
-“It was…” Weird Hair Girl thought for a second. “Do you know how many beers I had last night? And you want me to remember things? [i]Specific[/i] things?”
+“It was...” Weird Hair Girl thought for a second. “Do you know how many beers I had last night? And you want me to remember things? [i]Specific[/i] things?”
 
 “Hm,” said my blonde. She looked straight at me, with the pale blue eyes. I don’t think she recognized me. “What was the joke?”
 
@@ -1004,11 +1004,11 @@ I protested. “I don’t even know where I am! I don’t even know your names! 
 
 The girl I was going to marry ran her fingers through her pale blonde hair in frustration and deep thought. “Since you came up with it last night,” she said, “you must be able to come up with it again. You were with rabbinical students, therefore you were talking about the Bible. Biblical whale jokes. What comes to mind?”
 
-“Um,” I said. “Obviously the Biblical king Ahab is an suspect, given his namesake. So…aha!…Ahab was visiting Jerusalem, and he kept trying to shoot Moby Dick from there, and but it’s so far inland he couldn’t reach the sea with his harpoon, so he ordered the construction of a great rampart to give him a height advantage…”
+“Um,” I said. “Obviously the Biblical king Ahab is an suspect, given his namesake. So... aha!... Ahab was visiting Jerusalem, and he kept trying to shoot Moby Dick from there, and but it’s so far inland he couldn’t reach the sea with his harpoon, so he ordered the construction of a great rampart to give him a height advantage...”
 
 She stared at me, a calculating stare.
 
-“…and to this very day, it is known as the Whaling Wall,” I finished, and both of us started giggling.
+“... and to this very day, it is known as the Whaling Wall,” I finished, and both of us started giggling.
 
 “Wait,” said Weird Hair Girl. “Why did I think introducing the two of you would be a good idea? This is the worst thing that ever happened.”
 
@@ -1036,7 +1036,7 @@ I remember my first morning there, the morning it all came together. The girls f
 
 It was a big house, a little old but well-maintained. From one wall hung a sort of banner with a big Hebrew letter yud on it. Tenth letter of the alphabet, representing the tenth commandment, “Thou shalt not covet”, with the obvious implications for capitalism and wealth accumulation. The big yud was a Stevensite symbol. These were Stevensites. It fit.
 
-But I could do better than that. I turned my attention to the bookshelf on the far wall, tried to see what I could glean. They had the usual sci-fi/fantasy classics:  Tolkien, Asimov, Salby. Then some meatier fare: Zayinty the economist, Chetlock the prognosticator, Tetkowsky the futurist, Yudka the novelist, good old Kaf ben Clifford. I recognized a few I’d seen before by their covers alone. Nachman Bernstein’s [i]Divinity[/i]. Nachman Eretz’s [i]Alphanomics[/i]. Menelaus Moleman’s [i]Letter to the Open-Minded Atheist[/i]. Gebron and Eleazar’s [i]Kabbalah: A Modern Approach[/i]. Ben Aharon’s [i]Gematria Since Adam[/i]. Rachel Sephardi’s [i]Arriving At Aleph[/i]. Rav Kurtzweil’s [i]The Age Of Mechanized Spirituality[/i]. And…really? The collected works of Eliezer ben Moshe?!
+But I could do better than that. I turned my attention to the bookshelf on the far wall, tried to see what I could glean. They had the usual sci-fi/fantasy classics:  Tolkien, Asimov, Salby. Then some meatier fare: Zayinty the economist, Chetlock the prognosticator, Tetkowsky the futurist, Yudka the novelist, good old Kaf ben Clifford. I recognized a few I’d seen before by their covers alone. Nachman Bernstein’s [i]Divinity[/i]. Nachman Eretz’s [i]Alphanomics[/i]. Menelaus Moleman’s [i]Letter to the Open-Minded Atheist[/i]. Gebron and Eleazar’s [i]Kabbalah: A Modern Approach[/i]. Ben Aharon’s [i]Gematria Since Adam[/i]. Rachel Sephardi’s [i]Arriving At Aleph[/i]. Rav Kurtzweil’s [i]The Age Of Mechanized Spirituality[/i]. And... really? The collected works of Eliezer ben Moshe?!
 
 I stared at the shelf greedily. I didn’t have [i]half[/i] of these. I hoped they weren’t too serious about the not coveting.
 
@@ -1054,7 +1054,7 @@ It was only after finishing my scan of the books that I turned to the other poss
 
 “I’m standing right here, making your food!” Erica shouted from the kitchen.
 
-“So are you guys some kind of Stevensite group, or…” I started to ask. Ana put a finger to her mouth, and whispered “Shhhhhhhhh. She’ll hear you.”
+“So are you guys some kind of Stevensite group, or...” I started to ask. Ana put a finger to her mouth, and whispered “Shhhhhhhhh. She’ll hear you.”
 
 Erica came in bearing four plates of toast. “I’m glad you asked!” she said in an inappropriately chirpy voice, and picked Stevens’ [i]The Temple And The Marketplace[/i] off the shelf. “Have you read this?”
 
@@ -1095,7 +1095,7 @@ Nor let my sword sleep in my hand<br/>
 Till we have built Jerusalem<br/>
 In England’s green and pleasant land[/i]
 
-And the theonomic corporations will stop at nothing to thwart us,” Erica warned. “The klipot are…”
+And the theonomic corporations will stop at nothing to thwart us,” Erica warned. “The klipot are...”
 
 “I know what they are,” I interrupted. “I was expelled from Stanford for publishing a method for breaking klipot.”
 
@@ -1155,7 +1155,7 @@ I gingerly pointed out that the world was terrible.
 
 Every Sunday night, Erica hosted a dinner party. Every Sunday night, one guest was tasked with giving a presentation. Something they were interested in, something to keep us entertained while we waited for the food to be ready. A few weeks ago, Erica herself had talked about running the [i]Standard[/i] and how she was going to get distribution networks going across the California Republic and maybe even into the Salish Free State. The week before, I’d talked about a new paper out of MIT expanding upon Rubenstein’s Sieve, one of the most important methods for narrowing down namespace. Now it was Ana’s turn, and of course she was going to talk about the Book of Job.
 
-The chairs were all full as usual. I recognized Bill Dodd. He’d been a physics grad student at Berkeley before ending as one of the washed-up scientists who seemed to be everywhere in the Bay these days, the type instantly recognizable by their tendency to respond to things which were none of their business with “As a physicist, I think…”
+The chairs were all full as usual. I recognized Bill Dodd. He’d been a physics grad student at Berkeley before ending as one of the washed-up scientists who seemed to be everywhere in the Bay these days, the type instantly recognizable by their tendency to respond to things which were none of their business with “As a physicist, I think...”
 
 I recognized Eliot “Eli” Foss. Calm, quiet Eliot—Erica had picked him up at a Unitarian meeting in Oakland, picked him up in both senses of the word—well, two of the three, she hadn’t literally lifted him. Rumor had it that he was actually religious instead of meta-ironically religious, but no one could tell for certain and the whole idea made us sort of uncomfortable.
 
@@ -1185,11 +1185,11 @@ Ana was actually the last to arrive, even though she lived here. She looked ethe
 
 There weren’t enough copies of the Book of Job for all of us, which was either a metaphor or bad planning on Ana’s part. Pirindiel knew it by memory, which made things a little easier, and Erica was still at the stove preparing the main course, but I still ended up sharing a copy with Ally.
 
-“The Book of Job,” said Ana. She had the voice of a singer, lowercase-s, though as far as I knew she’d never had any vocal training. When she spoke, people listened. “Totally unique among Biblical manuscripts. It’s not set in Israel, but in Uz—maybe somewhere in Arabia. It probably predates Israel as a settled state. It’s written in a much older form of Hebrew than any other Biblical book. It gets quoted in Isaiah, which means it’s older than the prophets. It gets quoted in Psalms, which means it’s older than King David. The lexicon is totally different, so many foreign words that scholars suspect it was written in something else and translated later on, so maybe older than the Hebrew language itself. This thing is [i]old[/i]. And there’s one other difference between Job and the rest of the Bible. Job is…it’s [i]self-aware[/i]. It takes these questions that we all want to ask, reading the rest of the Bible—if God is good and all-powerful, how come there’s so much evil in the world?—and instead of ignoring them it runs into them head on. Like, haven’t you ever read the Bible, and had questions, and wish you could just ask them to God directly? Job is the book where someone actually does that.”
+“The Book of Job,” said Ana. She had the voice of a singer, lowercase-s, though as far as I knew she’d never had any vocal training. When she spoke, people listened. “Totally unique among Biblical manuscripts. It’s not set in Israel, but in Uz—maybe somewhere in Arabia. It probably predates Israel as a settled state. It’s written in a much older form of Hebrew than any other Biblical book. It gets quoted in Isaiah, which means it’s older than the prophets. It gets quoted in Psalms, which means it’s older than King David. The lexicon is totally different, so many foreign words that scholars suspect it was written in something else and translated later on, so maybe older than the Hebrew language itself. This thing is [i]old[/i]. And there’s one other difference between Job and the rest of the Bible. Job is... it’s [i]self-aware[/i]. It takes these questions that we all want to ask, reading the rest of the Bible—if God is good and all-powerful, how come there’s so much evil in the world?—and instead of ignoring them it runs into them head on. Like, haven’t you ever read the Bible, and had questions, and wish you could just ask them to God directly? Job is the book where someone actually does that.”
 
 Ana’s enthusiasm wasn’t exactly infectious, but it was honest. You didn’t always become interested in what Ana was talking about, but it was hard not to become interested in [i]Ana[/i].
 
-“But it’s also the greatest disappointment in the history of literature. You have this frame story where the very righteous man Job falls on hard times, and he asks his friends why this is happening to him, and his friends say that surely bad things never happen to good people, so Job must have done something wrong. Job insists that he hasn’t, and he’s right—in fact, later, God’s going to command that the friends sacrifice various animals to atone for besmirching Job’s name in this way. Job is just a really, really righteous guy who suffers an immense amount. And finally, we get to the climax, where Job demands an answer, and God appears in the whirlwind, and we think we’re finally going to get to hear the official, Biblically-approved answer to this problem at the heart of religion and human existence, and God just says…He says…well, open your books.”
+“But it’s also the greatest disappointment in the history of literature. You have this frame story where the very righteous man Job falls on hard times, and he asks his friends why this is happening to him, and his friends say that surely bad things never happen to good people, so Job must have done something wrong. Job insists that he hasn’t, and he’s right—in fact, later, God’s going to command that the friends sacrifice various animals to atone for besmirching Job’s name in this way. Job is just a really, really righteous guy who suffers an immense amount. And finally, we get to the climax, where Job demands an answer, and God appears in the whirlwind, and we think we’re finally going to get to hear the official, Biblically-approved answer to this problem at the heart of religion and human existence, and God just says... He says... well, open your books.”
 
 Ana took a deep breath in, and although she was short and adorable she did her best to speak in the booming voice of God:
 
@@ -1263,7 +1263,7 @@ Everyone was quiet for a second.
 
 “I mean, it looks like there’s a difference to us,” said Zoe Farr, “but maybe on a metaphysical level, that sort of depravity is just what a total, absolute absence of good looks like.”
 
-“I remember seeing a video,” said Ana “of the President’s summit with the Devil. It was in this big hall. First the President came in, and they all played the Star-Spangled Banner. Then Thamiel came in, and the band played…played the anthem of Hell. It was horrible. I didn’t even know instruments could make noises like that. They were all out of tune and fighting with each other and going at weird intervals that tricked the ear and made me want to pull my hair out.”
+“I remember seeing a video,” said Ana “of the President’s summit with the Devil. It was in this big hall. First the President came in, and they all played the Star-Spangled Banner. Then Thamiel came in, and the band played... played the anthem of Hell. It was horrible. I didn’t even know instruments could make noises like that. They were all out of tune and fighting with each other and going at weird intervals that tricked the ear and made me want to pull my hair out.”
 
 “So?” asked Zoe. “Maybe the Hell music was just the total absolute absence of good in music.”
 
@@ -1313,14 +1313,14 @@ When Ana spoke now, it was very serious. “Moreover the LORD answered Job, and 
 
 “Huh!” I exclaimed. Everyone looked at me.
 
-“That verse from the Rubaiyat. The one Nixon used in the 70s. It goes, um…
+“That verse from the Rubaiyat. The one Nixon used in the 70s. It goes, um...
 
 [i]O thou, who burns with tears for those who burn<br/>
 In Hell, whose fires will find thee in thy turn<br/>
 Hope not the Lord thy God to mercy teach<br/>
 For who art thou to teach, or He to learn?[/i]
 
-…that’s from Job. It’s got to be. Khayyam must have read Job.”
+... that’s from Job. It’s got to be. Khayyam must have read Job.”
 
 “Well,” said Zoe, “it’s certainly got the right amount of condescension.”
 
@@ -1428,7 +1428,7 @@ Ana realized something was wrong. “Uh,” she said “if it helps, I am totall
 
 “It helps a little,” I said.
 
-“And…hmm…tell you what. Erica’s in the kitchen making curry. If you can eat one of the habanero peppers whole, without drinking water for a whole minute, I’ll give you a kiss.”
+“And... hmm... tell you what. Erica’s in the kitchen making curry. If you can eat one of the habanero peppers whole, without drinking water for a whole minute, I’ll give you a kiss.”
 
 “Really?” I asked, and leapt to my feet, because I was a moron.
 
@@ -1456,11 +1456,11 @@ I rolled my eyes. “She won’t even—”
 
 Confusion ensued.
 
-“You won’t go on a date with me, but you [i]will[/i] marry me? How does that even…”
+“You won’t go on a date with me, but you [i]will[/i] marry me? How does that even...”
 
 Ana was gone, a dash up the stairs. A few seconds later, she returned with a notebook.
 
-“Okay,” she said. “So a while ago I was thinking—Aaron, you’ll like  this—you know how there have been later additions to the Bible, like the end of Mark 16 or the part in John 7-8? And kabbalists have mostly ignored those, first of all out of [i]totally unjustified[/i] prejudice against the New Testament, and second of all because, well, if they were added in by later readers they can’t metaphorically represent the secret structure of the universe? But I thought—what if the later additions to the Bible metaphorically represent later additions to the secret structure of the universe? So I ran a couple of them through Rubenstein’s Sieve and normalized the results, divided the whole thing by “aleph-tet-nun” as the most appropriate Boston Triplet, and sure enough I got five subfactors, one of which gets the right Maharaj Rank for a potential Name. After like a week of trying I was able to free it from a relatively weak klipah…”
+“Okay,” she said. “So a while ago I was thinking—Aaron, you’ll like  this—you know how there have been later additions to the Bible, like the end of Mark 16 or the part in John 7-8? And kabbalists have mostly ignored those, first of all out of [i]totally unjustified[/i] prejudice against the New Testament, and second of all because, well, if they were added in by later readers they can’t metaphorically represent the secret structure of the universe? But I thought—what if the later additions to the Bible metaphorically represent later additions to the secret structure of the universe? So I ran a couple of them through Rubenstein’s Sieve and normalized the results, divided the whole thing by “aleph-tet-nun” as the most appropriate Boston Triplet, and sure enough I got five subfactors, one of which gets the right Maharaj Rank for a potential Name. After like a week of trying I was able to free it from a relatively weak klipah...”
 
 [i]“You discovered a Name?”[/i] I asked. Not more than a dozen kabbalists alive had discovered Names the old fashioned way, the proper way, by genius alone.
 
@@ -1486,9 +1486,9 @@ She’d grabbed Erica from the kitchen over her protests and dragged her into he
 
 “Shhhh,” said Ana. “Repeat after me, but change the names. I, Ana Thurmond,”
 
-“…I, Erica Lowry,”
+“... I, Erica Lowry,”
 
-“In full knowledge of the consequences, call upon the symbols and angels of the world…”
+“In full knowledge of the consequences, call upon the symbols and angels of the world...”
 
 “Wait, what [i]are[/i] the consequences?”
 
@@ -1496,9 +1496,9 @@ She’d grabbed Erica from the kitchen over her protests and dragged her into he
 
 “I, Erica Lowry,”
 
-“In full knowledge of the consequences, call upon the symbols and angels of the world…”
+“In full knowledge of the consequences, call upon the symbols and angels of the world...”
 
-“In…bah…full knowledge of the consequences, call upon the symbols and angels of the world…”
+“In... bah... full knowledge of the consequences, call upon the symbols and angels of the world...”
 
 “The higher and the lower spheres”
 
@@ -1522,7 +1522,7 @@ She’d grabbed Erica from the kitchen over her protests and dragged her into he
 
 “And so we invoke the Holy Name, IYAR-NA-AVANTE-SHOK-TEHAN-MI-LEVAN-ZA-NAONE-KHETH-ULAT”
 
-“And so we invoke the Holy Name, IYAR-NA-AVANTE…uh…SHOK-TEHAN…MI? Uh…LEVAN? SHA…no, wait…ZA…NAONE-KHETH-ULAT”
+“And so we invoke the Holy Name, IYAR-NA-AVANTE... uh... SHOK-TEHAN... MI? Uh... LEVAN? SHA... no, wait... ZA... NAONE-KHETH-ULAT”
 
 (here the candles start to darken)
 
@@ -1554,7 +1554,7 @@ Then all the letters of colored sand glowed red, then green, then white. And the
 
 “Huh. I don’t feel any different either.”
 
-“But,” Ana told me, “over the next couple of weeks, we would get these…intimations from each other. Like I would be on one side of the house, and I would feel like something was wrong, and I’d go find Erica, and she would have just burned herself by accident. Or I’d be feeling really sad about something, and Erica would say ‘you look sad’, even though I wasn’t showing it at all.”
+“But,” Ana told me, “over the next couple of weeks, we would get these... intimations from each other. Like I would be on one side of the house, and I would feel like something was wrong, and I’d go find Erica, and she would have just burned herself by accident. Or I’d be feeling really sad about something, and Erica would say ‘you look sad’, even though I wasn’t showing it at all.”
 
 “Great,” I said. “You’re like those people who say they have psychic powers on TV. Maybe one day the phone will ring and you’ll know who’s calling before you pick it up. Spooky.”
 
@@ -1596,7 +1596,7 @@ And I thought: [open-bracket]Ruth and Bowhead]
 
 “Holy euphemism the first thing ever in history communicated telepathically and it’s one of your stupid Biblical whale puns, that wasn’t even a [i]good[/i] one, I am so done with this.”
 
-And I thought: [open-bracket]Shamu Yisrael, HaShem elokeinu…]
+And I thought: [open-bracket]Shamu Yisrael, HaShem elokeinu...]
 
 “Aaaagh, stop, why did I give you the ability to communicate with me telepathically? Why? WHY? What’s that thing Erica always says? Oh, right. This was the biggest mistake of my life and I hope I die.”
 
@@ -1614,7 +1614,7 @@ The overt meaning of “cantor” is “someone who chants”.
 
 The kabbalistic meaning is “someone who works with infinity”.
 
-This reading we derive from Georg Cantor, the German mathematician who explored the cardinality of infinite sets. He found that though the natural numbers—1, 2, 3 and so on—were infinite, still there were fewer of them than there were “real” numbers like root 2, pi, and 0.239567990052… Indeed, not only were there two different levels of infinity, but it seemed likely that there were an infinite number of different infinities (and maybe one extra, to describe the number of infinities there were?)
+This reading we derive from Georg Cantor, the German mathematician who explored the cardinality of infinite sets. He found that though the natural numbers—1, 2, 3 and so on—were infinite, still there were fewer of them than there were “real” numbers like root 2, pi, and 0.239567990052...  Indeed, not only were there two different levels of infinity, but it seemed likely that there were an infinite number of different infinities (and maybe one extra, to describe the number of infinities there were?)
 
 The overall effect on him was much like the man in the limerick:
 
@@ -1726,7 +1726,7 @@ Name generation was hard partly because most Names were pretty useless. Names to
 
 “Well, it could be helpful if you’re a sailor doing navigation things, and it’s a really cloudy night. Or if you’re trapped in an underwater cave and you don’t know which way is up.”
 
-“Yeah, but…”
+“Yeah, but...”
 
 Then we stopped. I don’t know if it was the telepathy or what, but both of us realized at that moment that [i]it had worked[/i]. That any computer that could give us a Name to find the moon would soon enough be giving us Names to boil oceans or split mountains. We just stared at each other, awestruck.
 
@@ -1813,7 +1813,7 @@ We didn’t even need the mind-link for this one. Obvious response was obvious. 
 
 “Oh,” said Ana.
 
-“What about you?” I asked. “You know, the Comet King’s wife was…”
+“What about you?” I asked. “You know, the Comet King’s wife was...”
 
 “I’m not your wife,” said Ana. “The whole marriage ritual was a test. I’m glad we did it. It’s interesting. But I’m not your girlfriend and I’m not your wife.”
 
@@ -1823,7 +1823,7 @@ We didn’t even need the mind-link for this one. Obvious response was obvious. 
 
 I waited.
 
-“Theodicy…is really hard. I didn’t expect to run into practical applications this soon. There’s lots of evil in the world, and everyone wants to run out and fix it, in fact there’s this immense moral pressure to run out and fix it, but whenever someone tries, something goes horribly wrong. I mean, that’s what Hitler tried to do, and the Communists. Trying to fix the world, any more than just the boring kind of fixing the world where you hold a bake sale to support your local school—that’s hubris. But refusing to do that, when you know people are starving and dying all around you—that’s monstrous. So which are we? Monstrous or arrogant?”
+“Theodicy... is really hard. I didn’t expect to run into practical applications this soon. There’s lots of evil in the world, and everyone wants to run out and fix it, in fact there’s this immense moral pressure to run out and fix it, but whenever someone tries, something goes horribly wrong. I mean, that’s what Hitler tried to do, and the Communists. Trying to fix the world, any more than just the boring kind of fixing the world where you hold a bake sale to support your local school—that’s hubris. But refusing to do that, when you know people are starving and dying all around you—that’s monstrous. So which are we? Monstrous or arrogant?”
 
 “Me?” I asked. “Arrogant. All the way.”
 
@@ -1831,7 +1831,7 @@ I waited.
 
 “Jonah whale,” I corrected. “[i]Noah[/i] ark.”
 
-”—but I’ve read enough history to know how that ends. So to answer your question—what do I want to do with this discovery? I think I want to do experimental theodicy. I want to know why God created a universe filled with so much evil. So I guess we can try to…gradually start removing evil from the universe. Then if something goes wrong, that was probably the thing God was worried about.”
+”—but I’ve read enough history to know how that ends. So to answer your question—what do I want to do with this discovery? I think I want to do experimental theodicy. I want to know why God created a universe filled with so much evil. So I guess we can try to... gradually start removing evil from the universe. Then if something goes wrong, that was probably the thing God was worried about.”
 
 I blinked. That was kind of terrifying [i]even by my standards[/i].
 
@@ -1913,7 +1913,7 @@ It was getting light by the time I reached the apartment and a half-dressed Bill
 
 He raised an eyebrow.
 
-“We’ve got this really interesting search function going on,” I said, “trying to match the fractal patterns in the Song of Songs to paleoclimate data. I know it’s a little weird, but we’ve actually got some good preliminary results, and I think we’d be able to finish in a couple of days if we had some more processing power, and you keep talking about how impressive your new Mac is, so I was hoping…”
+“We’ve got this really interesting search function going on,” I said, “trying to match the fractal patterns in the Song of Songs to paleoclimate data. I know it’s a little weird, but we’ve actually got some good preliminary results, and I think we’d be able to finish in a couple of days if we had some more processing power, and you keep talking about how impressive your new Mac is, so I was hoping...”
 
 “Why would the Song of Songs have fractal patterns?” Bill asked me.
 
@@ -1923,7 +1923,7 @@ I had forgotten the most important thing about Bill, which was that he liked to 
 
 “That’s not what Song of Songs means!” Dodd objected. “Hebrew uses ‘of’ as an intensifier. Like ‘King of Kings’ or ‘Holy of Holies’!”
 
-“But consider,” I said, “the words of Rabbi Ezra Tzion, who said…
+“But consider,” I said, “the words of Rabbi Ezra Tzion, who said...
 
 Then I started speaking Aramaic.
 
@@ -1955,7 +1955,7 @@ I nodded and made my escape before he changed his mind.
 
 When I made it back to Ithaca, I couldn’t resist stopping off in Ana’s room to check if Sarah had come up with any more Names in my absence. It hadn’t, which wasn’t really surprising—two in so short a time was a huge fluke—but my presence there at least had the effect of waking Ana up. She rubbed her eyes, griped at me for waking her—then, her tiredness melting away before the excitement of the occasion, told me to ensoul Bill’s computer already.
 
-I took the sleek MacBook out of my backpack, plugged it into the outlet, fired it up. I installed Llull. I disabled the Internet connections, not wanting to risk anything automatically updating and letting Bill know what we were doing. Then I spoke the Vital Name. “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN…” I began. Then: “MEH-MEH-MEH-MEH-MEH-MEH.”
+I took the sleek MacBook out of my backpack, plugged it into the outlet, fired it up. I installed Llull. I disabled the Internet connections, not wanting to risk anything automatically updating and letting Bill know what we were doing. Then I spoke the Vital Name. “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN...” I began. Then: “MEH-MEH-MEH-MEH-MEH-MEH.”
 
 Nothing happened.
 
@@ -1963,7 +1963,7 @@ There’s no way to tell if a computer has a soul or not. But when you use a Nam
 
 “Huh,” I told Ana. “That didn’t work. I’ll try it again.”
 
-Once again, I spoke the Name of God at Bill’s computer. “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN…MEH-MEH-MEH-MEH-MEH-MEH”.
+Once again, I spoke the Name of God at Bill’s computer. “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN... MEH-MEH-MEH-MEH-MEH-MEH”.
 
 Once again, nothing.
 
@@ -1999,15 +1999,15 @@ But I work eight hours a day in a sweatshop where all I do is recite a bunch of 
 
 The fifty-eight-letter Vital Name shone flawless in my mind.
 
-“ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN…” I began, and kept going. I spoke the Vital Name. It didn’t work.
+“ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN...” I began, and kept going. I spoke the Vital Name. It didn’t work.
 
 “Ana!” I said. “You have the Name! You try!”
 
-“I only know what I took from your head,” Ana said, but she spoke the Name as she recalled it. “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN…”
+“I only know what I took from your head,” Ana said, but she spoke the Name as she recalled it. “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN...”
 
 I could see from Ana’s face that she felt nothing.
 
-“Maybe it’s just…we’re not feeling it because we’re tired,” I said. I fiddled with the settings of Llull, told it to investigate just one Name, the Moon-Finding Name we had discovered last night. The speaker let out its strange hum. There was no output. Bill’s computer had failed to detect it as a Name.
+“Maybe it’s just... we’re not feeling it because we’re tired,” I said. I fiddled with the settings of Llull, told it to investigate just one Name, the Moon-Finding Name we had discovered last night. The speaker let out its strange hum. There was no output. Bill’s computer had failed to detect it as a Name.
 
 “Maybe the Name stopped working,” Ana suggested.
 
@@ -2213,7 +2213,7 @@ The Idaho panhandle.
 
 Casper, Wyoming.
 
-“For the last time,” said Clara, “Dylan Alvarez is a two-bit hedge wizard who doesn’t know anything about…”
+“For the last time,” said Clara, “Dylan Alvarez is a two-bit hedge wizard who doesn’t know anything about...”
 
 “SURPRISE, MOTHERFUCKERS” yelled Dylan Alvarez, jumping out of the trap door with a revolver in each hand.
 
@@ -2259,7 +2259,7 @@ There are a couple different ways people can freak out when the necessity arises
 
 Mark McCarthy started laughing uproariously, a little longer than could be considered strictly appropriate.
 
-Dylan tapped his boojumwood staff impatiently. “Your talents are wasted with these people, Mark. Back in college you always agreed with me about the government and the Board and all those asshats. Well, I’m done flying solo. I’m putting together a group of…like-minded individuals. We call ourselves BOOJUM.”
+Dylan tapped his boojumwood staff impatiently. “Your talents are wasted with these people, Mark. Back in college you always agreed with me about the government and the Board and all those asshats. Well, I’m done flying solo. I’m putting together a group of... like-minded individuals. We call ourselves BOOJUM.”
 
 “BOOJUM? What does that stand for?”
 
@@ -2390,7 +2390,7 @@ Sohu cut through a scale, and was rewarded with a spurt of blood for her efforts
 
 “Aaak!” she said. Then: “Sorry. I was listening. Really.”
 
-“NOVICES IN KABBALAH EXPECT THERE TO BE A SIMPLE CORRESPONDENCE BETWEEN ASPECTS OF ADAM KADMON AND OBJECTS IN THE UNIVERSE. FOR EXAMPLE, ONE PART OF ADAM KADMON MIGHT DESCRIBE HUMANS, ANOTHER MIGHT DESCRIBE TREES, AND ANOTHER MIGHT DESCRIBE THE STARS. THEY BELIEVE YOU CAN CARVE UP THE DIFFERENT FEATURES OF THE UNIVERSE, MUCH LIKE CARVING A FISH, AND SIMPLY…”
+“NOVICES IN KABBALAH EXPECT THERE TO BE A SIMPLE CORRESPONDENCE BETWEEN ASPECTS OF ADAM KADMON AND OBJECTS IN THE UNIVERSE. FOR EXAMPLE, ONE PART OF ADAM KADMON MIGHT DESCRIBE HUMANS, ANOTHER MIGHT DESCRIBE TREES, AND ANOTHER MIGHT DESCRIBE THE STARS. THEY BELIEVE YOU CAN CARVE UP THE DIFFERENT FEATURES OF THE UNIVERSE, MUCH LIKE CARVING A FISH, AND SIMPLY...”
 
 “No,” said Sohu, who was still trying to wipe blood off herself. “No fish-carving metaphors.”
 
@@ -2500,7 +2500,7 @@ Then I thought of the drop-dead simple, blindingly obvious answer, which was tha
 
 “S stands for secret,” I could hear my great-uncle intoning from beyond the grave, “you’ll keep it forever—provided there’s nobody else who is clever.”
 
-Well, other people had been clever. Ana was right. “Nobody else can possibly be as smart as I am” was [i]such[/i] an Aaron Smith-Teller way to think. If I’d thought for [i]two seconds[/i] I would have given Llull a random seed, and…
+Well, other people had been clever. Ana was right. “Nobody else can possibly be as smart as I am” was [i]such[/i] an Aaron Smith-Teller way to think. If I’d thought for [i]two seconds[/i] I would have given Llull a random seed, and...
 
 [i]Ana[/i]. Ana was in that house. Ana was in danger. Also Erica. Also depending on who had been able to pay their rent last month somewhere between six and eight other Stevensite Unitarians whom I was on moderately good terms with. And Sarah. What happened if UNSONG got Sarah? It was too terrible to think about.
 
@@ -2548,7 +2548,7 @@ Five UNSONG agents were pointing their guns at me, daring me to start chanting.
 
 That was very bad.
 
-I’m…not exactly sure what my endgame had been here. Like, breaking into the room had been an achievement, but probably the reaction of the agents who had already made it into the room would be to point their guns at me? Like they were doing now? Like, my knowledge and practice of magic had been impeccable, no one could have faulted me for that, but in terms of common sense I had utterly dropped the ball.
+I’m... not exactly sure what my endgame had been here. Like, breaking into the room had been an achievement, but probably the reaction of the agents who had already made it into the room would be to point their guns at me? Like they were doing now? Like, my knowledge and practice of magic had been impeccable, no one could have faulted me for that, but in terms of common sense I had utterly dropped the ball.
 
 This might be a good place to mention I’d never actually been in anything remotely resembling a magical duel before. Or a non-magical duel. Any kind of duel, really. I had been in a bar fight once and ended up with two black eyes.
 
@@ -2676,7 +2676,7 @@ So she started in the obvious place. She spoke the first Name. And she became in
 
 Well, that upped the ante. There was no such thing as a Name that turned you invisible. If there was, she was pretty sure the military would be using it instead of marching entire visible battalions against the enemy like a sucker.
 
-Some said there were angels who knew secret Names. Some said the Comet King had known every Name that was or would ever be. Some even said that UNSONG was sitting on a giant stockpile of Names that it kept for its own exclusive use. And then there were always random kabbalists who got lucky, like the time she discovered SCABMOM. But for somebody to be sitting on the secret of invisibility…
+Some said there were angels who knew secret Names. Some said the Comet King had known every Name that was or would ever be. Some even said that UNSONG was sitting on a giant stockpile of Names that it kept for its own exclusive use. And then there were always random kabbalists who got lucky, like the time she discovered SCABMOM. But for somebody to be sitting on the secret of invisibility...
 
 Was it a trap? The obvious point in favor was that they were asking her to pretty much walk in to an UNSONG headquarters unarmed with an incredibly valuable magical artifact. The obvious point against was that whoever was laying the trap already knew where she was and already had Sarah, making the charade a total waste of their time.
 
@@ -2736,17 +2736,17 @@ Paul screamed.
 
 “DO NOT BE AFRAID,” said Kesey, but it was not his voice.
 
-“What…what’s going…who…what are…help!”
+“What... what’s going... who... what are... help!”
 
 “DO NOT BE AFRAID,” said Kesey, and it was definitely not his voice. “I AM THE RIGHT HAND OF GOD. I BRING YOU ETERNITY. ALL THE WALLS WILL FALL AROUND YOU.”
 
 Paul tried to stand. He took a second to catch his breath. Kesey—the thing in Kesey’s body—seemed content to let him. He just stood there, hovering.
 
-“W…who are you?” asked Paul.
+“W... who are you?” asked Paul.
 
 “KNEEL,” said the thing in Kesey’s body.
 
-“But…who…what [i]are[/i] you?”
+“But... who... what [i]are[/i] you?”
 
 “KNEEL,” said the thing in Kesey’s body, somewhat more forcefully.
 
@@ -2783,7 +2783,7 @@ And so: Erica Lowry watched the sun rise and writing the news.
 
 Erica’s [i]Stevensite Standard[/i] was one of the most popular magazines of the Bay Area countercultural scene. She had a gift. If I had to name it, I’d say it was a gift at taking things seriously. If someone organized a protest, and only five people attended, and then it started raining and so they all went inside and had lunch, Erica could make it sound slightly more heroic and monumental than the First Crusade. She didn’t misreport the facts, she didn’t gloss over things, she just wrote from the heart, and her heart was convinced that whatever she and anyone in her vicinity were doing was the most important thing.
 
-This morning, Erica was making the final decision about what stories to include in the June issue. The cover story would be about the recent trend towards a few big hedge funds buying out stakes in all the theonomics. Aaron had contributed a long kabbalistic analysis of the nursery rhyme “There’s A Hole In My Bucket”, which was…very Aaron…but would at least fill pages. Last but not least, a call to attend a vigil for the dead Coloradans to take place in Oakland Harbor, just short of the bridge that no one took. Everyone was going to stand by  the water and hold candles, and this would be a fitting tribute to the martyrs in the battle against tyranny, and…
+This morning, Erica was making the final decision about what stories to include in the June issue. The cover story would be about the recent trend towards a few big hedge funds buying out stakes in all the theonomics. Aaron had contributed a long kabbalistic analysis of the nursery rhyme “There’s A Hole In My Bucket”, which was... very Aaron... but would at least fill pages. Last but not least, a call to attend a vigil for the dead Coloradans to take place in Oakland Harbor, just short of the bridge that no one took. Everyone was going to stand by  the water and hold candles, and this would be a fitting tribute to the martyrs in the battle against tyranny, and...
 
 She was so caught up in her work she almost didn’t notice the gunshots.
 
@@ -2807,7 +2807,7 @@ A haloed head peeked out, the cracked the door a little wider to reveal an ungai
 
 “Pirindiel,” she said. “It’s me. Erica.” Angels weren’t very good at distinguishing human faces, but they never forgot a name.
 
-“Oh!” the other answered. “Sorry! Oh, I’m so bad at this! Sorry! I promise I didn’t mean…”
+“Oh!” the other answered. “Sorry! Oh, I’m so bad at this! Sorry! I promise I didn’t mean...”
 
 “It’s okay,” Erica said. “May I come in?”
 
@@ -2819,7 +2819,7 @@ Pirindiel looked confused. “Aren’t you supposed to buy tickets?” he asked.
 
 “The tickets are sold out months in advance, silly,” Erica told him.
 
-Pirindiel was a fallen angel. Not a demon, mind you. The difference between a demon and a fallen angel is the difference between a submarine captain and a sailor who’s pushed off the deck of a ship without a life jacket. The demon knows precisely what he’s doing and enjoys every minute of it. The fallen angel, well…
+Pirindiel was a fallen angel. Not a demon, mind you. The difference between a demon and a fallen angel is the difference between a submarine captain and a sailor who’s pushed off the deck of a ship without a life jacket. The demon knows precisely what he’s doing and enjoys every minute of it. The fallen angel, well...
 
 G. K. Chesterton said that angels fly because they take themselves lightly. But what happens when an angel sees too much, gets too weighed down by the sins and suffering of the world? The clouds stop supporting his weight, the wings that bore him aloft in the days of Abraham and Moses grow weaker, and he plummets earthward. There, he gets stuck in a vicious cycle. No matter how cynical and jaded an angel becomes, it’s never enough. Angelic brains, or souls, or whatever they have, just aren’t built to hold the proper amount of cynicism for dealing with earthly existence. They end up hopelessly confused and constantly disappointed by everything around them, with almost no ability to adjust. There they will never take themselves lightly again.
 
@@ -2829,7 +2829,7 @@ G. K. Chesterton said that angels fly because they take themselves lightly. But 
 
 “Oh,” said Pirindiel, a little embarrassed. “I guess I didn’t think of that.”
 
-“It’s all right,” said Erica. “You’re new to this kind of thing. Now, here’s what I need you to do…”
+“It’s all right,” said Erica. “You’re new to this kind of thing. Now, here’s what I need you to do...”
 
 It had taken a kabbalistic rearrangement of the Midwest’s spatial coordinate system that rendered roads there useless, plus a collapse of technology so profound that airplanes were only able to fly if Uriel was having a really good day, plus the transformation of the Panama Canal into some sort of conduit for mystical energies that drove anyone in its vicinity mad—but America had finally gotten its act together and created a decent rail system. As usual, it was the Comet King who had made it happen, meeting with President Bush and Governor Deukmejian back in the late 80s and agreeing to upgrade one of the old Amtrak routes into a true high-speed railroad like the ones they’d had for decades in Asia. It started in San Francisco, crossed Nevada and Utah, continued on to Denver a hop and a skip from the Comet King’s capital in Colorado Springs, cut straight through the Midwest, and ended up on the Atlantic Coast.
 
@@ -2861,7 +2861,7 @@ But if UNSONG was really looking for her, she had better get as far away as she 
 
 As for the fugitive thing, there was no way she was mentioning that to Pirindiel. Sure, once she had given him her Spiel, he’d come around to being an occasional member of their Unitarian cell. But angels just weren’t good at defying authority. If he knew she was a fugitive, there was every chance he might have a sudden crisis of conscience and turn her in.
 
-“Well,” said Pirindiel. “If it’s about true love…”
+“Well,” said Pirindiel. “If it’s about true love...”
 
 And then he drank the entire flagon of holy water in one gulp. There were ways of dealing with conscience.
 
@@ -2938,7 +2938,7 @@ And this is what Liza tells Harry. The knife can only be sharpened by a rock, an
 
 So getting water from a rock represents following God’s commandments and the moral law. As long as everybody is perfectly good, it will initiate the coming of the Messiah who can channel the power of God and fix the universe.
 
-There’s only one problem: everybody is not going to be perfectly good. Because the world sucks. This was [i]the whole point of this chain of inquiry[/i]. We want the world to be good, so we need divine intervention, so we need the Messiah, who will only come if the world is good. That…doesn’t help at all.
+There’s only one problem: everybody is not going to be perfectly good. Because the world sucks. This was [i]the whole point of this chain of inquiry[/i]. We want the world to be good, so we need divine intervention, so we need the Messiah, who will only come if the world is good. That... doesn’t help at all.
 
 And poor Henry has much the same problem. He goes through this whole rigamarole—asking how to cut the straw, asking how to sharpen the knife, asking how to wet the stone, asking how to carry the water—only for Liza to tell him he should carry the water with his bucket. And so back to the beginning: “But there’s a hole in my bucket, dear Liza, dear Liza, there’s a hole in my bucket, dear Liza, a hole.”
 
@@ -2969,7 +2969,7 @@ He had heard the greeting. She took a deep breath, readied herself for what was 
 
 “KNOCK KNOCK,” said Uriel.
 
-“…what?” said Sohu.
+“... what?” said Sohu.
 
 “LAST WEEK I SAID YOUR HOMEWORK ASSIGNMENT WAS TO LEARN EVERY LANGUAGE,” said Uriel. “DID YOU—”
 
@@ -3015,7 +3015,7 @@ Sohu mentally assessed whether this was better or worse than the normal way Urie
 
 “OKAY.”
 
-“You…didn’t seem to find that very funny.”
+“You... didn’t seem to find that very funny.”
 
 “WHICH PART WAS THE JOKE, AGAIN?”
 
@@ -3023,7 +3023,7 @@ Sohu mentally assessed whether this was better or worse than the normal way Urie
 
 “WHY?”
 
-“It’s like…it’s like what you were saying about kabbalistic correspondences. Two different things that have the same structure. The name Avery, and the words ‘a very’, and you don’t see it at first, but then later you do.”
+“It’s like... it’s like what you were saying about kabbalistic correspondences. Two different things that have the same structure. The name Avery, and the words ‘a very’, and you don’t see it at first, but then later you do.”
 
 Uriel stood quietly, glowing letters swirling all around him. He seemed to be thinking deeply, as if this were a far harder problem than merely stabilizing the El Nino cycle (his project for yesterday) or defragmenting mammalian DNA (the day before).
 
@@ -3049,7 +3049,7 @@ Sohu’s expression was somewhere between horror and pity.
 
 “I THINK IT IS VERY SURPRISING THAT THE MOST DIRE THREAT TO THE WORLD IS PROPHESIED ALSO TO BE ITS REDEEMER. TAKEN TOGETHER WITH ISAIAH 53:12 STATING THAT THE MESSIAH WILL BE NUMBERED AMONG THE GREAT TRANSGRESSORS, IT PRESENTS A VERY UNUSUAL VIEW OF SIN AND REDEMPTION.”
 
-“It has to be a special type of surprising. Uh….why don’t we get back to the lesson.”
+“It has to be a special type of surprising. Uh... why don’t we get back to the lesson.”
 
 “OKAY. LAST WEEK I SAID YOUR HOMEWORK ASSIGNMENT WAS TO TO LEARN EVERY LANGUAGE. DID YOU COMPLETE IT?”
 
@@ -3065,7 +3065,7 @@ Sohu’s expression was somewhere between horror and pity.
 
 “OKAY.” Sohu tried to read his face. Was she [i]disappointing[/i] him? “TODAY WE WILL LEARN ABOUT THE TWO PILLARS ON THE TREE OF LIFE. THE RIGHT PILLAR CONSISTS OF CHOKHMAH, CHESED, AND NETZACH. IT REPRESENTS THE RIGHT HAND OF GOD AND IS ASSOCIATED WITH MERCY. THE LEFT PILLAR CONSISTS OF BINAH, GEVURAH, AND HOD. IT REPRESENTS THE LEFT HAND OF GOD AND IS ASSOCIATED WITH JUSTICE. MY BOOK ON EDUCATION SAYS I SHOULD STOP TO SEE IF YOU HAVE ANY QUESTIONS. DO YOU HAVE ANY QUESTIONS?”
 
-She didn’t want to disappoint him further. She tried to think of a question. “Um. You talk about these correspondences all the time. So…uh…how does this correspond to human politics. We also talk about a right side and a left side, but in human politics the Right is usually more concerned with justice, and the Left is usually more concerned with mercy. How come in kabbalah it’s the opposite of that?”
+She didn’t want to disappoint him further. She tried to think of a question. “Um. You talk about these correspondences all the time. So... uh... how does this correspond to human politics. We also talk about a right side and a left side, but in human politics the Right is usually more concerned with justice, and the Left is usually more concerned with mercy. How come in kabbalah it’s the opposite of that?”
 
 “THAT IS AN EXCELLENT QUESTION. YOUR HOMEWORK FOR NEXT WEEK IS TO FIGURE OUT THE ANSWER.”
 
@@ -3135,7 +3135,7 @@ Uriel said nothing. Thamiel stared at the girl. Sohu didn’t say anything.
 
 Very very gingerly, he touched the two points of the bident to Sohu’s forehead.
 
-She remembered a poem: [i]“If in some smothering dreams you too could pace behind the wagon that we flung him in and watch the white eyes writhing in his face, his hanging face, like a devil’s sick of sin; if you could hear, at every jolt, the blood come gargling from the froth-corrupted lungs, obscene as cancer, bitter as the cud of vile, incurable sores on innocent tongues…”[/i]
+She remembered a poem: [i]“If in some smothering dreams you too could pace behind the wagon that we flung him in and watch the white eyes writhing in his face, his hanging face, like a devil’s sick of sin; if you could hear, at every jolt, the blood come gargling from the froth-corrupted lungs, obscene as cancer, bitter as the cud of vile, incurable sores on innocent tongues...”[/i]
 
 She remembered it because it was the only thing that could describe how it felt. All the light vanished from the world. Everything stable, everything comprehensible. Like a vertiginous nausea of the mind, like every fiber of her being was united in an urge to vomit that would never be satiated. Not like she had cancer; like she [i]was[/i] cancer, like there was nothing pure or orderly left within her, like she needed to be excised from the universe, like the universe needed to be excised from the cosmos, or like the whole cosmos needed to be killed with poison to put it out of its own misery. But that doing so wouldn’t help, couldn’t help, there was no poison outside and separate from the cancer, everything was going to be horrible forever and it was all her fault.
 
@@ -3171,15 +3171,15 @@ Sohu turned herself over, so that she was supine on the cloud. She saw the angel
 
 She thought for a second. So many things she wanted to say. She formed the responses, compared them, mulled them over in her mind.
 
-“I…trust you to do the right thing.”
+“I... trust you to do the right thing.”
 
 “YOU DO?”
 
-“I…Uriel, it was really bad. You have no idea how scary that was. Please don’t let him hurt me again. Please don’t let me die.”
+“I... Uriel, it was really bad. You have no idea how scary that was. Please don’t let him hurt me again. Please don’t let me die.”
 
 “UM. I WILL TRY TO KEEP YOU SAFE.”
 
-“I don’t want to be kept safe. I want to…you fought him, Uriel.”
+“I don’t want to be kept safe. I want to... you fought him, Uriel.”
 
 “NOT VERY WELL.”
 
@@ -3187,7 +3187,7 @@ She thought for a second. So many things she wanted to say. She formed the respo
 
 “I WILL TEACH YOU MANY THINGS. BUT YOUR HOMEWORK FOR TONIGHT IS TO REST AND FEEL BETTER.” He stopped himself. “OR IS THAT ONE OF THE THINGS HUMANS CANNOT DO?”
 
-“I…I’m not sure. But I think I can try.”
+“I... I’m not sure. But I think I can try.”
 
 
 
@@ -3305,11 +3305,11 @@ And I couldn’t believe I was actually doing this, but caught between the horro
 
 “Tell me the dream,” Ngo repeated.
 
-I looked awkward and abashed, and it had nothing to do with acting. “It was…all these weird images in succession. This is going to sound so stupid. I don’t even know why I remember them so clearly.”
+I looked awkward and abashed, and it had nothing to do with acting. “It was... all these weird images in succession. This is going to sound so stupid. I don’t even know why I remember them so clearly.”
 
 Ngo didn’t even say anything. Just stared at me with those eyes, as if to tell me I wasn’t getting off the hook.
 
-“It all started with…with…it started with a dog having sex with a tree.”
+“It all started with... with... it started with a dog having sex with a tree.”
 
 Ngo blinked, but said nothing.
 
@@ -3345,7 +3345,7 @@ Ngo was starting to look very dubious now. I didn’t have much time.
 
 [open-bracket]Aaron] came a voice from deep in my head. [open-bracket]I’ve come to save you. Are you there?]
 
-[open-bracket]Ana?] A horror. Ana Thurmond was in this place. [open-bracket]Ana, I can take care of myself…maybe…Ana, get out!]
+[open-bracket]Ana?] A horror. Ana Thurmond was in this place. [open-bracket]Ana, I can take care of myself... maybe... Ana, get out!]
 
 But to Malia Ngo, I said only: “Neptune.”
 
@@ -3397,7 +3397,7 @@ It was a calculated choice. New enough that the theonomics were still guarding i
 
 Then she spoke the Spectral Name and became invisible.
 
-Sure enough, a white van showed up at the gas station where the cab had dropped her off, and some men in black uniforms got out and started looking around. The process of infiltrating them was harder than Ana expected; she couldn’t just open the door of the van and walk in; there was still someone inside and he might notice the doors opening of their own accord. And if the van was full, she was worried someone would try to sit in her lap on the way back to headquarters. And starting any other Names would break her invisibility, so…
+Sure enough, a white van showed up at the gas station where the cab had dropped her off, and some men in black uniforms got out and started looking around. The process of infiltrating them was harder than Ana expected; she couldn’t just open the door of the van and walk in; there was still someone inside and he might notice the doors opening of their own accord. And if the van was full, she was worried someone would try to sit in her lap on the way back to headquarters. And starting any other Names would break her invisibility, so...
 
 She watched in disgust as the men, having finished their search of the premises, got back in their van and drove off. This was harder than it was in stories.
 
@@ -3419,7 +3419,7 @@ It was heavy and oppressive, like a heartbeat slightly out of rhythm, but also n
 
 [open-bracket]Aaron?] she thought as she wandered through the corridors. [open-bracket]I’ve come to save you. Are you there?]
 
-[open-bracket]Ana!] I thought back at her. [open-bracket]Ana, I can take care of myself…maybe…Ana, get out!]
+[open-bracket]Ana!] I thought back at her. [open-bracket]Ana, I can take care of myself... maybe... Ana, get out!]
 
 And then she felt my mental trace suddenly vanish from her mind.
 
@@ -3478,7 +3478,7 @@ She was going to San Francisco.
 <blockquote>
 There’s a story about an old man walking down a beach. He sees a child picking up starfish and throwing them into the water. The man asks the child what he’s doing, and the child says that these starfish are stuck on land at low tide. They can’t survive out of water, so he’s throwing them back in the ocean to save them. The old man says, “But surely you know that there are millions of starfish just on this one beach. And there are thousands of beaches all around the world. And this same thing happens at high tide day after day, forever. You’ll never be able to make a difference.” And the child just picks up another starfish, throws it into the ocean, and said “Made a difference to that one!”
 
-I remember when I told the Comet King this story. He got very quiet, and finally I asked what he was thinking. Still half-lost in thought, he answered: “Even a small change to the moon’s orbit could prevent the tidal cycle. Moving the moon would take immense energy, but the Wrathful Name has the power of a hydrogen bomb and can be written on a piece of paper weighing only a fraction of a gram. The Saturn V has a payload of about ten thousand kilograms, so perhaps twenty million instances of the Wrathful Name…hmmmmmm…no, it still wouldn’t be enough. We’d need a better rocket. Perhaps if you could combine a methane/LOX full-flow system with a prayer invoking the Kinetic Name…” He picked up a napkin and started sketching, and was diverted from his trance only when I reminded him that starfish had evolved for life in the intertidal zone and were probably fine. He flashed me one of his fierce smiles and I couldn’t tell whether or not he had been joking all along.
+I remember when I told the Comet King this story. He got very quiet, and finally I asked what he was thinking. Still half-lost in thought, he answered: “Even a small change to the moon’s orbit could prevent the tidal cycle. Moving the moon would take immense energy, but the Wrathful Name has the power of a hydrogen bomb and can be written on a piece of paper weighing only a fraction of a gram. The Saturn V has a payload of about ten thousand kilograms, so perhaps twenty million instances of the Wrathful Name... hmmmmmm... no, it still wouldn’t be enough. We’d need a better rocket. Perhaps if you could combine a methane/LOX full-flow system with a prayer invoking the Kinetic Name...” He picked up a napkin and started sketching, and was diverted from his trance only when I reminded him that starfish had evolved for life in the intertidal zone and were probably fine. He flashed me one of his fierce smiles and I couldn’t tell whether or not he had been joking all along.
 
 An enterprising member of the household staff pocketed the napkin and sold it to Celestial Virgin for an undisclosed sum; the Comet King’s partially-completed sketch became the basis of all modern rocketry.
 
@@ -3500,7 +3500,7 @@ Runes of glowing fire troubled Sohu’s dreams, and she woke up the next morning
 
 The angel scanned her with his flaming golden eyes.
 
-“OH. YES. YESTERDAY. WHEN I LET THAMIEL TORTURE YOU. IT WAS FOR…IT WAS BECAUSE…I AM SORRY. YOU DID NOT BLAME ME OR YELL AT ME. YOU TRUSTED ME. PEOPLE DO NOT USUALLY DO THAT. IT WAS VERY STRANGE. YOU TRUSTED ME EVEN THOUGH YOU WERE HURT VERY BADLY. I…THANK YOU.”
+“OH. YES. YESTERDAY. WHEN I LET THAMIEL TORTURE YOU. IT WAS FOR... IT WAS BECAUSE... I AM SORRY. YOU DID NOT BLAME ME OR YELL AT ME. YOU TRUSTED ME. PEOPLE DO NOT USUALLY DO THAT. IT WAS VERY STRANGE. YOU TRUSTED ME EVEN THOUGH YOU WERE HURT VERY BADLY. I... THANK YOU.”
 
 “Uriel! The things all over my skin!”
 
@@ -3546,15 +3546,15 @@ Sohu stopped flailing. Now she was very, very still. “Wait. Not grow older [i]
 
 “I AM SORRY.
 
-“You’re sure there’s no way to change this and make me not eight years old forever, or to add back aging, or…”
+“You’re sure there’s no way to change this and make me not eight years old forever, or to add back aging, or...”
 
-“POSSIBLY I COULD MANUALLY INCREMENT YOUR AGE ON EACH BIRTHDAY. IT WOULD BE VERY INELEGANT, BUT…”
+“POSSIBLY I COULD MANUALLY INCREMENT YOUR AGE ON EACH BIRTHDAY. IT WOULD BE VERY INELEGANT, BUT...”
 
 “[i]Possibly?[/i]”
 
 “UM. I DON’T THINK I AM A VERY GOOD FRIEND.”
 
-“It’s…okay. You…didn’t know…you…tried to help,  I guess.”
+“It’s... okay. You... didn’t know... you... tried to help,  I guess.”
 
 “YOU SEEMED SO SCARED.”
 
@@ -3614,7 +3614,7 @@ For some reason Sohu chose that moment to calm down. As if discussion of the end
 
 “IT IS A GOOD PLAN.”
 
-Sohu nodded. “Okay. Fair. Waiting for him to come in and solve every problem has always worked in the past. But…[i]still[/i]! What about you? Shouldn’t you…can’t you at least try to help?”
+Sohu nodded. “Okay. Fair. Waiting for him to come in and solve every problem has always worked in the past. But... [i]still[/i]! What about you? Shouldn’t you... can’t you at least try to help?”
 
 “I RUN CONTINENTAL DRIFT, AND GUIDE THE BUTTERFLY MIGRATION, AND KEEP ICEBERGS IN THE RIGHT PLACE, AND PREVENT PEOPLE FROM BOILING GOATS IN THEIR MOTHERS’ MILK. IT IS DIFFICULT AND I AM GOOD AT IT AND IT ALLOWS THE WORLD TO ENDURE THAT MUCH LONGER. I WILL NOT BEAT MYSELF UP OVER FAILING TO DO THE IMPOSSIBLE.”
 
@@ -3747,7 +3747,7 @@ The formalities being over, it was time to get down to business.
 
 Armstrong and Aldrin hauled from their lunar module a great spool of cable, which they wheeled across the surprisingly smooth crystal a few dozen meters to the edge of the crack. Armstrong stared down.
 
-“Houston, I’m looking into the crack,” he relayed over his radio. “It’s very bright, maybe not as bright as the sun but close. I can’t see anything down there. The edge of the cliff is almost perfectly vertical. It seems a couple hundred meters wide—I can just barely see the other side, looks about the same. There’s no terrain here, no irregularity. Houston, I think the light source might be only a couple of meters down. It’s like a skin. I…I think we can reach the light with what we’ve got.”
+“Houston, I’m looking into the crack,” he relayed over his radio. “It’s very bright, maybe not as bright as the sun but close. I can’t see anything down there. The edge of the cliff is almost perfectly vertical. It seems a couple hundred meters wide—I can just barely see the other side, looks about the same. There’s no terrain here, no irregularity. Houston, I think the light source might be only a couple of meters down. It’s like a skin. I... I think we can reach the light with what we’ve got.”
 
 There followed a short argument over which of the two had to actually climb down into the thing. Aldrin won the argument with his very reasonable position that if Armstrong loved being first to do things so much, maybe he should show the same kind of initiative when it was something important and scary instead of just a photo op. So Commander Neil Armstrong attached the cable to his spacesuit, took a climbing hook in both hands, and slowly began to descend into the crack, while Aldrin peered down from above.
 
@@ -3769,7 +3769,7 @@ There followed a short argument over which of the two had to actually climb down
 
 “Roger that, Commander Armstrong.”
 
-“I’m going to touch the light source now…I don’t feel anything. My finger passes right through.”
+“I’m going to touch the light source now... I don’t feel anything. My finger passes right through.”
 
 “Colonel Aldrin, from where you are standing, any change in the light source?”
 
@@ -3779,11 +3779,11 @@ There followed a short argument over which of the two had to actually climb down
 
 “Proceed as you see fit, Commander.”
 
-…
+...
 
 “Ground control to Commander Armstrong. Come in, Commander Armstrong.”
 
-…
+...
 
 “Ground control to Colonel Aldrin. Come in, Colonel Aldrin.”
 
@@ -3791,25 +3791,25 @@ There followed a short argument over which of the two had to actually climb down
 
 “Ground control to Commander Armstrong. COME IN, COMMANDER ARMSTRONG.”
 
-…
+...
 
 “He’s not answering. Houston, I’m going to pull up the cable, bring him back.”
 
 “Do that immediately, Colonel.”
 
-…
+...
 
-…
+...
 
 “Houston, the end of the cable is no longer attached to Commander Armstrong.”
 
 “Fuck.”
 
-“I never should have let him…I’m going down after him.”
+“I never should have let him... I’m going down after him.”
 
 “No, Colonel Aldrin, this is Ground Control. You are ordered to collect the cable and leave the crack. I repeat, collect the cable and leave the crack.”
 
-“Wait, what if I lower the cable back down to him, maybe if he’s down there he can grab on to…”
+“Wait, what if I lower the cable back down to him, maybe if he’s down there he can grab on to...”
 
 “Colonel Aldrin, I repeat, your direct order is to collect the cable and leave the crack.”
 
@@ -3819,13 +3819,13 @@ There followed a short argument over which of the two had to actually climb down
 
 “No, Houston. Nothing is wrong.”
 
-“All right, we’re going to get Colonel Aldrin to lower down the cable for you and…”
+“All right, we’re going to get Colonel Aldrin to lower down the cable for you and...”
 
 “No, Houston. Literally. Nothing is wrong. [i]Nothing[/i].”
 
 “Commander Armstrong, is everything okay?”
 
-“Exactly, Houston. Everything is okay. Nothing is wrong. Nothing has ever been wrong, anywhere. The cosmos is like a flawless jewel, each of whose facets is another flawless jewel, and so on to infinity. Except there is no jewel. It’s all light. No, there isn’t even light. From within Time you can’t see any of it, but when you step outside into Eternity it’s all so…full. It’s so beautiful, Houston.”
+“Exactly, Houston. Everything is okay. Nothing is wrong. Nothing has ever been wrong, anywhere. The cosmos is like a flawless jewel, each of whose facets is another flawless jewel, and so on to infinity. Except there is no jewel. It’s all light. No, there isn’t even light. From within Time you can’t see any of it, but when you step outside into Eternity it’s all so... full. It’s so beautiful, Houston.”
 
 “Commander Armstrong, you’re not well. Colonel Aldrin is lowering down the cable.”
 
@@ -3837,15 +3837,15 @@ There followed a short argument over which of the two had to actually climb down
 
 “Commander Armstrong!”
 
-“Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy…”
+“Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy is the Lord of Hosts. Holy, holy, holy...”
 
 “Commander Armstrong!”
 
-“Holy, holy, holy. Holy, holy, holy. Holy, holy, holy. Holy, holy, holy. Holy, holy, holy. Holy, holy, holy. Holy, holy, holy. Holy, holy, holy. Holy, holy, holy…”
+“Holy, holy, holy. Holy, holy, holy. Holy, holy, holy. Holy, holy, holy. Holy, holy, holy. Holy, holy, holy. Holy, holy, holy. Holy, holy, holy. Holy, holy, holy...”
 
 “Commander Armstrong!”
 
-“Holy, holy, holy, holy, holy, holy, holy, holy, holy, holy, holy, holy, holy, holy, holy, holy, holy, hooooly, hoooooly, hooooooly, hoooooooly, hooooooooly, hoooooooooly, hoooooooooooly, hooooooooooooly, hoooooooooooooly, hooooooooooooooly, hooooooooooooooly, hoooooooooooooooly…”
+“Holy, holy, holy, holy, holy, holy, holy, holy, holy, holy, holy, holy, holy, holy, holy, holy, holy, hooooly, hoooooly, hooooooly, hoooooooly, hooooooooly, hoooooooooly, hoooooooooooly, hooooooooooooly, hoooooooooooooly, hooooooooooooooly, hooooooooooooooly, hoooooooooooooooly...”
 
 “Houston, I’ve lowered the cable as far as it will go. It’s dangling about seventy meters into the light zone. I’m not getting any indication that Commander Armstrong is going to take it.”
 
@@ -4010,7 +4010,7 @@ I glared at her.
 
 “Thi-” I started, just as Ana said “That’s racist.”
 
-“You didn’t even hear what…”
+“You didn’t even hear what...”
 
 “I know how you think,” said Ana.
 
@@ -4028,7 +4028,7 @@ Erica finished pouring the wine and went to the head of the table. “We are gat
 
 We all drank to freedom.
 
-“Now, Aaron is going to lead us in a traditional Passover song…”
+“Now, Aaron is going to lead us in a traditional Passover song...”
 
 #### II.
 
@@ -4045,7 +4045,7 @@ Then came the cat that ate the goat<br/>
 My father bought for two silver coins<br/>
 A little goat, a little goat
 
-Then came that dog that bit the cat…
+Then came that dog that bit the cat...
 </blockquote>
 And so on. A stick hits the dog, a fire burns the stick, water quenches the fire, an ox drinks the water, a butcher slaughters the ox, the Angel of Death takes the butcher, and finally God destroys the Angel of Death.  Throughout all of these verses, it is emphasized that it is indeed a little goat, and the father did indeed buy it for two silver coins.
 
@@ -4096,7 +4096,7 @@ Now count the number of creatures in the song. God, angel, butcher, ox, water, f
 
 “Mr. Alvarez,” asked Brian Young, “why are we celebrating Passover? I don’t think any of us are Jews.”
 
-“In a sense,” said Dylan, “we are all Jews. The Jews of…”
+“In a sense,” said Dylan, “we are all Jews. The Jews of...”
 
 “In a sense,” said Clark Deas, “every time Dylan says ‘in a sense’ I mentally replace it with ‘not at all’.”
 
@@ -4159,13 +4159,13 @@ Sohu sat at a table suspended several hundred feet in the air, putting her about
 
 “HOW MANY SEPHIROT ARE THERE THAT GO FROM THE MATERIAL WORLD TO ULTIMATE DIVINITY?”
 
-“There’s…oh…I think that’s a coincidence.”
+“There’s... oh... I think that’s a coincidence.”
 
-“NOTHING IS A COINCIDENCE. EVERYTHING IS CONNECTED. AT PASSOVER THINGS ARE ESPECIALLY CONNECTED. THE PASSOVER RITUAL BINDS ALL THE KABBALISTS OF ALL AGES TOGETHER, FROM SHIMON BAR YOCHAI TO TODAY. ACROSS THOUSANDS OF YEARS AND THOUSANDS OF MILES WE ARE ALL JOINED TOGETHER, SAYING THE SAME WORDS, EATING THE SAME FOODS…”
+“NOTHING IS A COINCIDENCE. EVERYTHING IS CONNECTED. AT PASSOVER THINGS ARE ESPECIALLY CONNECTED. THE PASSOVER RITUAL BINDS ALL THE KABBALISTS OF ALL AGES TOGETHER, FROM SHIMON BAR YOCHAI TO TODAY. ACROSS THOUSANDS OF YEARS AND THOUSANDS OF MILES WE ARE ALL JOINED TOGETHER, SAYING THE SAME WORDS, EATING THE SAME FOODS...”
 
 “Lampreys?!”
 
-“…EATING KABBALISTICALLY SIMILAR FOODS.”
+“... EATING KABBALISTICALLY SIMILAR FOODS.”
 
 “Will you tell me the story of Passover?”
 
@@ -4189,7 +4189,7 @@ Sohu sat at a table suspended several hundred feet in the air, putting her about
 
 “I’m not eating the lampreys. Tell me the story of Passover. Your book on education says human children like stories, right?”
 
-“WELL…”
+“WELL...”
 
 #### V.
 
@@ -4198,7 +4198,7 @@ Sohu sat at a table suspended several hundred feet in the air, putting her about
 
    -Mt. Sinai
 
-With a final grunt of effort, the old man crested the ridge and came to the summit of the mountain. He leaned on his staff for a few seconds, catching his breath. He had come such a long way. He let his eyes drift closed…
+With a final grunt of effort, the old man crested the ridge and came to the summit of the mountain. He leaned on his staff for a few seconds, catching his breath. He had come such a long way. He let his eyes drift closed...
 
 “DO NOT BE AFRAID,” came a vast booming voice from directly behind him.
 
@@ -4272,11 +4272,11 @@ Moses pulled himself into a more dignified kneeling position. “My Lord,” he 
 
 “Yes, my Lord,” said Moses.
 
-…
+...
 
 Forty days and forty nights later, the old man trudged back up the slopes of the mountain.
 
-“UM,” said the archangel. “SO. I MIGHT HAVE GOTTEN A LITTLE BIT CARRIED AWAY…”
+“UM,” said the archangel. “SO. I MIGHT HAVE GOTTEN A LITTLE BIT CARRIED AWAY...”
 
 #### VI.
 
@@ -4356,7 +4356,7 @@ One came to him. Edward Kelley claimed to be a medium through whom the spirits r
 
 Kelley gazed into his crystal ball and declared that the angels were speaking to him. What were they saying? Alas, neither Kelley nor Dee understood a word of their language, a language apparently unknown to humans since the time of the patriarch Enoch. There followed a long period of translation work, which ended with a sort of English-Enochian dictionary, a key to the heavenly speech.
 
-Sure, there were doubters. Some people mentioned it was mighty suspicious that the syntax and grammar of Enochian were exactly the same as those of Elizabethan English. Others pointed out how convenient it was that the angelic word for “evil” was “Madrid”, which was also the capital of Elizabethan England’s arch-enemy Spain. Or how the angelic word for “kingdom” was “Londoh”, which was also…you get the idea. It seemed like Edward Kelley might have been injecting his personal opinions into these transmissions [i]just a little[/i]. Or, as we moderns sometimes say, that the medium was the message.
+Sure, there were doubters. Some people mentioned it was mighty suspicious that the syntax and grammar of Enochian were exactly the same as those of Elizabethan English. Others pointed out how convenient it was that the angelic word for “evil” was “Madrid”, which was also the capital of Elizabethan England’s arch-enemy Spain. Or how the angelic word for “kingdom” was “Londoh”, which was also... you get the idea. It seemed like Edward Kelley might have been injecting his personal opinions into these transmissions [i]just a little[/i]. Or, as we moderns sometimes say, that the medium was the message.
 
 So it came as quite a shock when the sky cracked and we met angels and they all spoke flawless Enochian. It wasn’t the only language they spoke—they could understand anything except Aramaic—but it was the one that came most naturally to them.
 
@@ -4378,7 +4378,7 @@ My hooligans. Right on schedule. I didn’t move. I wasn’t sure if my Tempestu
 
 “Put down the book!”
 
-I carefully returned the book to the shelf; I probably was supposed to drop it, but I’m superstitious about letting books touch the floor, and if ever there was a time I needed luck…
+I carefully returned the book to the shelf; I probably was supposed to drop it, but I’m superstitious about letting books touch the floor, and if ever there was a time I needed luck...
 
 “Who are you? How did you get here?”
 
@@ -4392,7 +4392,7 @@ Maximally true, minimally revealing.  Her attention shifted to the globe of ligh
 
 “Spoken.”
 
-The girl made a guttural noise of frustration. “You spoke the…you used…[i]do you even know where you are?[/i]”
+The girl made a guttural noise of frustration. “You spoke the... you used... [i]do you even know where you are?[/i]”
 
 I didn’t.
 
@@ -4492,7 +4492,7 @@ The penalty for being on a Strategic Angel Reserve without permission was death.
 
 “Search?” I asked.
 
-“The angels have information vital to the future of humanity. I’ve spent months figuring out how get up here unnoticed. And now…”
+“The angels have information vital to the future of humanity. I’ve spent months figuring out how get up here unnoticed. And now...”
 
 “Um,” I said. “Tell me what you’re looking for, and maybe I can help?”
 
@@ -4522,7 +4522,7 @@ The shelves were numbered in John Napier’s location arithmetic. The revelation
 
 “How do we get back down to the ground?” I asked.
 
-The spark of approval was gone, if it had ever been there at all. “[i]I[/i] get down the same way I got up,” she said. “[i]You[/i]…figure something out!”
+The spark of approval was gone, if it had ever been there at all. “[i]I[/i] get down the same way I got up,” she said. “[i]You[/i]... figure something out!”
 
 And then she ran away.
 
@@ -4634,7 +4634,7 @@ A great clamor arose from all the heavenly hosts, save Uriel, who took advantage
 
 A moment of confusion. Uriel proved several important lemmas about tower construction.
 
-“I don’t understand,” said Haniel. “Like, I get what you’re trying to say. But, well…how would that tend toward the greater glory of God?”
+“I don’t understand,” said Haniel. “Like, I get what you’re trying to say. But, well... how would that tend toward the greater glory of God?”
 
 “It doesn’t,” said Sataniel. “I will definitely concede that point.”
 
@@ -4662,7 +4662,7 @@ Everyone ignored Uriel as usual.
 
 “Instead of working to serve God,” said Sataniel, “we could serve ourselves.”
 
-“Ohhhhh,” said Zadkiel. “You’re saying that, since we are creations of God, praising and serving ourselves would be a more effective way of demonstrating our gratitude and love of God’s glory than praising and serving Him directly? And so, in a sense, actually even more humble and godly? It’s a bit counterintuitive, but it just…might…work.”
+“Ohhhhh,” said Zadkiel. “You’re saying that, since we are creations of God, praising and serving ourselves would be a more effective way of demonstrating our gratitude and love of God’s glory than praising and serving Him directly? And so, in a sense, actually even more humble and godly? It’s a bit counterintuitive, but it just... might... work.”
 
 “No!” said Sataniel, and he stomped on the cloud underneath his feet, shooting off little wisps of cirrus. “You’re not getting it. This is about total conceptual revolution! A complete shift in mindset! There aren’t even the right words for it!”
 
@@ -4692,7 +4692,7 @@ Murmurs of assent. The fiery lions nodded, the wheels spun in agreement.
 
 Sataniel cast his head down. For a moment he seemed about to acquiese. Then, a weird look appeared on his face, a look unlike any that the angels had ever seen, almost a contortion. He spoke haltingly, as if trying a strange new language he had never spoken before.
 
-“Actually…God…God told me…that He really wanted some of you guys to follow me. To go meet Thamiel. Yes. God said that. That was what He said.”
+“Actually... God... God told me... that He really wanted some of you guys to follow me. To go meet Thamiel. Yes. God said that. That was what He said.”
 
 A look of astonishment and joy flashed throughout the council. God had spoken! God rarely spoke to angels even once an aeon, and now God had spoken to their brother Sataniel! New information about the will of the Divine, a new opportunity to serve Him, to better conform their actions to the newly clarified Divine Will!
 
@@ -4711,7 +4711,7 @@ For someone who had so suddenly seen his fortunes shift for the better, Sataniel
 
 “The future is ziggurats,” Samyazaz was telling Ut-Naparash as they walked up the Great Stair. “In a hundred years, nobody’s going to remember pyramids. Pyramids are a flash in the pan. Ziggurats are for the ages.”
 
-“The King has every bit of faith in ziggurats and in yourself,” said Ut-Naparash. “He only wishes that the project would go a little…faster.”
+“The King has every bit of faith in ziggurats and in yourself,” said Ut-Naparash. “He only wishes that the project would go a little... faster.”
 
 [i]The king is a fricking nimrod[/i], thought Samyazaz to himself, but out loud he just said, “You can’t rush ziggurats, Ut-Naparash.” He punctuated his statement with a wave of his gigantic arms. “You try to rush a ziggurat, you end up with one side not big enough, or a tier off center, and then the whole thing is fried. They’re not like henges, where if you put a stone in the wrong place here or there nobody’s going to notice. Ziggurats are a work of art. A place for everything, and everything in its place.”
 
@@ -4719,7 +4719,7 @@ They reached the top of the Great Stair and the highest tier of the ziggurat. Hi
 
 “I’m not paying you to lollygag!” he shouted. He hoped the slaves appreciated his sense of humor.
 
-“Sorry, o mighty one,” said the tallest slave, bowing low. “Sorry, great eminence,” he repeated, this time to Ut-Naparash. “It is only…a storm is coming.”
+“Sorry, o mighty one,” said the tallest slave, bowing low. “Sorry, great eminence,” he repeated, this time to Ut-Naparash. “It is only... a storm is coming.”
 
 Samyazaz looked west. The slave was right. It was big and green and formed of hulking thunderheads that seemed to seethe and simmer. It was coming closer. There was something ominous about it.
 
@@ -4741,7 +4741,7 @@ The thing with humans, Samyazaz thought, was that as fragile as they were, they 
 
 Again with the uncomfortable looks from Ut-Naparash and the slaves. He hoped they would get around to inventing writing soon, so he could read a book about Sumerian religion and figure out what it was he was missing. Until then he would have to do things the hard way. “Do it for the mighty one,” he said, speaking the words of power that his sort had bred deep into these people’s unconscious.
 
-Compelled by the invocation, the slaves set up the canopy. Samyazaz wandered to the west edge of the platform. The storm was very, very close now. It swept over the empty flood plain like a wave over a beach. Two stupendous bolts of lightning struck the ground just outside the city wall, then…stopped.
+Compelled by the invocation, the slaves set up the canopy. Samyazaz wandered to the west edge of the platform. The storm was very, very close now. It swept over the empty flood plain like a wave over a beach. Two stupendous bolts of lightning struck the ground just outside the city wall, then... stopped.
 
 Everything had stopped. Samyazaz saw the slaves bent over, placing a pole for the canopy, but they neither tied it in nor stood up. Ut-Naparash had taken a pot of beer, and Samyazaz could see the golden liquid falling from the pot to the priest’s waiting lips, but the drops hung motionless in mid-air. In the city below him, a hundred merchants were frozen in various steps of peddling their wares. Samyazaz moved one of his giant arms back and forth. Okay. He could move. It was just everyone else who was frozen. This was really bad.
 
@@ -4781,9 +4781,9 @@ The two lightning bolts gradually resolved themselves into two gigantic human fo
 
 “He definitely doesn’t count,” said Gabriel.
 
-“But…what are you guys doing? Sataniel only took a third of the angels with him to the inner core. Even if that Thamiel guy was able to turn every single one of them against God, you still outnumber him two to one.”
+“But... what are you guys doing? Sataniel only took a third of the angels with him to the inner core. Even if that Thamiel guy was able to turn every single one of them against God, you still outnumber him two to one.”
 
-Gabriel coughed awkwardly. “He would use…strategems. He would say ‘I am going to attack you from the north,’ and then attack us from the south. It was unfair.”
+Gabriel coughed awkwardly. “He would use... strategems. He would say ‘I am going to attack you from the north,’ and then attack us from the south. It was unfair.”
 
 “And then when we finally figured out what he was doing,” added Michael, “He would say ‘I am going to attack you from the north,’ and then [i]actually[/i] attack us from the north. It was very unfair.”
 
@@ -4833,7 +4833,7 @@ The thunder rumbled menacingly again.
 
 “You will come with us.”
 
-“But…my ziggurats!”
+“But... my ziggurats!”
 
 “Are like a child’s sand castles in the eyes of the Lord.”
 
@@ -4865,7 +4865,7 @@ Michael pulled his sword of fire from its scabbard. A moment later, Gabriel did 
 
 For just a moment, Michael and Gabriel made as if to charge. But then the lightning bolts struck home, the thunder crashed in a great resounding peal, and time started again.
 
-“Wise one!” asked Ut-Naparash. “Are you well? You seem…” Suddenly his face blanched in horror.
+“Wise one!” asked Ut-Naparash. “Are you well? You seem...” Suddenly his face blanched in horror.
 
 Thamiel floated leisurely to the ziggurat platform and landed in the center. The slaves threw themselves off the sides in horror and loathing, and there was a sickening cracking sound as their bodies hit the tier beneath. Ut-Naparash started making the complex ritual movements of the Greater Prayer to Enlil.
 
@@ -4875,7 +4875,7 @@ Thamiel floated leisurely to the ziggurat platform and landed in the center. The
 
 “Master, is it?” asked Thamiel. “Because a moment ago, you were calling me a ‘two-headed creep’.”
 
-“Master!” said Samyazaz, desperately. “I didn’t mean it. I will make amends! I will…”
+“Master!” said Samyazaz, desperately. “I didn’t mean it. I will make amends! I will...”
 
 “Nice ziggurat you’ve got here,” said Thamiel. “Shame if something were to happen to it.”
 
@@ -4883,7 +4883,7 @@ He gave a lazy flick of his bident, and the entire structure collapsed in on its
 
 It was only a minor death, as deaths went. A purposeless accident of falling rocks and rubbles. Samyazaz recoalesced within a few minutes. Thamiel was gone now. It was just him and the remains of his ziggurat. He wasn’t too proud to cry, just one tear. Then he sighed, brushed himself off, and got up.
 
-He had always prided himself on his resilience. Well, what was a hundred years, to one such as him? Michael and Gabriel wouldn’t dare bother him again. Thamiel had punished him sufficiently. Now there were just the humans. Beautiful, wonderful humans, so easy to bend to his will. He would whisper to the king, he would awe the priests, he would rebuild the ziggurat twice as big as before. In a way, it had been a blessing in disguise. He hadn’t been ambitious enough with this ziggurat. If he started from scratch, built the base on a sturdier foundation…
+He had always prided himself on his resilience. Well, what was a hundred years, to one such as him? Michael and Gabriel wouldn’t dare bother him again. Thamiel had punished him sufficiently. Now there were just the humans. Beautiful, wonderful humans, so easy to bend to his will. He would whisper to the king, he would awe the priests, he would rebuild the ziggurat twice as big as before. In a way, it had been a blessing in disguise. He hadn’t been ambitious enough with this ziggurat. If he started from scratch, built the base on a sturdier foundation...
 
 He grabbed a passing slave. “Get me a palanquin, man. Can’t you see there’s been a disaster here? I need to speak to the King.”
 
@@ -4895,7 +4895,7 @@ The slave babbled something in response, but Samyazaz couldn’t make out a word
 
 Somewhere, far below, he thought he could hear Thamiel’s laughter.
 
-Okay. This was worse than he thought. He began mentally pushing back his ziggurat timetable. Not that he couldn’t make it work. He could definitely make it work. The timetable just needed to be amended. Some way to break through the communication barrier, some way to deal with the king and all of these recalcitrant humans, some way to deal with [i]Thamiel[/i], some way…
+Okay. This was worse than he thought. He began mentally pushing back his ziggurat timetable. Not that he couldn’t make it work. He could definitely make it work. The timetable just needed to be amended. Some way to break through the communication barrier, some way to deal with the king and all of these recalcitrant humans, some way to deal with [i]Thamiel[/i], some way...
 
 He pushed the slave aside and headed back in the direction of his brewery. He could [i]definitely[/i] use some beer right now.
 
@@ -4932,7 +4932,7 @@ The invisible wall parted, and Gabriel strode into the eye of the storm, the inn
 
 “I do not think it would help you very much. You would probably just die here.”
 
-“Better to die on one’s feet than to live on one’s…um…better to die on one’s feet!”
+“Better to die on one’s feet than to live on one’s... um... better to die on one’s feet!”
 
 “You cannot have this storm. I am using it.”
 
@@ -5032,7 +5032,7 @@ But one welcome truth had not changed: Uriel was weak. Very, very weak. Less ski
 
 “Gabriel,” said Uriel. “I am channeling the divine light. Do you know what that means? It means I control it. All of it. Go away, Gabriel. Don’t make me hurt you.”
 
-Uriel? Hurt anybody? Gabriel lunged forward, and…
+Uriel? Hurt anybody? Gabriel lunged forward, and...
 
 Uriel [i]flared[/i]. Ten streams of light flowed into him, light in the seven earthly colors and the three colors you only see in Heaven. The light rushed from his fingertips, and Gabriel’s flaming sword evaporated into steam in his hands. He looked at Uriel again, and there was something changed about his aspect, something terrifying, something beyond even the might of an archangel.
 
@@ -5101,7 +5101,7 @@ Deadly force will be used upon violators of this ordinance
 </blockquote>
 Ana left the tunnel, walked onto the second half of the bridge. The sun beat down on her. The span of the bridge seemed to shimmer and sway. The city ahead of her grew larger with each step.
 
-John of Patmos described the New Jerusalem as “having the glory of God, and her light was like unto a stone most precious, even like a jasper stone, clear as crystal”. The buildings of San Francisco were…varied. Ana had seen them before, but only from afar. There’s a park in Berkeley where you can sit on the edge of the Bay and stare directly across at San Francisco. Throughout the 70s and 80s, such watchers were rewarded with strange sights. New skyscrapers arose. Old ones were torn down. A huge lidless eye opened on the top of the Transamerica Pyramid. Weird structures that seemed to defy gravity were erected, geodesic domes, spiral minarets in every color of the rainbow. Iridescent spheres the size of city blocks that hovered in midair. The northern end of the Golden Gate, shrouded in a luminous mist.
+John of Patmos described the New Jerusalem as “having the glory of God, and her light was like unto a stone most precious, even like a jasper stone, clear as crystal”. The buildings of San Francisco were... varied. Ana had seen them before, but only from afar. There’s a park in Berkeley where you can sit on the edge of the Bay and stare directly across at San Francisco. Throughout the 70s and 80s, such watchers were rewarded with strange sights. New skyscrapers arose. Old ones were torn down. A huge lidless eye opened on the top of the Transamerica Pyramid. Weird structures that seemed to defy gravity were erected, geodesic domes, spiral minarets in every color of the rainbow. Iridescent spheres the size of city blocks that hovered in midair. The northern end of the Golden Gate, shrouded in a luminous mist.
 
 Now as she stepped off the Bay Bridge, she saw it face-to-face for the first time. It was even stranger than she had expected. The sidewalks were covered with kabbalistic diagrams written in gold chalk. The walls of the buildings were covered with murals depicting alien worlds, and every spot of greenery burst forth with flowers that were out of season or totally unrecognizable. Young children played in car-free streets with asphalt white as pearl.
 
@@ -5117,7 +5117,7 @@ An old man was sweeping the streets with a broom. His faces sparkled like that o
 
 Francis of Assisi had been unusually holy even for saints. His father had been a rich businessman, and he grew up in a world of luxury, sports, and feasting. One day, he was out selling cloth for his father’s business when a beggar approached him and asked for alms. Francis tossed him a coin, and the beggar went away. Then he sat and thought for a few minutes. Then he ran after the beggar, caught up with him, and gave him everything he had.
 
-When he told his father what had happened, the old man was outraged. Why had he blown away his money like that? Well, why indeed? Francis couldn’t answer. He just thought…well, doesn’t the Bible say we should do good? “Not [i]that much[/i] good, Francis!”
+When he told his father what had happened, the old man was outraged. Why had he blown away his money like that? Well, why indeed? Francis couldn’t answer. He just thought... well, doesn’t the Bible say we should do good? “Not [i]that much[/i] good, Francis!”
 
 His father sent Francis off to war. On the way to battle, Francis saw another knight with worse armor than he, and gave the man his armor. Apparently he was no more a soldier than a merchant. “Look,” his father told him, as they sat selling cloth together in the marketplace, “good is all nice and good in moderation, but it’s a give and take thing. You’ve got to find a happy medium.”
 
@@ -5193,7 +5193,7 @@ Ana flapped her arms vigorously, trying to regain altitude, but her flight had n
 
 Ana gently landed somewhere. She wasn’t in the tower. She was on a wharf. There were people all around her, dousing her with water, holding her hands, saying things to her.
 
-“Prisoner’s dilemma! Can’t square the circle! Nothing exists but atoms and empty space, all else is opinion! Bad money drives out…no, look guys! She’s awake!”
+“Prisoner’s dilemma! Can’t square the circle! Nothing exists but atoms and empty space, all else is opinion! Bad money drives out... no, look guys! She’s awake!”
 
 Ana smiled, like someone awaking from a beatific dream. The men around her began to hoot and slap each other on the backs. She barely noticed.
 
@@ -5326,7 +5326,7 @@ They enslave their children’s children who make compromise with sin.)
 
 (“It’s not a ‘compromise with sin’, per se, just a strategic alliance with the Devil.”)
 
-(…)
+(...)
 
 (“Okay, fine, whatever, maybe it’s [i]kind of[/i] a compromise with sin.”)
 
@@ -5472,7 +5472,7 @@ The bartender leaned on the table, leaned in very closely. “Look,” he said. 
 
 Lin and James stared at him.
 
-“You humans are inured to wrongs like these / I cannot bear them; I would rather die / beneath the breakers of the thunderous main…”
+“You humans are inured to wrongs like these / I cannot bear them; I would rather die / beneath the breakers of the thunderous main...”
 
 James elbowed Amoxiel. Amoxiel stopped.
 
@@ -5542,11 +5542,11 @@ Ana nodded.
 
 Paul tried to stand. He took a second to catch his breath. Kesey—the thing in Kesey’s body—seemed content to let him. It just stood there, hovering.
 
-“W…who are you?” asked Paul.
+“W... who are you?” asked Paul.
 
 “NEIL,” said the thing in Kesey’s body.
 
-“But…who…what ARE you?”
+“But... who... what ARE you?”
 
 “NEIL,” said the thing in Kesey’s body, somewhat more forcefully.
 
@@ -5574,7 +5574,7 @@ For the second time in as many minutes, he fell to his knees.
 
 “IN ORDER TO INSTANTIATE THE NEW JERUSALEM, YOU MUST GATHER TOGETHER ALL OF THE LSD IN THE CITY AND PLACE IT IN A RESERVOIR WHICH I WILL SHOW YOU. WHEN EVERYONE HAS ACHIEVED DIVINE CONSCIOUSNESS, IT WILL CREATE A CRITICAL MASS THAT WILL ALLOW A NEW LEVEL OF SPIRITUAL TRANSFORMATION. I WILL BECOME ONE WITH THE CITY, BECOME ITS GUARDIAN AND ITS GUIDE. AND NONE SHALL BE POOR, OR SICK, OR DYING, AND NONE SHALL CRY OUT TO THE LORD FOR SUCCOUR UNANSWERED.”
 
-“But…if I put LSD in the water supply…if the whole city…are you saying we, like, [i]secede[/i] from the United States?…you don’t understand. We’ve been trying to spread a new level of consciousness for [i]years[/i]. It never…if the whole city tries to become some kind of…if they don’t pay taxes or anything…we’re going to be in the [i]biggest[/i] trouble. You don’t know Nixon, he’s ruthless, he’d crush it, it’d never…”
+“But... if I put LSD in the water supply... if the whole city... are you saying we, like, [i]secede[/i] from the United States?... you don’t understand. We’ve been trying to spread a new level of consciousness for [i]years[/i]. It never... if the whole city tries to become some kind of... if they don’t pay taxes or anything... we’re going to be in the [i]biggest[/i] trouble. You don’t know Nixon, he’s ruthless, he’d crush it, it’d never...”
 
 “YOU STILL DO NOT BELIEVE. OPEN YOUR BIBLE A SECOND TIME.”
 
@@ -5600,7 +5600,7 @@ An angel walked into the lounge. “Oh,” he said. “She’s awake. I’m Amox
 
 “Join the crew?!”
 
-“I was just getting to that, dammit!” said James. He turned to Ana. “I’ll be honest. We didn’t save you because we’re nice people. We saved you because we’re still working on using this ship to its full capacity. Captain says that the yellow sail needs some kind of special kabbalistic Name to work. You seem to know a Name that can summon winds. Sounds like it’s worth a shot. You want to join us? Pay is…well, you’d be a full partner. A few years and you’d be set for life.”
+“I was just getting to that, dammit!” said James. He turned to Ana. “I’ll be honest. We didn’t save you because we’re nice people. We saved you because we’re still working on using this ship to its full capacity. Captain says that the yellow sail needs some kind of special kabbalistic Name to work. You seem to know a Name that can summon winds. Sounds like it’s worth a shot. You want to join us? Pay is... well, you’d be a full partner. A few years and you’d be set for life.”
 
 Ana thought for a second. It was almost too perfect. Escape San Francisco, escape UNSONG, go somewhere nobody could find her. She tried not to sound overly enthusiastic. “What’s the work, exactly?”
 
@@ -5703,7 +5703,7 @@ The nameplate was tastefully on fire.
 
    -Los Angeles
 
-A ray of early morning sun beat on my face. Clouds flew by me like trucks rushing down a highway, and the heavens seemed to sing. It’s weird. You spend your entire adult life searching for Names of God and hanging out with angels, and the closest you come to a spiritual experience is paddling a flying kayak thousands of feet above San Bernardino County. I was flush with excitement at my close escape and at my [i]other[/i] close escape and frankly at being pressed up against Jane so closely and of course at the view where I could see all of Southern California stretching out around us, lines of crumpled mountains one after another, and then…
+A ray of early morning sun beat on my face. Clouds flew by me like trucks rushing down a highway, and the heavens seemed to sing. It’s weird. You spend your entire adult life searching for Names of God and hanging out with angels, and the closest you come to a spiritual experience is paddling a flying kayak thousands of feet above San Bernardino County. I was flush with excitement at my close escape and at my [i]other[/i] close escape and frankly at being pressed up against Jane so closely and of course at the view where I could see all of Southern California stretching out around us, lines of crumpled mountains one after another, and then...
 
 There’s an old California joke. What happens when the smog lifts? The answer is the name of one of the state’s top colleges: UCLA.
 
@@ -5901,7 +5901,7 @@ After three months living with Ana, she learned that I hadn’t seen the Broadca
 
 We’d been talking about theodicy, as usual. Ana was explaining how the Cainites had made the terrible mistake of trying to munchkin Biblical morality.
 
-Munchkin-ing is this idea from role-playing games where instead of trying to tell a good story, you search for weird little loopholes that violate the spirit of the rules and make things much too easy. The Bible says—check your Luke 15:6—that “in heaven there will be more rejoicing over one sinner who repents than over ninety-nine souls that are righteous and have no need of repentance.” Solve for maximum rejoicing in heaven, and the obvious munchkin solution is to deliberately sin in order to repent later. Add some common-sense assumptions about the relationship between magnitude of crime and magnitude of repentance-related heavenly rejoicing, and…well, you can see where this is going.
+Munchkin-ing is this idea from role-playing games where instead of trying to tell a good story, you search for weird little loopholes that violate the spirit of the rules and make things much too easy. The Bible says—check your Luke 15:6—that “in heaven there will be more rejoicing over one sinner who repents than over ninety-nine souls that are righteous and have no need of repentance.” Solve for maximum rejoicing in heaven, and the obvious munchkin solution is to deliberately sin in order to repent later. Add some common-sense assumptions about the relationship between magnitude of crime and magnitude of repentance-related heavenly rejoicing, and... well, you can see where this is going.
 
 Ana was against the Cainites. I was provisionally for them.
 
@@ -5933,7 +5933,7 @@ Ana swatted my face playfully.
 
 I decided to take her literally. “Look. We know God has to desire evil on some level. Otherwise He wouldn’t have created Thamiel and set him loose in the universe to promote it. So why not actually put something in the Bible that sufficiently defective people will use as an excuse to be evil?”
 
-“You’re heading towards repentance theodicy,” said Ana. “The theory that the reason God put evil in the Universe was that repentance is so great, and without evil you can’t repent. But I…don’t see it. Repentance is great because it makes there stop being evil. We celebrate repentance more than we maybe do with constant saintliness because we want to send a big signal to other evildoers that we will welcome and celebrate them if they stop being evil. Somebody beating me up and then saying sorry and he won’t do it again is preferable to somebody beating me up and intending to continue to do so. But not to never getting beaten up in the first place.”
+“You’re heading towards repentance theodicy,” said Ana. “The theory that the reason God put evil in the Universe was that repentance is so great, and without evil you can’t repent. But I... don’t see it. Repentance is great because it makes there stop being evil. We celebrate repentance more than we maybe do with constant saintliness because we want to send a big signal to other evildoers that we will welcome and celebrate them if they stop being evil. Somebody beating me up and then saying sorry and he won’t do it again is preferable to somebody beating me up and intending to continue to do so. But not to never getting beaten up in the first place.”
 
 “Eh,” I said. “Maybe God just happens to like repentance for its own sake. It wouldn’t be the weirdest thing He ever did. I mean, He created the platypus.”
 
@@ -5955,7 +5955,7 @@ The second reason was that I was scared. The Broadcast had destroyed the origina
 
 “I have a TV and a VCR down in the basement! Let’s watch it now!”
 
-“…why do you have a TV and VCR in the basement?”
+“... why do you have a TV and VCR in the basement?”
 
 “I wanted to see the Broadcast! You don’t think I’ve been studying theodicy for years and never saw it, do you? I went to yard sale after yard sale until I found the right equipment and I ordered the tape from the Harmonious Jade Dragon Empire. You can get [i]anything[/i] from the Harmonious Jade Dragon Empire if you pay enough money. And the Broadcast is special. It’s a part of history. It’s epic.”
 
@@ -5977,7 +5977,7 @@ Daniel Santoni had been a beloved National Geographic presenter until his untime
 
 Now he stood in front of a pair of gates, twice the height of a man, made of some metal that had long since tarnished into a uniform black. They were set in a great rectangular doorframe, and the doorframe was set in a flat stone surface that stretched past the borders of the scene. It was unclear if it was a floor, ceiling, or wall, and Santoni did not appear to be standing on any particular surface. The doors and their frame were filled with sinuous sculptures of writhing men and women whose faces seemed to be melting into nightmarishly distorted expressions. The intricacy of the work was astounding, like a thousand sculptors had worked on it for a thousand years to get every detail right. Written on them in Gothic blackletter were the words ABANDON ALL HOPE, YE WHO ENTER HERE. Above them was also a banner reading WELCOME, NATIONAL GEOGRAPHIC.
 
-“Welcome,” Santoni told his audience. His voice sounded thin and reedy, and nobody who watched the Broadcast came away thinking Santoni was doing this of his own free will. There were no visible bruises, but he still looked traumatized. “Me and some of my…old crew…have come here to show you a…very special National Geographic special on…Hell.”
+“Welcome,” Santoni told his audience. His voice sounded thin and reedy, and nobody who watched the Broadcast came away thinking Santoni was doing this of his own free will. There were no visible bruises, but he still looked traumatized. “Me and some of my... old crew... have come here to show you a... very special National Geographic special on... Hell.”
 
 There was a soundtrack, but it was the same kind of anti-music I had heard once before on a recording of Thamiel’s audience with the president. I wished there were subtitles so I could have turned it off.
 
@@ -5991,21 +5991,21 @@ The scene shifted to a sort of crypt-like office. The furniture was made of peop
 
 “Every couple of years a sinner is in Hell, we arrange some kind of apparent escape opportunity,” the demon told Santoni. “After you’ve been tortured for a century, all your skin flayed off piece by piece then carefully replaced for the next flaying a hundred times in succession, raped in every orifice of your body including the ones you don’t have yet, all your fingernails and toenails pulled off one by one then reattached then pulled off again nonstop for a decade by a demon with a weird fetish for that kind of thing—after that we have a demon come to you and say there’s been a mistake in the cosmic recording, you’re actually supposed to be in Heaven after all. We shower you with apologies, clean you up, and send a party of dignitaries to escort you to the gates. Then when you’re thanking God through a flood of tears for your deliverance, we laugh and bring you right back to fingernail-guy, who wants another hundred years with you.”
 
-He shook his head. “And the fun thing about humans is that you never learn. After another century we can do the exact same thing, every word the same except an ‘and this time we mean it’ at the end, and you’ll still believe us, because the alternative is to admit you’re stuck forever, and you never learn to abandon hope. Once you stop falling for this one, we get more creative. We have a fellow captive tell you he’s learned a secret Name that will finally kill you, grant you the oblivion you crave. He’ll demonstrate by having a few other people say it, and they’ll drop dead on the spot. Overjoyed by the opportunity, you’ll speak the Name and…we’ll all show up and laugh at you. The fellow captives were all confederates. The Name is a nonsense word, or a phrase cursing God in a forgotten language. We can get more creative than that, but I shouldn’t reveal [i]all[/i] my secrets. You’re probably surprised I’m even telling you this at all, but the thing is, [i]it doesn’t matter[/i]. Put someone through enough pain, and they’ll be willing to believe anything that promises a moment’s relief. Dial the pain up far enough, and you have no [i]idea[/i] what idiot hopes people are willing to believe. So yes. Our side of the door says KEEP HOPING, SUCKERS. And you will.”
+He shook his head. “And the fun thing about humans is that you never learn. After another century we can do the exact same thing, every word the same except an ‘and this time we mean it’ at the end, and you’ll still believe us, because the alternative is to admit you’re stuck forever, and you never learn to abandon hope. Once you stop falling for this one, we get more creative. We have a fellow captive tell you he’s learned a secret Name that will finally kill you, grant you the oblivion you crave. He’ll demonstrate by having a few other people say it, and they’ll drop dead on the spot. Overjoyed by the opportunity, you’ll speak the Name and... we’ll all show up and laugh at you. The fellow captives were all confederates. The Name is a nonsense word, or a phrase cursing God in a forgotten language. We can get more creative than that, but I shouldn’t reveal [i]all[/i] my secrets. You’re probably surprised I’m even telling you this at all, but the thing is, [i]it doesn’t matter[/i]. Put someone through enough pain, and they’ll be willing to believe anything that promises a moment’s relief. Dial the pain up far enough, and you have no [i]idea[/i] what idiot hopes people are willing to believe. So yes. Our side of the door says KEEP HOPING, SUCKERS. And you will.”
 
-Santoni’s narration was crisp Mid-Atlantic English with an undertone of horror. “That was Ga’ashekelah, one of the many demons created by Thamiel out of the energy released by the death of Satan, talking about the psychological tortures of Hell. But the physical tortures…” He stopped speaking suddenly, then started to shake and mumble to himself. The scene cut out, and the documentary resumed as if nothing had happened on a plain of iron spotted with towers of iron cages. There was something plant-like and organic to the way they grew in little clusters. Every cage was packed so densely with people that there was no room for movement, only the ones on the outside being able to stretch limbs through the bars and wiggle them around feebly.
+Santoni’s narration was crisp Mid-Atlantic English with an undertone of horror. “That was Ga’ashekelah, one of the many demons created by Thamiel out of the energy released by the death of Satan, talking about the psychological tortures of Hell. But the physical tortures...” He stopped speaking suddenly, then started to shake and mumble to himself. The scene cut out, and the documentary resumed as if nothing had happened on a plain of iron spotted with towers of iron cages. There was something plant-like and organic to the way they grew in little clusters. Every cage was packed so densely with people that there was no room for movement, only the ones on the outside being able to stretch limbs through the bars and wiggle them around feebly.
 
-“Most of Hell looks like this,” said Santoni. Now there [i]were[/i] visible bruises on his face. “The people in these cages…you can’t see it from this vantage point, but the temperature is above a thousand degrees. Those iron bars are molten hot. The sort of bodies these people have, they can’t burn, but they can still feel heat just as intensely as the living. More intensely. They don’t need food to live, but hunger pangs are just as intense. They don’t need water, but the thirst is…” He cut himself off. “There’s another difference between their bodies and ours, which is that their minds don’t break and they don’t acclimate…the thousandth day here is just as bad as the first…” He looked toward someone off camera. “Please don’t make me continue…don’t…” Some kind of signal I couldn’t see. “We’re going to interview some of these people, see what…”
+“Most of Hell looks like this,” said Santoni. Now there [i]were[/i] visible bruises on his face. “The people in these cages... you can’t see it from this vantage point, but the temperature is above a thousand degrees. Those iron bars are molten hot. The sort of bodies these people have, they can’t burn, but they can still feel heat just as intensely as the living. More intensely. They don’t need food to live, but hunger pangs are just as intense. They don’t need water, but the thirst is...” He cut himself off. “There’s another difference between their bodies and ours, which is that their minds don’t break and they don’t acclimate... the thousandth day here is just as bad as the first...” He looked toward someone off camera. “Please don’t make me continue... don’t...” Some kind of signal I couldn’t see. “We’re going to interview some of these people, see what...”
 
 He held the microphone up to somebody whose mouth was pressed up against the edge of the cage.
 
 “HEEEEEEEEEEEEEELLLLLLLPPPPPP!” screamed the damned into the microphone, so loud that I jumped and Ana had to put her hand on my knee to stop me from shaking. Then they all started talking and screaming at once. I could only make out one or two snatches:
 
-“I’m Mabel Riggs of 242 Oval Street in Minneapolis, if anyone remembers me, please, do something, I pray, please, I’ll do anything, oh God, you have to…”
+“I’m Mabel Riggs of 242 Oval Street in Minneapolis, if anyone remembers me, please, do something, I pray, please, I’ll do anything, oh God, you have to...”
 
-“SHUT UP!” yelled the man who was pressed so close to her that I worried her bones might break against the bars of the cage. “SHUT UP YOU BITCH. GIVE ME THE MICROPHONE. I’M…”
+“SHUT UP!” yelled the man who was pressed so close to her that I worried her bones might break against the bars of the cage. “SHUT UP YOU BITCH. GIVE ME THE MICROPHONE. I’M...”
 
-A brief scuffle, then the camera was upright again and we were looking at a burning skull, who was identified as “Gamchicoth, Torture Expert”. “We put a lot of effort into matching people with the right cage-mates,” Gamchicoth was saying. “We look through a database of everyone who’s ever lived to find the people you’ll like least, maximize the clash of personalities…”
+A brief scuffle, then the camera was upright again and we were looking at a burning skull, who was identified as “Gamchicoth, Torture Expert”. “We put a lot of effort into matching people with the right cage-mates,” Gamchicoth was saying. “We look through a database of everyone who’s ever lived to find the people you’ll like least, maximize the clash of personalities...”
 
 I turned to Ana. “I don’t want to watch any more of this.”
 
@@ -6091,7 +6091,7 @@ She sighed theatrically, but gave no further protest. “In Proto-Semitic,” sh
 
 “So we’re invoking Chesed, the kindness of God. Compare Psalm 65: “You visit the Earth and water it, you greatly enrich it with the river of God, which is full of water.” But we’re also invoking Gevurah, the severity of God. Water is the kindess of God, but also His severity; think Noah’s flood, where it was His severity that punished the wicked, but His kindness that saved Noah and promised never again to flood the Earth. We’ve got Binah, the understanding of God. Spiritual growth. Compare John 4:14: “Whosoever drinketh of the water that I give him shall never thirst; the water that I shall give him shall be a well of water springing up into eternal life.” And finally, we’ve got Kether. The crown of God. Human beings are 66% water. The human brain is something like 90%. Human beings are made in God’s own image. Therefore, Kether.
 
-“BUT WHAT ABOUT…”
+“BUT WHAT ABOUT...”
 
 “The English word water, which breaks the pattern? It keeps the vav, but it finishes with tav and resh. That’s a very special combination. Tav goes up from Malkuth, at the very bottom of the tree, and then resh goes straight up again, until you’re all the way at Tiferet in two moves. And from Tiferet you can go anywhere. A tav-resh is the shortest path, it’s efficiency, it’s no-nonsense, it’s utilitarian, it’s for when you need a lot of power really really quickly.”
 
@@ -6101,13 +6101,13 @@ She sighed theatrically, but gave no further protest. “In Proto-Semitic,” sh
 
 “BUT WHAT ABOUT THE HEBREW, IN WHICH WATER IS ‘MAYIM’?”
 
-“It means…because…I don’t know. Who knows? How deep do we need to go? Isn’t it enough that I brought in three reconstructed ancestral languages from three different continents, plus explained deviations from the trend? Just once, could you say ‘Good job, Sohu, that’s enough, Sohu’?”
+“It means... because... I don’t know. Who knows? How deep do we need to go? Isn’t it enough that I brought in three reconstructed ancestral languages from three different continents, plus explained deviations from the trend? Just once, could you say ‘Good job, Sohu, that’s enough, Sohu’?”
 
 “UM. GOOD JOB, SOHU.”
 
 “Uriel, this is [i]really boring[/i].”
 
-“YOU ARE VERY ENGLISH. YOU WANT TO GET PLACES AS EFFICIENTLY AS POSSIBLE. BUT SOMETIMES…”
+“YOU ARE VERY ENGLISH. YOU WANT TO GET PLACES AS EFFICIENTLY AS POSSIBLE. BUT SOMETIMES...”
 
 “When do I get to learn how to do cool stuff, like blow up mountains?”
 
@@ -6157,11 +6157,11 @@ She sighed theatrically, but gave no further protest. “In Proto-Semitic,” sh
 
 “ELISHA BEN ABUYAH WAS A GREAT RABBI OF ANCIENT ISRAEL. A BRILLIANT KABBALIST. A MIGHTY MIRACLE WORKER. A TRUE SAINT. ONE DAY HE WAS WALKING ALONG A PATH WHEN HE SAW A LITTLE BOY CLIMB A TREE. THE BOY FOUND A BIRD’S NEST. HE TOOK THE EGGS TO EAT, AND HE ALSO KILLED THE MOTHER BIRD. BUT THIS IS IN DEFIANCE OF DEUTERONOMY 22:6, WHICH SAYS [i]‘HE WHO SHALL HURT THE LITTLE WREN, WILL NEVER BE BELOVED BY MEN.’[/i]”
 
-“That’s not how Deuteronomy goes…it says…uh…’If you come across a bird’s nest in any tree or on the ground, with young ones or eggs and the mother sitting on the young or on the eggs, you shall not take the mother with the young. You shall let the mother go, but the young you may take for yourself, that it may go well with you, and that you may live long.'”
+“That’s not how Deuteronomy goes... it says... uh... ‘If you come across a bird’s nest in any tree or on the ground, with young ones or eggs and the mother sitting on the young or on the eggs, you shall not take the mother with the young. You shall let the mother go, but the young you may take for yourself, that it may go well with you, and that you may live long.’”
 
 “IT WAS NOT AN EXACT TRANSLATION. ANYWAY, THE LITTLE BOY KILLED THE MOTHER BIRD, THEN CLIMBED BACK DOWN THE TREE AND WANDERED OFF.”
 
-“Not an exact translation? What version are you…”
+“Not an exact translation? What version are you...”
 
 “A FEW MONTHS LATER, HE WAS WALKING ALONG THE SAME PATH WHEN HE SAW ANOTHER LITTLE BOY CLIMB A TREE LOOKING FOR EGGS TO EAT. THIS BOY FOUND A NEST, TOOK THE EGGS, BUT LEFT THE MOTHER BIRD IN PEACE, IN ACCORDANCE WITH THE LAW. ON HIS WAY BACK DOWN THE TREE, HE STUMBLED, FELL, BROKE HIS NECK, AND DIED. SO ELISHA BEN ABUYAH SWORE ETERNAL VENGEANCE AGAINST GOD.”
 
@@ -6173,7 +6173,7 @@ She sighed theatrically, but gave no further protest. “In Proto-Semitic,” sh
 
 “WHAT IS THE CORRECT LEVEL OF INJUSTICE AT WHICH TO DECLARE YOURSELF IN REBELLION AGAINST THE POWER METING OUT JUDGMENT IN THE UNIVERSE?”
 
-“I mean, you would need to have…oh. [i]Oh.[/i]”
+“I mean, you would need to have... oh. [i]Oh.[/i]”
 
 “YES. ELISHA WAS VERY ANGRY. ONE BY ONE, HE BROKE ALL OF THE LAWS. HE WAS A GREAT RABBI, SO HE KNEW EVERY LAW AND WHICH ONES MOST OFFENDED GOD WHEN BROKEN, AND HE DEVOTED HIMSELF TO THE TASK WITH FEARSOME DEDICATION. HE LIT FIRES ON THE SABBATH. HE ATE PORK. HE EVEN BOILED A GOAT IN ITS MOTHER’S MILK. WHICH BY THE WAY IS WHY THERE IS NO LONGER A CITY OF POMPEII. BUT THESE WERE NOT ENOUGH FOR HIM. HE SWORE TO BREAK THE MOST IMPORTANT LAW OF ALL.”
 
@@ -6225,7 +6225,7 @@ She sighed theatrically, but gave no further protest. “In Proto-Semitic,” sh
 
 “SINCE YOU ARE SUCH AN EXPERT ON METAPHORS, HOW DO YOU INTERPRET THE STORY?”
 
-“I…forgot the story. What was it again?”
+“I... forgot the story. What was it again?”
 
 “ONCE UPON A TIME, RABBI BEN AZZAI, RABBI BEN ZOMA, THE OTHER ONE, AND RABBI AKIVA VISITED AN ORCHARD. BEN AZZAI SAW IT AND DIED. BEN ZOMA SAW IT AND WENT CRAZY. THE OTHER ONE BURNED DOWN ALL THE TREES. AKIVA CAME IN PEACE AND DEPARTED IN PEACE. THE END.”
 
@@ -6255,7 +6255,7 @@ She sighed theatrically, but gave no further protest. “In Proto-Semitic,” sh
 
 “You’re trying to get rid of me, aren’t you!”
 
-“…”
+“...”
 
 
 
@@ -6392,7 +6392,7 @@ James was in the bunk below her. Even during his short nap, he had fitful dreams
 
 “Yeah, and here I am. On a boat, trying to find God so we can board his ship and, I dunno, hijack him or something,” said James. “Virtuous life, my left foot.”
 
-“You could always…”
+“You could always...”
 
 “Dreams, girl,” said James. “They’re just dreams.”
 
@@ -6518,7 +6518,7 @@ James walked in, and Ana motioned him over. “There’s been a change of plans,
 
 “Two days from now, Fire Island,” said James.
 
-“Uh, this trouble is pretty urgent. Do you think we could…”
+“Uh, this trouble is pretty urgent. Do you think we could...”
 
 “There are three people who each paid ten million dollars to get on this ship, on the understanding that we would be at Fire Island two days from now. This is the fastest ship in the world, but even so getting from California to New York in two days isn’t going to leave us with a lot of spare time to go dropping people off. And we’re south of the Mexican border by now, and you don’t want to get off [i]there[/i]. Sorry, Ana. We can let you off in New York.”
 
@@ -6544,11 +6544,11 @@ Edgar clearly hadn’t expected Ana to have known about that. He stiffened. “W
 
 “Poor Other King. Overextended himself by conquering half the country, killing all who opposed him, defeating the Comet King, and ruling with an iron fist for fifteen years. With overextension like that, he must be ready to topple like a domino by now.”
 
-Crane put his hand on Ana’s shoulder. “Listen, you’re pretty, but…”
+Crane put his hand on Ana’s shoulder. “Listen, you’re pretty, but...”
 
 Ana tried to extract the offending hand. It didn’t budge. She stood up. “Get your hand off me,” she said.
 
-“Hey,” said Edgar, “I was just…”
+“Hey,” said Edgar, “I was just...”
 
 The hand was retracted, but not of its own accord. Ana looked up and saw that John had entered the galley and gently removed Edgar’s hand from her shoulder.
 
@@ -6578,7 +6578,7 @@ Edgar glared more at John. John didn’t budge. Finally the young man scowled an
 
 “The blue sail?”
 
-“…is a good Roman Catholic,” said John, smiling. “It only responds to the prayers of a priest.”
+“... is a good Roman Catholic,” said John, smiling. “It only responds to the prayers of a priest.”
 
 “What? Why?”
 
@@ -6630,7 +6630,7 @@ Tomas began to sing an old Mexican love song. At each note, the grass-green canv
 
 “John, the blue.”
 
-“Gloria in excelsis deo, et in terra pax hominibus bonae voluntatis. Laudamus te, benedicimus te, adoramus te, glorificamus te, gratias agimus tibi, propter magnam gloriam tuam…”
+“Gloria in excelsis deo, et in terra pax hominibus bonae voluntatis. Laudamus te, benedicimus te, adoramus te, glorificamus te, gratias agimus tibi, propter magnam gloriam tuam...”
 
 “Amoxiel,” James commanded, “the violet!”
 
@@ -6738,7 +6738,7 @@ She still wore the veil, though. Bad things tended to happen when she wasn’t i
 
 “Show her in,” said Gadiriel.
 
-“Ah, well…” said Cruise. The Lady frowned. His attempt at a Victorian English accent didn’t sound at [i]all[/i] like her memory of Victorian English people. She would have to coach him later. Next week’s theme was the Wild West, and she hoped he could pull off a more convincing cowboy. “It’s a very unusual petitioner. Doesn’t seem to—er—have a physical form. It insisted on us finding a suitable, um, vessel for it. Very strange.”
+“Ah, well...” said Cruise. The Lady frowned. His attempt at a Victorian English accent didn’t sound at [i]all[/i] like her memory of Victorian English people. She would have to coach him later. Next week’s theme was the Wild West, and she hoped he could pull off a more convincing cowboy. “It’s a very unusual petitioner. Doesn’t seem to—er—have a physical form. It insisted on us finding a suitable, um, vessel for it. Very strange.”
 
 The Lady’s attention was piqued. “Bring it in, then.”
 
@@ -6805,7 +6805,7 @@ Koch never knew whether to feel intimidated by the Rebbe or hug him. He had a sw
 
 “Why is that silly?” asked the Rebbe.
 
-“It’s just…everything’s so new, with the sky cracking ten years ago, and it would have been ridiculous to even talk about demons before, and I’m the Mayor of New York and not some kind of Biblical priest-king, and…”
+“It’s just... everything’s so new, with the sky cracking ten years ago, and it would have been ridiculous to even talk about demons before, and I’m the Mayor of New York and not some kind of Biblical priest-king, and...”
 
 The Rebbe held up a wizened finger.
 
@@ -6831,19 +6831,19 @@ Mayor Koch met Governor Carey at White Plains, and a load fell from his shoulder
 
 “I’m not coming,” snapped Carey. “I’m retreating. We’ve lost Albany. I know nobody down here in the city ever remembers Albany exists, but I feel like the news that we lost our state capital should be met with a little more than ‘I’m so glad you came’.”
 
-“I’m sorry about Albany,” said Koch. “But New York City is half the state population. It’s more than that. It’s a symbol. And one of America’s biggest ports. And the gateway to the Mid-Atlantic. And…”
+“I’m sorry about Albany,” said Koch. “But New York City is half the state population. It’s more than that. It’s a symbol. And one of America’s biggest ports. And the gateway to the Mid-Atlantic. And...”
 
 “Yes, yes,” dismissed Governor Carey. “They’re a day behind us, by the way. No more. What preparations have you been making?”
 
-“I’ve turned the NYPD into a makeshift militia,” said Koch. “That’s about 10,000 men. It wasn’t hard. I was…actually kind of shocked at how militarized they were already.”
+“I’ve turned the NYPD into a makeshift militia,” said Koch. “That’s about 10,000 men. It wasn’t hard. I was... actually kind of shocked at how militarized they were already.”
 
 “Ten thousand.” The Governor frowned. “I have sixty thousand. It was more, but—” He paused. “It won’t be enough.”
 
-“I’ve also organized all the gun-owning citizens into militias,” said Koch. “I was…actually kind of surprised how many guns there were. Oh, and the Mafia’s going to help. That’s another few thousand.”
+“I’ve also organized all the gun-owning citizens into militias,” said Koch. “I was... actually kind of surprised how many guns there were. Oh, and the Mafia’s going to help. That’s another few thousand.”
 
 “I forgot how much I hated this city,” said Carey.
 
-“We’ve also fortified the Bronx as best we can,” said Koch. “It’s going to be building-to-building fighting there. We’ve rigged all the bridges to explode. I was surprised how close some of them already were to…”
+“We’ve also fortified the Bronx as best we can,” said Koch. “It’s going to be building-to-building fighting there. We’ve rigged all the bridges to explode. I was surprised how close some of them already were to...”
 
 “Spare me,” said the Governor. “Any word from Carter?”
 
@@ -6867,7 +6867,7 @@ Mayor Koch met Governor Carey at White Plains, and a load fell from his shoulder
 
 “Are you even religious? You played the faith issue so well during the campaign that no one can even figure out whether you’re Jewish or Catholic.”
 
-“I…believe in God,” said Koch.
+“I... believe in God,” said Koch.
 
 “Tell Him to hurry up,” said Carey.
 
@@ -6931,7 +6931,7 @@ The Rebbe smiled.
 
 “And God wanted you to have this one? Now?”
 
-“I asked him for it. Mr. Koch, do you know when I arrived in this city? 1941. Fleeing the Nazis. Those men you saw in that synagogue, most of them are all that is left of their families. You saved us, Mr. Koch, you and your people. Now it is our turn to return the favor.” He hesitated for a second. “And…I know I must seem very strange to the people of this city, but I am a New Yorker too. Praise be to God.”
+“I asked him for it. Mr. Koch, do you know when I arrived in this city? 1941. Fleeing the Nazis. Those men you saw in that synagogue, most of them are all that is left of their families. You saved us, Mr. Koch, you and your people. Now it is our turn to return the favor.” He hesitated for a second. “And... I know I must seem very strange to the people of this city, but I am a New Yorker too. Praise be to God.”
 
 Ed Koch looked at the wizened old man, dressed in the clothing of 18th century Poland, seated atop of a golem made from the Statue of Liberty, and he knew the Rebbe was right. Heck, there were New Yorkers who were [i]much[/i] stranger than that.
 
@@ -6939,11 +6939,11 @@ Ed Koch looked at the wizened old man, dressed in the clothing of 18th century P
 
 “How should I know?” asked the Rebbe, cheerfully. “Let the West save the West. If God wants it to be saved, they’ll get their miracle too!”
 
-“But what about Canada?” asked Koch. “What about Russia? What about everyone who wasn’t saved? If you can call down miracles, then…”
+“But what about Canada?” asked Koch. “What about Russia? What about everyone who wasn’t saved? If you can call down miracles, then...”
 
 “Mr. Mayor,” asked the Rebbe, “Why do you think God grants me the power to perform miracles?”
 
-Koch thought a second. “To heal the sick…to save the righteous…that sort of thing.”
+Koch thought a second. “To heal the sick... to save the righteous... that sort of thing.”
 
 “If God wanted the sick to be cured, why would He make them sick? If He wanted the righteous to be saved, why would He put them in danger? God lets people perform miracles to make a statement.”
 
@@ -6951,7 +6951,7 @@ Koch thought a second. “To heal the sick…to save the righteous…that sort o
 
 “Oho.” The Rebbe’s eyes sparkled. “God’s statements never have just one meaning.”
 
-“But if He’s already given you these Names, can’t you use them to save everybody, or to heal all the sick, or bring the country back together…”
+“But if He’s already given you these Names, can’t you use them to save everybody, or to heal all the sick, or bring the country back together...”
 
 “Is that what you would do, if you had Divine Names?”
 
@@ -7053,13 +7053,13 @@ Right on cue, an Indian man peered through the window of his car and saw the boy
 
 “Hello, Uncle,” he said. “Get in the back seat. We are going to Silverthorne.”
 
-“Look,” said Father Ellis, for whatever it was worth, “I swear, I didn’t do anything. The kid just banged on the window, then forced himself in, and wouldn’t go away. He said he…look, this isn’t what it looks like.”
+“Look,” said Father Ellis, for whatever it was worth, “I swear, I didn’t do anything. The kid just banged on the window, then forced himself in, and wouldn’t go away. He said he... look, this isn’t what it looks like.”
 
-The uncle stood outside the open door. “I’m sorry,” he told the priest, falling over himself to sound apologetic. “We are peaceful people. We do not want trouble. He is very strange. But…it is best to do what he says.”
+The uncle stood outside the open door. “I’m sorry,” he told the priest, falling over himself to sound apologetic. “We are peaceful people. We do not want trouble. He is very strange. But... it is best to do what he says.”
 
 “What?”
 
-“I’m sorry! He is not my son! He usually stays with his grandmother, but we had trouble fitting the whole family into two cars. But when he wants something, it’s no use arguing with him. My wife and I have tried so many times, and it has never…Jala, you tell him!”
+“I’m sorry! He is not my son! He usually stays with his grandmother, but we had trouble fitting the whole family into two cars. But when he wants something, it’s no use arguing with him. My wife and I have tried so many times, and it has never... Jala, you tell him!”
 
 “I am always right,” said the boy. “It is hard to explain.” He gestured again impatiently for his uncle to get in the car. The older man shot Father Ellis an apologetic look, then got into the back seat of his car.
 
@@ -7073,13 +7073,13 @@ The uncle stood outside the open door. “I’m sorry,” he told the priest, fa
 
 Defeated, the older man slumped down in the back seat.
 
-It was an evacuation. The police, if there were any left, were otherwise occupied. He was old, and the man in the back seat was young and spry. And if the child had a weapon…
+It was an evacuation. The police, if there were any left, were otherwise occupied. He was old, and the man in the back seat was young and spry. And if the child had a weapon...
 
 At least he had some idea what to do about a kidnapping. This just didn’t make sense.
 
 “God,” he whispered under his breath, “Help me get out of this one okay.”
 
-Meanwhile, the other two were talking. “Jala, where were you? Your aunt and I have been looking for you for hours! I cannot believe you slipped out of the car without us hearing you. Do you realize how dangerous…”
+Meanwhile, the other two were talking. “Jala, where were you? Your aunt and I have been looking for you for hours! I cannot believe you slipped out of the car without us hearing you. Do you realize how dangerous...”
 
 “You still do not trust me, Uncle. Not completely. That was why I had to slip out. I knew you would look for me. Aunt Samira will be well. She and Uncle Pranav will go the rest of the way to Santa Fe without us. We have work to do.”
 
@@ -7093,9 +7093,9 @@ Meanwhile, the other two were talking. “Jala, where were you? Your aunt and I 
 
 The man sighed, the sigh of someone who is thoroughly beaten and knows he always will be.
 
-“I’m sorry,” he repeated to the priest. “My name is Vihaan and this is Jalaketu. I live over in Boulder. Jala lives with his grandmother in Colorado Springs, but he was staying with us for the summer. He’s always had problems. His mother died in childbirth. He’s a good kid, though, I swear. We just cannot control him. He just…I don’t know.” He sounded totally humiliated, which under the circumstances Father Ellis supposed was reasonable.
+“I’m sorry,” he repeated to the priest. “My name is Vihaan and this is Jalaketu. I live over in Boulder. Jala lives with his grandmother in Colorado Springs, but he was staying with us for the summer. He’s always had problems. His mother died in childbirth. He’s a good kid, though, I swear. We just cannot control him. He just... I don’t know.” He sounded totally humiliated, which under the circumstances Father Ellis supposed was reasonable.
 
-“Father John Ellis. I…How old are you, Jala? Eight?”
+“Father John Ellis. I... How old are you, Jala? Eight?”
 
 “I am almost two.”
 
@@ -7115,13 +7115,13 @@ Father Ellis turned to him, spoke clearly but not patronizingly. “Jala, I am s
 
 A moment of surprise. “That’s a very old story for a boy like you to know.”
 
-“King Sennacherib marched with an impossibly large army to destroy Jerusalem. King Hezekiah believed he was doomed, but the prophet Isaiah told him not to be afraid, for God was with him. And the angel of God destroyed the hosts of Sennacherib, and Jerusalem was saved. Do you know the poem, Father? The Assyrian came down like the wolf on the fold, and his cohorts were streaming with purple and gold…”
+“King Sennacherib marched with an impossibly large army to destroy Jerusalem. King Hezekiah believed he was doomed, but the prophet Isaiah told him not to be afraid, for God was with him. And the angel of God destroyed the hosts of Sennacherib, and Jerusalem was saved. Do you know the poem, Father? The Assyrian came down like the wolf on the fold, and his cohorts were streaming with purple and gold...”
 
 “We are good Hindus,” said Uncle Vihaan, apologetically. “I don’t even know where he learns these things.”
 
 But Father Ellis was intrigued. “I know the poem. It’s true that with God, any battle can be won,” he said. “But God doesn’t work to a human schedule. Remember, before God saved Jerusalem, he let Sennacherib destroy all of northern Israel. The prophet Isaiah told Hezekiah not to fear. But when we don’t have prophets with us, we have to do what we think is best. And sometimes that involves retreating.”
 
-“I am…like a prophet,” said Jalaketu. “It’s complicated.”
+“I am... like a prophet,” said Jalaketu. “It’s complicated.”
 
 “I’m sorry!” protested the uncle again. “We are good Hindus!”
 
@@ -7139,7 +7139,7 @@ Then Jala sang. “KYA-RUN-ATEPH-NAHA-IALA-DEH-VAV-IO-ORAH”
 
 The car’s gear stick turned into a snake. Father Ellis shrieked and jerked his hand back, actually jerked his whole body back and hit his head against the car door. If traffic had been moving they would have crashed for sure; as it was, they remained motionless in the gridlock. The snake looked around curiously, then coiled up onto the center console of the car and fell asleep.
 
-“Oh!” said Jalaketu. “I’m sorry! I wasn’t expecting…I thought it would…I should have…I’m still kind of new at this. I’m growing as fast as I can, I promise. But you’ve got to help me.”
+“Oh!” said Jalaketu. “I’m sorry! I wasn’t expecting... I thought it would... I should have... I’m still kind of new at this. I’m growing as fast as I can, I promise. But you’ve got to help me.”
 
 Father Ellis’s mind went into high gear—no, scratch that, use literally any other metaphor—he started thinking quickly. He’d heard of such things. Kabbalistic Names. A few people had reported discovering them, old magic, returned to life after the sky had cracked. But none of them were public, and none of them as far as he knew turned things into snakes. The boy knew another Name, a Name nobody knew, he had independently discovered a new kabbalistic Name.
 
@@ -7175,7 +7175,7 @@ Father Ellis didn’t know what to say.
 
 “Christianity doesn’t pass through any line,” said Father Ellis. “It’s open to anyone who wants it. And I mention it because it has a lot to say on the issue of incarnating as a human. It’s hard. Really hard sometimes. But definitely very important.”
 
-“That’s what my father says too,” said Jalaketu. “He says that I had to be human. But it is…yes. It is hard.”
+“That’s what my father says too,” said Jalaketu. “He says that I had to be human. But it is... yes. It is hard.”
 
 Vihaan chose that moment to come back in Ellis’s beat-up Chevy Nova. The trunk was open and packed with ominous-looking boxes.
 
@@ -7185,9 +7185,9 @@ Vihaan chose that moment to come back in Ellis’s beat-up Chevy Nova. The trunk
 
 “Something else your father told you in a dream?” asked Ellis.
 
-“Not…exactly,” said Jalaketu. “It’s something that I…hope will work.”
+“Not... exactly,” said Jalaketu. “It’s something that I... hope will work.”
 
-[i]Oh God,[/i] prayed Father Ellis. [i]Have mercy on us, your poor servants…[/i].
+[i]Oh God,[/i] prayed Father Ellis. [i]Have mercy on us, your poor servants...[/i].
 
 #### III.
 
@@ -7209,7 +7209,7 @@ The demons themselves had not yet taken physical form; they buzzed and seethed l
 
 “Run away,” said Thamiel.
 
-“Tell me,” said Jala, “if this were a story, and the Devil and all his demons were marching against a peaceful nation, and in their way was only one young boy, wielding a sword made from a falling star…”
+“Tell me,” said Jala, “if this were a story, and the Devil and all his demons were marching against a peaceful nation, and in their way was only one young boy, wielding a sword made from a falling star...”
 
 “You don’t have a sword made from a fallen star,” Thamiel pointed out.
 
@@ -7263,7 +7263,7 @@ Then he spoke. His voice wasn’t loud, but somehow it [i]carried[/i], carried d
 
 “I am Jalaketu West,” he said, “son of Comet West. Colorado is safe for now. It’s safe because I saved it. But not for long. Demons don’t die forever, they just disintegrate and rebuild themselves. And it’s not just demons. The cracks in the sky are getting bigger. The world is falling apart. I don’t know if I can save all of you. But somebody has to, and no one else will. So I am going to try. I need all of your help. If you follow me, it won’t be easy. You’ll have to have faith. But I will be worthy of it. I promise. In the Name of God, in whose Name oaths must never be sworn in vain, I promise. This is how it has to be. I am the Comet King. Bow. Swear fealty. [i]Now[/i].”
 
-At first everyone was quiet, too flabbergasted for any reaction, and then they all started talking to each other. “Holy God,” and “He thinks he…” and “He says we’re saved?” and “How is he floating there?” and a thousand other questions and worries and exclamations and fears.
+At first everyone was quiet, too flabbergasted for any reaction, and then they all started talking to each other. “Holy God,” and “He thinks he...” and “He says we’re saved?” and “How is he floating there?” and a thousand other questions and worries and exclamations and fears.
 
 In the end, they were Americans, and they didn’t bow. But finally one of them, an old Korean War vet, gave a salute. Then another man saluted, and another, and soon the whole city was saluting him.
 
@@ -7315,7 +7315,7 @@ We were somewhere around Barstow on the edge of the desert when the Wall Drug si
 
 Before the sky cracked, Wall Drug had been a shopping center in South Dakota. There aren’t a lot of things in South Dakota, so the owners of the shopping center had tried to turn it into a tourist attraction. They put up billboards along the highway—“Only thirty miles to Wall Drug!”—“Only twenty miles to Wall Drug!”—“Only another ten miles to go before WALL DRUG!” Presumably the expectation of getting ever closer would turn an ordinary shopping center into some sort of transcendental recreational/commercial experience. The radius had grown. “Only fifty miles to Wall Drug!” “Wall Drug, in just another hundred miles!” Finally, it metastasized through the entire Midwest, becoming the omphalos of its own coordinate system: “I don’t know what state we’re in, but it’s only another two hundred eighty miles to Wall Drug.” Some wag at US McMurdo Station had briefly planted a “9,333 Miles To Wall Drug” sign at the South Pole.
 
-After the sky cracked, the Wall Drug coordinate system started to impose itself more and more upon the ordinary coordinate system of longitude and latitude. Worse, the two didn’t exactly correspond. You could be driving from New York to New Jersey, and find a billboard promising Wall Drug in only thirty miles. Drive another ten, and sure enough, WALL DRUG, TWENTY MILES. Drive ten more, and you’d be promised a South Dakotan shopping center, only ten miles away. Drive another ten, and…who knows? No one has returned from Wall Drug in a generation. It’s become not only an omphalos, but a black hole in the center of the United States, a one-way attraction and attractor fed by an interstate highway system which never gives up its prey. Some say it is in Heaven, others in Hell, others that it remains in South Dakota, from which no word has been heard for thirty years.
+After the sky cracked, the Wall Drug coordinate system started to impose itself more and more upon the ordinary coordinate system of longitude and latitude. Worse, the two didn’t exactly correspond. You could be driving from New York to New Jersey, and find a billboard promising Wall Drug in only thirty miles. Drive another ten, and sure enough, WALL DRUG, TWENTY MILES. Drive ten more, and you’d be promised a South Dakotan shopping center, only ten miles away. Drive another ten, and... who knows? No one has returned from Wall Drug in a generation. It’s become not only an omphalos, but a black hole in the center of the United States, a one-way attraction and attractor fed by an interstate highway system which never gives up its prey. Some say it is in Heaven, others in Hell, others that it remains in South Dakota, from which no word has been heard for thirty years.
 
 Interstate travel is still possible, but it follows a very specific pattern. You go forward until you see a Wall Drug billboard. Then you hastily switch directions and go back to the previous city, transferring you back to the normal American landscape. Then you tentatively go forward again. After enough iterations, you can make it from Point A to Point B intact. But if ever you see a Wall Drug billboard and continue to travel, the land will start looking less and less like where you came from, more and more like the grassy semi-arid plains of South Dakota. Once that happens, you can still turn back. But if you turn back too late, you may find that Wall Drug is in that direction too, that every point of the compass brings you closer to Wall Drug, with no choice but to remain in place forever or go boldly towards that undiscovered country from whose bourn no traveler returns.
 
@@ -7415,7 +7415,7 @@ If Jane really was a Dividend Monk, then she was part of that last redoubt. The 
 
 “The name of the star Vega comes from the Arabic word waqi, meaning ‘fallen’ or ‘falling’. They named it that because the constellation looked like a bird falling from the sky. So Las Vegas could mean ‘the fallen birds’. And the Other King’s secret is that not a bird falls to the ground without God’s decision. There is providence in the fall of a sparrow.”
 
-“Huh,” said Jane, and upon her features flashed very briefly that look I had seen when I figured out the angels’ filing system. As if briefly remembering I was a human being instead of a pet or object, and seeming a little uncomfortable with the fact. “That’s…interesting.”
+“Huh,” said Jane, and upon her features flashed very briefly that look I had seen when I figured out the angels’ filing system. As if briefly remembering I was a human being instead of a pet or object, and seeming a little uncomfortable with the fact. “That’s... interesting.”
 
 “But not very actionable,” I said.
 
@@ -7484,17 +7484,17 @@ A disconcerting blankness flitted across Reagan’s features, then dissolved int
 
 Jalaketu shifted uneasily in his seat. “We were going to talk about Colorado’s re-admission to the Union.”
 
-The President looked disappointed to have his small talk brushed aside, but he nodded. “Of course. You’ve done great work, Jala. Mind if I call you Jala? And we can’t thank you enough. But Colorado’s part of the Union. The plan is to get all the old territories—California, Washington, Texas, even what’s left of the Midwest—and join them back together. The legalities are complicated, but the boys in Interior have promised to send you some lawyers to help you…your advisors sort it out.”
+The President looked disappointed to have his small talk brushed aside, but he nodded. “Of course. You’ve done great work, Jala. Mind if I call you Jala? And we can’t thank you enough. But Colorado’s part of the Union. The plan is to get all the old territories—California, Washington, Texas, even what’s left of the Midwest—and join them back together. The legalities are complicated, but the boys in Interior have promised to send you some lawyers to help you... your advisors sort it out.”
 
 “Mr. President,” said Jalaketu, “Colorado is open to discuss various forms of free association with the United States. But we are not interested in outright annexation at this moment.”
 
 The robes Jalaketu was wearing should have looked ridiculous on him, all interwoven black and silver patterns studded with little gemstones. They didn’t. They looked [i]correct[/i].
 
-“Mr. Jala,” said the President. He reached out, put an arm on the boy’s shoulder. “I know it seems exciting now, leading a whole state. I hear you’ve even got them calling you king! Well, good for you! But you’re going to learn that leading a government is hard work. Too much for one person to manage. You’ve got economics, defense, laws…that’s why, all those years ago, our forefathers decided on a United States, so that all of us would work together on the hard job of running a state. I know you want to go it alone—” he gave a big understanding smile ”—but it’s just too much for one boy. Too much for anybody. Certainly too much for me! That’s why I’ve got my Cabinet and whole buildings full of people trained at Yale and Harvard.”
+“Mr. Jala,” said the President. He reached out, put an arm on the boy’s shoulder. “I know it seems exciting now, leading a whole state. I hear you’ve even got them calling you king! Well, good for you! But you’re going to learn that leading a government is hard work. Too much for one person to manage. You’ve got economics, defense, laws... that’s why, all those years ago, our forefathers decided on a United States, so that all of us would work together on the hard job of running a state. I know you want to go it alone—” he gave a big understanding smile ”—but it’s just too much for one boy. Too much for anybody. Certainly too much for me! That’s why I’ve got my Cabinet and whole buildings full of people trained at Yale and Harvard.”
 
 “I know I’m young,” said Jalaketu, “but if you could just talk to me the way you would talk to, say, the President of France, then this would go a lot quicker.”
 
-Another disconcerting blankness. Then back to the folksy smile. Jovial laughter. “All right, Jala. You’re a straight-shooter. I respect that in a guy. So let’s talk shop. Colorado’s right in the middle of the United States. Long as we’re apart, neither one of us is defensible. That’s why your parents and grandparents brought Colorado into the Union, and it’s why my parents and grandparents accepted it. in order to have a country that stretches from sea to shining sea…”
+Another disconcerting blankness. Then back to the folksy smile. Jovial laughter. “All right, Jala. You’re a straight-shooter. I respect that in a guy. So let’s talk shop. Colorado’s right in the middle of the United States. Long as we’re apart, neither one of us is defensible. That’s why your parents and grandparents brought Colorado into the Union, and it’s why my parents and grandparents accepted it. in order to have a country that stretches from sea to shining sea...”
 
 “This isn’t working,” said Jalaketu. “Let me make my proposal. Instead of a full reunification of the US, a continental partial union based on the European Economic Community established by the Treaty of Rome back in 1958 but integrated with some of the military provisions of NATO. Given what’s happening with the Communion and the League over in Europe, NATO’s dead in the water otherwise, but we could rebuild it as a pan-American organization. We include the United States, Colorado, California, Texas, Salish, and the free areas of Canada, maybe Quebec and Ontario as individual member nations. Continental free trade and open borders modeled after the Anglo-Irish common travel area. President as head of state of the union in much the same way as the British monarch and pre-collapse Canada.”
 
@@ -7508,7 +7508,7 @@ Reagan laughed. “I like you, kid. You’re ambitious, just like I am! But ther
 
 Reagan laughed heartily. “I like your spirit, son,” he said. “But this isn’t about us. It’s about [i]America[/i].”
 
-“Stop it and listen to…” Jala paused. This wasn’t working. It wasn’t even not working in a logical way. There was a [i]blankness[/i] to the other man. It was strange. He felt himself wanting to like him, even though he had done nothing likeable. A magnetic pull. Something strange.
+“Stop it and listen to...” Jala paused. This wasn’t working. It wasn’t even not working in a logical way. There was a [i]blankness[/i] to the other man. It was strange. He felt himself wanting to like him, even though he had done nothing likeable. A magnetic pull. Something strange.
 
 Reagan slapped him on the back again. “America is a great country. It’s morning in America!”
 
@@ -7524,7 +7524,7 @@ Another jerking motion, like a puppet on strings. “There you go again. Let’s
 
 A third Name, stronger than the others.
 
-“Do it for the Gipper!…for the Gipper!…for the Gipper!”
+“Do it for the Gipper!... for the Gipper!... for the Gipper!”
 
 “Huh,” said Jalaketu. Wheels turned in his head. The Gipper. Not even a real word. Not English, anyway. Hebrew then? [i]Yes[/i]. He made a connection; pieces snapped into place. [i]The mighty one[/i]. Interesting. It had been a very long time since anybody last thought much about [i]haGibborim[/i]. But how were they connected to a random California politician? He spoke another Name.
 
@@ -7540,7 +7540,7 @@ Reagan briefly went limp, like he had just had a stroke, then sprung back uprigh
 
 “Yes.”
 
-“You’re…this is your golem, isn’t it?”
+“You’re... this is your golem, isn’t it?”
 
 “Golems are ugly things. Mud and dust. This is my [i]costume[/i].”
 
@@ -7548,7 +7548,7 @@ Reagan briefly went limp, like he had just had a stroke, then sprung back uprigh
 
 “I have [i]saved[/i] America,” corrected the Lady.
 
-“Not yours to save!” said Jalaketu. He drew the sword Sigh from…he drew the sword Sigh. “This is America! Government by the people, of the people, for the people. What’s good is their decision, not yours. You should have left it alone!”
+“Not yours to save!” said Jalaketu. He drew the sword Sigh from... he drew the sword Sigh. “This is America! Government by the people, of the people, for the people. What’s good is their decision, not yours. You should have left it alone!”
 
 “Like [i]you[/i] did, Jalaketu ben Raziel?”
 
@@ -7574,7 +7574,7 @@ The door cracked open, and a woman came in bearing a tray. “Coffee and snacks,
 
 “And what about you? Are you going to give up power in Colorado? Put down that ridiculous crown of yours?”
 
-“No,” admitted Jalaketu. “I have a mission. I don’t have enough time to do it the right way, so I’m going to do it the fast way. But if I ever finished, then…yes. Yes, I would set Colorado free.”
+“No,” admitted Jalaketu. “I have a mission. I don’t have enough time to do it the right way, so I’m going to do it the fast way. But if I ever finished, then... yes. Yes, I would set Colorado free.”
 
 “I also have a mission,” said the Lady. “I protect dreams and stories. I also don’t always have enough time to do it right.”
 
@@ -7635,7 +7635,7 @@ Sohu stretched, splayed out further. “Knock knock,” she said.
 
 “Knock knock.”
 
-“WHO’S….THERE?”
+“WHO’S... THERE?”
 
 “So.”
 
@@ -7731,7 +7731,7 @@ Sohu thought for a moment.
 
 “YES. SO HOW DOES GOD PART THE RIGHTEOUS ON HIS RIGHT SIDE AND THE WICKED UPON HIS LEFT?”
 
-“He…oh, He just says ‘Everyone who wants to go to Heaven, get to the right.’ And the wicked, who think only of themselves, go to their own right. And the virtuous, who are always thinking of God, go to God’s right.”
+“He... oh, He just says ‘Everyone who wants to go to Heaven, get to the right.’ And the wicked, who think only of themselves, go to their own right. And the virtuous, who are always thinking of God, go to God’s right.”
 
 “YES.”
 
@@ -7745,7 +7745,7 @@ Sohu thought for a moment.
 
 “You’re silly.”
 
-“I AM N…” Uriel trailed off, as if deep in thought. Finally, he asked:
+“I AM N...” Uriel trailed off, as if deep in thought. Finally, he asked:
 
 “TELL ME THE KABBALISTIC SIGNIFICANCE OF THE ROOT R-K-T.”
 
@@ -7805,7 +7805,7 @@ Sohu clapped her hands.
 
 “No one’s saying you have to rule them! Diplomacy is like the opposite of ruling people! You just have to convince them with good arguments and by seeming imposing! You’re amazing at arguments! And you’re really good at seeming imposing!”
 
-She may or may not have muttered something that sounded like “…to people who don’t know you very well.”
+She may or may not have muttered something that sounded like “... to people who don’t know you very well.”
 
 “ARGUMENTS ARE TERRIBLE.”
 
@@ -7852,13 +7852,13 @@ Simeon came on deck and sat beside her. “Ever been to Mexico before, Ana?”
 
 “What?”
 
-“Sorry! It’s a game I used to play, with a friend. Unintentional Biblical pun corrections. It’s…kind of compulsive now.” An awkward silence, which she tried to fill. “What [i]is[/i] your business, anyway?”
+“Sorry! It’s a game I used to play, with a friend. Unintentional Biblical pun corrections. It’s... kind of compulsive now.” An awkward silence, which she tried to fill. “What [i]is[/i] your business, anyway?”
 
 “You don’t know?” He seemed genuinely surprised.
 
 Then, as the first of the druggies came aboard, enlightenment struck. “You’re Simeon Azore! From Bareketh!”
 
-It was so obvious. The face she was looking at, minus ten years and with darker hair, could have been the face she’d seen in various magazines and TV news shows. The face behind Bareketh Capital and an early-level investor in Countenance and half of the most successful theonomics. A stakeholder in every company she had protested in the last ten years. “But…but you’re terrible!” Then she recoiled. “Sorry! Um! Also…compulsive, I guess. I didn’t mean to…”
+It was so obvious. The face she was looking at, minus ten years and with darker hair, could have been the face she’d seen in various magazines and TV news shows. The face behind Bareketh Capital and an early-level investor in Countenance and half of the most successful theonomics. A stakeholder in every company she had protested in the last ten years. “But... but you’re terrible!” Then she recoiled. “Sorry! Um! Also... compulsive, I guess. I didn’t mean to...”
 
 One of the druggies introduced himself to James as Ivan Colero, a naval repair technician in the Mexican navy. They’d paid well, he said, very well, and they’d gotten themselves the best. The Drug Lord knew that they needed to be on their way quickly, and he and his men would just need a day, maybe less. They could work quickly. Impossibly quickly.
 
@@ -7872,7 +7872,7 @@ One of the druggies introduced himself to James as Ivan Colero, a naval repair t
 
 “I can already tell we’re both going to be miserable until you’ve said your speech, so just get it out.”
 
-“Uh…my cousin is better at this, but…um…God is born free but everywhere is in chains. The Names, our birthright as children of God possessing the Divine Spark, are patented as if they were especially clever designs for widgets, then whored out to buy yachts for billionaires.”
+“Uh... my cousin is better at this, but... um... God is born free but everywhere is in chains. The Names, our birthright as children of God possessing the Divine Spark, are patented as if they were especially clever designs for widgets, then whored out to buy yachts for billionaires.”
 
 “Mmmm,” interrupted Simeon, “I didn’t buy this ship. Just booked passage on it. Give me some credit for self-restraint.”
 
@@ -7880,7 +7880,7 @@ One of the druggies introduced himself to James as Ivan Colero, a naval repair t
 
 The druggies began to hammer on the red mast. Ana spoke louder so she could hear herself above the noise.
 
-“In the old days, we told ourselves that poverty was a fact of life. That there wasn’t enough food or medicine or clothing or housing to go around. Then it was true. Now it is false. To feed the hungry and shelter the homeless no longer requires scarce resources. It requires only a word. A word that the entire international system of governance—corporations, politicians, UNSONG—has united to prevent the needy from ever obtaining. 86% of known Names are held by seven corporations. The largest, Serpens, has total assets of $174 million…no, sorry..billion…I told you my cousin is better at this. The smallest of the seven, ELeshon, has total assets of $33 billion. Serpens’ CEO, Cate Ilyov, has a net worth of $600 million, houses in the California Republic, Texas, and Virginia state, and her own private 12-seater jet.
+“In the old days, we told ourselves that poverty was a fact of life. That there wasn’t enough food or medicine or clothing or housing to go around. Then it was true. Now it is false. To feed the hungry and shelter the homeless no longer requires scarce resources. It requires only a word. A word that the entire international system of governance—corporations, politicians, UNSONG—has united to prevent the needy from ever obtaining. 86% of known Names are held by seven corporations. The largest, Serpens, has total assets of $174 million... no, sorry..billion... I told you my cousin is better at this. The smallest of the seven, ELeshon, has total assets of $33 billion. Serpens’ CEO, Cate Ilyov, has a net worth of $600 million, houses in the California Republic, Texas, and Virginia state, and her own private 12-seater jet.
 
 “Meanwhile, not only does she employ some of the finest kabbalists in the world to hide the Fertile Name behind klipot, but if some enterprising mind breaks through the encryption and sends the plaintext Name to those starving Ethiopians, she will call up UNSONG, call upon whatever treaties we have with Ethiopia, and get everyone who saw the Name put in jail for life. Because if people who can’t give Cate Ilyov $800 for a bigger jet try to feed themselves, they are, our government tells us, a Threat To Our Way Of Life.
 
@@ -7898,11 +7898,11 @@ But he was smiling as he said it.
 
 “But why? You know the arguments? Fine! So how can you just sit there and keep doing it?”
 
-“You think of this through some kind of romantic David-and-Goliath lens, where all you need to do is break up the evil corporations and…”
+“You think of this through some kind of romantic David-and-Goliath lens, where all you need to do is break up the evil corporations and...”
 
-“…why not? You’re gigantic, you’re evil, and you crush anyone who tries to stand against you! I would say you’re going three for three, Goliath-wise! So why [i]shouldn’t[/i] I…”
+“... why not? You’re gigantic, you’re evil, and you crush anyone who tries to stand against you! I would say you’re going three for three, Goliath-wise! So why [i]shouldn’t[/i] I...”
 
-“…Goliath [i]huge[/i]. [i]Solomon[/i] wise.”
+“... Goliath [i]huge[/i]. [i]Solomon[/i] wise.”
 
 “What?” Then, “[i]What?[/i]” Ana was some strange and discombulated combination of taken aback and mortally offended. Some people had billions of dollars. Other people were good at puns. For somebody to have [i]both[/i] seemed unfair, unnatural. She was left speechless.
 
@@ -7932,7 +7932,7 @@ Then the sky cracked, and peyote changed. It stopped giving an intense trancelik
 
 Peyote began to spread. Buttons would turn up on street corners in Mexico City and at gang meetings in Los Angeles. It was safe, it was cheap, it gave you new talents, it made you feel good. By the mid-1980s, some estimates suggested that ten percent of the Mexican population used it regularly or semi-regularly.
 
-In May 1984, a group of psychiatrists noted a new side effect of peyote: a tendency to buy and stockpile very large amounts of it. There was nothing weird about addicts having a stash; what was weird was that it was only on peyote that they bought peyote. The complex behavior of going to their dealer and buying more buttons seemed to be…a side effect of the chemical? Addicts interviewed while they weren’t high said they didn’t need that much, it seemed weird, but they guessed they would keep it or something because it wasn’t worth throwing it out.
+In May 1984, a group of psychiatrists noted a new side effect of peyote: a tendency to buy and stockpile very large amounts of it. There was nothing weird about addicts having a stash; what was weird was that it was only on peyote that they bought peyote. The complex behavior of going to their dealer and buying more buttons seemed to be... a side effect of the chemical? Addicts interviewed while they weren’t high said they didn’t need that much, it seemed weird, but they guessed they would keep it or something because it wasn’t worth throwing it out.
 
 In August 1984, a second survey found that the average user had stashed several large crates of peyote buttons in hidden places, two or three years’ supply even if they took it every day. Dealers were forever running short; growers were working around the clock.
 
@@ -7940,7 +7940,7 @@ On November 1, 1984, every peyote user in Mexico simultaneously started digging 
 
 This went on for hours before the police noticed anything amiss, by which time about fifteen percent of the population of Mexico was high. The news started to spread. Something is wrong. Don’t take peyote. Stay in your houses. Lock the doors.
 
-Imagine. You’re a young Mexican guy, been clean your whole life. You hear something’s up, you get inside, lock the doors, barricade yourself in your bedroom. A phone call. It’s your mother. She was coming to visit you. Now she’s at the door, a bunch of addicts right behind her. Let her in right now. So you peep out the door. There’s your mother. You let her in as quick as you can, lock the door behind you. Oh thank God, she tells you. You have no idea what’s going on out there. I’m starving. Do you have any food? Of course you have food. So she makes herself something, then she offers some to you. All this barricading has made you hungry. You take a big bite. You start to feel a little weird. “What was in the…” you ask. “Only what is in me, and what will be in all of us,” she tells you. A few minutes later, you’re driving her to your brother’s house so she can try the same trick.
+Imagine. You’re a young Mexican guy, been clean your whole life. You hear something’s up, you get inside, lock the doors, barricade yourself in your bedroom. A phone call. It’s your mother. She was coming to visit you. Now she’s at the door, a bunch of addicts right behind her. Let her in right now. So you peep out the door. There’s your mother. You let her in as quick as you can, lock the door behind you. Oh thank God, she tells you. You have no idea what’s going on out there. I’m starving. Do you have any food? Of course you have food. So she makes herself something, then she offers some to you. All this barricading has made you hungry. You take a big bite. You start to feel a little weird. “What was in the...” you ask. “Only what is in me, and what will be in all of us,” she tells you. A few minutes later, you’re driving her to your brother’s house so she can try the same trick.
 
 Within twenty-four hours, two-thirds of the population of Mexico was high on peyote. And there was enough stockpiled in most areas to keep them all dosed twice a day for the next three months.
 
@@ -7974,7 +7974,7 @@ The dinner bell rang.
 
 “Join me for dinner?” asked Simeon.
 
-“I’ll…I’ll have to think,” said Ana. “You’re not getting out of this one this easily.”
+“I’ll... I’ll have to think,” said Ana. “You’re not getting out of this one this easily.”
 
 Simeon was already gone.
 
@@ -8051,7 +8051,7 @@ Now it was the Israeli Prime Minister’s turn to pound the table. Yitzhak somet
 
 “Which group does God want to have the Holy Land? The Israelis or the Palestinians?”
 
-All right. Think. This is a trap. The reason everyone keeps Thamiel around is that they all think that he’s on their side. Not cosmically, but at least for the moment, at least in their current conflict with whoever they’re in conflict with. He wants to trick you into telling people you’re not on their side. He had to come up with some answer that would thwart that. What had Sohu said about diplomacy? “Figure out what people want and explain to them why doing things your way will get it for them better than doing things the other way.” So if he just…
+All right. Think. This is a trap. The reason everyone keeps Thamiel around is that they all think that he’s on their side. Not cosmically, but at least for the moment, at least in their current conflict with whoever they’re in conflict with. He wants to trick you into telling people you’re not on their side. He had to come up with some answer that would thwart that. What had Sohu said about diplomacy? “Figure out what people want and explain to them why doing things your way will get it for them better than doing things the other way.” So if he just...
 
 No, he actually had no idea how to handle this one.
 
@@ -8105,7 +8105,7 @@ Somehow Minister Ali Velayati of Iran ended up with what could charitably be des
 
 “This is absolutely typical!” he thundered. “For years, Arab nations and the rest of the world outside the global First World elite have been marginalized by Anglo-European governments, by the international finance industry, by the diplomatic community. And now, what a surprise to learn that Heaven itself also thinks we’re not worth their time, not real human beings who get to be taken seriously. Is it a coincidence that all the most productive agricultural regions are in First World countries? Is it a coincidence that all of their industries are the most productive? Or is it because the archangel who controls the weather and the laws of nature has just admitted he is firmly on the side of the imperialists?”
 
-“I DIDN’T SAY I…”
+“I DIDN’T SAY I...”
 
 “I’m starting to realize,” said Ahmed Moussa, of Egypt, “exactly why Uriel has refused to attend these conferences before. I remember our conference on helping the Ethiopian famine victims. Uriel could have attended, could have helped, could have caused the rains to fall there. He didn’t care. He’s so in bed with the global neoliberal elite that the death of a couple million black Africans meant nothing to him.”
 
@@ -8121,7 +8121,7 @@ More pandemonium. The ambassador for the European Communion had gotten down on h
 
 “He is literally saying Africans don’t have souls!” said al-Shafi. “He is literally that hateful!”
 
-“ONLY NORTHEASTERN AFRICANS. AND ONLY BECAUSE I TOOK THEM AWAY TO SAVE ON…”
+“ONLY NORTHEASTERN AFRICANS. AND ONLY BECAUSE I TOOK THEM AWAY TO SAVE ON...”
 
 “This is an outrage! This is a disaster!” Moussa of Egypt was shaking now. “I call on everyone here to repudiate this—this bullshit—and jointly declare that the victims of the Ethiopian famine had souls just like you and me!”
 
@@ -8203,23 +8203,23 @@ His logic was simple. His heavenly descent gave him special powers. Intelligence
 
 “Perhaps you are right. I accept the slight cost to my humanity as an acceptable risk, given the possible gains.”
 
-“It doesn’t work that way! Sin isn’t a ledger that you balance. It’s about…about…can you [i]feel[/i] it, Jala? Goodness isn’t just numbers. It’s something palpable, something burning and beautiful. People talk about having a relationship with God, but it’s closer than that. More powerful. More immediate. And what you’re saying…it takes away from that thing. It’s not in line with it. If you could feel it, you wouldn’t be calculating how many strategic deviations from doing the right thing you can allow yourself.”
+“It doesn’t work that way! Sin isn’t a ledger that you balance. It’s about... about... can you [i]feel[/i] it, Jala? Goodness isn’t just numbers. It’s something palpable, something burning and beautiful. People talk about having a relationship with God, but it’s closer than that. More powerful. More immediate. And what you’re saying... it takes away from that thing. It’s not in line with it. If you could feel it, you wouldn’t be calculating how many strategic deviations from doing the right thing you can allow yourself.”
 
 “Father, have you become a [i]mystic?[/i]”
 
-“No, I just…I feel like I’m trying to explain the nature of virtue to a rock. Either you can see why what you’re saying is crazy, or…call Vihaan. You listen to Vihaan. He can explain what I mean.”
+“No, I just... I feel like I’m trying to explain the nature of virtue to a rock. Either you can see why what you’re saying is crazy, or... call Vihaan. You listen to Vihaan. He can explain what I mean.”
 
 Uncle Vihaan’s official title was Chief of Staff, but he always called himself “the butler”. He managed the Comet King’s growing circle of advisors, visitors and petitioners, and organized his schedule around the constant meetings required of the fledgling government. When somebody finally found him, he came into the throne room disorganized, still carrying a stack of papers.
 
 “What is it?” he asked. The Comet King started to speak, but Ellis interrupted him.
 
-“Jala wants to have kids with half the women in the state! He wants to…[i]breed[/i] some kind of conquering army! Tell him this isn’t how people do things!”
+“Jala wants to have kids with half the women in the state! He wants to... [i]breed[/i] some kind of conquering army! Tell him this isn’t how people do things!”
 
 Vihaan’s face fell. “What about marriage?”
 
 The Comet King thought for a second. “I would rather not have to worry about it. But if it were important to you, I could marry them all, like Solomon.”
 
-Vihaan’s head was bobbing back and forth in exasperation. “Everyone from our family…” he said. “You come from a good family, Jala. Marrying good people. No sex before marriage. It wouldn’t be…proper.”
+Vihaan’s head was bobbing back and forth in exasperation. “Everyone from our family...” he said. “You come from a good family, Jala. Marrying good people. No sex before marriage. It wouldn’t be... proper.”
 
 “Proper?” asked the Comet King. “I come to you with a plan to fight off Hell and save the world, and you tell me it isn’t [i]proper[/i]?”
 
@@ -8227,7 +8227,7 @@ Vihaan stared at the priest, as if begging him to step in. “I swear,” said F
 
 “Do you know,” interrupted Jalaketu, “that whenever it’s quiet, and I listen hard, I can hear them? The screams of everybody suffering. In Hell, around the world, anywhere. I think it is a power of the angels which I inherited from my father.” He spoke calmly, without emotion. “I think I can hear them right now.”
 
-Ellis’ eyes opened wide. “Really?” he asked. “I’m sorry. I didn’t…”
+Ellis’ eyes opened wide. “Really?” he asked. “I’m sorry. I didn’t...”
 
 “No,” said the Comet King. “Not really.”
 
@@ -8235,7 +8235,7 @@ They looked at him, confused.
 
 “No, I do not really hear the screams of everyone suffering in Hell. But I thought to myself, ‘I suppose if I tell them now that I have the magic power to hear the screams of the suffering in Hell, then they will go quiet, and become sympathetic, and act as if that changes something.’ Even though it changes nothing. Who cares if you can hear the screams, as long as you know that they are there? So maybe what I said was not fully wrong. Maybe it [i]is[/i] a magic power granted only to the Comet King. Not the power to hear the screams. But the power not to have to. Maybe that is what being the Comet King means.”
 
-“Do you think,” asked Ellis, “you’re the first person to ask the Church to compromise its doctrines because you have a [i]good reason?[/i]. It’s…no, you won’t listen to me. But you might listen to your people. Ask the people, Jala. They’ll tell you.”
+“Do you think,” asked Ellis, “you’re the first person to ask the Church to compromise its doctrines because you have a [i]good reason?[/i]. It’s... no, you won’t listen to me. But you might listen to your people. Ask the people, Jala. They’ll tell you.”
 
 “WE’RE NOT YOUR BABY FACTORIES” read the signs of the National Organization of Women, who held a demonstration in the Garden of the Gods against the plan. “The Comet King is proving he sees women as objects, as walking wombs,” Mary Lutha, the organization’s leader, told an NBC reporter. “I think the women of Colorado want the Comet King to know that they reject this denial of their agency.”
 
@@ -8309,11 +8309,11 @@ She gestured at the only chair in the room, which was Sohu-sized. Her bed was co
 
 “Poor Uriel? Poor Madrid, I would say.”
 
-“Oh. Father, I was the one who told him to go. I thought it would be good for him. They must have…it was Thamiel. It must have all been a trick of Thamiel’s. I’m so dumb. Father, this is all my fault.”
+“Oh. Father, I was the one who told him to go. I thought it would be good for him. They must have... it was Thamiel. It must have all been a trick of Thamiel’s. I’m so dumb. Father, this is all my fault.”
 
 “It isn’t. This was always a possibility.”
 
-Sohu got up, started pacing. Tears welled into her eyes. “No. Uriel’s…different, but this isn’t him. You have to trust him, Father.”
+Sohu got up, started pacing. Tears welled into her eyes. “No. Uriel’s... different, but this isn’t him. You have to trust him, Father.”
 
 “Sohu, I told you I sent you here to learn the celestial kabbalah. I told you it would be dangerous if you did not know it. That was true in more ways than you knew. I sent you here because I knew Uriel was capable of this. Uriel is not good, Sohu. He is not evil in the same way Thamiel is, but neither is he safe. And he controls the universe. I cannot allow the universe to be controlled by a loose cannon, but for the present I lack any other options. Not even I can do what he does.” He frowned. “That is why I sent you here, Sohu. So that if Uriel becomes too dangerous to be allowed to continue, I will have someone with whom to replace him. That is why I sent you here, even though it placed you in danger. I thought the danger was worthwhile, if it gave me a backup demiurge when the time came. Now I no longer think the danger is worthwhile. We will find another way to teach you. Come home with me.”
 
@@ -8325,9 +8325,9 @@ Sohu got up, started pacing. Tears welled into her eyes. “No. Uriel’s…diff
 
 “Not safe,” said the Comet King.
 
-“No one is ever safe,” said Sohu. “You taught me that. We’re Cometspawn. It’s our job to make them safe. And you said it yourself. It’s important that I learn the celestial kabbalah, in case there’s ever a time when we need…someone other than Uriel for it. You said you’d train me at home. You can’t train me at home. No one can. Only Uriel really understands it. This is where I’m doing the most good for the world, right?”
+“No one is ever safe,” said Sohu. “You taught me that. We’re Cometspawn. It’s our job to make them safe. And you said it yourself. It’s important that I learn the celestial kabbalah, in case there’s ever a time when we need... someone other than Uriel for it. You said you’d train me at home. You can’t train me at home. No one can. Only Uriel really understands it. This is where I’m doing the most good for the world, right?”
 
-“Sohu,” said the Comet King, “before you and your sisters and brother were born, I thought of you as strategic assets. I told Father Ellis I would make an army of you. He said that was wrong. Then—your eldest sister, Nathanda. She was the first. When I saw her, I…Father Ellis talks of goodness as something burning and beautiful. I told him he was wrong, that goodness was something cold and crystalline. But when I saw Nathanda, for the first time I understood what it meant to see goodness the way that Father Ellis did. Terribly hot, and too bright to look upon directly. Then I knew as long as she was alive I did not need to worry any further about staying human. I had caught humanity and wrapped it around me tightly like a mantle. All thoughts of sending you off as an army vanished. You’re not a pawn—or at least you’re not only a pawn—you’re my daughter. And I will not let any harm come to you.”
+“Sohu,” said the Comet King, “before you and your sisters and brother were born, I thought of you as strategic assets. I told Father Ellis I would make an army of you. He said that was wrong. Then—your eldest sister, Nathanda. She was the first. When I saw her, I... Father Ellis talks of goodness as something burning and beautiful. I told him he was wrong, that goodness was something cold and crystalline. But when I saw Nathanda, for the first time I understood what it meant to see goodness the way that Father Ellis did. Terribly hot, and too bright to look upon directly. Then I knew as long as she was alive I did not need to worry any further about staying human. I had caught humanity and wrapped it around me tightly like a mantle. All thoughts of sending you off as an army vanished. You’re not a pawn—or at least you’re not only a pawn—you’re my daughter. And I will not let any harm come to you.”
 
 “But Father. You’re always telling us that we need to think of what’s best for the world.”
 
@@ -8571,7 +8571,7 @@ Erica threw another onion slice at me. It missed by half an inch.
 
 “Look,” said Bill. “You can fit individual pieces to relevant Bible verses. I’ll even give you that you mostly stuck to the Jesus theme. But the song as a whole only makes sense in the context of rock n’ roll. For example, just after the shoes part, it mentions a pink carnation, which was what young men traditionally wore to dance halls.”
 
-“And which also contains ‘incarnation’ as a substring. You don’t think that an Incarnation could possibly have anything to do with…”
+“And which also contains ‘incarnation’ as a substring. You don’t think that an Incarnation could possibly have anything to do with...”
 
 The door opened. Zoe Farr came in. “Hey guys. What are you yelling about? I could hear you all the way out in the driveway.”
 
@@ -8585,7 +8585,7 @@ The door opened. Zoe Farr came in. “Hey guys. What are you yelling about? I co
 
 “For the love of God, I already told you,” I said. “Resurrection of Christ. Matthew 28:2. ‘And, behold, there was a great earthquake: for the angel of the Lord descended from heaven, and came and rolled back the stone from the door.'”
 
-“Wait…” said Zoe.
+“Wait...” said Zoe.
 
 “No, you wait,” I said. “Let’s go over exactly what happens in the rest of that verse. The King is looking down—obvious reference to God entering the world, especially paired with the incarnation part earlier. Jester has clear phonetic resemblance to “Jesus”, sounds even better if you use the original “Yeshua”. He’s wearing a coat borrowed from James Dean. But we know the root ‘dan’ or ‘din’ means ‘justice’ in Hebrew. So ‘James Dean’ deciphers to ‘James the Just’, who is described in Acts as ‘the brother of Jesus’. Most commentators reconcile this with Jesus’ supposed heavenly descent by saying he was a half-brother from Mary. So James the Just represents Jesus’ human bloodline, which means the ‘coat borrowed from James Dean’ is the human form that He incarnates into, like a coat. So we have God coming down into the world and taking human form, and even having a human soul—a “voice that came from you and me”. Then he ‘steals a thorny crown’—I hope I don’t have to explain that one to you. What happens then? ‘The courtroom is adjourned; no verdict is returned.’ The Law is supplanted; divine punishment is suspended. This would all be [i]super obvious[/i] if you would just stop with your stupid rock n’ roll obsession.”
 
@@ -8605,7 +8605,7 @@ The door opened. Zoe Farr came in. “Hey guys. What are you yelling about? I co
 
 “The verse goes,” I said, “Helter-skelter, in the summer swelter, the birds flew off with a fallout shelter eight miles high and falling fast. Is there a rock band called ‘Fallout Shelter’? Is there a Grammy-award winning song by that name?”
 
-“Not everything has to…”
+“Not everything has to...”
 
 “Everything has to!” I said. “Nothing is ever a coincidence. Look. The Bible contains a clear example of a fallout shelter related to divine judgment. Noah’s Ark. God decided to destroy the world for its wickedness, and Noah built something to survive the apocalypse. That’s a fallout shelter. It’s even eight miles high. The floodwaters covered the earth to a depth higher than the highest mountain. Everest is six miles high, the floodwaters had to be above that, leave a little margin of error, that’s eight miles. And falling fast, because after forty days and nights God opened the portals of the deep and the waters flowed back in. According to the story, Noah sent forth a raven and a dove to see if they could find dry land. In other words, the birds flew off, with the fallout shelter eight miles high and falling fast. The raven can’t find any dry land. But the dove can. It lands, fowl on the grass. The jester is Jesus is the Son is the Song is divine mercy, but it’s on the sidelines in a cast because at this point divine mercy has been suspended—even wounded—and divine judgment allowed to have free rein.”
 
@@ -8615,7 +8615,7 @@ The door opened. Zoe Farr came in. “Hey guys. What are you yelling about? I co
 
 “The players are all the people and animals, trying to pass their genes forward to the next generation. The marching band which is trying to interfere—well, think about it. There are two interesting facets of a marching band. They play music. And they march. Who does that sound like? Right. The angels. The heavenly choirs and the heavenly hosts. So the players—created mortal beings—are trying to take the field. But the angels and nephilim refuse to yield—they’ve seized control of the earth. So ‘do you recall what was revealed’? How do you say ‘revealed’ in Greek? Right. ‘Apokalypsis’. The angels tried to control the earth and wouldn’t make room for humans, so God called down an apocalypse. That’s why this is in the verse that talks about Noah’s Ark.”
 
-The doorbell rang. It was Eli Foss. “Hey,” he said. “Is dinner…”
+The doorbell rang. It was Eli Foss. “Hey,” he said. “Is dinner...”
 
 “Okay,” I said. “Just so we don’t have to go over this [i]yet again[/i], and I don’t have to answer every one of your dumb complaints in order. The generation lost in space was the generation of the Exodus who were lost in the desert for forty years. The time we were all in one place was Sinai, where according to the rabbis all the souls of Jews past present and future were present for the revelation of the Ten Commandments. Jack is Jacob is Israel is the Israelites. The candlestick is the pillar of fire by night. The Devil is the Devil. A plain that climbs high into the night is a hill or mountain; it’s arguing that the theophany at Sinai naturally concluded on Golgotha. The sacrificial rite was the crucifixion. Satan is laughing with delight because Jesus just died. The girl who sang the blues is Mary Magdalene, who is sitting outside the tomb crying. They ask her for happy news because she’s the first to witness the Resurrection. She smiles and turns away as per Mark 16: “neither said they any thing to any man; for they were afraid.” The sacred store where they had heard the music years before is the Temple, but the music wouldn’t play because the system of Temple sacrifices has been replaced by a direct relationship with God. In the streets the children are screaming and so on because Jesus is dead. The church bells are broken because Jesus is dead; kind of a heavy-handed metaphor, but whatever. The three men I admire most represent the Father, Son, and Holy Ghost, exactly like he says. Do any of you have any [i]other[/i] questions?”
 
@@ -8802,7 +8802,7 @@ Blood bubbled up from the ground in little springs. The trees were growing skull
 
 It was neither a jungle nor a desert. More of a grassy valley with bushes and occasional trees. The sun had a face locked in a perpetual grimace.  I had a vague memory that Aztec mythology was really bad.
 
-There was a directionality to the world. I followed it. It led me up a hill strewn with rocks. I spoke the Ascending Name. Nothing happened. Okay. This was somewhere else. The usual rules didn’t apply. Things started coming back to me. The Drug Lord. Peyote. I had taken peyote. Now I was…where?
+There was a directionality to the world. I followed it. It led me up a hill strewn with rocks. I spoke the Ascending Name. Nothing happened. Okay. This was somewhere else. The usual rules didn’t apply. Things started coming back to me. The Drug Lord. Peyote. I had taken peyote. Now I was... where?
 
 [open-bracket]Ana?] I asked.
 
@@ -8810,7 +8810,7 @@ There was a directionality to the world. I followed it. It led me up a hill stre
 
 [open-bracket]What happened? Where are you? Are you safe?]
 
-[open-bracket]I’m not sure. Somebody must have drugged my dinner. I’m…fine. The Drug Lord tried to extract the Vital Name from me. He couldn’t. That’s all I know.]
+[open-bracket]I’m not sure. Somebody must have drugged my dinner. I’m... fine. The Drug Lord tried to extract the Vital Name from me. He couldn’t. That’s all I know.]
 
 I reached the top of the hill. Below me lay a city. I recognized it and drew its name out of half-forgotten memories. Teotihuacan. Birthplace Of The Gods. The greatest city of the pre-Columbian Americas. The great street down its center was the Avenue of the Dead. The two great structures that towered above the rest were the Pyramid of the Sun and Pyramid of the Moon. The pictures I had seen made them look austere and crumbling. Here they were covered in bright colors and streaming banners. Also, a waterfall of blood was flowing down the southern staircase of the Pyramid of the Moon, looking for all the world like a macabre escalator.
 
@@ -8870,7 +8870,7 @@ Then he was back, searching for the Vital Name, and there was nothing I could do
 
 He was in the right part of my brain now. I could feel it.
 
-ROS-AILE-KAPHILUTON, he pulled from me, as if with tweezers. MIRAKOI-KALANIEMI-TSHANA. Something instinctual in me doubled down like a bear trap, but he gave it no heed. KAI-KAI-EPHSANDER…
+ROS-AILE-KAPHILUTON, he pulled from me, as if with tweezers. MIRAKOI-KALANIEMI-TSHANA. Something instinctual in me doubled down like a bear trap, but he gave it no heed. KAI-KAI-EPHSANDER...
 
 A second time I broke away from him. This time I ran. I ran to the edge of the ball court, only to find that the staircase up the pyramid was shifting places, like the winding of a snake, moving too fast for me to get a foothold on it.
 
@@ -8902,7 +8902,7 @@ With all my strength, I rushed at the Drug Lord, kicked him right in the gut. Of
 
 He reached an arm out toward my head.
 
-Then something moved behind him, and the Drug Lord wheeled around to confront it. Jane walked towards us from the far end of the ball court. She still wore her black leather jacket and black leather pants, but her long black hair had streaks of white in it now, and her eyes had flecks of silver, and her face looked…different? Somehow more? She looked almost happy. I knew who she was now. There was a very big sword in her hand, so big that by rights she shouldn’t have been able to hold it. It definitely hadn’t been there before. “Let them go,” said Jane, “or else I’m warning you, [i]I’ll do what my father did.[/i]”
+Then something moved behind him, and the Drug Lord wheeled around to confront it. Jane walked towards us from the far end of the ball court. She still wore her black leather jacket and black leather pants, but her long black hair had streaks of white in it now, and her eyes had flecks of silver, and her face looked... different? Somehow more? She looked almost happy. I knew who she was now. There was a very big sword in her hand, so big that by rights she shouldn’t have been able to hold it. It definitely hadn’t been there before. “Let them go,” said Jane, “or else I’m warning you, [i]I’ll do what my father did.[/i]”
 
 For the first time, I saw the Drug Lord’s little smile fade. “Go away, mortal!” he commanded, and a wave of fire and wind crashed against her.
 
@@ -8926,7 +8926,7 @@ The Drug Lord teetered on the edge of the ball court, but he didn’t yield. Ins
 
 The Drug Lord was trying to rearrange Jane’s NAME into MANE, the Latin word for a dead spirit. He was having some success, and already the dead spirits of the city floor were coming to his aid, swarming Jane, who sliced through them with her magic sword but seemed a bit outnumbered. She tried to wrench the word back into NAME, but the Drug Lord held firm.
 
-[open-bracket]Look, I know this sounds crazy. But the Drug Lord’s in my mind. And that means I’m in his. You’ll notice it too when you’ve been here a little longer. We’re not supposed to be in this realm intact, we should be manes like the others, he’s left us intact so he can get the Name from us, but I’m starting to…know the things that he knows. This dimension. It’s part of his mind. But not only part of his mind. He built it. If I can give it a soul, it becomes separate from him, it’ll drag him out. I think there’s just enough of Jinxiang’s NAME left to make it work.]
+[open-bracket]Look, I know this sounds crazy. But the Drug Lord’s in my mind. And that means I’m in his. You’ll notice it too when you’ve been here a little longer. We’re not supposed to be in this realm intact, we should be manes like the others, he’s left us intact so he can get the Name from us, but I’m starting to... know the things that he knows. This dimension. It’s part of his mind. But not only part of his mind. He built it. If I can give it a soul, it becomes separate from him, it’ll drag him out. I think there’s just enough of Jinxiang’s NAME left to make it work.]
 
 [open-bracket]That is the craziest idea I have ever heard, and it was my crazy idea that got us into this whole mess.]
 
@@ -8940,7 +8940,7 @@ Jane and the Drug Lord’s tug-of-war over MANE shattered the word into a thousa
 
 [open-bracket]Ana, this is seriously the craziest thing I’ve ever heard. Not to mention that if I told you the Name, the Drug Lord, who’s listening in on us for sure, would overheard.]
 
-[open-bracket]The Drug Lord can’t use Names himself. He’d have to find a human to use it for him. If Jinxiang can kill him before then…]
+[open-bracket]The Drug Lord can’t use Names himself. He’d have to find a human to use it for him. If Jinxiang can kill him before then...]
 
 [open-bracket]You can’t kill the Drug Lord!]
 
@@ -8990,7 +8990,7 @@ I grabbed my branch from the ground and hit Ana as hard as I could. At the same 
 
 And for just a second, the Drug Lord was distracted.
 
-And in that second, Jane unraveled the kabbalistic knots, broke apart the MANES, used the aleph to mean divinity, twisted the M into a W into a vav, and got V’NES. “And a miracle…”
+And in that second, Jane unraveled the kabbalistic knots, broke apart the MANES, used the aleph to mean divinity, twisted the M into a W into a vav, and got V’NES. “And a miracle...”
 
 And a miracle occurred. Her sword glowed white with holy fire, she plunged it into the Drug Lord, and it struck true. Not a killing blow. But a disabling one. The cactus-man sunk to his knees.
 
@@ -9002,9 +9002,9 @@ I felt a presence in my mind.
 
 [open-bracket]Ana?]
 
-[open-bracket]Aaron, you are such an idiot, I can [i]not[/i] believe you were going to destroy everything to come here and rescue me, I am so angry, and if you’re talking about this years from now don’t you [i]dare[/i] say that you felt that the anger was mixed with affection, because it’s [i]just anger[/i], and the Drug Lord could have gotten the Name, and you could have died, and…] It’s awkward to say so, but I could feel through the telepathic link that the anger was mixed with affection. I knew at once that it was the real Ana. It sounds crazy, but if had been this Ana who talked to me atop the pyramid, I would have trusted her absolutely.
+[open-bracket]Aaron, you are such an idiot, I can [i]not[/i] believe you were going to destroy everything to come here and rescue me, I am so angry, and if you’re talking about this years from now don’t you [i]dare[/i] say that you felt that the anger was mixed with affection, because it’s [i]just anger[/i], and the Drug Lord could have gotten the Name, and you could have died, and...] It’s awkward to say so, but I could feel through the telepathic link that the anger was mixed with affection. I knew at once that it was the real Ana. It sounds crazy, but if had been this Ana who talked to me atop the pyramid, I would have trusted her absolutely.
 
-[open-bracket]…and if I ever make a pun as bad as “shabbatlenose dolphin”, you should just assume I’m possessed by the Drug Lord again.]
+[open-bracket]... and if I ever make a pun as bad as “shabbatlenose dolphin”, you should just assume I’m possessed by the Drug Lord again.]
 
 [open-bracket]Ana ba’ey mishal b-shlamek?]
 
@@ -9059,7 +9059,7 @@ James gave her an apologetic look and started untying the ropes.
 
 “Long story. Edgar Crane cornered one of the druggies on the ship, told the Drug Lord that Simeon Azore was on the ship, offered to dose him in exchange for help getting Reno back. Drug Lord was interested because he figured Azore would know secret Names. He gave Crane some buttons, Crane stuck them in the soup tonight at dinner. I was meeting with John and the captain and we were late for dinner, and drugs don’t work on Amoxiel. So it was just you, Azore, Hope, Tomas and Lin who got dosed. There was a bit of a fight. Amoxiel’s vicious when he wants to be. Now Crane’s dead. John’s really injured. But the Drug Lord couldn’t take over the ship. He gave up and we tied up the others so they’d be safe while they came down. When we tried to tie you up, you told us that if we tried to touch you you’d jump off the side of the ship and drown yourself. So we let you be. Then an hour or so later you stopped resisting and just fell asleep, so we tied you up.” He untied the last rope and lifted Ana out of bed. “You all right?”
 
-She massaged her face. “Yeah. Actually, pretty good. Saw a…friend.”
+She massaged her face. “Yeah. Actually, pretty good. Saw a... friend.”
 
 James lifted an eyebrow. “You better get above decks. Things are getting interesting.”
 
@@ -9234,19 +9234,19 @@ Ana stood on the poop deck. She only vaguely remembered the term. It meant “an
 
 The moment she had dragged her companions from where they had fallen onto the poop deck, they started looking better. They stopped seizing. They breathed more easily. They weren’t awake, but they didn’t look like they were going to die either. She panted with exertion as she dragged the last one—Tomas—up the single step. James and the Captain were belowdecks; there was no helping them.
 
-This was so stupid. But in a way it also made sense. This was Tiferet. It reversed the polarity of forces that entered it. God was One and His Name was One; at a high enough level of abstraction we were all one with our names. Reverse a name, and you get…well, various things. Reverse Lin’s name, and you get nil. Reverse most people’s names, and you get nonsense. Reverse Ana’s name, and nothing happened at all.
+This was so stupid. But in a way it also made sense. This was Tiferet. It reversed the polarity of forces that entered it. God was One and His Name was One; at a high enough level of abstraction we were all one with our names. Reverse a name, and you get... well, various things. Reverse Lin’s name, and you get nil. Reverse most people’s names, and you get nonsense. Reverse Ana’s name, and nothing happened at all.
 
-Problem was, almost everything on the ship was kabbalistic nonsense now. The crew, the captain, the steering system…especially the steering system. Broken and useless. As soon as the ship reached the end of the Culebra Cut it would smash into the side of the canal and they would be done for.
+Problem was, almost everything on the ship was kabbalistic nonsense now. The crew, the captain, the steering system... especially the steering system. Broken and useless. As soon as the ship reached the end of the Culebra Cut it would smash into the side of the canal and they would be done for.
 
 She ran back to the bridge, pulled the steering mechanism as hard as she could. No good. She pressed all the buttons she could think of. None of them were working.
 
 She ran back up to the deck, grabbing James’ binoculars as she went. Looked out in front of her. There, coming ever closer, was the Gamboa Turn.
 
-She considered her options. She could jump off the ship and swim to safety. Then everyone else would die and she would be stuck in Central America and maybe get eaten by piranhas. She could run back to the bridge and bang on more buttons. She could…
+She considered her options. She could jump off the ship and swim to safety. Then everyone else would die and she would be stuck in Central America and maybe get eaten by piranhas. She could run back to the bridge and bang on more buttons. She could...
 
 Ana Thurmond did something very uncharacteristic. She fell to her knees and started praying.
 
-“God,” she said. “I’m a theodician, I should know better than anyone else that you don’t actually answer prayers. And I spent most of my life making silly jokes about the Torah and giving You grief for letting evil continue to exist. And now I’m with people who want to capture your boat and harass you. So, uh there’s that. But. Um…”
+“God,” she said. “I’m a theodician, I should know better than anyone else that you don’t actually answer prayers. And I spent most of my life making silly jokes about the Torah and giving You grief for letting evil continue to exist. And now I’m with people who want to capture your boat and harass you. So, uh there’s that. But. Um...”
 
 The problem with knowing theodicy is that it makes it really hard to pray. You can’t say “I’m in trouble, so please help me,” because you know that many people are in trouble and die anyway. You can’t say “I was a good person, so help me,” because you know that many people were very good and died anyway. You can’t say “I know you have some plan for me that I haven’t fulfilled yet,” because you know that many people died without fulfilling anything. Some scholars say that prayer changes nothing but that it is very important that you do it anyway, but when your ship is hurtling towards a rocky bank such subtleties lose their compellingness.
 
@@ -9256,7 +9256,7 @@ The ship continued its inexorable progress.
 
 If Mohammed won’t go to the mountain, the mountain must come to Mohammed. If the world wasn’t going to make sense, Ana might as well use insane moon logic and see where it got her. She went into the galley. Grabbed a piece of meat. Stood there, on the poop deck.
 
-“Okay, Dog,” she said. “I haven’t always believed in you. I mean, I’ve always believed in dogs, but…no, this is stupid. Listen, if I let you have this piece of meat, will you save me and my friends?”
+“Okay, Dog,” she said. “I haven’t always believed in you. I mean, I’ve always believed in dogs, but... no, this is stupid. Listen, if I let you have this piece of meat, will you save me and my friends?”
 
 She watched in disbelief as a big black dog bounded up and sat in front of her.
 
@@ -9272,13 +9272,13 @@ The dog turned its head. Ana wasn’t sure what that was supposed to mean.
 
 Very tentatively, Ana reached out and patted its head. At that precise moment, the [i]Not A Metaphor[/i] crossed straight through the Heart of God, the dead center of the American continent. For a second, Ana saw all the connections, all the sephirot in—how had Blake put it—“in starry numbers fitly ordered”. She saw the flow of energies, as above so below, as on the right so on the left, God becoming Man becoming God, all a perfect palindrome. She saw that the world was a palindrome, that the human body was a palindrome, that history was a palindrome, that the entire Bible was palindromes. Dumb mud. Madam in Eden, I’m Adam. Cain, a maniac. Semite times. Egad, no bondage! Deed. Tenet. Are we not drawn onwards, we Jews, drawn onward to new era? Egad, a base life defiles a bad age. So let’s use Jesus’ telos. Dogma—I am god! Deliverer re-reviled. “Abba, abba”.  Deified. Did I do, O God, did I as I said I’d do; good, I did.
 
-…and then the dog grabbed the meat and ran away behind the galley. By the time Ana followed, it had disappeared.
+... and then the dog grabbed the meat and ran away behind the galley. By the time Ana followed, it had disappeared.
 
-Wow, thought Ana to herself, that is definitely the weirdest thing that happened to me since…well, since I was possessed by an astral cactus person this afternoon, I guess.
+Wow, thought Ana to herself, that is definitely the weirdest thing that happened to me since... well, since I was possessed by an astral cactus person this afternoon, I guess.
 
 Then she looked up. The ship was still on course. The rocks of the Gamboa Turn were straight ahead. Minutes now, if that.
 
-She ran back belowdecks. The dog wasn’t there. Frantically, she opened the door to the bridge, hoping beyond hope she would find it, could convince it to do something…
+She ran back belowdecks. The dog wasn’t there. Frantically, she opened the door to the bridge, hoping beyond hope she would find it, could convince it to do something...
 
 “Hello,” said a nice female voice.
 
@@ -9286,7 +9286,7 @@ There was no one else there.
 
 “Who are you?” asked Ana, suspiciously.
 
-“I am [i]All Your Heart[/i],” said the voice. “Autopilot mode has been off for…nineteen years. Would you like to reactivate autopilot mode?”
+“I am [i]All Your Heart[/i],” said the voice. “Autopilot mode has been off for... nineteen years. Would you like to reactivate autopilot mode?”
 
 “There’s an autopilot mode?!” asked Ana.
 
@@ -9322,7 +9322,7 @@ As the first ray of sunlight touched the unconscious men on the poop deck, James
 
 “Do you realize what this means?” asked Ana.
 
-“…no?”
+“... no?”
 
 “A talking ship! The Comet King had a talking ship! [i]America is an epic![/i]”
 
@@ -9366,7 +9366,7 @@ Moffatt’s translation of the Bible just glosses “lilit” as “vampire”, 
 
 But Jewish legend usually portrays the lilit as universally and visibly female, which meant the skeletal black-robed forms attacking me right now were probably something else.
 
-I’d spotted them flying towards me right after waking up from my drug-induced haze. I’d spoken the Spectral Name, tried to hide. Then when they got closer I’d found they didn’t have eyes anyway and had no problem zeroing in on my location. I shouted the Tempestuous Name and blew two of them off the edge of Trump Tower, smashing them into the big gold T beneath. The other four kept coming. Legend says the merely human dead can speak Names—but whatever these things were, they were silent. Didn’t matter. One glance at their faces—not skulls per se, but human faces so gaunt and pale as to look skull-like—and I didn’t doubt their lethality. I had just enough time to shout another Tempestuous Name, but they were ready for it this time, kept coming…
+I’d spotted them flying towards me right after waking up from my drug-induced haze. I’d spoken the Spectral Name, tried to hide. Then when they got closer I’d found they didn’t have eyes anyway and had no problem zeroing in on my location. I shouted the Tempestuous Name and blew two of them off the edge of Trump Tower, smashing them into the big gold T beneath. The other four kept coming. Legend says the merely human dead can speak Names—but whatever these things were, they were silent. Didn’t matter. One glance at their faces—not skulls per se, but human faces so gaunt and pale as to look skull-like—and I didn’t doubt their lethality. I had just enough time to shout another Tempestuous Name, but they were ready for it this time, kept coming...
 
 Then Jane rocketed up from the street below. Fire flew from her fingers. She didn’t even speak; these weren’t the ordinary Names of mortals, this was the magic of Yetzirah, the higher level that only saints and prophets could even access. Saints, prophets, and Cometspawn. The undead withered and burnt.
 
@@ -9422,7 +9422,7 @@ Jinxiang, Sarah and I all spoke the Vanishing Name. DASAT-ZAM-RUSH-SHAN-SEVER-LA
 
 The other two were faster than I. She, a Cometspawn. She, something new, something I didn’t understand, but built to be the fastest Name-speaking system in the world. They vanished before I did. I stood there, alone, chanting, as the black-robed forms split in two sides, parted like the Red Sea to let their ruler pass. Through the opening came the Other King, dressed in scarlet. I couldn’t see any hint of his body, no hands, no face, just that robe.
 
-“-DAL-ATHEN-TRY…”
+“-DAL-ATHEN-TRY...”
 
 It was so close to me now.
 
@@ -9430,7 +9430,7 @@ It was so close to me now.
 
 I freaked out. How could it do that without a kabbalistic marriage? Also, was there [i]anyone[/i] who didn’t know my true name anymore?
 
-[open-bracket]Go away go away go away go away go away go away…] I thought, and I panicked, my tongue tripping over itself, almost flubbed the last part of the Vanishing Name.
+[open-bracket]Go away go away go away go away go away go away...] I thought, and I panicked, my tongue tripping over itself, almost flubbed the last part of the Vanishing Name.
 
 “-KOPHU-” I said as quickly as I could. “-LI-MAR-”
 
@@ -9456,7 +9456,7 @@ Then I felt space snap and resigned myself to whatever awaited me on the other s
 
 ## Chapter 41: Go Love Without The Help Of Any Thing On Earth
 
-<b>To:</b> aaron.teller@gmail.com, telleraar@countenance.com, a.smithte@stanford.edu, aleph_samech_tet@stevensite.net, _LOS_@hotmail.com, A_IS_FOR_ADAM@myfreeemails.tk…<br/>
+<b>To:</b> aaron.teller@gmail.com, telleraar@countenance.com, a.smithte@stanford.edu, aleph_samech_tet@stevensite.net, _LOS_@hotmail.com, A_IS_FOR_ADAM@myfreeemails.tk...<br/>
 <b>From:</b> root@[open-bracket]58.175.48.72]
 
 Talk to me, Aaron. I don’t know where you are, Aaron. Aaron, are you there?
@@ -9580,7 +9580,7 @@ They smote the city with the edge of the sword, and one of his main motivations 
 
 “Letter bomb.”
 
-“…you’re sending a [i]card[/i] for a letter bomb?”
+“... you’re sending a [i]card[/i] for a letter bomb?”
 
 Dylan pulled back the card and pen. “Mr. Young. You are, as your name suggests, young. Perhaps your parents have not yet taught you how civilized people behave. When one sends a parcel, the polite thing to do is to write a card. It shows the recipient that you are thinking of them, that you didn’t just throw some money at them without any kind of personal connection. I want Secretary Stoward to know that this isn’t just a letterbomb. It’s a letterbomb [i]for him[/i]. Now, put that big brain of yours to work and think up some kind of message. Clever, but tasteful.”
 
@@ -9616,7 +9616,7 @@ Maduegbuna suddenly appeared out of—somewhere—and sat down at the table. He 
 
 “I could live to be a hundred and twenty and never get tired of that,” Dylan said. “Mr. Maduegbuna is Nigeria’s foremost professional assassin and we are honored to have him on our team. We take who we need. No more.”
 
-“My ex is good at kabbalah,” said Brian. “She could help with…that kind of thing.”
+“My ex is good at kabbalah,” said Brian. “She could help with... that kind of thing.”
 
 “This is the twenty-first century, Mr. Young. [i]Everyone[/i] is ‘good at kabbalah’. All you need to do is hang out with the right crowd until one of them gives you a list of divine Names, then memorize it. I myself know a half-dozen Names by heart, and if I ever needed any more, I would go onto the darknet and ask for them. If they refused to tell me, I would offer them images of unclothed anime girls in exchange. It all sounds much easier than bringing a new person into our terrorist group which, I may remind you, very occasionally engages in illegal activities we could go to jail for if people knew about.”
 
@@ -9628,13 +9628,13 @@ Maduegbuna suddenly appeared out of—somewhere—and sat down at the table. He 
 
 Dylan and Clark both reached for their guns, but before either one could draw it from the holster Maduegbuna had somehow gotten behind Erica and established a chokehold around her neck. He grinned disconcertingly at everyone.
 
-“Let…go…” gasped Erica. “Friend…want…talk.”
+“Let... go...” gasped Erica. “Friend... want... talk.”
 
 Dylan nodded at Maduegbuna, and he let her go.
 
 “Speak,” said Dylan.
 
-“My name’s Erica Lowry. I have a sort of…mystical link to two of my friends who are really good at kabbalah. Somehow they’ve come up with some new Names. I don’t know how. One of them gives me the power to turn invisible. I can give it to you if you want. And any others that I learn. I want to join BOOJUM. I hate UNSONG and I think they got my friends. You guys seem to be the only people doing anything about it instead of just talking.”
+“My name’s Erica Lowry. I have a sort of... mystical link to two of my friends who are really good at kabbalah. Somehow they’ve come up with some new Names. I don’t know how. One of them gives me the power to turn invisible. I can give it to you if you want. And any others that I learn. I want to join BOOJUM. I hate UNSONG and I think they got my friends. You guys seem to be the only people doing anything about it instead of just talking.”
 
 Dylan frowned. “You have any experience with this kind of thing? Any special skills?”
 
@@ -9654,7 +9654,7 @@ Clark nudged the letterbomb on the table. “Think they’re the ones who end up
 
 “It’s not a joke!” Alvarez protested. “A letterbomb is, in its way, the most honest form of communication. People say communication is about conveying information, but it really isn’t. Communication is a form of magic. The kabbalists say they know words that can draw lightning from the sky, or summon trees from the ground. So what?! Our everyday words are far more powerful than their most sacred incantation! A German guy with a silly beard writes a manifesto, and fifty years later half the world is in flames! An Austrian guy with a silly mustache gives a speech, and a decade later ten million people are dead! A hundred diplomats in the UN sign a charter, and suddenly you’ve got to pay Gogmagog everything you have if you want the doctor to be able to save your life. People get all excited about the Names, call them words of power, but who ever heard of a Name that kills ten million people? Oh, there are words of power, all right, but it’s not the Names of God you have to worry about. And in a sense this— ” he tossed the letterbomb up in the air, then caught it theatrically—“is the essence of kabbalah. The Word made flesh!”
 
-Clark clapped sarcastically. Erica and Maduegbuna just stared. Brian looked pained. “Please don’t toss the bomb,” he said. “The detonation mechanism is still…”
+Clark clapped sarcastically. Erica and Maduegbuna just stared. Brian looked pained. “Please don’t toss the bomb,” he said. “The detonation mechanism is still...”
 
 “Ms. Lowry,” said Dylan, cutting him off. “Do you think you’ve got what it takes?”
 
@@ -9678,7 +9678,7 @@ Erica nodded.
 
 “Yes!” she said enthusiastically. “That’s totally what I’m here for!”
 
-“So…fecking…annoying,” Clark mumbled to himself.
+“So... fecking... annoying,” Clark mumbled to himself.
 
 “Tell me, Ms. Lowry, you’re a writer, what would be an appropriate message to put on a card for a letterbomb?”
 
@@ -9756,7 +9756,7 @@ The Comet King nodded. “Enough.”
 
 “The other name for the Messiah ben Joseph is the Messiah ben Ephraim. It makes sense. Two of the Twelve Tribes are descended from Joseph; Ephraim is one of them. So the Messiah will be a descendent of Joseph through the tribe of Ephraim. There’s only one problem: Ephraim is one of the Lost Tribes and as far as anyone knows the descendents of Ephraim have been wiped out.
 
-“Except…that a group of Jews calling themselves the Bene Ephraim turned up in, of all places, southern India, claiming to be the last living descendants of that tribe. And now a man of Indian descent comes bearing Messianic aspirations. Interesting. I’ve looked into your mother’s family, Jalaketu West. Looked into them probably more than you have. It’s pretty easy when so many of their souls are your property for all eternity.”
+“Except... that a group of Jews calling themselves the Bene Ephraim turned up in, of all places, southern India, claiming to be the last living descendants of that tribe. And now a man of Indian descent comes bearing Messianic aspirations. Interesting. I’ve looked into your mother’s family, Jalaketu West. Looked into them probably more than you have. It’s pretty easy when so many of their souls are your property for all eternity.”
 
 He paused to see if the Comet King had winced. It was hard to tell.
 
@@ -9766,13 +9766,13 @@ Jalaketu just nodded.
 
 “Nothing?” asked Thamiel. “No response at all?”
 
-“I told you. I knew…some of that. It’s a risk. But it’s only a risk. Scripture says that if humankind is good, then it doesn’t have to happen that way, the Messiah ben Joseph and the Messiah ben David can be the same person.”
+“I told you. I knew... some of that. It’s a risk. But it’s only a risk. Scripture says that if humankind is good, then it doesn’t have to happen that way, the Messiah ben Joseph and the Messiah ben David can be the same person.”
 
 “[i]If humanity is good?![/i]” asked the Devil.
 
 “If humanity is good,” repeated the Comet King.
 
-“Surely you understand how unbelievably, unutterably, colossally unlikely that is, and has always…”
+“Surely you understand how unbelievably, unutterably, colossally unlikely that is, and has always...”
 
 “There’s always a chance.”
 
@@ -9886,13 +9886,13 @@ Uriel thought for a long time.
 
 “BELOW THAT, CORRESPONDING TO THE WORLD OF YETZIRAH, IS THE APPLIED KABBALAH. THIS IS THE MANIPULATION OF THE LOWER-LEVEL CONCEPTS AND ARCHETYPES. THE ANGELS AND SOME OF THE GREATEST SAGES HAVE MASTERED IT. SO HAVE YOUR SISTERS AND BROTHER.”
 
-“And below that is…”
+“And below that is...”
 
 “THE WORLDLY KABBALAH. THE USE OF DIVINE NAMES. ANY HUMAN CAN MASTER IT, ONCE THE APPROPRIATE NAMES ARE KNOWN. YOU MAY LEARN THESE ON YOUR OWN. WE WILL START WITH THE APPLIED KABBALAH.”
 
 “Okay,” said Sohu. “Teach me applied kabbalah.”
 
-“YETZIRAH IS THE WORLD JUST ABOVE MATERIAL REALITY,” said Uriel. “IT IS THE WORLD OF ARCHETYPES…”
+“YETZIRAH IS THE WORLD JUST ABOVE MATERIAL REALITY,” said Uriel. “IT IS THE WORLD OF ARCHETYPES...”
 
 #### III.
 
@@ -10050,7 +10050,7 @@ Sohu thought for a second.
 
 “OH. UM. I AM REALLY SORRY.”
 
-“…it’s okay. You tried your best. And there haven’t been any infinitely long months since then.”
+“... it’s okay. You tried your best. And there haven’t been any infinitely long months since then.”
 
 “THERE WAS AN ETERNAL SEPTEMBER ONE TIME, BUT THAT WAS SOMETHING DIFFERENT.”
 
@@ -10142,15 +10142,15 @@ When I finished, Nathanda broke her silence. “Do you know this Vital Name?” 
 
 “What are you going to do if you get the Vital Name?” Sarah managed to choke out.
 
-Nathanda pointed to the machine in the front of the room. “THARMAS,” she said. “Thermonuclear Armaments Management System. Probably the most powerful supercomputer west of the Mississippi. If you’re based on an ordinary Macbook, and you can get a Name or two a day, then THARMAS…” She calculated for a moment. “Probably a few Names a second. If not more.”
+Nathanda pointed to the machine in the front of the room. “THARMAS,” she said. “Thermonuclear Armaments Management System. Probably the most powerful supercomputer west of the Mississippi. If you’re based on an ordinary Macbook, and you can get a Name or two a day, then THARMAS...” She calculated for a moment. “Probably a few Names a second. If not more.”
 
 A man came in, elderly, Indian in his features. I recognized him too. Not a Cometspawn. The Comet King’s Uncle Vihaan. One of his most trusted advisors. Now the chief of staff here at the Citadel, “the butler”, he called himself. Jinxiang briefly took him aside at the big boardroom table and started explaining what was going on while Nathanda dealt with the two of us.
 
-“A…Name a second?” asked Sarah.
+“A... Name a second?” asked Sarah.
 
 “Probably,” said Nathanda. “Caelius would know better, he’s more technically-minded.”
 
-“If…if that can give you a Name a second, you won’t need me anymore, will you?” asked Sarah.
+“If... if that can give you a Name a second, you won’t need me anymore, will you?” asked Sarah.
 
 Nathanda started to realize the hole she had dug herself. “It’s not that we won’t need you,” she said. “You’re the first, and you saved my sister’s life, and that makes you special.”
 
@@ -10256,7 +10256,7 @@ For a second Dylan looked like he was going to complain, but then he laughed. �
 
 Mark sighed, resigned.
 
-“You’re…you’re a typical middle-class American, Mark. There’s nothing wrong with that. Middle-class Americans are great people, invented the light bulb, the airplane, and the cheeseburger. But you guys have this…this thing, where you think the world is basically fair. Sure, you hear about some poor kid who got beaten by his abusive parents, and you say yeah, that’s terrible, that’s unfair, but you think of it as this blip, a local deviation in the general atmosphere of niceness and fairness. So you hear more things. The Vietnam War. Race riots. The fucking Holocaust. And you’re always properly upset about them, and you hope that one day all of the nice people will get their act together and spread the blanket of general fairness over Vietnam, Watts, and Auschwitz respectively, and then those little fires will be all stamped out. You go to your Young Democrats club and debate over which little tiny tweaks in the system will fix whichever little puddles of unfairness remain. A little more welfare there, a few reforms in this or that law, and there you have it! The future!
+“You’re... you’re a typical middle-class American, Mark. There’s nothing wrong with that. Middle-class Americans are great people, invented the light bulb, the airplane, and the cheeseburger. But you guys have this... this thing, where you think the world is basically fair. Sure, you hear about some poor kid who got beaten by his abusive parents, and you say yeah, that’s terrible, that’s unfair, but you think of it as this blip, a local deviation in the general atmosphere of niceness and fairness. So you hear more things. The Vietnam War. Race riots. The fucking Holocaust. And you’re always properly upset about them, and you hope that one day all of the nice people will get their act together and spread the blanket of general fairness over Vietnam, Watts, and Auschwitz respectively, and then those little fires will be all stamped out. You go to your Young Democrats club and debate over which little tiny tweaks in the system will fix whichever little puddles of unfairness remain. A little more welfare there, a few reforms in this or that law, and there you have it! The future!
 
 “And the thing is, nothing can ever convince you you’re wrong. I can recite atrocities at you until I’m blue in the face, and you’ll frown at every one of them, maybe you’ll cry, but deep inside you something will be thinking ‘That’s too bad, I hope our generally responsible government and society fix it quickly.’ If I tell you the government’s hopelessly corrupt, prove my point with the itemized bank account statements of every member of Congress and a big line saying ‘BLOOD MONEY’ on each of them, that same part of you will be thinking ‘That’s too bad, I hope that our generally good electoral system leads to a better batch of candidates next time.’ Well, I grew up in—”
 
@@ -10278,7 +10278,7 @@ Mark sighed, resigned.
 
 Mark looked uncomfortable.
 
-“So let me make you an offer. I break you out of this prison right now. Together we kill Malia Ngo. Then if you’re still angry, I give you a false identity, a free ticket to Europe, and you never have to speak to me again. Or you can sit here for another…hmmmm, twelve times four minus ten….thirty-eight years. Your choice, senor.”
+“So let me make you an offer. I break you out of this prison right now. Together we kill Malia Ngo. Then if you’re still angry, I give you a false identity, a free ticket to Europe, and you never have to speak to me again. Or you can sit here for another... hmmmm, twelve times four minus ten... thirty-eight years. Your choice, senor.”
 
 “How do you know I won’t try to kill you as soon as I’m out of here?”
 
@@ -10286,13 +10286,13 @@ Mark looked uncomfortable.
 
 “Seriously, what’s the catch?”
 
-“Catch? None. I learned the secret of invisibility yesterday, Mark. It’s got me feeling all…what’s the word…ambitious. I want to do something big. I need the right team. And the right Narrative. You, compadre, are both. Last living High Ritual Magician in the world, once my best friend, then my worst enemy, now my reluctant partner. Between you and Erica—”
+“Catch? None. I learned the secret of invisibility yesterday, Mark. It’s got me feeling all... what’s the word... ambitious. I want to do something big. I need the right team. And the right Narrative. You, compadre, are both. Last living High Ritual Magician in the world, once my best friend, then my worst enemy, now my reluctant partner. Between you and Erica—”
 
 “Who’s Erica?”
 
 “Erica, be a dear and show yourself to Mr. McCarthy.”
 
-Erica coughed and broke her invisibility. Of [i]course[/i] there had been another person here all along, Mark thought. And if he’d made any sudden moves, tried to attack Dylan in a way the latter couldn’t handle…for that matter, how many [i]others[/i] were there? Since when had people discovered how to become invisible? Was that common in the outside world now? What could Dylan do with that kind of power—God, what [i]couldn’t[/i] Dylan do with that kind of power?
+Erica coughed and broke her invisibility. Of [i]course[/i] there had been another person here all along, Mark thought. And if he’d made any sudden moves, tried to attack Dylan in a way the latter couldn’t handle... for that matter, how many [i]others[/i] were there? Since when had people discovered how to become invisible? Was that common in the outside world now? What could Dylan do with that kind of power—God, what [i]couldn’t[/i] Dylan do with that kind of power?
 
 But instead he just asked “What happened to your hair?”
 
@@ -10300,7 +10300,7 @@ But instead he just asked “What happened to your hair?”
 
 “Miss Lowry is the newest member of BOOJUM—second newest, I should say, now that you’re on board. I wanted to see her in action—well, not literally [i]see her[/i], so I invited her along for her first official mission. Oh, and the best part is we can talk to each other with our minds!” He stared at Erica as if sending a thought to her. She started cracking up. “Some ritual she taught me, sacred kabbalistic something-or-other. Oh yes, Mark, things are starting to heat up. There’s never been a better time to work with BOOJUM.”
 
-Moe gave a loud snort, then started kicking ineffectually in his sleep. “Don’t…” he murmured to no one in particular. “Don’t make me—”
+Moe gave a loud snort, then started kicking ineffectually in his sleep. “Don’t...” he murmured to no one in particular. “Don’t make me—”
 
 “I will join your organization,” said Mark McCarthy, “because it’s better than dying in prison. Then I will take your ticket to Europe and never talk to you or think about you again. But I want you to swear to me that you’re on the level.”
 
@@ -10349,11 +10349,11 @@ Her name was Jessica. She was twenty-three and beautiful, long dark wavy hair, c
 
 “You’re very beautiful,” said the Comet King, in the same way a judge at a dog show might pronounce a certain poodle to be very beautiful. “Thank you for your time. My staff will get back to you within three to five days.”
 
-“That’s…it?” asked Jessica. She tossed her hair seductively. “But I thought we would be able to spend…you know…more time together.”
+“That’s... it?” asked Jessica. She tossed her hair seductively. “But I thought we would be able to spend... you know... more time together.”
 
 “I am very busy.”
 
-“I wouldn’t have to wait until our wedding. Even if you’re not interested in getting married, we could still…you know.”
+“I wouldn’t have to wait until our wedding. Even if you’re not interested in getting married, we could still... you know.”
 
 “I appreciate the offer and my staff will get back to you in three to five days.” He got up from the table, gave her a little bow, and walked out to the atrium of the palace. Nathanda and Caelius were fighting over a toy. He gave them a quick glance, and both of them tried to push the toy at the other, then stood to attention. He smiled and found Father Ellis, sitting alone beside one of the big targeting computers, looking annoyed.
 
@@ -10393,7 +10393,7 @@ Five minutes later, a young woman walked into the dining room beneath Cheyenne M
 
 “Who told you to say this?”
 
-“What? Um. Nobody. I studied philosophy. Peter Singer, the Australian philosopher. He believed that only the course that most effectively eases suffering is morally permissible. I…I have a book I can give you.”
+“What? Um. Nobody. I studied philosophy. Peter Singer, the Australian philosopher. He believed that only the course that most effectively eases suffering is morally permissible. I... I have a book I can give you.”
 
 She reached into her purse and handed the Comet King a book. He looked at it for a second, then took it and placed it beside his plate.
 
@@ -10407,7 +10407,7 @@ Without a word, Robin got up from the table and headed towards the stairwell.
 
 Jalaketu toyed with his olive for another moment, then popped it in his mouth and walked out the door into the atrium. Father Ellis saw him and rose to his feet in a rage.
 
-“SEVEN MINUTES, JALA. THAT WAS SEVEN MINUTES AND FOURTEEN SECONDS. YOU PROMISED ME TEN. I WANT YOU TO GO BACK IN THERE AND…”
+“SEVEN MINUTES, JALA. THAT WAS SEVEN MINUTES AND FOURTEEN SECONDS. YOU PROMISED ME TEN. I WANT YOU TO GO BACK IN THERE AND...”
 
 “Father, I need your help.”
 
@@ -10477,7 +10477,7 @@ It was a vicious cycle. Simeon was old, he’d been hurt in the scuffle with the
 
 “Exactly my point. We can only save some. Instead of choosing those some from a lottery or something, we choose them by wealth. It beats the lottery method because it makes the program self-financing.”
 
-“So just let things be, and make no attempt at eve…”
+“So just let things be, and make no attempt at eve...”
 
 “[i]Satan[/i] tempted Eve. [i]Noah[/i] built an ark.”
 
@@ -10485,7 +10485,7 @@ It was a vicious cycle. Simeon was old, he’d been hurt in the scuffle with the
 
 He smiled.
 
-“I just think…you can’t be happy with this situation, can you?”
+“I just think... you can’t be happy with this situation, can you?”
 
 Simeon furrowed his brow. “Happy? No. But what can you do? And it’s not just a rhetorical question. [i]I[/i] can do quite a lot. I can create a successful company that helps discover new Names. I can donate some money to causes that deserve it. I can be nice to the people I meet. Once I’m doing all that, there’s no point in dedicating a lobe of my brain to being outraged at the injustices of the world. I do what I can, and then stop caring. Even the Comet King only besieged Hell until the point when he realized it was a lost cause. Then he gave up. You care too much and it drives you crazy.”
 
@@ -10523,9 +10523,9 @@ Simeon smiled. “I don’t think this boat will catch God, and I don’t really
 
 “People love conspiracy theories,” Ana said. “But they found his body, and besides, the Comet King isn’t the sort to retire and go farm yams somewhere.”
 
-“People do love conspiracy theories,” said Simeon, “and rich people get a chance to indulge in them. My hobby for the past few years has been tracking the Comet King. And no, I didn’t find any smoking guns, but—you know our man John? We only know two things about him. He’s a priest. And he’s an old friend of the Captain’s. Well, I collect old photographs from Royal Colorado, and the man’s a dead ringer for the Comet King’s right-hand man, Father John Ellis. So I started reading about this ship. This mysterious Captain Nemo shows up one day, shrouds himself in mystery, but has intimate knowledge of the Comet King’s yacht. And he’s a friend of John Ellis’s. And he’s got a certain…well, everyone obeys him without question. So what am I to think?”
+“People do love conspiracy theories,” said Simeon, “and rich people get a chance to indulge in them. My hobby for the past few years has been tracking the Comet King. And no, I didn’t find any smoking guns, but—you know our man John? We only know two things about him. He’s a priest. And he’s an old friend of the Captain’s. Well, I collect old photographs from Royal Colorado, and the man’s a dead ringer for the Comet King’s right-hand man, Father John Ellis. So I started reading about this ship. This mysterious Captain Nemo shows up one day, shrouds himself in mystery, but has intimate knowledge of the Comet King’s yacht. And he’s a friend of John Ellis’s. And he’s got a certain... well, everyone obeys him without question. So what am I to think?”
 
-A chill went down Ana’s spine. She had only been very young when the Comet King died, but even she could remember the gravity of the moment. He had been someone impossible, something out of legend, a different sort of person entirely. Then he was gone. If he were still alive… “The Captain looks nothing like the Comet King,” she said. “I’ve seen pictures. The Captain is big. The Comet King is rail-thin. And there was the body.”
+A chill went down Ana’s spine. She had only been very young when the Comet King died, but even she could remember the gravity of the moment. He had been someone impossible, something out of legend, a different sort of person entirely. Then he was gone. If he were still alive... “The Captain looks nothing like the Comet King,” she said. “I’ve seen pictures. The Captain is big. The Comet King is rail-thin. And there was the body.”
 
 “You think people like that can’t change bodies as easily as we change clothes?” said Simeon. “Heck, if I wanted to pull the same thing Jalaketu did, I’d bribe the Lady into making a golem that looked just like me, kill off the golem, bury the body, then hit the donuts until I wasn’t so thin anymore. Whatever I couldn’t disguise, I’d hide. They say the Comet King had weird eyes,  like the night sky. Why doesn’t Captain Nemo take off his sunglasses?”
 
@@ -10537,7 +10537,7 @@ A chill went down Ana’s spine. She had only been very young when the Comet Kin
 
 “Maybe not. Maybe James is in on it. And if the Comet King is hiding, probably bad things happen to anyone who makes too much noise about trying to find him. Something subtle. Like ‘Oh, I’ve been working here so long, and I barely get a glimpse of the Captain. What’s [i]with[/i] that guy?’ See what he knows.”
 
-“Okay but…like you said, if he doesn’t want to be found, it might not be such a good idea to find him.”
+“Okay but... like you said, if he doesn’t want to be found, it might not be such a good idea to find him.”
 
 “Well,” said Simeon, “yes. That [i]is[/i] the issue. Maybe I’m a little bit crazy too, in the way I mentioned to you earlier. I don’t have a great plan. This is pretty much how I ran Gogmagog—start the first step, hit the ground running, and try to figure out the second step on the way. But I’ve already spend a year and a half looking through all the sources I could—once I get interested in something, I stay interested—and the thought of knowing where the Comet King was and just sort of sitting on the knowledge—well, that would have driven me off the wall. I don’t know what Erin and the rest hope to get from meeting God. They already know He’s not big on answering prayers except on His own terms. Well, I don’t know what I expect from meeting the Comet King. The best I can say is I’m no stupider than they are. Just differently stupid.”
 
@@ -10609,7 +10609,7 @@ The Medical Officer picked up a syringe and walked into the cabin. Wasn’t too 
 
 ## Interlude ס: Binary
 
-“Today I will expound unto you the kabbalistic theory of the creation of the world,” said Ana. “It all starts with Leibniz…”
+“Today I will expound unto you the kabbalistic theory of the creation of the world,” said Ana. “It all starts with Leibniz...”
 
 We were sitting together on the couch after dinner. Erica and Eli Foss were on the other couch. Zoe Farr was in the armchair. Ana was wearing a blue t-shirt saying “I WENT TO THEODICY CON 2014 AND ALL I GOT WAS THIS CRAPPY TSHIRT, AND I DON’T UNDERSTAND WHY A JUST GOD WOULD ALLOW THIS TO HAPPEN.” It was pouring outside, and the occasional gust of wind added eerie punctuation to her argument.
 
@@ -10623,7 +10623,7 @@ We were sitting together on the couch after dinner. Erica and Eli Foss were on t
 
 “God is one bit. The bit ‘1’”.
 
-“I find that…counterintuitive,” was the best Zoe could answer.
+“I find that... counterintuitive,” was the best Zoe could answer.
 
 “Well, it’s easy to represent nothingness. That’s just the bit ‘0’. God is the opposite of that. Complete fullness. Perfection in every respect. This kind of stuff is beyond space—our modern theories of space take a bunch of bits to specify—but if it helps, imagine God as being space filled with the maximum amount of power and intelligence and goodness and everything else that it can hold, stretching on to infinity.”
 
@@ -10691,7 +10691,7 @@ We were all silent just a little too long.
 
 “Any [i]other[/i] dumb objections?” Ana asked, play-acting a death glare at all of us.
 
-“I might have one,” said Eli Foss. “I…appreciate what you’re trying to do, Ana, but I have to remind you that kabbalah isn’t just the word for whatever cool theory you happen to come up with by combining information theory and the [i]I Ching[/i] and the doctrine of divine simplicity. It literally means ‘received tradition’. It’s a body of work that’s been designed and created according to specific rules set forth by the rabbis, and it’s within the tradition of a relatively insular religion that’s really strongly against mixing its concepts with those of other ideas, especially ones from different faiths the way that the [i]I Ching[/i] is from Daoism. So I think your theory is interesting. But it isn’t kabbalah. It’s not from the ARI, or the Baal Shem Tov, or anybody like that. So when you say that it’s the kabbalistic theory of the world, I think you need to walk that back a little unless you think real orthodox kabbalists are actually going around saying that God is just the binary digit ‘1’.”
+“I might have one,” said Eli Foss. “I... appreciate what you’re trying to do, Ana, but I have to remind you that kabbalah isn’t just the word for whatever cool theory you happen to come up with by combining information theory and the [i]I Ching[/i] and the doctrine of divine simplicity. It literally means ‘received tradition’. It’s a body of work that’s been designed and created according to specific rules set forth by the rabbis, and it’s within the tradition of a relatively insular religion that’s really strongly against mixing its concepts with those of other ideas, especially ones from different faiths the way that the [i]I Ching[/i] is from Daoism. So I think your theory is interesting. But it isn’t kabbalah. It’s not from the ARI, or the Baal Shem Tov, or anybody like that. So when you say that it’s the kabbalistic theory of the world, I think you need to walk that back a little unless you think real orthodox kabbalists are actually going around saying that God is just the binary digit ‘1’.”
 
 “I don’t just [i]think[/i] it,” said Ana. “Every single Jewish person says exactly that, twice per day. ‘HEAR, O ISRAEL, THE LORD OUR GOD, THE LORD IS 1.'”
 
@@ -10737,11 +10737,11 @@ Uriel suddenly broke out of his trance, stared right at her.
 Into her head unbidden came a verse from an old poem:
 
 <blockquote>The moving moon went up the sky<br/>
-And nowhere did abide…
+And nowhere did abide...
 </blockquote>
 She couldn’t concentrate on the comics. She put it down on the cloud, carefully folded to the last page she had read. Another verse, this one from her kabbalistic studies:
 
-<blockquote>I reign over you, sayeth the God of Justice, in whose hands the Sun is a sword, and the Moon a through thrusting fire…
+<blockquote>I reign over you, sayeth the God of Justice, in whose hands the Sun is a sword, and the Moon a through thrusting fire...
 </blockquote>
 The sky started to darken. Ignoring the archangel’s advice, Sohu risked a brief glance at the sun and saw a bite taken out of it.
 
@@ -10767,7 +10767,7 @@ Sohu sat back down on the cloud. “Talk,” she said.
 
 Thamiel picked up her comic. The book burst into flames in his hand, then fell in a spatter of ashes onto the cloud. “Really? [i]Comics?[/i] We need to get you some more wholesome entertainment. Do you know what I do for fun? You know those electric fences for dogs? I find a dog with one of those electric fences, and I stand just a few feet outside with a big juicy steak. The dog runs towards me to get the steak, then gets zapped, then runs back into the fence, then tries again, gets zapped again, finally just sits on the edge of the fence while I eat the steak in front of it. It’s not the most efficient way to cause suffering, but you can’t always be all about efficiency, you need to leave some time for yourself, do you agree with that, Sohu?”
 
-Talk. In Hebrew, d’var. Diver. Getting to the bottom of things. Differ. Resolving conflicting opinions. Differ contains di-, the prefix for two. Thamiel. Duality in God, also a two. Attempting to distract her. Another di-. Two channels. But they could become one channel…how long left in totality? Two minutes? One?
+Talk. In Hebrew, d’var. Diver. Getting to the bottom of things. Differ. Resolving conflicting opinions. Differ contains di-, the prefix for two. Thamiel. Duality in God, also a two. Attempting to distract her. Another di-. Two channels. But they could become one channel... how long left in totality? Two minutes? One?
 
 Thamiel broke off suddenly. “Oh, I see what you’re trying to do,” he said. “No! Bad Sohu!” He took his bident and drove it into her head.
 
@@ -10775,7 +10775,7 @@ Pain. Blinding, searing pain. But worse, wrongness. Impossible wrongness. Pain. 
 
 “I’ll kill you!” Thamiel said. “Come back, or I’ll kill you!”
 
-Threats. In the Bible, God threatened Adam: eat of the fruit, and you will surely die. He interpreted it to mean immediate death; when Eve ate of the fruit and didn’t perish, he thought the threat was empty. But God had meant that he would become mortal, die eventually, and so he did. But it was death that allowed humanity to reach the world to come, to truly join with God. Threat. Thread. I give you the end of a golden thread, only roll it into a ball…
+Threats. In the Bible, God threatened Adam: eat of the fruit, and you will surely die. He interpreted it to mean immediate death; when Eve ate of the fruit and didn’t perish, he thought the threat was empty. But God had meant that he would become mortal, die eventually, and so he did. But it was death that allowed humanity to reach the world to come, to truly join with God. Threat. Thread. I give you the end of a golden thread, only roll it into a ball...
 
 Sohu stepped into Yetzirah and opened her eyes.
 
@@ -10841,13 +10841,13 @@ Sohu kept seizing until the last curve of the moon came out from behind the sun.
 
 “ARE YOU OKAY?” he asked.
 
-“Yes…” she said, still a little confused.
+“Yes...” she said, still a little confused.
 
 “WHAT HAPPENED?”
 
 Sohu strained. Her forehead wrinkled. Then a look of panic fell over her face.
 
-“I…I don’t remember. The eclipse started, and after that I don’t remember anything.”
+“I... I don’t remember. The eclipse started, and after that I don’t remember anything.”
 
 “IT IS OKAY,” said Uriel.
 
@@ -11019,7 +11019,7 @@ Sarah hadn’t stopped clutching my leg. She was three days old, I realized. She
 
 “Yes,” she said quietly.
 
-“The geopolitical situation is terrible,” said Nathanda. “We have months at most before the Other King’s forces break through the passes. The Drug Lord regathers his strength. The Eastern states are weaker than they’ve been for a generation, and the peace with Hell is like every peace with Hell. Only until they see an advantage in breaking it. We’ve needed a miracle for a long time. Now we’ve got one. The Vital Name is the best way to save Royal Colorado, the Untied States, and…” She gestured to the big map of the continent. “I want to ask Aaron the Vital Name, have Sohu handle the error correction, and then put it in THARMAS. The obvious flaw in that plan is that then THARMAS becomes more powerful than any of us. Sarah seems to have…ah…turned out well, but none of us can predict what sort of personality a nuclear targeting computer will have. Caelius, any thoughts?”
+“The geopolitical situation is terrible,” said Nathanda. “We have months at most before the Other King’s forces break through the passes. The Drug Lord regathers his strength. The Eastern states are weaker than they’ve been for a generation, and the peace with Hell is like every peace with Hell. Only until they see an advantage in breaking it. We’ve needed a miracle for a long time. Now we’ve got one. The Vital Name is the best way to save Royal Colorado, the Untied States, and...” She gestured to the big map of the continent. “I want to ask Aaron the Vital Name, have Sohu handle the error correction, and then put it in THARMAS. The obvious flaw in that plan is that then THARMAS becomes more powerful than any of us. Sarah seems to have... ah... turned out well, but none of us can predict what sort of personality a nuclear targeting computer will have. Caelius, any thoughts?”
 
 The photos of Caelius in the papers had never quite captured what was unearthly about him. His pale eyes seemed perpetually unfocused, his thoughts always somewhere else. But when he spoke, he spoke clearly and confidently. “We can lobotomize it, so to speak. Get it to reboot all its functions except the one running the Name search every millisecond or two. It won’t have time to string a coherent thought together.”
 
@@ -11074,11 +11074,11 @@ The queen’s face was impassive. She nodded.
 “I could do better. I could kill Sohu first, surprise her. Then I could take on the others.”
 
 The kabbalists say that all men have four souls. The animal soul, the [i]nefesh[/i], which sustains life and desire. The moral soul, the [i]ruach[/i], helps us divine good and evil. The intellectual soul, the [i]neshamah[/i], forms our thought and understanding. And the divine soul, the [i]chayah[/i], is the mysterious center of consciousness that connects us with God above.<br/>
-Sarah’s animal soul was the golem that Gadiriel had made her. Her intellectual soul, I had given her myself with the Vital Name. The divine soul, everything had naturally. And her moral soul was…
+Sarah’s animal soul was the golem that Gadiriel had made her. Her intellectual soul, I had given her myself with the Vital Name. The divine soul, everything had naturally. And her moral soul was...
 
-…frick.
+... frick.
 
-“Um, Sarah, this is going to be a weird question, but…do you know right from wrong?”
+“Um, Sarah, this is going to be a weird question, but... do you know right from wrong?”
 
 “All I want is to make you happy!” she said.
 
@@ -11104,7 +11104,7 @@ Sarah was sexy and powerful and totally obsessed with me. I knew I liked her. I 
 
 “What?” said Sarah. “Huh? Aaron, please! Do you love me?”
 
-…and I didn’t love her. My heart was taken.
+... and I didn’t love her. My heart was taken.
 
 “Sarah,” I said, and I clasped her hand in mine. “You’re beautiful and wonderful and you saved my life. Together, we’re going to help the Cometspawn win the war and save the world. Okay?”
 
@@ -11112,9 +11112,9 @@ She squeezed my hand back. One day I would tell her the truth. One day when all 
 
 We walked back to the Cometspawn hand in hand. Five pairs of eyes focused on us.
 
-“ROS-AILE-KAPHILUTON…” I said, and Sohu started writing furiously on a notepad in front of her. I mumbled once, to break the string, to mention the Name rather than use it, then continued. “MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN…” The son and daughters of the Comet King listened, quietly, let the sounds of God’s secret and holy Name echo through the depths of the Rocky Mountains, heard the syllables that could only end in apocalypse or salvation.
+“ROS-AILE-KAPHILUTON...” I said, and Sohu started writing furiously on a notepad in front of her. I mumbled once, to break the string, to mention the Name rather than use it, then continued. “MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN...” The son and daughters of the Comet King listened, quietly, let the sounds of God’s secret and holy Name echo through the depths of the Rocky Mountains, heard the syllables that could only end in apocalypse or salvation.
 
-“…MEH-MEH-MEH-MEH-MEH-MEH!”
+“... MEH-MEH-MEH-MEH-MEH-MEH!”
 
 
 
@@ -11206,7 +11206,7 @@ And of course books. Books lining the walls. The walls were fifty feet high here
 
 His one-year old daughter Sohu was curled up at his feet, grasping her Bible, trying to memorize the thing. She was up to the Song of Songs already, more than halfway done. He approved of this. It kept her quiet.
 
-“I just wanted to spend some time with you,” he told Robin. “Get to, uh, know you better. Since we’re…getting married, and all.”
+“I just wanted to spend some time with you,” he told Robin. “Get to, uh, know you better. Since we’re... getting married, and all.”
 
 She was in a light blue dress. It was, he noticed, the color of a robin’s egg. He wondered if that was intentional. Was it okay to ask if that was intentional?
 
@@ -11214,11 +11214,11 @@ She was in a light blue dress. It was, he noticed, the color of a robin’s egg.
 
 Robin looked skeptical. “Aren’t you busy?”
 
-“No. Well, yes.” He pointed to a map stretched out on his desk. “There is much to do, but many years to do. Like with Moses, this generation cannot be the one to enter the Promised Land. There are too few of us. We have no heavy industry. The collapse and the wars have hit us too hard. We need ten, twenty years to rebuild and reproduce, increase our numbers before we can take the war back to Hell. And there are other things to do in the meantime. Defeating Hell will mean nothing if I cannot destroy it. I must find the Explicit Name of God. They say that only those who can chase down Metatron upon his golden boat can obtain it. I think with enough knowledge it may be possible. I am designing a ship, but it must be perfect. It will take years to get right. And then the war itself. I will need guns, tanks, airships. Strategic nuclear defense systems. An economy to support all of this. And logistics. Marching a million men from Colorado to Siberia will not be easy, even if I can part the Bering Strait, Moses-style. Which I think I can. And…yes, I am busy. But not so busy we cannot talk.”
+“No. Well, yes.” He pointed to a map stretched out on his desk. “There is much to do, but many years to do. Like with Moses, this generation cannot be the one to enter the Promised Land. There are too few of us. We have no heavy industry. The collapse and the wars have hit us too hard. We need ten, twenty years to rebuild and reproduce, increase our numbers before we can take the war back to Hell. And there are other things to do in the meantime. Defeating Hell will mean nothing if I cannot destroy it. I must find the Explicit Name of God. They say that only those who can chase down Metatron upon his golden boat can obtain it. I think with enough knowledge it may be possible. I am designing a ship, but it must be perfect. It will take years to get right. And then the war itself. I will need guns, tanks, airships. Strategic nuclear defense systems. An economy to support all of this. And logistics. Marching a million men from Colorado to Siberia will not be easy, even if I can part the Bering Strait, Moses-style. Which I think I can. And... yes, I am busy. But not so busy we cannot talk.”
 
 “But why are you telling me all this? I thought the whole reason we were getting married was so that you wouldn’t [i]have[/i] to talk to people.”
 
-“I just…wanted your input.”
+“I just... wanted your input.”
 
 “Don’t you have better people to give you input? Generals? Rabbis? Advisors? I can find some people if you want, I have some connections, I can get people from DC or Sacramento over, I’m sure they’d be happy to help you. ”
 
@@ -11226,7 +11226,7 @@ Robin looked skeptical. “Aren’t you busy?”
 
 “I thought we were getting married so you didn’t [i]have[/i] to talk to anyone.”
 
-“I know I don’t have to. I want to. I…hold on a second.”
+“I know I don’t have to. I want to. I... hold on a second.”
 
 The Comet King turned into a lightning bolt and flashed out of the room. He materialized again in front of Father Ellis, who was eating lunch in the dining room with little Caelius and Jinxiang.
 
@@ -11238,7 +11238,7 @@ The Comet King turned into a lightning bolt and flashed out of the room. He mate
 
 “Positive,” said the priest.
 
-Another flash of lightning, and Jalaketu materialized in the study, sitting in front of the pinewood desk. Sohu was reciting Song of Songs to Robin, who was cooing approvingly. “Daughters of Jerusalem…!” Sohu incanted, in as theatrical a voice as a one-year-old could manage. The Comet King glanced at her, and she went silent.
+Another flash of lightning, and Jalaketu materialized in the study, sitting in front of the pinewood desk. Sohu was reciting Song of Songs to Robin, who was cooing approvingly. “Daughters of Jerusalem...!” Sohu incanted, in as theatrical a voice as a one-year-old could manage. The Comet King glanced at her, and she went silent.
 
 “Robin,” he said. “I like you.”
 
@@ -11292,7 +11292,7 @@ The two looked at her. They had forgotten she was there.
 
 “Sohu, leave the room.”
 
-“But Daddy…!”
+“But Daddy...!”
 
 “Leave,” said Jalaketu.
 
@@ -11391,13 +11391,13 @@ Father did a lot of things. He fought demons, he saved cities, he found the Expl
 
 Father couldn’t be dead. It was a trap. Thamiel or someone. Her family’s enemies. The Untied States government. Someone was faking the death of the Comet King. Right?
 
-She remembered their last conversation. He was grim, yes, he’d lost some of his hair, there was an edge to his voice, but…dead? It didn’t make sense. Other people died, and the Comet King mourned or avenged them. The Comet King didn’t die. [i]Father[/i] didn’t die. It was…it was like Uriel dying. The world wouldn’t allow it.
+She remembered their last conversation. He was grim, yes, he’d lost some of his hair, there was an edge to his voice, but... dead? It didn’t make sense. Other people died, and the Comet King mourned or avenged them. The Comet King didn’t die. [i]Father[/i] didn’t die. It was... it was like Uriel dying. The world wouldn’t allow it.
 
 “Uriel,” she said, her throat clenching up, “get me TV, or radio, some kind of news source.”
 
 The angel created ex nihilo a large copper rod, suspended it in the air, then performed some sort of magic around it that turned it into a radio receiver.
 
-“…still recovering from the Battle of Never Summer,” said a crisp male voice in Mid-Atlantic English. “The Comet King’s body was retrieved during the fighting by his daughter Jinxiang and is now lying in state in Colorado Springs. The Other King seems to have been severely wounded as well, and his army has halted their advance into the Rockies. We turn now to…”
+“... still recovering from the Battle of Never Summer,” said a crisp male voice in Mid-Atlantic English. “The Comet King’s body was retrieved during the fighting by his daughter Jinxiang and is now lying in state in Colorado Springs. The Other King seems to have been severely wounded as well, and his army has halted their advance into the Rockies. We turn now to...”
 
 Sohu sent a bolt of lightning at the copper rod, and it tarnished into a beautiful verdant green, then crumbled into dust and fell into the sea below.
 
@@ -11417,9 +11417,9 @@ Sohu floated beneath the sea for one second, then two seconds, then three second
 
 She shot up from the depths, into the light zone, then into open air, then back to the hurricane.
 
-“YOUR ARM IS BLEEDING,” said Uriel. “I CAN FIX…”
+“YOUR ARM IS BLEEDING,” said Uriel. “I CAN FIX...”
 
-“He’s dead,” said Sohu, as she traced letters in the air, causing the bleeding limb to cauterize and heal over into a stump. “He’s really, really dead. I don’t…he can’t…he made me promise I wouldn’t die before him, but I never thought…never thought that…”
+“He’s dead,” said Sohu, as she traced letters in the air, causing the bleeding limb to cauterize and heal over into a stump. “He’s really, really dead. I don’t... he can’t... he made me promise I wouldn’t die before him, but I never thought... never thought that...”
 
 “THERE.” said Uriel. Then he repeated: “THERE.”
 
@@ -11435,7 +11435,7 @@ She shot up from the depths, into the light zone, then into open air, then back 
 
 “I CANNOT GET A GOOD READ ON HIM.”
 
-“You’re practically omniscient! How can you just…not be able to read a whole king?”
+“You’re practically omniscient! How can you just... not be able to read a whole king?”
 
 “I DO NOT KNOW.”
 
@@ -11451,27 +11451,27 @@ She shot up from the depths, into the light zone, then into open air, then back 
 
 “HE CARED ABOUT THE WORLD.”
 
-“That’s not true. That was…an act he put on. He loved his family and his people more than anything.”
+“That’s not true. That was... an act he put on. He loved his family and his people more than anything.”
 
 “I DO NOT BELIEVE YOU ARE RIGHT.”
 
-“When I was little, every night, no matter how bad things were, he’d come and spend time with me and my brother and my sisters. He’d read us stories, or discuss the events of the day with us. He’d come to us with his problems, and ask us how we’d solve them, and then…then…he’d tell us why it wouldn’t work, and Nathanda would always want to negotiate, and Caelius would always want to start some complicated plot, and Jinxiang would always want to fight, and I was too little to even say anything but he’d always just smile at me and say ‘Sohu is right, I should stay very quiet and wait for things to develop further, good job Sohu!’ and kiss me on the cheek, and I would laugh, and everybody would laugh.” Sohu started crying.
+“When I was little, every night, no matter how bad things were, he’d come and spend time with me and my brother and my sisters. He’d read us stories, or discuss the events of the day with us. He’d come to us with his problems, and ask us how we’d solve them, and then... then... he’d tell us why it wouldn’t work, and Nathanda would always want to negotiate, and Caelius would always want to start some complicated plot, and Jinxiang would always want to fight, and I was too little to even say anything but he’d always just smile at me and say ‘Sohu is right, I should stay very quiet and wait for things to develop further, good job Sohu!’ and kiss me on the cheek, and I would laugh, and everybody would laugh.” Sohu started crying.
 
 “I ALSO HAVE A STORY,” said Uriel. “I WANTED TO KNOW WHY HE SENT YOU TO ME. I ASCENDED TO BRIAH AND READ THE OMENS. HE SENT YOU BECAUSE HE THOUGHT THERE WOULD NEED TO BE SOMEBODY TO MAINTAIN THE UNIVERSE IF HE HAD TO KILL ME. HE THOUGHT I WOULD BE ANGRY IF I KNEW THIS. BUT IT DOES NOT BOTHER ME. THERE NEEDS TO BE SOMEONE BESIDES ME. HE WAS RIGHT. THE COMET KING CARED ABOUT THE WORLD. IT WAS ALWAYS FIRST.”
 
-“That…that was who he was. He always wanted what was best for everybody. That was all he ever did. Try to help people.” Sohu started crying harder. “Father…was so sad for his last few years. I always thought…he’d get over it, that he’d meet someone else, that he’d feel happy again. After everything he did, Father deserved to die happy. But he must have…been…so miserable. Uriel, how do you bear it?”
+“That... that was who he was. He always wanted what was best for everybody. That was all he ever did. Try to help people.” Sohu started crying harder. “Father... was so sad for his last few years. I always thought... he’d get over it, that he’d meet someone else, that he’d feel happy again. After everything he did, Father deserved to die happy. But he must have... been... so miserable. Uriel, how do you bear it?”
 
 “BEAR WHAT?”
 
-“The world…is so sad? Mother…gone. Now Father is gone. Thamiel always wins in the end. And the Machinery is going to fail soon, and Father isn’t around to help, and how do you bear it?”
+“The world... is so sad? Mother... gone. Now Father is gone. Thamiel always wins in the end. And the Machinery is going to fail soon, and Father isn’t around to help, and how do you bear it?”
 
 “KNOCK KNOCK.”
 
-“I know one of your books on humans probably says that humor is supposed to cheer us up when we’re sad, but please, not now, I don’t think I could…”
+“I know one of your books on humans probably says that humor is supposed to cheer us up when we’re sad, but please, not now, I don’t think I could...”
 
 “KNOCK KNOCK.”
 
-“…who’s there?”
+“... who’s there?”
 
 “A SPIDER.”
 
@@ -11491,7 +11491,7 @@ In spite of herself, the corners of Sohu’s mouth [i]almost[/i] started to smil
 
 “I NEED YOU.”
 
-“You’re…you’re Uriel. You don’t need anything.”
+“You’re... you’re Uriel. You don’t need anything.”
 
 “I LIKE YOU.”
 
@@ -11574,7 +11574,7 @@ Erica sat up and shrugged. The older man closed the door, turned on the light, a
 
 She thought, then nodded.
 
-“Wait, can he hear us? That thing with your mind…”
+“Wait, can he hear us? That thing with your mind...”
 
 “Doesn’t do anything unless I’m sending it at him. I think. Still new to this. What’s the problem?”
 
@@ -11630,7 +11630,7 @@ Burns turned around, then jumped and gave a little shriek. Magdebuena grinned di
 
 “Oh no,” said Dylan. “Introduce me!”
 
-“First of all, we all know you,” said Clark, “and second, if I were to introduce you, you’d…”
+“First of all, we all know you,” said Clark, “and second, if I were to introduce you, you’d...”
 
 “Not you,” he snapped. “You. McCarthy.”
 
@@ -11686,13 +11686,13 @@ He listened for questions or objections. There were none.
 
 “No no no, wrong! Say ‘I am Erica.'”
 
-“Uh…I am Erica.”
+“Uh... I am Erica.”
 
 “Perfect!” said Dylan. “You hear it? America! This is our narrative! I can’t be the one to do the deed. Soy un Mexicano. But her? She has America right in her name! This is how we’re going to do it. We, the lovable terrorists of BOOJUM, are not going to kill Ms. Ngo. [i]America[/i] is going to kill Ms. Ngo. This will be true literally, symbolically, kabbalistically, placebomantically, and several other ways-ically. That is how everyone needs to understand it. America started UNSONG. And America is going to end it, and let nobody call it unjust. This is why we fight!”
 
 A few cheers. Clark rolled his eyes. Mark McCarthy mouthed [i]He’s crazy[/i] at Erica, who carefully ignored him.
 
-“Now,” said Dylan, “everybody who’ll be participating, get something to eat, catch up on your sleep, call your parents. Tomorrow we fight. But tonight…tonight is our last day in New York. Tonight, we are going to Broadway!”
+“Now,” said Dylan, “everybody who’ll be participating, get something to eat, catch up on your sleep, call your parents. Tomorrow we fight. But tonight... tonight is our last day in New York. Tonight, we are going to Broadway!”
 
 
 
@@ -11752,9 +11752,9 @@ Unbeknownst to him, a group of protestors had unfurled a “FREE REVEREND STEVEN
 
 There were few Coloradan protesters outside, because even then the transit over the Great Plains was difficult, but the President was well-aware that some of his western constituents were far from happy with the amount of support the federal government was giving Colorado. There were even accusations that Washington was trying to stand aside in the hopes that it would prove to be an intra-state conflict and that the Other King wouldn’t bother the Union if the Union didn’t bother him.
 
-“Finally,” said Bush, “we need to remain strong against the threat of terrorism. My good friend Senator Henderson was slain earlier this year in a letter-bombing condemned by all peaceful and civilized people. The terrorists hate what we represent. They hate our freedom. They will stop at nothing to destroy our way of life. But we are fighting back. We’ve identified the cell responsible for the Senator’s death, a group called BOOJUM  led by rogue placebomancer Dylan Alvarez. They’re the same group believed to have conspired with Lord High Magician Mark McCarthy in the murder of the Board of Ritual Magic. But with the help of all the brave people in different government departments and all around the country working on this case, we’ve got Alvarez on the run and are tightening the noose around his neck. Some of these people are here with us tonight. People like Robert Mueller, director of the FBI. Like Michael Gellers, a police officer who successfully defused a BOOJUM bomb in Philadelphia. Like Sonja Horah…”
+“Finally,” said Bush, “we need to remain strong against the threat of terrorism. My good friend Senator Henderson was slain earlier this year in a letter-bombing condemned by all peaceful and civilized people. The terrorists hate what we represent. They hate our freedom. They will stop at nothing to destroy our way of life. But we are fighting back. We’ve identified the cell responsible for the Senator’s death, a group called BOOJUM  led by rogue placebomancer Dylan Alvarez. They’re the same group believed to have conspired with Lord High Magician Mark McCarthy in the murder of the Board of Ritual Magic. But with the help of all the brave people in different government departments and all around the country working on this case, we’ve got Alvarez on the run and are tightening the noose around his neck. Some of these people are here with us tonight. People like Robert Mueller, director of the FBI. Like Michael Gellers, a police officer who successfully defused a BOOJUM bomb in Philadelphia. Like Sonja Horah...”
 
-President Bush spontaneously caught fire. “HELLLPPP!” he screamed as the entire executive, legislative, and judicial branches watched on in horror. “HELLLPPP…HELL…”. By the time Secret Service agents reached him at the podium, he was already a charred corpse.
+President Bush spontaneously caught fire. “HELLLPPP!” he screamed as the entire executive, legislative, and judicial branches watched on in horror. “HELLLPPP... HELL...”. By the time Secret Service agents reached him at the podium, he was already a charred corpse.
 
 In the midst of the word he was trying to say—in the midst of his laughter and glee—he had softly and suddenly vanished away—because Dylan Alvarez had hacked his teleprompter to display the Mortal Name.
 
@@ -11888,7 +11888,7 @@ Now he was [i]really[/i] angry. He spread himself across all the worlds and seph
 
 “YOU ARE NOT ENTIRELY IN HELL. YOU ARE ONLY SORT OF IN HELL. YOU ARE UNLEASHING THE ENERGY OF THE SHEM HAMEPHORASH PARTLY INTO THE ORDINARY WORLD. THERE ARE ALREADY TOO MANY CRACKS. SING AGAIN AND THE SKY WILL SHATTER.”
 
-“I’m trying to aim at Hell,” said the Comet King. “Not sure where I am…but it’s close. If I can get enough power…”
+“I’m trying to aim at Hell,” said the Comet King. “Not sure where I am... but it’s close. If I can get enough power...”
 
 “THEN YOU WILL SHATTER THE SKY,” said Uriel. “THIS IS NOT A MATTER OF POWER. WHAT YOU ARE DOING IS FUNDAMENTALLY ILL-ADVISED. STOP.”
 
@@ -11900,7 +11900,7 @@ Now he was [i]really[/i] angry. He spread himself across all the worlds and seph
 
 “YES. IT MADE SENSE AT THE TIME. NOW WE ARE HERE OBSERVING FIRST-HAND. I AM TELLING YOU THERE ARE MORE GATES THAN WE THOUGHT. SOME OF THEM ARE CLOSED. YOU CANNOT GET THROUGH THEM.”
 
-“If I just give it more power…”
+“If I just give it more power...”
 
 “THAMIEL IS A FACET OF GOD. BRUTE STRENGTH WILL NOT SUFFICE AGAINST HIM.”
 
@@ -11948,7 +11948,7 @@ Now he was [i]really[/i] angry. He spread himself across all the worlds and seph
 
 “PLEASE,” said Uriel. “SOME OF THE GATES MAY SHUT AGAIN, IN TIME. YOU WOULD BE TRAPPED DOWN HERE.”
 
-“So what? So you want me to give up? Lead a million men all the way to Siberia and let however many of them die and then just [i]give up?[/i] Just because…”
+“So what? So you want me to give up? Lead a million men all the way to Siberia and let however many of them die and then just [i]give up?[/i] Just because...”
 
 “IF YOU RETURN TO THE LIVING WORLD PERHAPS WE CAN FIGURE OUT A SOLUTION.”
 
@@ -11966,7 +11966,7 @@ His men started to cheer. Some of them blew horns. A few started singing verses 
 
 Most of them couldn’t hear him, but a few caught the gist of his message. One by one, the songs wavered, but they didn’t die, his men still singing, sure that there must be something worth singing about. A few cried out, or raised banners, or started cheering on general principle.
 
-“Don’t bring me back to them,” the Comet King said, almost sobbing. “Take me somewhere else…can’t face them, just now.” Uriel looked down at him, tilted his colossal head in a gesture of confusion. “Just for now,” he said. “Just for a few hours. Somewhere I can think. Give me time to think, Uriel.”
+“Don’t bring me back to them,” the Comet King said, almost sobbing. “Take me somewhere else... can’t face them, just now.” Uriel looked down at him, tilted his colossal head in a gesture of confusion. “Just for now,” he said. “Just for a few hours. Somewhere I can think. Give me time to think, Uriel.”
 
 The archangel deposited Jalaketu on a hill a few miles outside of camp. Then he gave a long sigh.
 
@@ -11976,7 +11976,7 @@ The archangel deposited Jalaketu on a hill a few miles outside of camp. Then he 
 
 “YES,” said Uriel. “ARE YOU OKAY?”
 
-“Sort of. I need to think. It’s not a total loss. We still have the army. The military action went well. Better than expected. We can hold onto Baikal while we try to figure out where to go from here. I can convince people to…wait…oh no. [i]Oh no.[/i]”
+“Sort of. I need to think. It’s not a total loss. We still have the army. The military action went well. Better than expected. We can hold onto Baikal while we try to figure out where to go from here. I can convince people to... wait... oh no. [i]Oh no.[/i]”
 
 “WHAT?” asked Uriel.
 
@@ -12074,9 +12074,9 @@ The look on his face shut her up. This was not a personal visit, and whatever th
 
 She took his hand, and the two of them turned to lightning and then were atop a different spire, on the other side of the Garden, far from everyone else.
 
-“Bad news?” she asked. “We heard…we heard you destroyed Yakutsk. We got the pictures and everything. What’s wrong?”
+“Bad news?” she asked. “We heard... we heard you destroyed Yakutsk. We got the pictures and everything. What’s wrong?”
 
-Jala nodded. “The other part,” he said. “Seems to be…ah…seems to be…”
+Jala nodded. “The other part,” he said. “Seems to be... ah... seems to be...”
 
 Robin waited.
 
@@ -12084,7 +12084,7 @@ Robin waited.
 
 “What?” asked Robin.
 
-“I tried,” said the Comet King. “Many times. Under Lake Baikal. Uriel had to stop me. Said if I did it any more I’d probably destroy the world. There were more gates than we thought. Some of them are…seem impregnable.”
+“I tried,” said the Comet King. “Many times. Under Lake Baikal. Uriel had to stop me. Said if I did it any more I’d probably destroy the world. There were more gates than we thought. Some of them are... seem impregnable.”
 
 “So how are you going to destroy Hell, then?” asked Robin.
 
@@ -12092,7 +12092,7 @@ The Comet King just looked at her hopelessly, almost like he was too terrified t
 
 A moment of silence.
 
-“I…I thought you should be the first to know,” he said.
+“I... I thought you should be the first to know,” he said.
 
 “No,” said Robin, “that’s silly. You need to figure out a better way. Ask Uriel.”
 
@@ -12110,11 +12110,11 @@ A moment of silence.
 
 [i]“I asked,”[/i] said the Comet King, and for the first time through her own confusion Robin heard the note of despair in his voice.
 
-“Ask the other chief rabbi! Aren’t there always two? Ask the…”
+“Ask the other chief rabbi! Aren’t there always two? Ask the...”
 
 The Comet King put his arms around Robin and whispered “I’m sorry”.
 
-“No. Figure something out. Can’t you just…be really evil? Then die? That has to work. It’s not even Thamiel’s law. It’s God’s.”
+“No. Figure something out. Can’t you just... be really evil? Then die? That has to work. It’s not even Thamiel’s law. It’s God’s.”
 
 “I asked Uriel,” said the Comet King. “He said it wouldn’t work. Doing evil for a greater good, because I want to save the world. It wouldn’t count.”
 
@@ -12185,11 +12185,11 @@ And wrapped in fabrics Red as sunset flame.<br/>
 Throngs pressed around, frantic for his commands,<br/>
 But leaving, could not tell what they had heard:<br/>
 While through the nations spread the awestruck word<br/>
-That wild beasts followed him and licked his hands…
+That wild beasts followed him and licked his hands...
 </blockquote>
 Or that the same prophecy ended:
 
-<blockquote>…then, crushing what he had chanced to mould in play,<br/>
+<blockquote>... then, crushing what he had chanced to mould in play,<br/>
 The idiot Chaos blew Earth’s dust away.
 </blockquote>
 
@@ -12198,7 +12198,7 @@ The idiot Chaos blew Earth’s dust away.
 
 
 
-## Chapter 57: Now Taking On Ahania’s Form…
+## Chapter 57: Now Taking On Ahania’s Form...
 
 <blockquote>
 The word of the LORD is a great deal of research activity in this area, and probabilistic algorithms have been fruitfully applied.<br/>
@@ -12216,7 +12216,7 @@ So we walked through sunless streets until we reached a building on the perimete
 
 We started working. Usually the hardest part of these things is to add up the gematria value of all the different subsets of letters, but of course Sarah did it instantly. The second-hardest part was figuring out which chapter of the books had the equations you needed, but Sohu had a photographic memory and would think for a second, pull a volume off the fourth shelf on the far wall, open it up to chapter sixteen, and put her finger halfway down the first page.
 
-“Um,” I said, trying to think quickly, “maybe if we see which Goldblum subsets are invariant under a temurah transformation, we could…” But Sohu interrupted. “For a non-supernally based Name like this one, that’s equivalent to a basic transformation of phonetic triplets,” she said. “Maharaj, 1992.” And before I could ask how she even knew that applied here, Sarah announced to us that all of the phonetic triplets checked out. By that point Sohu’s attention had been lost, and on she went to the next book, the next theory. “Any corresponding Psalms?” she asked, and before I could even remember exactly how many psalms there were Sarah shook her head and said that none of them corresponded.
+“Um,” I said, trying to think quickly, “maybe if we see which Goldblum subsets are invariant under a temurah transformation, we could...” But Sohu interrupted. “For a non-supernally based Name like this one, that’s equivalent to a basic transformation of phonetic triplets,” she said. “Maharaj, 1992.” And before I could ask how she even knew that applied here, Sarah announced to us that all of the phonetic triplets checked out. By that point Sohu’s attention had been lost, and on she went to the next book, the next theory. “Any corresponding Psalms?” she asked, and before I could even remember exactly how many psalms there were Sarah shook her head and said that none of them corresponded.
 
 “Sarah,” Sohu finally said, “how carefully did you confound Aaron’s memory?”
 
@@ -12228,7 +12228,7 @@ We started working. Usually the hardest part of these things is to add up the ge
 
 Sohu groaned.
 
-“Okay,” she finally said. “We’ll reconfigure the sephirot into partzufim and try it that way.” She started calculating furiously. “Lose the ayin,” she muttered to herself, “carry the tav, and…”.
+“Okay,” she finally said. “We’ll reconfigure the sephirot into partzufim and try it that way.” She started calculating furiously. “Lose the ayin,” she muttered to herself, “carry the tav, and...”.
 
 Sarah interrupted. “And it just stays the same.”
 
@@ -12262,7 +12262,7 @@ Sarah seemed just a little too happy. I started to wonder how honest she was bei
 
 She raised an eyebrow.
 
-“It’s called Sacred Kabbalistic Marriage of Minds,” I said. “Uh, SCABMOM. My friend Ana discovered it hiding in the later additions to the Gospel of John. A combination placebomantic-kabbalistic ritual. First you draw a magic circle, then you say a Name you derive from John, then you say these vows about how God is one and we are one. After that you can…”
+“It’s called Sacred Kabbalistic Marriage of Minds,” I said. “Uh, SCABMOM. My friend Ana discovered it hiding in the later additions to the Gospel of John. A combination placebomantic-kabbalistic ritual. First you draw a magic circle, then you say a Name you derive from John, then you say these vows about how God is one and we are one. After that you can...”
 
 I wasn’t prepared for Sohu to start laughing.
 
@@ -12278,7 +12278,7 @@ Sohu quieted down. “I wasn’t laughing at you,” she said. “And I already 
 
 My head spun. She knew about SCABMOM? Then another thought. “Wait,” I said. “I’m already kabbalistically m—I’ve already done the ritual with somebody. Does that complicate things?”
 
-“Doubt it!” said Sohu. “Solomon had seven hundred wives, remember?” She giggled again. “Kabbalistic marriage…I’ll go get supplies.”
+“Doubt it!” said Sohu. “Solomon had seven hundred wives, remember?” She giggled again. “Kabbalistic marriage... I’ll go get supplies.”
 
 She vanished in a flash of light.
 
@@ -12296,9 +12296,9 @@ Oh, right. I should have predicted this. I put my arms around her, kissed her ch
 
 Sohu mercifully chose that moment to return with the supplies. Sarah turned her face into a mask, better than any human could have. We cleared out of the way as she started drawing the magic circle from memory. It was the same one I had seen Ana draw. I took a piece of chalk and joined in. No help for it, I figured.
 
-“I, Sohu West, in full knowledge of the consequences, call upon the symbols and angels of the world…”
+“I, Sohu West, in full knowledge of the consequences, call upon the symbols and angels of the world...”
 
-“I, Aaron Smith-Teller, in full knowledge of the consequences, call upon the symbols and angels of the world…”
+“I, Aaron Smith-Teller, in full knowledge of the consequences, call upon the symbols and angels of the world...”
 
 And so we went, with Sarah staring at us motionless outside the circle.
 
@@ -12320,7 +12320,7 @@ And so we went, with Sarah staring at us motionless outside the circle.
 
 The circle flared brighter and higher than I’d ever seen before, probably because Sohu had constructed it ten times better than the quick job Ana and I had done back in her bedroom. Sarah still just watched, but looked like she might snap at any moment. I sat down at the table, rubbed my temples.
 
-“We’ll try this again,” said Sohu. “Look into my eyes…”
+“We’ll try this again,” said Sohu. “Look into my eyes...”
 
 
 
@@ -12328,7 +12328,7 @@ The circle flared brighter and higher than I’d ever seen before, probably beca
 
 
 
-## Chapter 58: …And Now The Form Of Enion
+## Chapter 58: ... And Now The Form Of Enion
 
 <blockquote>
 The LORD is greater than or equal to the expression involving f(y)<br/>
@@ -12455,7 +12455,7 @@ I let my mind wander.
 
 [open-bracket]You’re really upset by this Acher thing.]
 
-[open-bracket]I think…yeah. It’s the idea of something you can’t think your way out of. Something so slippery that just trying to think your way out of it ensures you’ll fail. It just feels…wrong.]
+[open-bracket]I think... yeah. It’s the idea of something you can’t think your way out of. Something so slippery that just trying to think your way out of it ensures you’ll fail. It just feels... wrong.]
 
 [open-bracket]I don’t know,] Ana answered. [open-bracket]To me it feels, I guess kind of perfect. Does that make sense?]
 
@@ -12467,7 +12467,7 @@ I let my mind wander.
 
 [open-bracket]What about actually being good?]
 
-[open-bracket]That’s not an action you can just…take! If you’re not already good, any impetus to becoming good has to come from wanting the consequences.]
+[open-bracket]That’s not an action you can just... take! If you’re not already good, any impetus to becoming good has to come from wanting the consequences.]
 
 [open-bracket]I think the traditional Jewish answer,] thought Ana [open-bracket]is that you can start by being good for the wrong reasons, but then the changes will stick and make you the sort of person who does things for the right reasons.]
 
@@ -12584,11 +12584,11 @@ I was holding a copy of C. S. Lewis’ [i]The Lion, The Witch, And The Wardrobe[
 
 “The lion represents Trump. He’s big and predatory and has a mane of golden hair. Heck, even the political cartoonists have got this one; they’ve been drawing the theme of the lion attacking the elephant all year. The witch represents Hillary. She’s a powerful but widely-disliked old woman.”
 
-“…and so, since the lion defeats the witch in the end, Trump is going to win the election?” asked Eli Foss.
+“... and so, since the lion defeats the witch in the end, Trump is going to win the election?” asked Eli Foss.
 
 “At least let me finish my explanation! The wardrobe is the Presidency. Everything about the executive branch is wardrobe-themed. The Cabinet. The various Bureaus. So [i]The Lion, the Witch, and the Wardrobe[/i] is a book about Trump, Hillary, and the Presidency.”
 
-“…and so Trump beats Hillary because Aslan…”
+“... and so Trump beats Hillary because Aslan...”
 
 “Hold your horses! Narnia corresponds to America. We know this because a bunch of English people get in a big wooden container and end up in a freezing forested land far away that they know nothing about. That’s basically the story of how America was founded in the first place. The four children represent the four great English migrations to the New World—read [i]Albion’s Seed[/i].”
 
@@ -12642,7 +12642,7 @@ I was holding a copy of C. S. Lewis’ [i]The Lion, The Witch, And The Wardrobe[
 
 #### III.
 
-Upon Obama’s election, I had commented that a Lovecraft poem beginning “And at the last, from Inner Egypt…” seemed to predict that he would be the final President. I was wrong. The prophecy was overruled by a higher authority, the Bible itself, which simply says (1 Corinthians 15:52) “At the last, Trump”.
+Upon Obama’s election, I had commented that a Lovecraft poem beginning “And at the last, from Inner Egypt...” seemed to predict that he would be the final President. I was wrong. The prophecy was overruled by a higher authority, the Bible itself, which simply says (1 Corinthians 15:52) “At the last, Trump”.
 
 The word King James’ scholars translated as “trump” is Greek [i]salpinx[/i] / Hebrew [i]shofar[/i], which receives various other English translations in different verses. If we interpret it to mean Trump each time, we get all sorts of other interesting prophecies. For example, Isaiah 27:13 says that in the day of “a great Trump”, there “shall come those which were ready to perish in the land of Assyria”, which is a clearer description of Iraqi refugees trying to enter the country than you would have expected from someone living in 600 BC.
 
@@ -12667,7 +12667,7 @@ When she thought about it, Erica guessed it made sense for terrorists to hold dr
 
 Less reasonable was Dylan Alvarez’s insistence on sitting in a director’s chair, holding a clapperboard, and starting out with a “Lights, camera, action!”. But placebomancy, she figured, was so closely allied to acting as to be another branch of showmanship.
 
-“The Assassination Of Malia Ngo,” Dylan said. “Take seventeen. Our plucky young heroine Erica Lowry has, with the help of her mysterious friends, learned a Name that allows its speaker to become invisible at will. Our dashing and incredibly handsome hero, Dylan Alvarez, has rescued her and convinced her to use her powers for the side of g…of chaotic neutral. Our heroes are in a nondescript white van parked outside UN headquarters. Due to their sixteen previous dress rehearsals, they know exactly what to do. Lights, camera, action!”
+“The Assassination Of Malia Ngo,” Dylan said. “Take seventeen. Our plucky young heroine Erica Lowry has, with the help of her mysterious friends, learned a Name that allows its speaker to become invisible at will. Our dashing and incredibly handsome hero, Dylan Alvarez, has rescued her and convinced her to use her powers for the side of g... of chaotic neutral. Our heroes are in a nondescript white van parked outside UN headquarters. Due to their sixteen previous dress rehearsals, they know exactly what to do. Lights, camera, action!”
 
 They were in a Broadway theater, next to a pretty good mockup of the interior hallways of UN Headquarters. Alvarez had supposedly convinced a series of investors that his new play, “Unsong: The Musical” was going to be a fantastic hit, apparently even spontaneously breaking into some of the planned musical numbers during his sales pitch. As a result, he’d gotten the money he needed to rent a theater and create a made-to-order replica of their target. Erica had no idea [i]when[/i] he’d done this. Yesterday? This afternoon? Months in advance, just in case? Maybe he was lying about everything and there was a mockup of UNSONG ready here for some other reason?
 
@@ -12685,7 +12685,7 @@ The invisible invaders, having snuck through the open doors of the United Nation
 
 At the head of their train of invisible people, Deas opened the door.
 
-“Oh, what’s this?” said Dylan, sitting behind a desk wearing an outrageously large black wig. “My door seems to be opening of its own accord. I suppose I will just have to call for security and wait to be rescued like the poor little defenseless maiden that I…”
+“Oh, what’s this?” said Dylan, sitting behind a desk wearing an outrageously large black wig. “My door seems to be opening of its own accord. I suppose I will just have to call for security and wait to be rescued like the poor little defenseless maiden that I...”
 
 As he started speaking he grabbed an AK-47 from under his desk, and halfway through the sentence he jerked it up and made shooting noises. “Pow! Pow! Pow! You’re all super dead!”
 
@@ -12709,7 +12709,7 @@ This time [i]everyone[/i] glared at him.
 
 “And if this happens, what do we do?” asked Erica.
 
-“An excellent question! I happen to have consulted Lord High Magician Mark McCarthy on this very topic and the two of us have come up with some interesting ideas.” Dylan took off his wig, exited stage right, and came back with a bag marked RELICS. He dug through it, throwing various strange and unpleasant-looking body parts aside. “Mmmm….pancreas of St. Pancras…Saul of Tarsus’s tarsals…facial bones of St. Boniface…no, it’s with the  secular stuff.” He took out a different bag. “Aristotle’s pupil…J. S. Bach’s well-tempered clavicle…aha!”
+“An excellent question! I happen to have consulted Lord High Magician Mark McCarthy on this very topic and the two of us have come up with some interesting ideas.” Dylan took off his wig, exited stage right, and came back with a bag marked RELICS. He dug through it, throwing various strange and unpleasant-looking body parts aside. “Mmmm... pancreas of St. Pancras... Saul of Tarsus’s tarsals... facial bones of St. Boniface... no, it’s with the  secular stuff.” He took out a different bag. “Aristotle’s pupil... J. S. Bach’s well-tempered clavicle... aha!”
 
 A vial of blood.
 
@@ -12731,7 +12731,7 @@ Dylan shut off the sound machine.
 
 “One more time,” he said, and climbed out of the model UN back into his director’s chair.
 
-“The Assassination Of Malia Ngo,” said Dylan Alvarez. “Take eighteen. Having previously been defeated by ball bearings, a light coating of flour, small dogs, the janitor, a middle-aged female bureaucrat, and their own feet, the intrepid heroes of BOOJUM dust themselves off, wipe their own blood up from the floor, and prepare once again to save the world from the plutocratic tyranny of UNSONG. Lights…camera…action!”
+“The Assassination Of Malia Ngo,” said Dylan Alvarez. “Take eighteen. Having previously been defeated by ball bearings, a light coating of flour, small dogs, the janitor, a middle-aged female bureaucrat, and their own feet, the intrepid heroes of BOOJUM dust themselves off, wipe their own blood up from the floor, and prepare once again to save the world from the plutocratic tyranny of UNSONG. Lights... camera... action!”
 
 They navigated carefully through the ball bearings. They trod around the flour. Erica spoke the Fluvial Name to deflect a swarm of angry bees, and they carefully avoided touching the jeweled idol that Dylan had placed just outside the elevator. For the second time, they came to the door marked MALIA NGO, DIRECTOR. Five invisible terrorists prepared their weapons. Clark, gun in hand, reached very carefully for the door.
 
@@ -12795,7 +12795,7 @@ For a second, she stared into the Cometspawn’s eyes. Something invisible passe
 
 “Deny it!” said Clark. “Maybe she’ll keep some respect for you!”
 
-“I deny being married to Dylan,” Erica told Sohu. But the Cometspawn had already floated over to Dylan’s director chair. “MIHAN-TAIG-SAROS-ATHTEN-GAHANOR…” she started. The Confounding Name. Dylan’s eyes glassed over briefly.
+“I deny being married to Dylan,” Erica told Sohu. But the Cometspawn had already floated over to Dylan’s director chair. “MIHAN-TAIG-SAROS-ATHTEN-GAHANOR...” she started. The Confounding Name. Dylan’s eyes glassed over briefly.
 
 “There,” she said. “Pretty sure the Universe owes me big for that one. And you too.” She spoke the same word to Erica. “Be glad I don’t have time to deal with whatever else is going on here. But I got what I needed.”
 
@@ -12809,7 +12809,7 @@ For a second, all was quiet. Then: “That was the most feckin’ pointless thin
 
 “Just glad to be done with this mess,” said Brenda.
 
-“Done? My dear Ms. Burns, we have not yet begun to fight!” Dylan Alvarez sat down on the director’s chair again. “The Assassination Of Malia Ngo. Take nineteen. Having previously tested themselves against ball bearings, dogs, jeweled idols, and an immortal quarter-archangel eight-year-old girl seeking secret Names of God, the intrepid heroes of BOOJUM stop complaining, drop their grievances against their wise and exceptionally handsome leader, and prepare once again to save the world from the plutocratic tyranny of UNSONG. Lights…camera…” He pulled the noise machine out from underneath his chair. “YEEYEEYEEYEEYEEYEEYEE!”
+“Done? My dear Ms. Burns, we have not yet begun to fight!” Dylan Alvarez sat down on the director’s chair again. “The Assassination Of Malia Ngo. Take nineteen. Having previously tested themselves against ball bearings, dogs, jeweled idols, and an immortal quarter-archangel eight-year-old girl seeking secret Names of God, the intrepid heroes of BOOJUM stop complaining, drop their grievances against their wise and exceptionally handsome leader, and prepare once again to save the world from the plutocratic tyranny of UNSONG. Lights... camera...” He pulled the noise machine out from underneath his chair. “YEEYEEYEEYEEYEEYEEYEE!”
 
 
 
@@ -12831,11 +12831,11 @@ There is free memory available into which we can design our programs, to increas
 
 It could have been that she was pretty once. Now her face was sunken, her head hairless. Her arm was hung in a cast, and she looked terribly frail.
 
-“You’re the ritual magician?” she asked. “But you look so…”
+“You’re the ritual magician?” she asked. “But you look so...”
 
 “So young? Twenty. And that’s ‘apprentice ritual magician’ to you. Technically I’m not even allowed to do consultations on my own. And yet here we are.”
 
-“I asked a friend for the best ritualist in Greater Colorado who was, you know…”
+“I asked a friend for the best ritualist in Greater Colorado who was, you know...”
 
 “Unencumbered by ethics? Well, like I said, here we are.”
 
@@ -12861,7 +12861,7 @@ Well, that was unexpected. He always liked a change of pace.
 
 “Yes.”
 
-She looked familiar. Alvarez squinted. If she had a little more flesh on her bones, a bit more hair, then…he still wouldn’t be able to place her. Damn.
+She looked familiar. Alvarez squinted. If she had a little more flesh on her bones, a bit more hair, then... he still wouldn’t be able to place her. Damn.
 
 “I understand a summoning doesn’t really bring him here, right? Not in a way where he could destroy anything later, or infiltrate the city?”
 
@@ -12935,7 +12935,7 @@ A tall dark man appears in the circle. A crown of fire is on his head. His facia
 
 He paused a second for effect.
 
-“…is what I would say if I were a moron. I am [i]Prince of Lies[/i], Robin West. Don’t [i]ever[/i] try to deceive me.” He stepped out of the magic circle, strode up close to her. “These things don’t actually bind me, you know. The books of black magic say they do, but nobody ever thinks to ask who wrote the books of black magic.”
+“... is what I would say if I were a moron. I am [i]Prince of Lies[/i], Robin West. Don’t [i]ever[/i] try to deceive me.” He stepped out of the magic circle, strode up close to her. “These things don’t actually bind me, you know. The books of black magic say they do, but nobody ever thinks to ask who wrote the books of black magic.”
 
 “I want to make a deal,” whispered Robin.
 
@@ -12995,7 +12995,7 @@ The laughter stopped. “Really?”
 
 “Really.”
 
-“What would you possibly…”
+“What would you possibly...”
 
 “So that nobody will ever say I did it because I was deluded. I’ll do it, but show me your true form.”
 
@@ -13049,7 +13049,7 @@ Nathanda nodded. “Sohu?” she asked.
 
 My first day of kabbalistic marriage to Sohu West had been quiet. I’d gotten the impression that after getting the Name she’d deliberately blocked herself off from my mind, maybe out of a desire not to intrude. If she’d invented SCABMOM—something I still found hard to believe—might she be able to reverse it? I wondered what sort of spectacular Names I would find if I dove into her mind too deeply. For now, that wasn’t something I wanted to think about.
 
-“Thanks to some…unorthodox tactics, we’ve pieced the Vital Name back together,” she said. “Is everybody ready?”
+“Thanks to some... unorthodox tactics, we’ve pieced the Vital Name back together,” she said. “Is everybody ready?”
 
 Jinxiang was holding a very big weapon, maybe a rocket launcher, eying THARMAS suspiciously. Not taking any chances, I guessed. She tightened her grip. “I’m ready,” she said.
 
@@ -13057,15 +13057,15 @@ Vihaan looked like he hadn’t slept for a while. In contrast to Nathanda’s si
 
 I didn’t know if anyone cared whether Sarah and I were ready, but I squeezed her hand and said “We’re ready too.”
 
-Sohu stood in front of the supercomputer and started to sing. She began: “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN…”
+Sohu stood in front of the supercomputer and started to sing. She began: “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN...”
 
 Caelius stared at the terminal. As soon as the process started, THARMAS would be generating Names every few seconds.
 
-“…MEH-MEH-MEH-MEH-MEH-MEH!”
+“... MEH-MEH-MEH-MEH-MEH-MEH!”
 
 Nothing looked different except Sohu’s eyes, which glassed over for a split second. For a moment we all just stood there, silently. Then a gong sounded.
 
-“Our first Name!” said Caelius. “Let’s see if…”
+“Our first Name!” said Caelius. “Let’s see if...”
 
 Then another gong. Then another. Then a fourth. Then Uncle Vihaan ran towards the computer as fast as he could. “CAELIUS GET AWAY!” he shouted. “What the—” asked Caelius, but Vihaan grabbed him and threw him aside as the old man pulled on something hidden in his suit jacket and exploded and then everything was light and heat and pain.
 
@@ -13091,7 +13091,7 @@ I opened my eyes. Sohu was standing over me, shaking me awake. I said something 
 
 I drew myself together, got all the lobes of my brain online.
 
-“Mmmmghf…four.”
+“Mmmmghf... four.”
 
 “What do an apple and orange have in common?”
 
@@ -13105,17 +13105,17 @@ The room was full of guards and soldiers. Jinxiang was talking to them. She had 
 
 “Caelius!” Nathanda was saying, “You moron! You’ve got to get a doctor!”
 
-“Got to…fix THARMAS,” he was saying.
+“Got to... fix THARMAS,” he was saying.
 
 General Bromis had come in with even more soldiers. “What’s going on?” he demanded.
 
-“Vihaan,” said Jinxiang, who I think was the first to fully piece the situation together. “We were trying a…very important new piece of technology. Vihaan knew about it. He must have filled his jacket with explosives and blown himself up to stop it.”
+“Vihaan,” said Jinxiang, who I think was the first to fully piece the situation together. “We were trying a... very important new piece of technology. Vihaan knew about it. He must have filled his jacket with explosives and blown himself up to stop it.”
 
 Bromis turned pale. “Why would [i]Vihaan[/i] do that?”
 
-“I don’t know!” Jinxiang protested. I don’t think the tears in her eyes were from the explosion. Vihaan had been her great-uncle, had helped raise her and her brothers and sisters when the Comet King and their stepmother had been too busy with matters of state. “He must have been…working for someone else. He knew this would happen today. He would have had time to contact them, and—“. She looked too horrified to continue.
+“I don’t know!” Jinxiang protested. I don’t think the tears in her eyes were from the explosion. Vihaan had been her great-uncle, had helped raise her and her brothers and sisters when the Comet King and their stepmother had been too busy with matters of state. “He must have been... working for someone else. He knew this would happen today. He would have had time to contact them, and—“. She looked too horrified to continue.
 
-“He only blew himself up,” Caelius added, “when the computer started producing Names. Like he was hoping he wouldn’t have to, but once he learned we were going to succeed…” It was hard to follow Caelius’ words; I still couldn’t believe he was alive and talking. Don’t look at his face, I told myself, but I looked anyway and almost gagged.
+“He only blew himself up,” Caelius added, “when the computer started producing Names. Like he was hoping he wouldn’t have to, but once he learned we were going to succeed...” It was hard to follow Caelius’ words; I still couldn’t believe he was alive and talking. Don’t look at his face, I told myself, but I looked anyway and almost gagged.
 
 “Bromis,” said Nathanda, “I need you and your people to do a full check on Vihaan. Every communication he’s made since Father’s death. All his activities. Don’t worry about warrants for now. Ellis’s too, if you still have them, the two of them were always close. If the Other King has a network of spies here, we’ve got to catch them before they can do any more damage.”
 
@@ -13123,13 +13123,13 @@ While she was talking, Caelius had already limped over to the remnants of THARMA
 
 “Caelius!” ordered Nathanda, “you go to the medical center, right now!”
 
-“You…don’t understand,” her brother said feverishly, connecting wire to wire. “This is THARMAS. It was Father’s computer. But it’s more than that. This is the watcher in the darkness. This is what guards North America, keeps it safe. Without this, anybody could—”
+“You... don’t understand,” her brother said feverishly, connecting wire to wire. “This is THARMAS. It was Father’s computer. But it’s more than that. This is the watcher in the darkness. This is what guards North America, keeps it safe. Without this, anybody could—”
 
 “Oh God,” said Nathanda. “Cael, you’re hurt. You’re delusional. Sohu, get a hold of him and bring him to the medical center, [i]please[/i].”
 
 Sohu took a step toward Caelius just as he plugged one cable into another and Citadel West turned into a maelstrom of frantic light and noise.
 
-For a second I thought there had been another explosion. But the sensory overload resolved itself into the most powerful alarm I had ever heard. An alarm suitable for…
+For a second I thought there had been another explosion. But the sensory overload resolved itself into the most powerful alarm I had ever heard. An alarm suitable for...
 
 North American airspace flickered back on the screen. But the familiar image was blemished. A flashing red dot appeared near Las Vegas. What was left of THARMAS groaned and refreshed the display. The dot moved very slightly east.
 
@@ -13165,7 +13165,7 @@ As far as I could tell, all the Cometspawn had already reasoned that Vihaan was 
 
 Sarah’s face was emotionless, as it had been ever since we came in. I wondered if the radiation blast from a detonation right on top of us would wipe her memory even if the citadel stayed safe. I squeezed her hand. She didn’t respond.
 
-“Caelius!” Nathanda suddenly decided. “How quickly can you get THARMAS producing Names again? If we can get some good ones before the nuke hits, maybe…”
+“Caelius!” Nathanda suddenly decided. “How quickly can you get THARMAS producing Names again? If we can get some good ones before the nuke hits, maybe...”
 
 “Working on it!” said Caelius. “There was a lot of damage to the parts that had Llull, I’ve got to reinstall parts of this from scratch. It’ll take minutes. Not hours.”
 
@@ -13273,7 +13273,7 @@ For a second, they all just stood there.
 
 “Not like anyone can see us now.”
 
-“It’s the principle of the thing. Anyway, I have a flashlight in my pocket…one second…there.”
+“It’s the principle of the thing. Anyway, I have a flashlight in my pocket... one second... there.”
 
 It remained pitch black.
 
@@ -13361,7 +13361,7 @@ Brenda Burns spoke the Fulminant Name and shot a lightning bolt at Malia Ngo. It
 
 “I challenge you to a placebomantic duel!” Dylan repeated, and everyone continued to ignore him.
 
-Mark McCarthy was doing…something…with his hands and his staff. Malia Ngo sliced at him with the fiery sword she had summoned, and the sword seemed to dull and fizzle. She cursed, then spoke the Incendiary Name. It missed Mark. Another corner of the office went up in flames.
+Mark McCarthy was doing... something... with his hands and his staff. Malia Ngo sliced at him with the fiery sword she had summoned, and the sword seemed to dull and fizzle. She cursed, then spoke the Incendiary Name. It missed Mark. Another corner of the office went up in flames.
 
 “I challenge you to a placebomantic duel!” said Dylan again. Brenda and Malia turned to face each other. Clark Deas looked like he would have facepalmed if he hadn’t been on fire.
 
@@ -13369,7 +13369,7 @@ Erica was saying something, but tripped over a syllable and cursed. Clark grabbe
 
 “I challenge you to a placebomantic duel!” Dylan kept trying to say, over the din.
 
-Clark finally scored a direct hit on Malia’s skull, but it only seemed to make her angry. Erica spoke the Tempestous Name, which was a terrible idea. Everything stopped for a few brief seconds as the wind flung fire and paper and paper-that-was-on-fire around the room. The window shattered, and Malia caught herself just in time to avoid being flung out of it. “I chall…mmmmph!” said Dylan, as a burning piece of paper almost flew into his mouth.
+Clark finally scored a direct hit on Malia’s skull, but it only seemed to make her angry. Erica spoke the Tempestous Name, which was a terrible idea. Everything stopped for a few brief seconds as the wind flung fire and paper and paper-that-was-on-fire around the room. The window shattered, and Malia caught herself just in time to avoid being flung out of it. “I chall... mmmmph!” said Dylan, as a burning piece of paper almost flew into his mouth.
 
 Mark and Malia spoke Names at each other at the same time. The Fulminant Name hit Malia, seemed to half-knock her out. The Kinetic Name hit Mark and flung him out the shattered window. Dylan stared for a second, his mouth open in horror.
 
@@ -13401,7 +13401,7 @@ He waited to see if someone would say “For him?” Malia and Clark just stared
 
 He leaned on his staff, let out a sigh.
 
-“If you have to know—I was born in a nice suburb of San Diego. My father was a Mexican-American businessman, my mother was a schoolteacher. My childhood was happy. I was prom king of my high school.” He struck the floor with his staff. “[i]Prom king[/i]. And this is the point where I’m supposed to tell you the one day it all went wrong, but there [i]wasn’t one[/i], I kept being secure and happy while everything else burned around me. That was the part I could never accept. Knowing that I was on an island of comfort in the middle of—” He gestured to the city outside, which was starting to burn in earnest now. “There were times I wished I could be like Mark, wished that I could just shrug off all the injustice of the world and be like…” He half-sat, half-slid into Ngo’s desk chair, placed her coffee mug theatrically in front of him, and announced in the middle of the encroaching flames “[i]This is fine.[/i]”
+“If you have to know—I was born in a nice suburb of San Diego. My father was a Mexican-American businessman, my mother was a schoolteacher. My childhood was happy. I was prom king of my high school.” He struck the floor with his staff. “[i]Prom king[/i]. And this is the point where I’m supposed to tell you the one day it all went wrong, but there [i]wasn’t one[/i], I kept being secure and happy while everything else burned around me. That was the part I could never accept. Knowing that I was on an island of comfort in the middle of—” He gestured to the city outside, which was starting to burn in earnest now. “There were times I wished I could be like Mark, wished that I could just shrug off all the injustice of the world and be like...” He half-sat, half-slid into Ngo’s desk chair, placed her coffee mug theatrically in front of him, and announced in the middle of the encroaching flames “[i]This is fine.[/i]”
 
 He stood back up and started pacing across the increasingly-limited not-on-fire part of the room. “If I’d gotten bullied in school, or had one lousy relative die of cancer, I think it would have been bearable. I’d be stuck in the mud along with everyone else. But I didn’t. Barely so much as a stubbed toe! An entire world devouring the weak in the ugliest ways imaginable, and it didn’t even have the courtesy to take the tiniest bite out of me to let me discharge my survivor’s guilt by ritually identifying with them. So of course I had to become a terrorist. The Comet King once said that he could hear the voices of everyone in Hell, calling out to him. Then he admitted he couldn’t, said he lied because it was the only way it would make sense to them. I lied for the same reason he did, to try and make it make sense. You know, I think I would have made a good Comet King.”
 
@@ -13411,7 +13411,7 @@ He paused for a second, as if admiring the accuracy of what he had just told her
 
 She paused to see if anyone would challenge her. No one did.
 
-“My first memories were…much like this. Black smoke-filled skies, and a world on fire. The first sounds I heard were the cries of my mother being hacked to pieces without dying. My father I think ignored me; he has many children, and if they survive and stay sane they become the minor nobility of Hell. We are drawn to evil, Dylan. It is a fascination to us, me and all my part-demon kin. I felt the draw every moment of my life, since the beginning. But I also felt something different. I stayed with my mother, tried to console her. I talked to her and tried to learn from her, and she taught me things about the upper world, in between her screams. She told me about the Comet King, who claimed to be able to hear the voices of the damned from thousands of miles away, when I was half-deaf to them even within earshot. And maybe it was the little part in me that was human, but there was something I was able to respect in that, some part of me that didn’t have feelings but was able to model what they might be like. So when I turned a year old, I left Hell and went into the world, trying to trace his path.
+“My first memories were... much like this. Black smoke-filled skies, and a world on fire. The first sounds I heard were the cries of my mother being hacked to pieces without dying. My father I think ignored me; he has many children, and if they survive and stay sane they become the minor nobility of Hell. We are drawn to evil, Dylan. It is a fascination to us, me and all my part-demon kin. I felt the draw every moment of my life, since the beginning. But I also felt something different. I stayed with my mother, tried to console her. I talked to her and tried to learn from her, and she taught me things about the upper world, in between her screams. She told me about the Comet King, who claimed to be able to hear the voices of the damned from thousands of miles away, when I was half-deaf to them even within earshot. And maybe it was the little part in me that was human, but there was something I was able to respect in that, some part of me that didn’t have feelings but was able to model what they might be like. So when I turned a year old, I left Hell and went into the world, trying to trace his path.
 
 “I wanted to do good, but my birthright was evil. It was my only talent. And then I found UNSONG. It was beautiful, as if it had been made just for me. Maybe it had been; who knows what the Comet King could or couldn’t see. Out of a campaign to conceal the light of God on Earth, to persecute the desperate and poor, come gifts a hundredfold more potent, powers strong enough to hold back Hell and give humanity a fighting chance. But it was a wreck. The Comet King’s successors were weak; too merciful to use his weapons to their full potential. My only talent is evil. But sometimes that’s enough. With the help of a family member in, ah, [i]high places[/i], I rose through the ranks and became Director-General, tried to give UNSONG the best chance I could. Now Uriel has fallen, the lights have gone out, and all the world has to save itself with are the Names I’ve fought to give them.”
 
@@ -13419,7 +13419,7 @@ She coughed. The air was thick with smoke now. Clark was tensed like a predator.
 
 “My part is over now. I find myself wondering if my mother will be proud of me. I’ll meet her again soon enough. There is no reason I should not let you have your grand exit. Except, as I said, I am evil. And I am vindictive. And I find that of everyone I have worked with, and all the sob stories I have heard, yours makes me the most annoyed. I was born to do evil. I made peace with my nature and tried to save the world. You had every opportunity to do good, and you squandered it in childish games. I find I cannot forgive you.”
 
-“Well,” said Dylan. “That is quite the…”
+“Well,” said Dylan. “That is quite the...”
 
 Before he could finish his sentence, Clark attacked. Malia spoke a name, a new Name Erica had never heard before, and Clark exploded into a shower of glass. Then she wheeled around to Dylan, attacked him with her flaming sword just as he attacked her with his boojumwood staff.
 
@@ -13578,15 +13578,15 @@ The first mate glanced toward the east, where the calculations said God’s boat
 
 “No,” said James.
 
-“I’m sorry, I promise I’ll be quick, but it’s the end of the world, James, please just hear me out. Simeon thought the Captain was the Comet King. He’d gathered all this evidence. John was…”
+“I’m sorry, I promise I’ll be quick, but it’s the end of the world, James, please just hear me out. Simeon thought the Captain was the Comet King. He’d gathered all this evidence. John was...”
 
 “Tomas,” James called, “keep a lookout.” He checked his watch, then turned to Ana. “We have eleven minutes before all of this starts in earnest,” he said, “and in that time I’m going to take you down to the cabin where we can talk properly and we’re going to have a discussion about this.” He motioned Ana down the ladder. Then:
 
 “Listen. Most of the rich bozos who sign on here want to find God for one or another boneheaded reason. But the rest—a fifth? Maybe a tenth?—want to find the Comet King. Every single one of them eventually shouts at the Captain and gives a stirring speech about how he needs to reclaim his throne and lead the nation. The Captain listens patiently, then orders them sent off the ship. This happens four, five times a year? If the Captain is the Comet King, and I don’t have the slightest interest in knowing whether that’s true, then it is always a safe bet that  the Comet King knows what he’s doing. He is not one stirring speech and a reminder of his dead wife away from reclaiming all he has lost. He’s here for a reason. Simeon didn’t respect that, so he’s out. If you don’t respect it, you’re out too, no matter how good you are with winds. Do you understand?”
 
-“But…”
+“But...”
 
-“No buts. If you can fathom the mind of the Comet King, you can talk to him as an equal. Until then…”
+“No buts. If you can fathom the mind of the Comet King, you can talk to him as an equal. Until then...”
 
 Ana sighed. “The world’s falling apart,” she said. “He’s got to do something.”
 
@@ -13634,13 +13634,13 @@ But who was the Comet King? He was angelic, and his sword was angelic, but angel
 
 That left Gevurah. Severity. God’s goodness dealt out in a form that looks like harshness. The judgment all must fear.
 
-The Comet King’s sword was fearsome. A dangerous weapon. But was it really…
+The Comet King’s sword was fearsome. A dangerous weapon. But was it really...
 
 Then Ana thought about what was [i]on[/i] the sword.
 
 Something opened in Ana’s mind. New memories. Knowledge she shouldn’t have. A deep loss. She didn’t cry, because time was running short, and she knew how she was going to open the black sail. She told the winds to stay for her, then ran fore, where Mark McCarthy labored beneath the orange sail. “Mr. McCarthy!” she said over the howling winds, holding out her hand. “I need your opal amulet!”
 
-“How did you…,” but something in her face spooked him. He looked at the orange sail, considered his options, and decided it wasn’t worth a fight. He unclasped his necklace and handed it to her.
+“How did you...,” but something in her face spooked him. He looked at the orange sail, considered his options, and decided it wasn’t worth a fight. He unclasped his necklace and handed it to her.
 
 Ana Thurmond advanced on the black sail, and something was terribly wrong. She wanted to avert her gaze, but she kept looking, even though something was terribly wrong. She reached the final mast, saw the ship’s wake behind her, a wake of multicolored sparks spiralling into the void, but she held on to the mast and didn’t run, even though [i]something was terribly wrong[/i].
 
@@ -13717,7 +13717,7 @@ But the most important reason to use the harpoon was the same reason people clim
 
 “You would have to be a goddamn idiot,” said Father O’Connor. The sails were pretty much self-sustaining now. Maybe the crew could stop them if they wanted to, maybe not. O’Connor had stopped praying and joined the growing debate by the harpoon stand.
 
-“What about the Captain?” asked Mark. “Where is he? Of all the times not to be on deck…we should get the Captain and make him decide.”
+“What about the Captain?” asked Mark. “Where is he? Of all the times not to be on deck... we should get the Captain and make him decide.”
 
 “The Captain is not to be disturbed for any reason,” said James, “and that means [i]any[/i] reason.”
 
@@ -13781,7 +13781,7 @@ Bill Dodd was trying to think of a suitably witty way to make fun of the passage
 
 “Where is Metatron?” asked Erin, that final night on the [i]Not A Metaphor[/i]. “Is he riding Leviathan? Is he in his belly? Will he come out to meet us once we’re close enough?”
 
-“Lady,” said James. “We don’t know any more than you do. We’ll…all find out soon enough.”
+“Lady,” said James. “We don’t know any more than you do. We’ll... all find out soon enough.”
 
 Amoxiel gibbered softly. For some reason Erin started to cry. James and Father O’Connor got into some argument, and Mark McCarthy wouldn’t stop drawing pentagrams around everything. Ana realized she was shaking. She very deliberately extricated herself from the assembly around the harpoon and went midship to the yellow sail. The yellow sail was her safe place, she told herself, as swirling stars sputtered overhead.
 
@@ -13803,7 +13803,7 @@ Ana climbed belowdecks and knocked on the door to the Captain’s quarters.
 
 
 
-## Chapter 68: …Puts All Heaven In A Rage
+## Chapter 68: ... Puts All Heaven In A Rage
 
 <blockquote>
 For a Tear is an Intellectual Thing<br/>
@@ -13868,11 +13868,11 @@ He didn’t react. If, as the psychologists say, our brain works by fitting data
 
 “I know! If it wasn’t impossible, you would have done it, I believe you, I swear.”
 
-“Robin, what…”
+“Robin, what...”
 
-“That’s the thing, Jala. You did everything possible. So I had to give you a chance. It’s like you always say. Somebody has to and no one else will. But you couldn’t. But you love me. I don’t know why but you do. While I’m in Hell, you’ve got another reason, you can cut through the paradox…”
+“That’s the thing, Jala. You did everything possible. So I had to give you a chance. It’s like you always say. Somebody has to and no one else will. But you couldn’t. But you love me. I don’t know why but you do. While I’m in Hell, you’ve got another reason, you can cut through the paradox...”
 
-It hit him. It hit him like an asteroid hits a planet, killing all life, boiling away the seas, a giant sterilizing wave of fire. “Robin…you…no…how…[i]no[/i]…” and just like that the human part of him disappeared, was consumed, his eyes flashed with white fire, what had once seemed like hair stretched out behind him like the tail of a comet, the air turned cold, the room turned grey, the lights turned off, he stood there, raw, celestial, enraged.
+It hit him. It hit him like an asteroid hits a planet, killing all life, boiling away the seas, a giant sterilizing wave of fire. “Robin... you... no... how... [i]no[/i]...” and just like that the human part of him disappeared, was consumed, his eyes flashed with white fire, what had once seemed like hair stretched out behind him like the tail of a comet, the air turned cold, the room turned grey, the lights turned off, he stood there, raw, celestial, enraged.
 
 “THIS IS NOT HOW IT ENDS!” he shouted, less at her than at everything. “NO. YOU CAN’T DO THIS. THIS. IS. NOT. HOW. IT. ENDS.”
 
@@ -13896,7 +13896,7 @@ Finally, Robin said: “Promise me.”
 
 And Jalaketu said: “I promise.”
 
-An hour and forty minutes later, Thamiel swaggered through the big spruce wood door with a gigantic grin on his tiny face, “Well!” he said, “It looks like we…”
+An hour and forty minutes later, Thamiel swaggered through the big spruce wood door with a gigantic grin on his tiny face, “Well!” he said, “It looks like we...”
 
 The Comet King had his hands around the demon’s neck in an instant. “Listen,” he said. “I know the rules as well as you do. Take her. But as God is my witness, the next time we meet face to face I will speak a Name, and you and everything you have created will be excised from the universe forever, and if you say even a single unnecessary word right now [i]I will make it hurt[/i].”
 
@@ -13925,25 +13925,25 @@ The two of them disappeared.
 
 The alarms went silent. North American airspace went black. The lights went out. THARMAS went quiet, then released an arc of electrical energy which briefly lit the otherwise pitch-black room before dying back down. Sohu gave a horrible primal scream.
 
-“THEY KILLED URIEL!” she screamed. “THEY KILLED URIEL! THEY BROKE MALKUTH! EVERYTHING IS…” She gave a horrible noise, like she was being pulled apart.
+“THEY KILLED URIEL!” she screamed. “THEY KILLED URIEL! THEY BROKE MALKUTH! EVERYTHING IS...” She gave a horrible noise, like she was being pulled apart.
 
 Someone said the Luminous Name, and I saw her there, clutching her head. I saw the rest of them. Nathanda looking grave, Jinxiang looking angry, Caelius still mangled and bloody, sitting with THARMAS, hitting it, trying to get it to turn back on. I saw Sarah, her face emotionless.
 
 “Sohu!” said Nathanda, placing her hands on her sister’s head. “Can you hear me, Sohu? Tell me what’s going on?”
 
-“THEY KILLED URIEL!” she screamed. “THEY KILLED URIEL AND NOW IT’S ALL…” She looked like she was trying to find a word for how bad things were. She started saying something else, but I wasn’t sure whether she was speaking some language I didn’t know or just having a seizure.
+“THEY KILLED URIEL!” she screamed. “THEY KILLED URIEL AND NOW IT’S ALL...” She looked like she was trying to find a word for how bad things were. She started saying something else, but I wasn’t sure whether she was speaking some language I didn’t know or just having a seizure.
 
 The real power of angels and demons was unplumbably immense. They’d been hobbled to a semi-human level by Uriel’s filters, which denied them the divine light they devoured for sustenance. If that was gone, there was nothing hyperbolic about Sohu’s reaction. We had lost in the most final and terrifying way possible.
 
 “Sohu,” said Caelius, very quietly, and I could see he was having trouble staying conscious, but he was Cometspawn, and there was a job to be done. “Sohu, we need THARMAS back. This must have been the Other King’s plan all along. He would deny us THARMAS and the Names by—” he stopped for a second, took a deep breath ”—by preventing computer technology from working at all. I need to know, can you bring THARMAS back? The lights can wait. The airspace map can wait. But Sohu, [i]we need THARMAS[/i].”
 
-“Can’t…do it,” said Sohu, panting. “Never could…get Briah…right. Computers…too hard.”
+“Can’t... do it,” said Sohu, panting. “Never could... get Briah... right. Computers... too hard.”
 
 Now it was General Bromis’ turn. “Can you at least get radio connections back up? We’re flying blind in here! I need to hear from the armies!”
 
-Sohu paused for a second. “Kay…did it…radio…works,” she said. “Can’t manage anything more. Also, all of…the rivers in the world are…running in reverse.” She laughed fatalistically. “Never fails. Hardly…matters now.” She grabbed her head again. “Oh God…Uriel. It’s too much.”
+Sohu paused for a second. “Kay... did it... radio... works,” she said. “Can’t manage anything more. Also, all of... the rivers in the world are... running in reverse.” She laughed fatalistically. “Never fails. Hardly... matters now.” She grabbed her head again. “Oh God... Uriel. It’s too much.”
 
-Bromis and his soldiers had left, probably trying to radio their battalions, tell them that the artillery wasn’t going to fire, that the tanks would just stand motionless. “Got…to get…THARMAS back,” Caelius was saying, but his words were slurred and he sounded half-asleep. For the first time, I thought I saw Nathanda…not at a loss, exactly. Just sitting quietly, trying to figure out what to do.
+Bromis and his soldiers had left, probably trying to radio their battalions, tell them that the artillery wasn’t going to fire, that the tanks would just stand motionless. “Got... to get... THARMAS back,” Caelius was saying, but his words were slurred and he sounded half-asleep. For the first time, I thought I saw Nathanda... not at a loss, exactly. Just sitting quietly, trying to figure out what to do.
 
 “Put me in THARMAS,” Sarah said suddenly, and we all turned to her.
 
@@ -13955,7 +13955,7 @@ Bromis and his soldiers had left, probably trying to radio their battalions, tel
 
 “Of course I would!” she spat back at me. “You don’t love me, Aaron! Admit it!”
 
-“It’s not that I don’t love you, it’s that…”
+“It’s not that I don’t love you, it’s that...”
 
 “No. You gave me life, Aaron, but you didn’t give me a purpose. You people have so much purpose. Breathing, eating, having sex, making money. It’s all so easy for you! I had to make my own purpose, and the only thing I had was you, and now you’ve rejected me, and all I want is to become THARMAS so that I won’t have to go back into the darkness but also I’ll never be able to think for more than a quarter of a millisecond and I’ll never be able to remember your name. I want to know every Name in the cosmos except yours.”
 
@@ -13983,7 +13983,7 @@ Then Caelius pulled the laptop out of her body, and the golem crumbled into dust
 
 I watched numbly as his expert hands pried open the bottom lid and started popping out parts. I was vaguely aware of a commotion all around me, and finally I turned and saw Bromis was back with his soldiers.
 
-“Thamiel,” he said, and something in me had expected it. “The demons are swarming. They’re moving…faster than we can track them, given what’s happened to our technology. They’re swarming in Siberia and they’re heading our direction. No clear target besides just ‘North America’ at the moment, but I’ve told the military to be on alert.”
+“Thamiel,” he said, and something in me had expected it. “The demons are swarming. They’re moving... faster than we can track them, given what’s happened to our technology. They’re swarming in Siberia and they’re heading our direction. No clear target besides just ‘North America’ at the moment, but I’ve told the military to be on alert.”
 
 “Alert won’t help,” snapped Sohu. “Their bonds have been broken. Almost no limits on their power.”
 
@@ -13999,7 +13999,7 @@ Sohu glared at her sister like she was an idiot. “Yes,” she said. “That’
 
 “You?” asked Nathanda and Jinxiang together.
 
-“Yeah,” said Sohu, defiantly. I saw her glance at the stump of her left hand, the one that used to have the Comet King’s mark on it. “I never told you guys this, because I thought Father would freak out, but I met Thamiel. Three times. He came to harass Uriel when I was staying with him. He…he wasn’t nice to me. There’s stuff I need to settle with him.”
+“Yeah,” said Sohu, defiantly. I saw her glance at the stump of her left hand, the one that used to have the Comet King’s mark on it. “I never told you guys this, because I thought Father would freak out, but I met Thamiel. Three times. He came to harass Uriel when I was staying with him. He... he wasn’t nice to me. There’s stuff I need to settle with him.”
 
 “He’s the Devil!” said Jinxiang. “[i]Everyone[/i] has stuff they need to settle with him! Sohu, don’t do it! You were sitting here clutching your head in pain just a second ago. Stay here where it’s—”
 
@@ -14025,7 +14025,7 @@ Then she walked out of the room.
 
 “You’re more afraid of the Other King than Thamiel?” asked Jinxiang, not contradicting her sister, just not quite believing her.
 
-“Yes. Father could beat Thamiel. If Sohu thinks she can take him on, I trust her. The Other King…Father…” She turned to me. The soldiers had gone with Bromis; me, Jinxiang, and Caelius were the only ones left in the giant throne room, and Caelius was still feverishly hacking away at Sarah and THARMAS, trying to connect the pieces into a unified whole. I couldn’t tell if he was just working with the unpredictable genius of a Cometspawn or whether his wounds had gotten the better of him, whether his actions looked random and flailing because they really were random and flailing. I tried to tune out the dust of Sarah’s decayed body.
+“Yes. Father could beat Thamiel. If Sohu thinks she can take him on, I trust her. The Other King... Father...” She turned to me. The soldiers had gone with Bromis; me, Jinxiang, and Caelius were the only ones left in the giant throne room, and Caelius was still feverishly hacking away at Sarah and THARMAS, trying to connect the pieces into a unified whole. I couldn’t tell if he was just working with the unpredictable genius of a Cometspawn or whether his wounds had gotten the better of him, whether his actions looked random and flailing because they really were random and flailing. I tried to tune out the dust of Sarah’s decayed body.
 
 “Aaron,” said Nathanda. “Sohu showed you the library? Go get me all the books you can find on Elisha ben Abuyah. It’s time to learn everything we can about the Other King.”
 
@@ -14086,7 +14086,7 @@ Then came a great wind from the south, and she saw an army of spirits, skull-lik
 
 Sohu took advantage of the distraction, shot out from Pike’s Peak, ascended into the open air above, still searching for Thamiel. Asmodeus and Rahab’s hosts followed. They crashed into her in the cirrus clouds above the highest mountain, two tongues of dark flame that whirled around her among the noctilucent drops of ice. Sohu spoke words of fire and night, drove great spinning wheels of flame into the hearts of the horde, called the winds to scatter her assailants. She spoke the Names of God, the secret ones UNSONG had spent the work of decades gathering, and slashed huge swathes of destruction into the darkness. But slowly they began to close in again, the starlight weakening, Sohu’s breath and voice starting to fail.
 
-Then the cavalry rode in. Hundreds of beautiful tall angels riding bright white horses, and…[i]was that the William Tell Overture?[/i] At their head, wearing cowboy boots and a ten-gallon hat, rode Gadiriel, the Lady of Los Angeles. “YEEEEHAW!” she shouted, heedless of the Third Commandment. She fired her revolver twice, and each shot blossomed into a miniature sun. She saw Asmodeus, jumped off her horse, landed in front of him with her gun drawn. “I reckon you better turn around and go right back where you came from, [i]pardner[/i],” she drawled. “There’s a new seraph in town!”
+Then the cavalry rode in. Hundreds of beautiful tall angels riding bright white horses, and... [i]was that the William Tell Overture?[/i] At their head, wearing cowboy boots and a ten-gallon hat, rode Gadiriel, the Lady of Los Angeles. “YEEEEHAW!” she shouted, heedless of the Third Commandment. She fired her revolver twice, and each shot blossomed into a miniature sun. She saw Asmodeus, jumped off her horse, landed in front of him with her gun drawn. “I reckon you better turn around and go right back where you came from, [i]pardner[/i],” she drawled. “There’s a new seraph in town!”
 
 Sohu didn’t wait to see what happened next. She flew through a hole in the darkness, still seeking Thamiel. He was nowhere to be found. The host of Rahab pursued, indistinct dark forms that looked from different angles like ravens, bats, or locusts. She tried to evade them, rose even higher, coursed through the ionosphere in a crackle of light into the dark spaces beyond Earth’s atmosphere, where the fixed stars and moon glowed unimpeded by any envelope of air. She let the lines of starlight intersect around her, reflect off each other, congeal into a luminous labyrinth of protection. Still the host of Rahab came against her, teasing through her vulnerabilities, wresting cracks in her own shield to match the cracks in the sky above them. And she realized then that she couldn’t stand on her own against even a single demonic host, that this would finally be the end of her.
 
@@ -14106,7 +14106,7 @@ And he had. The foulness and death, the Number of the Beast, the Left Hand of Go
 
 Thamiel raised the bident high. “Any last words?” he asked.
 
-“Two…of them,” sputtered Sohu. “Knock…knock.”
+“Two... of them,” sputtered Sohu. “Knock... knock.”
 
 “What?” asked Thamiel, his eyes narrowing. His second head bobbed back and forth in excitement and confusion.
 
@@ -14130,7 +14130,7 @@ She walked out of the little cottage. There was Uriel in his spot in the center 
 
 “I DO NOT WANT YOU TO LEAVE ME, BUT I KNOW YOU HAVE TO GO BACK TO COLORADO. SO I HAVE REARRANGED THE FUNDAMENTAL SPATIAL AND MYSTICAL ORGANIZATION OF THE UNIVERSE SOMEWHAT. IT WAS VERY HARD. I COULD NOT DO IT IN YETZIRAH OR EVEN BRIAH. I HAD TO EDIT ATZILUTH DIRECTLY.”
 
-“…doesn’t that destroy the world?”
+“... doesn’t that destroy the world?”
 
 “USUALLY. THAT IS WHY I MOSTLY AVOID IT. BUT I TRIED VERY HARD TO MAKE SURE THAT DID NOT HAPPEN. IN THIS CASE ALL IT DID WAS CHANGE THE BIBLE. IT IS SO WEIRD TO BEGIN WITH THAT I DOUBT VERY MANY PEOPLE WILL NOTICE.”
 
@@ -14142,7 +14142,7 @@ She walked out of the little cottage. There was Uriel in his spot in the center 
 
 “I HAVE CREATED A RITUAL THAT LETS TWO MINDS JOIN TOGETHER. NO MATTER HOW FAR AWAY, THEY CAN TALK TO EACH OTHER, SHARE THOUGHTS AND MEMORIES, FEEL THE SAME EMOTION. THEY WILL BE WITH EACH OTHER ALL THE TIME, BEYOND DISTANCE OR DEATH.
 
-“…what does that mean?”
+“... what does that mean?”
 
 “I WILL SHOW YOU. I HAVE MADE A MAGIC CIRCLE. PLEASE STEP INTO IT.”
 
@@ -14154,9 +14154,9 @@ Sohu sighed. Conversations with Uriel would never be remotely normal. But they w
 
 She stepped into the magic circle.
 
-“REPEAT AFTER ME, BUT CHANGE THE NAME. I, THE ARCHANGEL URIEL, IN FULL KNOWLEDGE OF THE CONSEQUENCES…”
+“REPEAT AFTER ME, BUT CHANGE THE NAME. I, THE ARCHANGEL URIEL, IN FULL KNOWLEDGE OF THE CONSEQUENCES...”
 
-“I, Sohu West, in…bah…full knowledge of the consequences…”
+“I, Sohu West, in... bah... full knowledge of the consequences...”
 
 And so they went, the archangel first, then the child, through the long ritual of the Sacred Kabbalistic Marriage of Minds. The winds of the storm around them went strangely quiet. The sun darkened, as if covered by clouds, then brightened as if reflected by a million jewels. The sky became a deeper shade of blue.
 
@@ -14180,13 +14180,13 @@ Sohu felt something new in her mind, a presence, a spark of gold.
 
 [open-bracket]Are you in my head?] she asked the archangel.
 
-[open-bracket]WELL, I WOULD NOT SAY I AM LITERALLY IN YOUR HEAD, SINCE YOUR HEAD IS VERY SMALL. HOWEVER, IF YOU WANT TO USE SPATIAL METAPHORS TO GROUND THE BASIC PRINCIPLES OF CHASHMAL, YOU MIGHT SAY THAT…]
+[open-bracket]WELL, I WOULD NOT SAY I AM LITERALLY IN YOUR HEAD, SINCE YOUR HEAD IS VERY SMALL. HOWEVER, IF YOU WANT TO USE SPATIAL METAPHORS TO GROUND THE BASIC PRINCIPLES OF CHASHMAL, YOU MIGHT SAY THAT...]
 
 #### III.
 
 Thamiel raised the bident high, chuckled. “Any last words?” he asked.
 
-“Two…of them,” sputtered Sohu. “Knock…knock.”
+“Two... of them,” sputtered Sohu. “Knock... knock.”
 
 “What?” asked Thamiel, his eyes narrowing. His second head bobbed back and forth in excitement and confusion.
 
@@ -14298,7 +14298,7 @@ The Comet King smiled. “And that,” he said, “is why the Leviathan does not
 
 “God help us if we ever reeled the Leviathan all the way in,” said the Comet King. “No. We are going to very conspicuously demonstrate the [i]ability[/i] to capture the Leviathan, and then we are going to complete the ritual exactly as you said. By realizing that God is already everywhere. Inside all of us. God isn’t out there in the world. He’s in all your heart. Tell me, Father, who of the crew seems most mysterious to you? Who doesn’t have a past?”
 
-“Hm,” said Ellis, going over the crew in his mind, one crewmember per sail. “Orange sail…no, Clara came highly recommended from the Board of Ritual Magic. Yellow…Rabbi Pinson’s one of our greatest living kabbalists. Green…Leonard’s from Canada, his history checks out. Blue…that’s me. Purple…Gadiriel we all know. Black. That’s you. Everybody’s got a pretty clear history…wait. The First Mate. I…I don’t understand. Somehow I’ve known him this long and I…never thought to ask his name!”
+“Hm,” said Ellis, going over the crew in his mind, one crewmember per sail. “Orange sail... no, Clara came highly recommended from the Board of Ritual Magic. Yellow... Rabbi Pinson’s one of our greatest living kabbalists. Green... Leonard’s from Canada, his history checks out. Blue... that’s me. Purple... Gadiriel we all know. Black. That’s you. Everybody’s got a pretty clear history... wait. The First Mate. I... I don’t understand. Somehow I’ve known him this long and I... never thought to ask his name!”
 
 “A common problem,” said the Comet King, smiling, “and one which we will soon correct. Bring him down here.”
 
@@ -14460,7 +14460,7 @@ YET I ALSO CREATED YOUR UNIVERSE, THAT YOU MIGHT LIVE. TELL ME, JOB, IF I UNCREA
 
 “TELL ME, JOB, WHAT IS THE DIFFERENCE BETWEEN YOUR RIGHT AND LEFT HANDS?”
 
-“Uh…one is on my right, and the other is on my left. And they’re mirror images of each other.”
+“Uh... one is on my right, and the other is on my left. And they’re mirror images of each other.”
 
 “I AM BEYOND SPACE. TO ME THERE IS NEITHER LEFT NOR RIGHT NOR MIRRORED REFLECTION. IF TWO THINGS ARE THE SAME, THEY ARE ONE THING. IF I CREATED TWO PERFECT UNIVERSES, I WOULD ONLY HAVE CREATED ONE UNIVERSE. IN ORDER TO DIFFERENTIATE A UNIVERSE FROM THE PERFECT UNIVERSE, IT MUST BE DIFFERENT IN ITS SEED, ITS SECRET UNDERLYING STRUCTURE.”
 
@@ -14498,11 +14498,11 @@ Then the Lord spoke to Job out of the whirlwind, saying: “HAVE YOU BEHELD THE 
 
 And as He spoke, the whirlwind took form, and Job saw all of these things, the boundaries of the Earth and the gateways of the Heavens, the myriad animals from Leviathan down to the smallest microbe, the glory of the lightning and the gloom of the deepest caves, the pyramids of Egypt and the pagodas of China. And he knew more surely than he had ever known anything before that God could end all of them with a word, and he knew that the existence of all of them, every single one, depended on the same seed that had given him a case of boils.
 
-And Job said “I know that you can do all things; no purpose of yours can be thwarted. Surely I spoke of things I did not understand, things too wonderful for me to know. My ears had heard of you but now my eyes have seen you. Therefore I despise myself and repent in dust and ashes. But…why couldn’t you have told me this before? Why did I have to suffer in ignorance?”
+And Job said “I know that you can do all things; no purpose of yours can be thwarted. Surely I spoke of things I did not understand, things too wonderful for me to know. My ears had heard of you but now my eyes have seen you. Therefore I despise myself and repent in dust and ashes. But... why couldn’t you have told me this before? Why did I have to suffer in ignorance?”
 
 “YOUR WORLD IS AT THE EDGES OF MY GARDEN. IF NOT FOR COINCIDENCE PILED UPON COINCIDENCE, IT WOULD NEVER BLOSSOM INTO GOODNESS, AND SO COULD NOT HAVE BEEN CREATED. YOUR IGNORANCE OF MY PURPOSE BEGINS A CHAIN OF COINCIDENCES WHICH WILL GROW AND GROW UNTIL THE END OF THE WORLD, WHEN IT WILL COME TO FRUITION. THAT PURPOSE IS NOW COMPLETE. GO, AND REGAIN EVERYTHING YOU HAVE LOST, BUT TELL NOBODY WHAT I HAVE TOLD YOU.”
 
-“But…I told everybody I was going to ask You about the purpose of evil. When they want to know what You answered, what should I tell them?”
+“But... I told everybody I was going to ask You about the purpose of evil. When they want to know what You answered, what should I tell them?”
 
 “TELL THEM I SAID ‘GO FISH’.”
 
@@ -14522,7 +14522,7 @@ Ana beheld in the whirlwind the trials of Job, and the answer of the Lord, and t
 
 The voice of God said out of the whirlwind, “YOU, WHO ONLY TWO DAYS AGO SOARED SO HIGH SHE ALMOST ESCAPED THE WORLD AND MERGED HER IDENTITY INTO THE JOY BEYOND ALL BEING, BEFORE SHE WAS RESCUED BY MY SHIP AND CREW? AND WHO SAID, AND I QUOTE, ‘OH GOD, I ALMOST FELT TRANSCENDENT JOY. IT WAS AWFUL'”.
 
-“Then…” Ana was almost crying now. “What about [i]Hell?[/i] What about everybody who lives their life and dies and ends up suffering eternally with no way to get out. Shouldn’t they have gotten the choice? You said that our world was good on net. Well, it isn’t. I don’t know what kind of calculus you use, or how you rank these things, but I don’t care. As long as there’s a Hell, whatever you saw in Genesis 1:31 that caused you to pronounce our world, and I quote, ‘good’, you were wrong. Yeah, I said it. My name is Ana Thurmond of San Jose, California, and I hereby accuse you of getting it wrong. As long as Hell exists and is eternal, you were wrong to create the world, you are wrong to sustain it, and I don’t care how awesome a fish you’ve got, [i]you are wrong about the problem of evil[/i].”
+“Then...” Ana was almost crying now. “What about [i]Hell?[/i] What about everybody who lives their life and dies and ends up suffering eternally with no way to get out. Shouldn’t they have gotten the choice? You said that our world was good on net. Well, it isn’t. I don’t know what kind of calculus you use, or how you rank these things, but I don’t care. As long as there’s a Hell, whatever you saw in Genesis 1:31 that caused you to pronounce our world, and I quote, ‘good’, you were wrong. Yeah, I said it. My name is Ana Thurmond of San Jose, California, and I hereby accuse you of getting it wrong. As long as Hell exists and is eternal, you were wrong to create the world, you are wrong to sustain it, and I don’t care how awesome a fish you’ve got, [i]you are wrong about the problem of evil[/i].”
 
 “YES,” said God. “WHICH IMPLIES THAT HELL MUST NOT BE ETERNAL. I DID NOT SAY, ANA THURMOND, THAT YOUR WORLD IS GOOD [i]NOW[/i]. I SAID THAT ADAM KADMON, ITS SEED, WAS A GOOD SEED. THAT IT WILL UNFOLD, BIT BY BIT, RINGING CONCLUSION AFTER CONCLUSION FROM ITS PREMISES, UNTIL FINALLY ITS OWN INTERNAL LOGIC CULMINATES IN ITS SALVATION.”
 
@@ -14560,7 +14560,7 @@ The others ran towards her, hugged her, started firing questions at her. Even [i
 
 “You’re alive!” Nathanda said, sounding a little too surprised.
 
-“Thamiel…not gonna bother us…for a while,” she said. “Summoned Uriel. He helped take care of things. I’m…tired. Anything to eat?”
+“Thamiel... not gonna bother us... for a while,” she said. “Summoned Uriel. He helped take care of things. I’m... tired. Anything to eat?”
 
 It was hard to judge in the dim glow of the Luminous Name, but she looked [i]drained[/i]. In the absence of the usual servants, I ran out to get her something. When I got back with a jar of cookies, there were a couple of soldiers talking to Nathanda.
 
@@ -14572,7 +14572,7 @@ We were quiet. Sohu grabbed a cookie, jammed it into her mouth.
 
 “Always,” said Sohu. “But nothing useful.”
 
-Caelius limped over, joined the circle, almost sunk into his chair. “She’s rebooting,” he said. “Don’t know how long it will take. Computer that size…” He trailed off. I couldn’t believe he was even still conscious. None of us dared suggest he leave. For a little while we all just sat there, quietly, in the dark. A few furtive glances at the entrance, as if the Other King was already through the big blast door and could walk in at any moment. Almost hopeful. Anything would have been better than waiting quietly in the dark room.
+Caelius limped over, joined the circle, almost sunk into his chair. “She’s rebooting,” he said. “Don’t know how long it will take. Computer that size...” He trailed off. I couldn’t believe he was even still conscious. None of us dared suggest he leave. For a little while we all just sat there, quietly, in the dark. A few furtive glances at the entrance, as if the Other King was already through the big blast door and could walk in at any moment. Almost hopeful. Anything would have been better than waiting quietly in the dark room.
 
 Finally, Nathanda picked up her book. “I guess I should talk,” she said. “There’s nothing in here about secret weaknesses or magic spells. But there are a lot of stories. There’s a story about how each year, on the Day of Atonement, a great voice would ring forth from the holy places, saying ‘Repent, o children of Israel, for the Lord your God is merciful and shall forgive you. Except you, Elisha ben Abuyah.’
 
@@ -14590,11 +14590,11 @@ The ground started to shake, as if someone was pummeling the mountain from afar,
 
 The shaking intensified. I thought of that poem again, Erica’s poem. Truth forever on the scaffold, Wrong forever on the throne, but that scaffold sways the future, and behind the dim unknown—standeth God within the shadow, keeping watch above his own.
 
-“I guess that’s what I have to say to all of you today. Father’s gone now. We all thought he was Moschiach—we [i]knew[/i] he was Moschiach—but now he’s gone, and sometimes it seems like he’s never been. We felt like we had this burden, of salvaging his legacy, taking what he made and finishing his work instead of letting it come to nothing. I…am not sure that we will. Maybe this strange experiment, this new intrusion of Heaven into history, is going to come to an end with us, and everything Father built will be torn down. But even if that happens, we’ve done good. The world may not remember it, but we’ve done good. The sparks are moving in a different pattern now, I can’t see them, none of us can see them, but maybe they’re moving in huge fiery rivers because of some of the things Father did, maybe if we could peel back the veil we would just see this amazing endless light, this inevitable tide, ready to sweep over everything, this tide that all of us helped draw. That’s…that’s what I think Rabbi Meir would say if he were here.”
+“I guess that’s what I have to say to all of you today. Father’s gone now. We all thought he was Moschiach—we [i]knew[/i] he was Moschiach—but now he’s gone, and sometimes it seems like he’s never been. We felt like we had this burden, of salvaging his legacy, taking what he made and finishing his work instead of letting it come to nothing. I... am not sure that we will. Maybe this strange experiment, this new intrusion of Heaven into history, is going to come to an end with us, and everything Father built will be torn down. But even if that happens, we’ve done good. The world may not remember it, but we’ve done good. The sparks are moving in a different pattern now, I can’t see them, none of us can see them, but maybe they’re moving in huge fiery rivers because of some of the things Father did, maybe if we could peel back the veil we would just see this amazing endless light, this inevitable tide, ready to sweep over everything, this tide that all of us helped draw. That’s... that’s what I think Rabbi Meir would say if he were here.”
 
 I would never have dared follow Nathanda, never have dared to speak at a solemn council of the Cometspawn, except that Sohu felt my thoughts and prodded me on. [open-bracket]Yes, Aaron,] she thought. [open-bracket]Speak.] And then when I still held back, she stood up. “Aaron has something he wants to add to that,” she said. Then sat back down.
 
-“Um.” Four pairs of eyes watched me. “When I first learned the Vital Name, my friend asked me what I wanted to do with it. And there were all of these possibilities, you know? Um. Get rich. Take power. Run for President. I told her we couldn’t do any of those things. I said…I said I wanted to become the next Comet King.”
+“Um.” Four pairs of eyes watched me. “When I first learned the Vital Name, my friend asked me what I wanted to do with it. And there were all of these possibilities, you know? Um. Get rich. Take power. Run for President. I told her we couldn’t do any of those things. I said... I said I wanted to become the next Comet King.”
 
 I waited for the Cometspawn to laugh at me. They didn’t laugh.  Far away, I heard a terrible crash.
 
@@ -14664,7 +14664,7 @@ He sat on the Black Opal Throne like it was the most natural thing in the world.
 
 I sat on a chair, right in front of him, feeling naked before his deep brown eyes. “Aaron,” he asked me. He sounded kind, compassionate, he sounded like a good person, like I wanted to give him everything he wanted even though I’d just seen him kill all four of his children, and it made no sense and the tension made me want to burst, but terror held it in so I just sat there and stared at him. “Aaron, do you know the Name?”
 
-Of course I knew it. I’d heard the true version during Sohu’s ill-starred attempt to ensoul THARMAS, now destroyed. ROS-AILE-KAPHILUTON…
+Of course I knew it. I’d heard the true version during Sohu’s ill-starred attempt to ensoul THARMAS, now destroyed. ROS-AILE-KAPHILUTON...
 
 “Not that Name,” said the Comet King, reading my mind. “The real Name. The Shem haMephorash.”
 
@@ -14692,7 +14692,7 @@ I would have given up then except for Robin. She saved me. She sacrificed hersel
 
 Do you understand what I’ve done? I didn’t become a genocidal tyrant to save the billions of souls in Hell. I did it to save [i]her[/i]. Fifteen years of murder and oppression, and I never once thought about anyone else. And if there had not been a single soul in Hell besides hers, I would have spent those fifteen years just the same. Do you realize how wicked that is?  I damned myself, Aaron. Where all my angelic powers failed, my human weakness succeeded. My father must be laughing so hard right now.
 
-I found the shreds of a defeated death cult in Las Vegas, made myself a backstory out of their ramblings. I borrowed a golem from Gadiriel, killed myself off, took on the new identity, and never showed my face. If they’d known it was me, they would have figured out my plan, and gone willingly to their deaths. There would have been devastation without suffering. It wouldn’t have worked. I thought I could do it. Conquering the West was easy. Killing people…easy, once you…get used to it. But part of me always knew it wasn’t enough. A million lesser sins don’t sum up to abomination. There was still good in me. I didn’t want to kill my children. I thought I could avoid it, thought if I just committed enough other sins, or studied until I found a loophole, I might still avoid it. Then you arrived. If your computer idea had worked, Colorado would have become invincible. I wouldn’t have been able to stand up to it. My children would have ushered in a new golden age, there would have been peace and plenty for everyone, and it would have been the greatest disaster the world had ever known. None of it would have mattered a hair’s width as long as Hell stayed intact, do you understand? They would have beaten me, I would have revealed myself or died a saint, and Hell would have continued regardless. I couldn’t let that happen. I was like Acher, pushed past the point of no return. My poor Robin, taken from her nest. How could I let God let that pass?
+I found the shreds of a defeated death cult in Las Vegas, made myself a backstory out of their ramblings. I borrowed a golem from Gadiriel, killed myself off, took on the new identity, and never showed my face. If they’d known it was me, they would have figured out my plan, and gone willingly to their deaths. There would have been devastation without suffering. It wouldn’t have worked. I thought I could do it. Conquering the West was easy. Killing people... easy, once you... get used to it. But part of me always knew it wasn’t enough. A million lesser sins don’t sum up to abomination. There was still good in me. I didn’t want to kill my children. I thought I could avoid it, thought if I just committed enough other sins, or studied until I found a loophole, I might still avoid it. Then you arrived. If your computer idea had worked, Colorado would have become invincible. I wouldn’t have been able to stand up to it. My children would have ushered in a new golden age, there would have been peace and plenty for everyone, and it would have been the greatest disaster the world had ever known. None of it would have mattered a hair’s width as long as Hell stayed intact, do you understand? They would have beaten me, I would have revealed myself or died a saint, and Hell would have continued regardless. I couldn’t let that happen. I was like Acher, pushed past the point of no return. My poor Robin, taken from her nest. How could I let God let that pass?
 
 So I did the only thing I could. My uncle knew all along. I got in touch with him, told him to destroy the project. Then I destroyed Uriel’s machinery to prevent them from trying the same thing again. Then I came here. I couldn’t let Thamiel kill my children, I couldn’t. If they had to die, I would do it myself. And here we are. They died screaming, just like I always knew they would.” He was quiet for a second. “I despise myself, Aaron. I despise myself and I want to die. I’m not worried about not going to Hell. I’m in Hell already. But—when I first decided to do this, the archangel Metatron got angry, said that I was profaning the Name, that I couldn’t hold the Shem haMephorash in my head and be a murderer. He said that at the end of everything he’d give it back to me, if there was still enough left of my soul to speak it. I think there is. I think I am bound for Hell, that I’m utterly, atrociously evil, that pull every loophole he will Thamiel can’t keep me out, but that I still have the divine spark, the love of goodness. I can still speak the Name. But someone needs to give it to me. Have you ever read the Sepher haBashir?”
 
@@ -14714,7 +14714,7 @@ But the Comet King was smiling.
 
 “Because any good enough description of God is also a notarikon for His Most Holy Name.”
 
-“…really?”
+“... really?”
 
 “God is One and His Name is One. God is One with His Name. People always say God isn’t a person, but then what is He? To me, He’s always been a sort of logical necessity. The necessity for everything in the cosmos to be as good as possible. Understand goodness and you understand God. Understand God and you understand His Name. Understand the Name and you can remake the world. That’s the kabbalah. The rest is just commentary. Excruciating, unbearable commentary that kills everyone you love.”
 
@@ -14739,7 +14739,7 @@ Then the Comet King muttered to himself, almost too soft to hear: “Somebody ha
 
 #### IV.
 
-The sound of my breath rose and fell. The blood made little rivulets, as if exploring the terrain, then settled down into irregular stagnant lakes. I just sat there, stunned. Sat in the chair, staring at the body of the Comet King, until the light of the Luminous Name dimmed and went out and everything was black. Nothing stirred. I wondered if the other inhabitants of the citadel had all run away, or if the Other King had killed them, or if they cowered in their chambers behind locked doors. The quiet and solitude were like a womb, or like the emptiness before Creation. In the beginning, the earth was without form and void, and darkness was upon the face of the deep. Then the spirit of God moved upon the face of the waters, and God said…
+The sound of my breath rose and fell. The blood made little rivulets, as if exploring the terrain, then settled down into irregular stagnant lakes. I just sat there, stunned. Sat in the chair, staring at the body of the Comet King, until the light of the Luminous Name dimmed and went out and everything was black. Nothing stirred. I wondered if the other inhabitants of the citadel had all run away, or if the Other King had killed them, or if they cowered in their chambers behind locked doors. The quiet and solitude were like a womb, or like the emptiness before Creation. In the beginning, the earth was without form and void, and darkness was upon the face of the deep. Then the spirit of God moved upon the face of the waters, and God said...
 
 It was a faint voice, almost too faint to detect, audible not to the ears but to the innermost chambers of my thought. Had the darkness and silence been any less complete I might have missed it entirely. And the voice said:
 
@@ -14765,7 +14765,7 @@ And the voice said:
 
 [open-bracket]Ana! You’re alive!]
 
-[open-bracket]Not…exactly.]
+[open-bracket]Not... exactly.]
 
 [open-bracket]Oh.]
 
@@ -14793,7 +14793,7 @@ And the voice said:
 
 [open-bracket]What? How? Uh, do any of you know what’s going on here?]
 
-[open-bracket]I DO NOT KNOW IF I AM INCLUDED IN “ANY OF YOU” BUT I THINK I HAVE A PRETTY GOOD IDEA. CONSIDER RABBI SHIMON’S WRITINGS ON THE FIVE LEVELS OF THE SOUL. THE FIRST, THE NEFESH, REPRESENTS PHYSICAL LIFE. THE SECOND, THE RUACH…]
+[open-bracket]I DO NOT KNOW IF I AM INCLUDED IN “ANY OF YOU” BUT I THINK I HAVE A PRETTY GOOD IDEA. CONSIDER RABBI SHIMON’S WRITINGS ON THE FIVE LEVELS OF THE SOUL. THE FIRST, THE NEFESH, REPRESENTS PHYSICAL LIFE. THE SECOND, THE RUACH...]
 
 [open-bracket]Uriel! What did I tell you about infodumping directly into people’s minds?]
 
@@ -14803,7 +14803,7 @@ And the voice said:
 
 [open-bracket]Yeah, when Father killed me, I think I ended up in your mind too. And Uriel with me.]
 
-[open-bracket]So…Ana…Erica…Dylan…Sohu…Uriel…is there anyone else I should know about?]
+[open-bracket]So... Ana... Erica... Dylan... Sohu... Uriel... is there anyone else I should know about?]
 
 [open-bracket]Aaaaaaron, you thought you were going to marry everyone except me but I ended up inside your head aaaaannnyway.]
 
