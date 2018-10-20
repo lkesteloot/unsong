@@ -1,7 +1,7 @@
 % vim:spelllang=en
 
 % General configuration.
-[Language: en]
+[Language: en_US]
 
 % String configuration.
 [Title: Unsong]
@@ -107,21 +107,9 @@ So for two minutes on Christmas Eve, while a billion people listened, three astr
 
 Then, mid-sentence, they crashed into the crystal sphere surrounding the world, because it turned out there were far [i]fewer[/i] things in Heaven and Earth than were dreamt of in almost anyone’s philosophy.
 
- 
-
-
-
-
-
 # Book I: Genesis
 
-
-<center><img alt="Section header image. A girl on a ladder holding a golden letter L, while a man looks on. Underneath is the quote Now I heard there was a sacred word / That Jala said and it named the Lord / But you don't really know of magic, or us / It goes like this, a tav, a resh / A fearsome joy, a fervent wish / The Comet King incanting haMephorash -- Leonard Cohen, haMephorash" data-recalc-dims="1" src="https://i0.wp.com/i.imgur.com/5qMRb0F.png?w=557"/></center>
- 
-
-
-
-
+[!book1image.png]
 
 ## Chapter 1: Dark Satanic Mills
 
@@ -2313,13 +2301,6 @@ Mark McCarthy, the last remaining Archmage of North America, took a deep breath.
 
 Three and one half minutes later, the police burst through the door. They had received an anonymous tip by a man with a slight Mexican accent, saying that they would find the man who had killed his four fellow Archmages sitting alone and sobbing among the bodies of his victims.
 
-[i][open-bracket]There is now an Author’s Notes section on the menu above, and <a href="http://unsongbook.com/authors-note-1/">Author’s Note 1</a> is up.][/i]
-
- 
-
-
-
-
 
 ## Chapter 9: With Art Celestial
 
@@ -2431,10 +2412,8 @@ Sohu had finally extracted enough pieces of fish innard to put on a frying pan. 
 
 “THE MOST BASIC DIVISION IN THE MYSTICAL BODY OF GOD IS THE TEN SEPHIROT. SEPHIRAH IS A HEBREW WORD RELATED TO THE ENGLISH “SAPPHIRE”, BECAUSE THE SAGES IMAGINED THEM AS SAPPHIRE-LIKE JEWELS ARRANGED IN A STRING. THE TEN SEPHIROT ARE A SERIES OF STAGES OR LEVELS OR JEWELS THROUGH WHICH DIVINE POWER FLOWS IN ITS MOVEMENT FROM GOD TO THE FINITE WORLD. EACH ONE CORRESPONDS TO A SPECIFIC DIVINE ATTRIBUTE. THE FIRST REPRESENTS THE WILL OF GOD. THE SECOND REPRESENTS THE WISDOM OF GOD. AND SO ON.”
 
-A spark appeared on Uriel’s finger, and in lines of fire he traced a diagram into the sky in front of him.
+A spark appeared on Uriel’s finger, and in lines of fire he traced a diagram into the sky in front of him.[!tree_of_life2.png The Tree of Life]
 
-
-<center><img data-recalc-dims="1" src="https://i2.wp.com/slatestarcodex.com/blog_images/tree_of_life2.png?w=557"/></center>
 “THERE ARE TWENTY-TWO DIFFERENT PATHS BETWEEN THESE JEWELS. EACH CORRESPONDS TO A PARTICULAR HEBREW LETTER.”
 
 Sohu looked at the glowing diagram. “Okay,” she said. “But what does all this [i]mean[/i]?”
@@ -3462,22 +3441,6 @@ She was finished with the lands of men.
 
 She was going to San Francisco.
 
-<hr/>
-[i][open-bracket]<a href="http://unsongbook.com/authors-note-2-podcast-llull-meetups/">Author’s note 2</a> has been posted. I will be having a series of meetups in the Bay Area for readers of my other blog Slate Star Codex; Unsong readers are welcome to attend and we may have a dramatic reading of upcoming Interlude Zayin if there is enough interest. Current planned dates and times are:[/i]
-
-— 2 PM on Sunday April 17 at the CFAR office, 2030 Addison, 7th floor, Berkeley<br/>
-— 7 PM on Monday April 18 at the Friedmans’ house, 3806 Williams Rd, San Jose<br/>
-— Afternoon of Tuesday April 19 at the Googleplex, time and exact location tbd<br/>
-— Evening of Tuesday April 19 at Stanford, time and exact location tbd
-
-Further information will be posted on <a href="http://slatestarcodex.com/">my other blog</a> and with next week’s chapter]
-
- 
-
-
-
-
-
 ## Chapter 16: If Perchance With Iron Power He Might Avert His Own Despair
 
 <blockquote>
@@ -3876,24 +3839,9 @@ My uncle told me it was Neil Armstrong, who had passed beyond time into Eternity
 
 <hr/>
 
-<center><b>End of Book 1</b></center>
- 
-
-
-
-
-
 # Book II: Exodus
 
-
-<center><img data-recalc-dims="1" src="https://i2.wp.com/slatestarcodex.com/blog_images/book2imageb.png?w=557"/></center>
-<font size="1">[open-bracket]A picture of a ship with bright multicolored sails in front of a city with various strange skyscrapers. The text says “Your faith was strong but you needed proof / Hay hay yud tav mem tav vav kuf / A ship on which another sailed before us / She saw his flag on the highest mast / She saw a dream that couldn’t last / The Comet King receiving haMephorash – Leonard Cohen, HaMephorash”. City image by a reader who wishes to remain unnamed; ship image is a photoshop of <a href="http://www.charterworld.com/news/phoenicia-sailing-yacht-concept-igor-lobanov/phoenicia-sailing-yacht-concept-by-igor-lobanov-2">this concept yacht</a>]</font>
-
- 
-
-
-
-
+[!book2imageb.png]
 
 ## Chapter 17: No Earthly Parents I Confess
 
@@ -5341,15 +5289,6 @@ But as the demons very slowly pushed their way toward Moscow, buoyed by their ne
 “I fail to see how they are relevant to geopolitics.”
 
 So passed the first quarter of the 1970s.
-
-<hr/>
-<font size="1">[i]There is a new author’s note up <a href="http://unsongbook.com/authors-note-3-microfic-gaming-sohu/">here</a>[/i]</font>
-
- 
-
-
-
-
 
 ## Chapter 22: Whose Ears Have Heard The Holy Word
 
@@ -6987,18 +6926,6 @@ Protect us by Thy might,<br/>
 Great God our King.
 </blockquote>
 
-<center><br/>
-.<br/>
-There is a new author’s note up <a href="http://unsongbook.com/authors-note-4-moon-landing-rebbe-podcast-again/">here</a><br/>
-.<br/>
-.<br/>
-</center>
- 
-
-
-
-
-
 ## Chapter 29: He Who Respects The Infant’s Faith
 
 <blockquote>
@@ -8634,14 +8561,6 @@ Then we both broke down laughing helplessly.
 
 I tell you this story as an apology. So that when we get to the part in the next chapter where I had to decide between dooming the world and dooming Ana, you understand why it was such a tough choice.
 
-[i][open-bracket]A new author’s note <a href="http://unsongbook.com/authors-note-5-san-francisco-polytopes-divine-cars/">is now up</a>. Also, if you like this story, please <a href="http://topwebfiction.com/vote.php?for=unsong">vote for it on topwebfiction</a>.][/i]
-
- 
-
-
-
-
-
 ## Chapter 37: Love That Never Told Can Be
 
 <font size="1"><b>[i]May 13, 2017<br/>
@@ -9431,27 +9350,9 @@ The monstrosity stopped, and I thought I detected in the vast mind abutting mine
 
 Then I felt space snap and resigned myself to whatever awaited me on the other side.
 
-<hr/>
-
-<center><b>End of Book 2<br/>
-Happy new year!</b></center>
- 
-
-
-
-
-
 # Book III: Revelation
 
-
-<center><img data-recalc-dims="1" src="https://i2.wp.com/slatestarcodex.com/blog_images/book3image.png?w=557"/></center>
-[i]<font size="1">[open-bracket]A picture of Malia Ngo sitting at her desk, with a city on fire visible outside the window. The text says “You say I took the Name in vain / And after that I lost the Name / I gave it back to Him who holds it for us / But echoes sound in every word / It doesn’t matter what occurred / You never really lose the HaMephorash”. Image credit to Tasty_Y at <a href="http://learning-to-draw-stuff.tumblr.com/">learning-to-draw-stuff.tumblr.com</a>]</font>[/i]
-
- 
-
-
-
-
+[!book3image.png]
 
 ## Chapter 41: Go Love Without The Help Of Any Thing On Earth
 
@@ -11172,14 +11073,6 @@ Ever since that conversation with Ana, I’ve had a horrible theory of my own. M
 
 (But the soul is still oracular; amid the market’s din / List the ominous stern whisper from the Delphic cave within / ‘They enslave their children’s children who make compromise with sin.’)
 
-[i][open-bracket]A new author’s note <a href="http://unsongbook.com/authors-note-7-zizek-rebbe-again-communism/">is now up</a>.][/i]
-
- 
-
-
-
-
-
 ## Chapter 51: He Wondered That He Felt Love
 
 <font size="1"><b>[i]February 1984<br/>
@@ -12336,7 +12229,7 @@ As best I could, I tried to send thoughts and memories through the two links. To
 
 [open-bracket]I can barely feel Erica myself. Last I got from her she was trying to join BOOJUM.]
 
-[open-bracket] !!! Really ???]
+[open-bracket]!!! Really ???]
 
 [open-bracket]We shouldn’t be so surprised. She always wanted to burn the euphemizing system to the ground. I just didn’t expect it to be so literal. This is the problem with being a theodicy student. When people tell you that the world is horrible and needs to be destroyed, you expect them to end with ‘So let’s discuss different interpretations of this fact for the next several decades.’]
 
@@ -12621,13 +12514,6 @@ The word King James’ scholars translated as “trump” is Greek [i]salpinx[/i
 But really, you don’t need to bring out the big guns to figure this stuff out. Trump’s presidency went the way any nominative determinist would have predicted. The guy named Price vowed to make healthcare affordable. The guy named Sessions inspired endless congressional hearings. The guy named Spicer made press conferences a lot more interesting. And the guy named Bannon ordered a ban on people he didn’t like.
 
 And in the end, the new administration managed to outperform everyone’s expectations: it lasted an entire four months before the apocalypse descended in fire and blood upon America and the world.
-
-[i][open-bracket]There is a new author’s note up <a href="http://unsongbook.com/authors-note-8-textbook-erica-indianapolis/">here</a>][/i]
-
- 
-
-
-
 
 
 ## Chapter 59: Clothe Yourself In Golden Arms
@@ -13404,15 +13290,6 @@ Malia frowned at her.
 
 Erica lunged forward and thrust the molten metal nameplate through Malia Ngo’s throat as the flames closed around them both.
 
-<hr/>
-[i]<font size="1">[open-bracket]There is a new Author’s Note up <a href="https://unsongbook.com/authors-note-9-uriel-purim-yisrael/">here</a>]</font>[/i]
-
- 
-
-
-
-
-
 ## Chapter 66: In The Forests Of The Night
 
 <blockquote>
@@ -13880,27 +13757,9 @@ The two of them disappeared.
 
 <hr/>
 
-<center><b>End of Book 3<br/>
-Happy Passover!</b></center>
- 
-
-
-
-
-
 # Book IV: Kings
 
-
-<center><img data-recalc-dims="1" src="https://i0.wp.com/slatestarcodex.com/blog_images/book4image.png?w=557"/></center>
-[i]<font size="1">[open-bracket]A picture of the Comet King, aged beyond his years, his face looking haggard but determined, lost in shadows. The text says “Somebody had to, no one would / I tried to do the best I could / And now it’s done, and now they can’t ignore us / And even though it all went wrong / I’ll stand against the whole unsong / With nothing on my tongue but HaMephorash”. Image credit to my girlfriend Eloise, who also made <a href="http://econokitty.tumblr.com/post/143594456726/sohu-from-unsong">this picture of Sohu</a>]</font>[/i]
-
-Thanks to the Bayesian Choir, you can now hear all of HaMephorash sung the way it was intended. Listen to them <a href="http://slatestarcodex.com/Stuff/HaMephorash.mp3">here</a>.
-
- 
-
-
-
-
+[!book4image.png]
 
 ## Chapter 69: Love Seeketh Not Itself To Please
 
@@ -14217,15 +14076,6 @@ Sohu blinked again, and her eyes were deep brown.
 [open-bracket]OKAY.]
 
 Sohu turned to lightning and disappeared. The last few ashes and sparks fell to the base of Pike’s Peak. The force of the battle had split the mountain in two.
-
-<hr/>
-[i][open-bracket]<a href="https://unsongbook.com/authors-note-10-hamephorash-hamephorash-party/">Author’s Note 10</a> is now up.][/i]
-
- 
-
-
-
-
 
 ## Chapter 71: But For Another Gives Its Ease
 
@@ -14734,14 +14584,6 @@ It was a faint voice, almost too faint to detect, audible not to the ears but to
 
 <hr/>
 
-<center><b>End of Book IV.<br/>
-</b></center>
- 
-
-
-
-
-
 ### Epilogue
 
 <blockquote>
@@ -14884,263 +14726,3 @@ I thought again of all I had seen, all I had hoped. Everything that could have b
 
 My voice only wavering a little, I spoke the Explicit Name of God.
 
-<hr/>
-<b>Thank you for reading [i]Unsong[/i].</b>
-
-I have a few extra things I need to take care of. I promised some people a <a href="https://www.reddit.com/r/unsong/comments/68hzld/tosafot_unsong/">tosafot</a>, and I’m thinking of a couple other very small projects as well. I also have Vague Long-Term Plans to publish this in some more serious way. If you want to be kept up-to-date, please subscribe to the mailing list using the box at the top right of the page.
-
-I have gotten some very vague expressions of interest from some people who claim to represent publishers, and I’ll be gradually looking into those in a way that might take a long time to bear any fruit. In the meantime I will not be authorizing an official print copy. If other people want to make an ebook version, or small-scale non-public print copies in ways that don’t seem like obvious defections against future publishers, I’m okay with that. If you want updates on this kind of thing, subscribe as mentioned above.
-
-There’s a video of me reading the final chapter up <a href="https://www.youtube.com/watch?v=FaifojyS_CQ&amp;feature=youtu.be">here</a> (thanks Sophia!) and a video of me reading the Epilogue <a href="https://www.facebook.com/benjamin.r.hoffman/videos/593197826365/">here</a> (thanks Ben!)
-
-Thanks also to everyone who attended the wrap party, thanks to the person who gave me some prints from William Blake’s illustrations of the Book of Job, thanks to the person who gave me a full-size functional bronze copy of the sword Sigh, and thanks (I think) to the person who hid six (possibly seven, if we still haven’t found one?) purple Beanie Baby dragons in the house where we had the afterparty. It is not my house and the people who live there are very confused.
-
-Most of you probably know this, but I also write nonfiction and occasional short stories on my other blog, <a href="http://slatestarcodex.com/">Slate Star Codex</a>. There’s still the <a href="https://www.reddit.com/r/unsong/">Unsong subreddit</a> for anyone who wants to talk about the book more. And you might enjoy some of the other fiction on <a href="https://www.reddit.com/r/rational/">r/rational</a>.
-
- 
-
-</main><section><h1>Appendix: Author Notes<article class="author note">
-## Author’s Note 1: Fanart, Tshirts, Group Houses
-
-No interlude today, but a quick wrapping up of some items and happenings. 
-
-75thTrombone has put together <a href="https://www.reddit.com/r/unsong/">an Unsong subreddit</a> for any conversation that doesn’t fit on this blog. 
-
-Relevant links: <a href="https://en.wikipedia.org/wiki/Adam_Kadmon">Adam Kadmon</a>, <a href="https://www.poets.org/poetsorg/poem/present-crisis">The Present Crisis</a>, <a href="http://www.aish.com/tp/i/moha/48931772.html#r3">what were the 974 generations before the creation of the world?</a>, <a href="http://www.chabad.org/library/article_cdo/aid/287612/jewish/Angels-Human-Beings-and-the-Torah.htm">angels challenging Moses for possession of the Torah</a>, <a href="http://www.poetryfoundation.org/poem/173083">The Destruction of Sennacherib</a>, <a href="https://books.google.com/books?id=kE2k36XAkv4C&amp;pg=PA65&amp;lpg=PA65">God plays with Leviathan</a> (<a href="http://www.labajournal.com/2015/02/not-even-god-has-worklife-balance/">2</a>), <a href="https://books.google.com/books?id=nQinWBLQG3UC&amp;pg=PA144&amp;lpg=PA144&amp;dq=Georg+Cantor+judaism&amp;source=bl&amp;ots=DmOp3Q2yWK&amp;sig=tgHsopbRWYWFXKmfxsDenXP9Gkc&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwimu-qZjoDLAhVpmIMKHdEVDTE4ChDoAQghMAE#v=onepage&amp;q=Georg%20Cantor%20judaism&amp;f=false">Cantor and the aleph</a>, <a href="https://en.wikipedia.org/wiki/Peter_Singer">Peter Singer</a> and <a href="http://www.effectivealtruism.org/about-ea">effective altruism</a>, <a href="https://books.google.com/books?id=q-uPfmWXM-EC&amp;pg=PA186&amp;lpg=PA186&amp;dq=%22No+one+has+ever+seen+it+at+all%22&amp;source=bl&amp;ots=6JhIgT6hfT&amp;sig=xeDkcjHdXjrNGjY69t9cRgmiZeA&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwi94MSZj4DLAhUjvIMKHdPfC5wQ6AEIIzAB#v=onepage&amp;q=%22No%20one%20has%20ever%20seen%20it%20at%20all%22&amp;f=false">Edward Teller’s atomic alphabet</a>, <a href="http://waitbutwhy.com/2014/05/fermi-paradox.html">the Fermi paradox</a>, <a href="https://books.google.com/books?id=GGaTLhHBpwIC&amp;pg=PA462&amp;lpg=PA462&amp;dq#v=onepage&amp;q&amp;f=false">do angels understand Aramaic?</a>, <a href="https://en.wikipedia.org/wiki/Dominic_system">Dominic system of mnemonics</a>.
-
-Some comments that were pretty spot-on: <a href="http://unsongbook.com/chapter-5-never-seek-to-tell-thy-love/#comment-702">Sniffnoy on Ithaca’s bookshelf</a>, <a href="http://unsongbook.com/chapter-5-never-seek-to-tell-thy-love/#comment-761">G on the dinner party guests</a>, <a href="http://unsongbook.com/chapter-5-never-seek-to-tell-thy-love/#comment-686">Pickle on theodicy</a>, <a href="http://unsongbook.com/interlude-%d7%92-cantors-and-singers/#comment-938">Anon on Peter Singer</a>, <a href="https://www.reddit.com/r/unsong/comments/45yi4e/every_chapter_has_been_a_william_blake_quotation/">werttrew on chapter titles</a>.
-
-Some fan art: <a href="http://unsongfanart.tumblr.com/">unsongfanart.tumblr.com</a>, <a href="http://endecision.tumblr.com/post/137583833461/my-favorite-chapter-so-far">endecision’s Uriel</a>, <a href="https://thetransintransgenic.tumblr.com/post/137003924540/thou-shalt-not-take-the-name-of-the-lord-thy-god">thetransintransgenic’s Apollo 8</a>, <a href="http://comparativelysuperlative.tumblr.com/post/138767734886/the-omens-were-clear-well-in-retrospect-did-you">comparativelysuperlative’s Hamilton parody mashup</a>, and here’s a spare Nixon I saved from a deleted Tumblr:
-
-
-<center><img data-recalc-dims="1" src="https://i2.wp.com/slatestarcodex.com/blog_images/nixon2.png?w=557"/></center>
-Some fans taking a strong position against coveting with the t-shirts mentioned in Chapter 5:
-
-
-<center><img data-recalc-dims="1" src="https://i0.wp.com/slatestarcodex.com/blog_images/tshirt1.jpg?w=557"/> <img data-recalc-dims="1" src="https://i0.wp.com/slatestarcodex.com/blog_images/tshirt2.jpg?w=557"/></center>
-Thanks to everyone for all of the above, and thanks also for all of your nice words and helpful feedback. I’ve seen some online stories that reward people who make fan art or similar things with very minor characters named after them. I don’t have [i]too[/i] many cameo spots available, but if you’re interested, let me know.
-
-I got an email last week from a reader who told me she had lived in a Silicon Valley group house called “Ithaka” back when she went to Stanford, and wanted to know why I was writing a story about her life. I had never heard of her or her house before. Needless to say, nothing is ever a coincidence.
-
- 
-
-
-
-
-<article class="author note">
-## Author’s Note 2: Podcast, Llull, Meetups
-
-Looks like it’s time for another author’s note.
-
-I have two more chapters and one last interlude planned for Book One, so that should be wrapped up by mid-April. After that there will be a Passover bonus chapter, then onward to Book Two. I can’t promise that “then everything will finally start coming together”, because I actually have [i]more[/i] exposition and plotlines to introduce, but by the middle of Book Two there should be a notable change in speed as some larger-scale designs start to make themselves known.
-
-Matthew Arnold (<a href="http://www.bartleby.com/254/65.html">relevant coincidence</a>) is doing an <a href="http://unsong.libsyn.com/">Unsong audiobook podcast</a> (!) – currently up to Chapter 5.
-
-Commenter “Pirindiel” has written <a href="https://rawgit.com/pirindiel/llull/master/llull.html">a functional version of Llull</a>. Well, sort of functional. You still need to add the Vital Name. Which you might want to hold off on doing until you read the rest of the book and learn a little more about how that works out.
-
-Joseph Hertzlinger points out that Congress <a href="http://www.atlasobscura.com/articles/the-resolution-in-congress-to-recognize-magic-as-a-rare-and-valuable-art-form">is considering a resolution</a> to “recognize magic as rare and valuable”. First step to an American Board of Ritual Magicians?
-
-Operia2 from <a href="https://www.reddit.com/r/unsong/">the Unsong subreddit</a> has drawn <a href="http://i.imgur.com/NIlniRE.png">a sufficiently creepy depiction of Thamiel</a>. Also on the subreddit: <a href="https://www.reddit.com/r/unsong/comments/45yi4e/every_chapter_has_been_a_william_blake_quotation/">chapter titles</a>, <a href="https://www.reddit.com/r/unsong/comments/4bz1y5/a_meditation_on_the_term_klipot_in_unsong/">klipot</a>, <a href="https://i.imgur.com/eMKcXsu.png">flag</a>.
-
-Comments worth highlighting – <a href="http://unsongbook.com/interlude-%D7%93-n-grammata/#comment-2666">correspondence between divine Names and articles in various languages</a>, <a href="http://unsongbook.com/interlude-%D7%93-n-grammata/#comment-2003">Jesus’ name derived from the Tetragrammaton in French</a>, and <a href="http://unsongbook.com/interlude-%D7%95-theres-a-hole-in-my-bucket/#comment-2448">this comment by Sniffnoy</a> which I declare to be Official Foreshadowing.
-
-Wiki articles and websites related to concepts in the story: <a href="https://en.wikipedia.org/wiki/Agloe,_New_York">Agloe NY</a>, <a href="https://en.wikipedia.org/wiki/AGLA">AGLA</a>, <a href="http://www.hebrew4christians.com/Names_of_G-d/Esoteric/esoteric.html">mono- and di-grammaton</a>, <a href="http://www.sacred-texts.com/eso/sta/sta30.htm">derivation of Adam’s name from notarikon</a>, <a href="http://www.ldolphin.org/messiah.html">when will the Messiah come?</a>, <a href="https://en.wikipedia.org/wiki/Isaac_Luria">Ha’Ari</a> and <a href="https://en.wikipedia.org/wiki/Lurianic_Kabbalah#Shevira_.E2.80.93_Shattering_of_the_sephirot_vessels">the shattering of vessels</a>, <a href="https://en.wikipedia.org/wiki/Star_Prophecy">the Star Prophecy</a>, <a href="https://en.wikipedia.org/wiki/Thaumiel">Thamiel</a>, <a href="http://www.themystica.com/mystica/articles/n/nachash.html">serpent/Messiah correspondence</a>, <a href="http://mysteriouswritings.com/secret-meaning-to-the-phrases-of-et-in-arcadia-ego-and-i-tego-arcana-dei-revealed/">I TEGO ARCANA DEI</a>.
-
-I will be in the Bay Area for most of April. I have a couple of meetups planned for interested readers. <s>One of them will be 7 PM on Friday April 15 at 3806 Williams Rd, San Jose</s> [open-bracket]MAY HAVE TO CHANGE, WILL GET BACK TO YOU]. Another will [i]probably[/i] be somewhere in Berkeley on the afternoon of Sunday April 17th but I still need to confirm the location. There may be others (past tradition has been to hold one at the Gogmagogplex in Mountain View).  Although these will be probably be dominated by readers of my other blog, if there’s enough interest and a few volunteers I can also arrange a sneak preview/dramatic reading of Interlude Zayin. There will be more concrete meetup announcements posted soon on <a href="http://slatestarcodex.com/">my other blog</a>, so watch that space.
-
-I recently learned that <a href="https://en.wikipedia.org/wiki/Astro_Teller">Astro Teller</a>, the real-life grandson of Edward Teller, is the head of Google X Labs. And has a degree from Stanford in “symbolic computation”. And has <a href="http://amzn.to/22e34WC">written a fiction book</a> about a man who creates a self-aware AI. I knew none of this when I wrote the first few chapters of this book. Needless to say, nothing is ever a coincidence.
-
-<s>If anyone with artistic skills would like to help make a beginning image for Book 2 similar to <a href="http://unsongbook.com/book-i-genesis/">the beginning image for Book 1</a>, please let me know. The relevant skill would be drawing a scene with a ship. I can tell you more if you contact me. It doesn’t have to be perfect, just better than what I could do myself. Email me at scott[open-bracket]at]shireroth[open-bracket]dot]org if you’re interested.</s> (already got some people, thanks)
-
- 
-
-
-
-
-<article class="author note">
-## Author’s Note 3: Microfic, Gaming, Sohu
-
-<a href="http://unsongbook.com/interlude-%D7%97-war-and-peace/">Interlude ח</a> is now up.
-
-Relevant Wikipedia articles for the past few chapters: <a href="https://en.wikipedia.org/wiki/Comet_West">Comet West</a>, <a href="https://en.wikipedia.org/wiki/Kaifeng_Jews">the Kaifeng Jews</a>, <a href="https://en.wikipedia.org/wiki/Chad_Gadya">Had Gadya</a>, <a href="https://en.wikipedia.org/wiki/Stable_marriage_problem">the Gale-Shapley algorithm</a>, <a href="https://en.wikipedia.org/wiki/John_Dee">John Dee</a>, <a href="https://en.wikipedia.org/wiki/Enochian">Enochian language</a>, <a href="https://en.wikipedia.org/wiki/Location_arithmetic">location arithmetic</a>, <a href="https://en.wikipedia.org/wiki/Metatron">Metatron</a>, <a href="https://en.wikipedia.org/wiki/Raziel">Raziel</a>, <a href="https://en.wikipedia.org/wiki/Samyaza">Samyazaz</a>, <a href="https://en.wikipedia.org/wiki/Watcher_%28angel%29">the Watcher Angels</a>, <a href="https://en.wikipedia.org/wiki/Golden_Gate_%28Jerusalem%29">the Golden Gate in Jerusalem</a>, <a href="https://en.wikipedia.org/wiki/Coit_Tower">Coit Tower</a> (and <a href="http://art-for-a-change.com/blog/wp-content/uploads/2012/05/boynton_coit1.jpg">the eye mural within</a>), <a href="https://en.wikipedia.org/wiki/Non-overlapping_magisteria">non-overlapping magisteria</a>, <a href="https://en.wikipedia.org/wiki/Isaac_Bashevis_Singer">Isaac Bashevis Singer</a>, <a href="https://en.wikipedia.org/wiki/Gematria#Methods">the Avgad cipher</a>, <a href="https://en.wikipedia.org/wiki/Terracotta_Army">the Terracotta Army</a>, <a href="https://en.wikipedia.org/wiki/Nixon_goes_to_China">“only Nixon can go to China”</a>, <a href="http://blissbat.net/rambles/rubaiyat_whin.html">Whinfield’s Rubaiyat</a>.
-
-Gadit (<a href="http://thetransintransgenic.tumblr.com/">@thetransintransgenic</a>) is “microficcing the Omer”, ie writing a new Unsong micro-fanfic for each of the forty-nine days between Passover and Shavuot. She hasn’t [i]quite[/i] kept to the schedule, but you can read what she’s got <a href="https://thetransintransgenic.tumblr.com/tagged/Microficcing-the-Omer">here</a>. I’ve helped with <a href="https://thetransintransgenic.tumblr.com/post/143892818216/microficcing-the-omer-hod-bagvurah">this one</a> and <a href="http://slatestarscratchpad.tumblr.com/post/143812641631/microficcing-the-omer-tiferet-bagvurah">this one</a>, which you can consider canon if you want (the others probably don’t fit). The sudden inclusion of transfemale angel Gadiriel is [i]not[/i] a deliberate Gadit homage, but you’re welcome to think of it as a sort of unintentional kabbalistic cameo if you want.
-
-Mellonbread is developing <a href="https://www.reddit.com/r/slatestarcodex/comments/4im5g8/unsong_tabletop_rpg/">an Unsong tabletop RPG</a>.
-
-75thTrombone is working on a <a href="https://www.reddit.com/r/unsong/comments/4iyoag/unsong_wiki_development_effort_with_ruminations/">sort of index of relevant facts</a> which might get transferred to a wiki at some point.
-
-My girlfriend Eloise has made <a href="http://econokitty.tumblr.com/post/143594456726/sohu-from-unsong">some really amazing Sohu fan art</a>. And here’s a sketch of Uriel by <a href="http://responsible-reanimation.tumblr.com/post/143300637923/fanart-of-the-archangel-uriel-from">@responsible-reanimation</a>.
-
-The Unsong podcast is <a href="http://unsong.libsyn.com/unsong-audiobook-part-iii-of-chapter-5-never-seek-to-tell-thy-love">back in business</a>.
-
-If you’re interested in more discussion and fan art, you may want to go to <a href="https://www.reddit.com/r/unsong/">the subreddit</a>.
-
-Astro Teller, grandson of Edward Teller, who was mentioned in the last Author’s Note, has gone on the record to state that <a href="http://www.forbes.com/sites/aarontilley/2016/03/24/alphabets-moonshots-head-astro-teller-fear-of-ai-and-robots-is-wildly-overblown/">fear of intelligent computers is overblown</a>. Note also the name of the reporter conducting the interview. This is not a coincidence because nothing is ever a coincidence.
-
- 
-
-
-
-
-<article class="author note">
-## Author’s Note 4: Moon Landing, Rebbe, Podcast Again
-
-I should probably start off with <a href="http://maybesimon.tumblr.com/post/146599808055/sohu-sat-on-her-cloud-snacking-on-manna-with">yet more fanart of Sohu</a>. I guess by this point I’ve gotten the message about character readers like.
-
-Relevant wiki (and other) articles: <a href="https://en.wikipedia.org/wiki/Cainites">the Cainites</a>, <a href="https://en.wikipedia.org/wiki/Committee_for_the_Re-Election_of_the_President">CREEP</a>, <a href="https://en.wikipedia.org/wiki/Pardes_(legend)">Pardes</a> (ie the four-rabbis-in-an-orchard story) <a href="https://en.wikipedia.org/wiki/Elisha_ben_Abuyah">Elisha ben Abuyah</a>, <a href="http://www.jewishveg.com/schwartz/devarim2.html">the mitzvah of sending away the mother bird</a>, <a href="https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment">the marshmallow test</a>, <a href="https://en.wikipedia.org/wiki/Griffith_Observatory">Griffith Observatory</a>, <a href="https://en.wikipedia.org/wiki/Ed_Koch">Mayor Ed Koch</a>, <a href="https://en.wikipedia.org/wiki/Menachem_Mendel_Schneerson">the Lubavitcher Rebbe</a>. 
-
-The starting quote for Chapter 23 comes from this [i]extraordinarily[/i] UNSONGesque video about the Bible predicting the moon landing. Especially interesting because the presenter – believe it or not – was a former NASA engineer who worked on the Apollo missions:
-
-
-<center><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/lOAQE8KESpU" width="420"></iframe></center>
-And Ed Koch discusses his meeting with the Lubavitcher Rebbe:
-
-
-<center><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/WZaSVyDVHe0" width="560"></iframe></center>
-Some of <a href="http://www.chabadworld.net/page.asp?pageID=FABD6C0E-964E-464E-9DEF-1C2B6F468AA3&amp;moshHdr=1">the Rebbe’s miracles</a>, and <a href="http://www.chabad.org/parshah/article_cdo/aid/3375779/jewish/Why-No-Biblical-Miracles-Today.htm">Chabad’s explanation</a> for why there aren’t more miracles all the time (which I tried to sort of adapt for the interlude). Also, unrelated to the story (or [i]is[/i] it?), but <a href="https://www.youtube.com/watch?v=WnhMntRHqpo&amp;list=PLrGtDe89fEiQp_GkY80ZOnCsVX-8JowfC">this video</a> of the Rebbe is adorable.
-
-More from <a href="https://www.reddit.com/r/unsong/">the subreddit</a>: a <a href="https://www.reddit.com/r/unsong/comments/4rbai9/unsong_timeline/">historical timeline</a>, Gwern’s <a href="https://www.reddit.com/r/unsong/comments/4pzyvq/edward_tellers_atom_alphabet_1946/">analysis of Edward Teller’s Atomic Alphabet</a>, B_For_Bandana draws <a href="https://www.reddit.com/r/unsong/comments/4odvf8/st_paul_supported_oppressing_a_religious_minority/">a cool kabbalistic connection</a> from current news. And r/rational has <a href="https://www.reddit.com/r/rational/comments/4pdzqr/unsong_interlude_%D7%99_the_broadcast/">strong feelings about The Broadcast</a>.
-
-<a href="http://unsong.libsyn.com/">The podcast</a> ([i]not[/i] to be confused with The Broadcast) is back and up to Chapter 9.
-
-I was going to put this up on <a href="http://topwebfiction.com/">TopWebFiction.com</a> in time for this Author’s Note, but it looks like it needs to be approved and that takes a while. So I’ve submitted it and will be asking readers to vote for it sometime in the near future. In the meantime, take a look and enjoy the other stories on the site.
-
- 
-
-
-
-
-<article class="author note">
-## Author’s Note 5: San Francisco, Polytopes, Divine Cars
-
-Some more good fanart, this time of Unsong’s San Francisco: 
-
-
-<center><img data-recalc-dims="1" src="https://i0.wp.com/68.media.tumblr.com/d6908b5f89c1653b97225ce6dffcd04e/tumblr_oavqmmXxC41vu39a4o1_500.jpg?w=557&amp;ssl=1"/></center>
-This comes courtesy of Mehitabel Glenhaber. I am all in favor of doing the thing Eliezer did where creating good enough fanart earns your name a cameo in the book. <a href="https://en.wikipedia.org/wiki/List_of_minor_biblical_figures,_L%E2%80%93Z#Mehetabel">According to Wikipedia</a>, the name “Mehitabel” means “God causes good” in Biblical Hebrew. So in honor of her fan art, I will make this book about Jewish theodicy
-
-But it is very good fanart indeed, so I will give her an extra cameo. Biblical Mehitabel is mentioned only in <a href="https://www.biblegateway.com/passage/?search=Genesis+36-39">Genesis 36:39</a>, as the wife of the Edomite king Hadar in the Edomite King List. This King List is actually very important – it is the source from which Isaac Luria <a href="http://www.chabad.org/kabbalah/article_cdo/aid/379512/jewish/Shabbat-of-the-Eighth-King.htm">kabbalistically derived</a> the idea of the “shattering of the vessels”, which explains the existence of imperfection and the qlipot. So also in her honor, I will make this story about the Lurianic kabbalistic account of cosmic imperfection.
-
-Also, Patrick Hunter on Facebook drew <a href="https://scontent-iad3-1.xx.fbcdn.net/t31.0-8/14138846_1456948124334356_5233972853240707403_o.jpg">a picture of Thamiel</a>. The name “Patrick” comes from the Latin “patrician”, meaning “noble”, and Hunter of course means hunter, so in his honor, Chapter 20 mentions King Nimrod, who the Bible calls a “mighty hunter”.
-
-Anders Sandberg has done a detailed analysis of <a href="http://aleph.se/andart2/math/uriels-stacking-problem/">Uriel’s stacking problem</a> from Chapter 20 about balancing various multidimensional shapes. I can only assume the name of his blog is a coincidence.
-
-A few people brought up Unsong in the context of <a href="https://www.reddit.com/r/badmathematics/comments/4tbwr5/math_reveals_clintons_are_holding_fbi_director/">a gematria analysis purporting to show</a> that Hillary Clinton is holding the family of the FBI director hostage. I endorse Unsong’s relevance to this claim.
-
-Some of the jokes in Chapter 30 came from this page on <a href="http://www.elmo.ch/private/Stories-from-a-great-country/what-would-jesus-drive/highrock-web-page/">what kind of car God drives</a>.
-
-Story-relevant links for the last few chapters: <a href="https://www.poetryfoundation.org/poems-and-poets/poems/detail/43827">The Destruction of Sennacherib, </a><a href="https://en.wikipedia.org/wiki/Silverthorne,_Colorado">Silverthorne</a> and the <a href="https://en.wikipedia.org/wiki/Dillon_Reservoir">Dillon Reservoir</a> in Colorado, <a href="https://en.wikipedia.org/wiki/Wall_Drug">Wall Drug</a> and its <a href="http://www.walldrug.com/history/signs">signs</a>, <a href="https://en.wikipedia.org/wiki/Zzyzx,_California">Zzyzx</a>, the <a href="https://en.wikipedia.org/wiki/Gibborim_(biblical)">Gibborim</a>, <a href="https://en.wikipedia.org/wiki/Simon_bar_Kokhba">Simon bar Kokhba</a>, <a href="https://en.wikipedia.org/wiki/Not_in_Heaven">“it is not in Heaven”</a>, <a href="https://en.wikipedia.org/wiki/Madrid_Conference_of_1991">Madrid Mideast Peace Conference</a>, <a href="https://drugs-forum.com/forum/showthread.php?t=30458">the Green Man of Peyote</a>, <a href="https://www.youtube.com/watch?v=57LxbIBcTjE">Hymn of Breaking Strain (the song)</a>, <a href="https://play.google.com/music/preview/Tihyertbn7nlthzcum3po5g22da?lyrics=1&gt;American Pie lyrics&lt;/A&gt;, &lt;A HREF=" http:="">rock n’ roll explanation of American Pie</a>
-
-<a href="http://topwebfiction.com/">TopWebFiction</a> and <a href="http://webfictionguide.com/">WebFictionGuide</a> are related sites that link to online serial fiction. They have a Reddit-like upvote system for choosing the most popular. If you like Unsong, please upvote it <a href="http://topwebfiction.com/vote.php?for=unsong">here</a>. 
-
- 
-
-
-
-
-<article class="author note">
-## Author’s Note 6: Flammarion, 8, Hackers
-
-From Evan M: <a href="http://slatestarcodex.com/blog_images/fanart1.jpg">an Unsong version</a> of the <a href="https://en.wikipedia.org/wiki/Flammarion_engraving">Flammarion engraving</a>. He explains:
-
-<blockquote>Aaron Smith-Teller is reaching for the knowledge of the Lord (as represented by the Left Hand of God), with the cloud-fortresses of the angels hovering above the sky, which is layered over the Not A Metaphor, the city of San Jose, and some mountains which I’m going to say represent the range surrounding the Culebra Cut. Looming beneath (an oxymoron representing the contrast between the Left and Right Hands of God) it all is Hell. The double stalactites in the center are symbolic of Thamiel’s bident.
-
-The comet in the sky represents both the Comet King and the Comet West. The palm trees, having no visible fruit in the picture, represent the Parable of the Barren Fig Tree, which represents God giving humanity one last chance for redemption through the Comet King.
-
-Naturally, the two American flags on Neil Armstrong’s shoulders, though they may seem like a dumb mistake made by the artist when he used a poor-quality reference photo, actually are metaphorical for the United States’ tendency to be both merciful (Armstrong’s left-hand American flag), and just (Armstrong’s right-hand American flag).
-
-The river obviously has a gematria of 874, the same as “Bible scriptures lion,” referring to the well-known story of Daniel in the lions den, which shows that the Lord may have miraculous mercy on His believers. The only plausible message it symbolizes, therefore, is that Aaron may have his deliverance if only he can do an extraordinary good deed. “Good deed”‘s gematria of 129 is the same of that of “America,” which clearly means that to survive, Aaron Smith-Teller must save the United States.
-</blockquote>
-Plot-relevant articles: <a href="https://en.wikipedia.org/wiki/Stratosphere_Las_Vegas">Stratosphere Las Vegas</a>, <a href="https://en.wikipedia.org/wiki/Hershel_of_Ostropol">Hershel of Ostropol</a>, <a href="https://en.wikipedia.org/wiki/Teotihuacan">Teotihuacan</a>, <a href="https://en.wikipedia.org/wiki/Panama_Canal#Layout">Layout of the Panama Canal</a>, <a href="https://en.wikipedia.org/wiki/Virgin_Galactic">Virgin Galactic</a>, <a href="http://www.kjvtoday.com/home/is-the-creature-in-isaiah-3414-a-screech-owl">interpretation of the animals in Isaiah 34</a>, <a href="https://en.wikipedia.org/wiki/Lilith">Lilith</a>,<br/>
-<a href="https://en.wikipedia.org/wiki/Alphabet_of_Sirach">Alphabet of Ben Sira</a>, <a href="https://en.wikipedia.org/wiki/Strategic_Arms_Limitation_Talks">SALT</a>, <a href="https://en.wikipedia.org/wiki/Messiah_ben_Joseph">Messiah ben Joseph</a>, <a href="https://en.wikipedia.org/wiki/Bene_Ephraim">Bene Ephraim</a>, <a href="https://en.wikipedia.org/wiki/Four_Worlds">the four worlds of kabbalah</a>, <a href="https://en.wikipedia.org/wiki/Kefitzat_Haderech">Kefitzat haDerech</a>, <a href="https://en.wikipedia.org/wiki/Cheyenne_Mountain_Complex">Cheyenne Mountain</a>, <a href="https://en.wikipedia.org/wiki/Sing_Sing">Sing Sing prison</a>.
-
-Uriel <a href="http://unsongbook.com/interlude-%D7%96-man-on-the-sphere/">here</a>: “THE NUMBER EIGHT WILL BE DOWN FROM ONE AM TO SIX AM TOMORROW MORNING FOR EMERGENCY REPAIRS. PLEASE DO NOT PERFORM ANY CALCULATIONS THAT REQUIRE THE NUMBER EIGHT DURING THAT TIME.” Programmers: <a href="https://www.reddit.com/r/programminghorror/comments/56x5ri/the_static_analyser_told_my_team_mate_that_he/">We’re on this</a>. Also <a href="http://slatestarcodex.com/2016/10/20/ai-persuasion-followup-survey/#comment-426375">sort of related</a>.
-
-From Wired, <a href="https://www.wired.com/2016/10/anonymous-notorious-hacker-back-hes-gone-legit/">Anonymous’ Most Notorious Hacker Is Back, And He’s Gone Legit:</a>
-
-<blockquote>Now that he’s found full-time work again, Monsegur says he’s not about to slip back into black hat habits. He remembers long talks he had with his prison cellmate, a rabbi convicted of immigration fraud, who taught him about Kabbalistic numerology and sang psalms to him in Hebrew.
-</blockquote>
-This should end well. 
-
- 
-
-
-
-
-<article class="author note">
-## Author’s Note 7: Zizek, Rebbe Again, Communism
-
-Slavoj Zizek on <a href="http://zizek.uk/slavoj-zizek-on-castros-death-transcript/">the kabbalistic meaning of Castro’s name</a>. Search for “Yeah, but again” in the transcript.
-
-Of [i]course[/i] the Lubavitcher Rebbe had <a href="http://www.chabad.org/therebbe/article_cdo/aid/947607/sc/fb/jewish/The-Astronaut.htm">an opinion on the Apollo 8 mission</a>.
-
-Plot-relevant articles: <a href="https://www.theguardian.com/books/2014/mar/21/ancient-book-wisdom-i-ching-computer-binary-code">Leibniz and the I Ching</a>, <a href="https://en.wikipedia.org/wiki/Divine_simplicity">divine simplicity</a>, <a href="https://en.wikipedia.org/wiki/Atzmus">Atzmus</a>, <a href="https://en.wikipedia.org/wiki/Belshazzar%27s_feast">MENE MENE TEKEL UPARSIN</a>, <a href="https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan">Attempted assassination of Ronald Reagan</a>, <a href="https://en.wikipedia.org/wiki/Larry_Speakes">Larry Speakes</a>, <a href="https://en.wikipedia.org/wiki/Spikenard">nard</a>, <a href="http://www.chabad.org/kabbalah/article_cdo/aid/380846/jewish/Four-Souls-One-Person-52.htm">the four levels of the soul</a>.
-
-The descriptions of Hellish government ruining the moral fiber of its people were partly based on the theory that Soviet communism decreased social trust and cooperation norms in people under its yoke. See eg <a href="https://www.princeton.edu/~gpop/Comparative%20Politics%20_09-122_full%20doc.pdf">Post-Communist Legacies, Values, and Behavior</a> and <a href="http://www.ub.edu/searchproject/wp-content/uploads/2013/01/WP-5.1.pdf">The Dynamics And Determinants Of Social Capital</a>.
-
-There seems to be an <a href="https://www.facebook.com/groups/1760890607473657/">Unsong Facebook group</a>
-
-The <a href="http://unsong.libsyn.com/">Unsong audiobook</a> is back in business and up to Chapter 11.
-
-As always, if you like this story, please <a href="http://topwebfiction.com/vote.php?for=unsong">vote for it on topwebfiction</a>.
-
- 
-
-
-
-
-<article class="author note">
-## Author’s Note 8: Textbook, Erica, Indianapolis
-
-Art, starting with a cover for [i]Kabbalah: A Modern Approach[/i] (I can’t find the original artist, tell me who you are so I can give you credit!):
-
-
-<center><img data-recalc-dims="1" src="https://i2.wp.com/i.imgur.com/8KcoEUf.png?w=557&amp;ssl=1"/></center>
-And by Tumblr user <a href="http://topquarkintown.tumblr.com/post/156909021981/more-unsong-trash-fanart-uriel-trying-to-stack">topquarkintown</a>, Uriel stacking twelve-dimensional shapes:
-
-
-<center><img data-recalc-dims="1" src="https://i0.wp.com/68.media.tumblr.com/aa6391f5713dcccfbdc2e1f0094c40d3/tumblr_okxxgjXuKS1vu39a4o1_1280.jpg?w=557&amp;ssl=1"/></center>
-…and Erica:
-
-
-<center><img data-recalc-dims="1" src="https://i0.wp.com/68.media.tumblr.com/9fd6f5c87b2ba82a5be3e37e70455349/tumblr_okxxgjXuKS1vu39a4o2_540.jpg?w=557"/></center>
-Here’s <a href="https://shakeddown.wordpress.com/2016/11/12/hebrew-translation-of-hallelujah/">a Hebrew translation</a> of the Unsong version of Hallelujah, by <a href="https://shakeddown.wordpress.com/2017/02/02/the-kaballah-of-my-name/">Shaked</a>.
-
-Jaskologist on <a href="http://jaskology.com/?p=258">a theory of magic vanishing from the universe</a>. His timeline matches Unsong’s pretty well. Also, <a href="http://slatestarcodex.com/2017/01/08/open-thread-66-5/#comment-451873">more Jaskologist on magic</a>.
-
-The <a href="https://en.wikipedia.org/wiki/Rishon_model">Rishon Model</a> of physics, an attempted Theory of Everything using particles called Tohu and Vohu.
-
-<a href="https://chrisbrakeshow.com/2014/03/27/gateway-to-hell-indianas-longest-running-mystery-solved-with-stephen-schroeder/">“Schroeder believes, quite earnestly, that the city of Indianapolis was built to be a gateway to Hell by Masonic pagans”</a> (h/t <a href="https://deusvulture.tumblr.com/post/156566558526/glumshoe-about-two-months-ago-i-posted-about">deusvulture</a>)
-
-Plot-relevant articles: <a href="http://www.presidency.ucsb.edu/ws/?pid=25853">Bush’s inaugural address</a>, <a href="http://www.hplovecraft.com/writings/texts/poetry/p289.aspx">Lovecraft’s Fungi From Yuggoth</a>, <a href="https://www.truthorfiction.com/obama-antichrist-video/">Obama</a> and <a href="http://www.patheos.com/blogs/geneveith/2017/01/donald-trump-in-bible-prophecy/">Trump</a> in Bible prophecy, <a href="https://en.wikipedia.org/wiki/Hashmal">chashmal</a> (and <a href="http://onthemainline.blogspot.com/2011/02/what-does-chashmal-mean.html">more</a>), <a href="http://www.torahscience.org/communicat/kabbalah_and_telepathy.htm">telepathy in kabbalah</a>, God <a href="http://www.vocativ.com/309748/all-the-people-god-kills-in-the-bible/">killing 2.8 million people</a> in the Bible, <a href="https://en.wikipedia.org/wiki/Irving_Greenberg">Irving Greenberg</a> and <a href="https://en.wikipedia.org/wiki/Holocaust_theology">Holocaust theology</a>, <a href="https://en.wikipedia.org/wiki/Cathar_Perfect">Cathar parfaits</a>, <a href="https://en.wikipedia.org/wiki/Derek_Parfit">Derek Parfit</a>.
-
-Thanks to everyone who said hi to me and talked to me about [i]Unsong[/i] at the Asilomar conference. I have to say, it’s scary enough knowing that cool Silicon Valley people read Slate Star Codex. Knowing that some of them read [i]Unsong[/i] is just a little too much for me.
-
-
-<center><img data-recalc-dims="1" src="https://i1.wp.com/slatestarcodex.com/blog_images/asilomar_teller.jpg?w=557"/></center>
-Here’s a picture from the conference of me with Sam Teller, a director at SpaceX. Cf. <a href="http://unsongbook.com/chapter-9-with-art-celestial/">Chapter 10</a> – “The kabbalistic meaning [open-bracket]of Teller] is ‘someone who calls down destructive celestial energies'”!
-
- 
-
-
-
-
-<article class="author note">
-## Author’s Note 9: Uriel, Purim, Yisrael
-
-More fanart. From <a href="http://miniti8.tumblr.com/post/157669993962/fanart-rectangle-final-uriel-and-sohu-from">Miniti8</a>, a Uriel and Sohu picture:
-
-
-<center><img data-recalc-dims="1" src="https://i0.wp.com/slatestarcodex.com/blog_images/uriel3.jpg?w=557"/></center>
-I don’t know why everyone pictures Uriel as having an absurd number of eyes, but I think it works. Also, from <a href="https://www.reddit.com/r/unsong/?count=25&amp;after=t3_5uumon">Xenograteful on Reddit</a> (click picture to expand, explanations <a href="https://www.reddit.com/r/unsong/comments/5tojvl/i_drew_and_painted_about_several_things_in_unsong/">here</a>)
-
-
-<center><a href="https://i0.wp.com/i.imgur.com/5NBr0Bd.jpg"><img data-recalc-dims="1" src="https://i0.wp.com/slatestarcodex.com/blog_images/unsongpic3.jpg?w=557"/></a></center>
-If that’s not enough for you, check out the great (albeit not-directly-Unsong-inspired) angelic/kabbalistic artwork at <a href="http://www.angelarium.net/">Angelarium</a>.
-
-More from the subreddit: LittleYid went <a href="https://www.reddit.com/r/unsong/comments/5z9svm/went_as_an_unsong_sentinel_for_purim/">dressed as an UNSONG agent for Purim</a>, ColorfulFluidDynamo’s <a href="https://www.reddit.com/r/unsong/comments/5wj2or/the_secret_of_wall_drug_theory_heavy_spoiler/">ridiculously complex Wall Drug theory</a>, this_greg on <a href="https://www.reddit.com/r/unsong/comments/5z9o1g/happy_purim/">kabbalistic correspondences between Purim and the Nuremberg trials</a>, a National Geographic article on <a href="http://news.nationalgeographic.com/2017/03/siberia-batagiaka-crater-climate-change/">Siberia’s Growing Doorway To Hell</a> (TINACBNIEC), and <a href="https://www.reddit.com/r/unsong/comments/60pyam/what_to_say_when_things_are_unexpectedly_like/">Unsong glowing brain meme</a>.
-
-And if you haven’t seen it already, you might be into <a href="http://lamc.la/">the kabbalistic speculations of Adam Dobrin</a>. Usually I don’t like gawking at obviously schizophrenic people, but given the fact that I am trying to do the same thing he’s doing, and he’s doing it better, I hope he can accept my link as praise rather than mockery. Be sure not to miss <a href="http://lamc.la/the_letter_why.html">the comparison</a> of Jewish and Egyptian deities based on parsing “Yisrael” as “why is ra el?”.
-
- 
