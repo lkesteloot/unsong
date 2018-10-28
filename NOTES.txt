@@ -1,17 +1,25 @@
 
-- Detect Hebrew text and fall back on other font.
-    - Go through each letter of each string and look it up
-        in the font. Choose fallback font (Times?). Make cache
-        of result, including fallback font.
-    - Or maybe do all this in the parsing stage, inserting tags
-        or whatever to change font.
+- Handle Hebrew:
+    - At line level, reverse Hebrew text.
+        - Can't do it at paragraph level, stuff would move up.
+    - Define "Hebrew text" as any contiguous sequence of Hebrew
+        letter, punctuation, and digits, including at least one
+        Hebrew character. Exclude punctuation at the ends.
+    - Have fallback Hebrew typeface. Use same size and attributes
+        as surrounding text.
+    - Regexp for finding Hebrew text: [\u0590-\u05fe]
+    - http://www.unicode.org/charts/PDF/U0590.pdf
+    - Hebrew text:
+        - Every interlude (single character), one has two separated characters.
+        - Quote at start of chapter 9 (three words).
+            - http://unsongbook.com/chapter-9-with-art-celestial/
+- Handle or delete <u> and </u>. Look for other HTML.
 - In table of contents handle long chapter names (wrap earlier).
 - Why are some lines too long?
-- Fix all blockquotes.
 - Remove space before two-part punctuation.
 - Fix blockquotes at top of chapters.
 - Fix embedded blockquotes (signs, etc.).
-- Fix date/location at top of chapters.
+- Fix all blockquotes.
 - Deal with content warning.
 - Make high-res version of tree_of_life2.png image, and figure out
     why it's not centered properly. Too small? Also fix all other
@@ -24,6 +32,7 @@
     book like Harry Potter do?
 - Add an index?
     - Link to first mention of each character and concept.
+    - How to split across two books?
 - See what max size of Lulu book is. Maybe split book.
     - Max is 740.
     - Book 1: 1-239 (238)
