@@ -1,9 +1,9 @@
-- Handle or delete <u> and </u>. Look for other HTML.
 - In table of contents handle long chapter names (wrap earlier).
 - Why are some lines too long?
 - Fix blockquotes at top of chapters.
 - Fix embedded blockquotes (signs, etc.).
 - Fix all blockquotes.
+- Look for other HTML.
 - Deal with content warning.
 - Make high-res version of tree_of_life2.png image, and figure out
     why it's not centered properly. Too small? Also fix all other
@@ -11,7 +11,7 @@
 - Make sure there are no straight quotes, or they'll be turned
     into French guimets.
 - Insert various photos and drawings.
-- Come up with a cover page.
+- Come up with a cover image.
 - Add an index?
     - Link to first mention of each character and concept.
     - How to split across two books?
@@ -25,9 +25,6 @@
     - Books 3 and 4: 348
     - Most balanced option would be three books (1; 2; 3&4).
 - Regenerate javadoc.
-
-- Letter spacing looks weird. Are we loading the font correctly?
-    - Seems okay when I zoom in.
 
 
 Done:

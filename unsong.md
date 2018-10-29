@@ -2325,7 +2325,7 @@ Three and one half minutes later, the police burst through the door. They had re
 The claim that the Talmudic sages were great kabbalists is a historical error. Most sages make no mention of the kabbalistic tradition at all. Shimon bar Yochai, who lived in a cave and composed 1700 pages of kabbalistic texts, is an exception and should be considered separately.
 
 Bar Yochai spent thirteen years hiding from the Romans in a cavern near Peki’in, and took advantage of his long downtime to write what would later become the [i]Zohar[/i]—the founding work of kabbalah, as brilliant as it is impenetrable. Worried that it would lead younger students into flights of overwrought superstition, the orthodox banned study of the [i]Zohar[/i] to everyone except married Jews above the age of forty—and even these carefully selected students tended to go off the deep end after a while. The circumstances of the Zohar’s composition are widely believed to be the origin of the old rabbinic proverb against delving too deep into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”<br/>
-[i]— Gebron and Eleazar, <u>Kabbalah: A Modern Approach</u>[/i]
+—Gebron and Eleazar, [i]Kabbalah: A Modern Approach[/i]
 </blockquote>
 
    -October 3, 1990
@@ -3482,7 +3482,7 @@ I remember when I told the Comet King this story. He got very quiet, and finally
 
 An enterprising member of the household staff pocketed the napkin and sold it to Celestial Virgin for an undisclosed sum; the Comet King’s partially-completed sketch became the basis of all modern rocketry.
 
-[i]—Sohu West, <u>The Comet King: A Hagiography</u>[/i]
+—Sohu West, [i]The Comet King: A Hagiography[/i]
 
 </blockquote>
 
@@ -5212,9 +5212,9 @@ Exodus 15:3 says “The LORD is a man of war; the LORD is His Name.” But this 
 
 I suggest that He is the latter. A jellyfish is a primitive and ignorant animal, unworthy to be compared to the glories of God. But a warship is mighty and inspires awe, and divine comparisons are entirely suitable; indeed, God may be the only thing worthy of being compared to it. For it is written, “The LORD alone is worthy of warship.”
 
-[i]— From “A Call To Arms”, by Aaron Smith-Teller<br/>
-Submitted for the January 2017 issue of the <u>Stevensite Standard</u><br/>
-Rejected with extreme prejudice by editor Erica Lowry[/i]
+—From “A Call To Arms”, by Aaron Smith-Teller<br/>
+Submitted for the January 2017 issue of the [i]Stevensite Standard[/i]<br/>
+Rejected with extreme prejudice by editor Erica Lowry
 
 </blockquote>
 #### I.
@@ -6073,7 +6073,7 @@ On November 1, 1973, the Broadcast went out to an unsuspecting nation.
 
 <blockquote>
 St. Francis saw above him, filling the whole heavens, some vast immemorial unthinkable power, ancient like the Ancient of Days, whose calm men had conceived under the forms of winged bulls or monstrous cherubim, and all that winged wonder was in pain like a wounded bird.<br/>
-[i]— <u>St. Francis of Assisi</u>, by G.K. Chesterton[/i]
+—[i]St. Francis of Assisi[/i], by G.K. Chesterton
 
 </blockquote>
 
@@ -10872,7 +10872,7 @@ The prophecy was fulfilled when King Cyrus of Persia conquered Babylon and execu
 
 From these events kabbalists derive a correspondence between silver, the number 538, and accurate prediction of changes in political leadership.
 
-[i]— Gebron and Eleazar, <u>Kabbalah: A Modern Approach</u>[/i]
+—Gebron and Eleazar, [i]Kabbalah: A Modern Approach[/i]
 
 </blockquote>
 #### I. 1981
