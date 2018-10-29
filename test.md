@@ -1,7 +1,7 @@
 % vim:spelllang=en
 
 % General configuration.
-[Language: en_US]
+[Language: fr]
 
 % String configuration.
 [Title: Unsong]
@@ -46,7 +46,55 @@
 
 # Hello א there.
 
+What do "you" think?
+
+- Some dialog.
+
 Hello א there.
 
-*Hello א there.*
+arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”
+
+into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”
+
+deep into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”
+
+too deep into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”
+
+delving too deep into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”
+
+against delving too deep into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”
+
+proverb against delving too deep into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”
+
+rabbinic proverb against delving too deep into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”
+
+old rabbinic proverb against delving too deep into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”
+
+the old rabbinic proverb against delving too deep into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”
+
+of the old rabbinic proverb against delving too deep into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”
+
+origin of the old rabbinic proverb against delving too deep into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”
+
+the origin of the old rabbinic proverb against delving too deep into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”
+
+be the origin of the old rabbinic proverb against delving too deep into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”
+
+to be the origin of the old rabbinic proverb against delving too deep into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”
+
+believed to be the origin of the old rabbinic proverb against delving too deep into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”
+
+widely believed to be the origin of the old rabbinic proverb against delving too deep into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”
+
+are widely believed to be the origin of the old rabbinic proverb against delving too deep into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”
+
+Two לֹא תִּיכָּנֵס לַמְעָרוֹת on one line לֹא תִּיכָּנֵס לַמְעָרוֹת.
+
+Ends with RTL לֹא תִּיכָּנֵס לַמְעָרוֹת
+
+RTL with embedded punctuation לֹא; תִּיכָּנֵס, לַמְעָרוֹת
+
+RTL with parentheses (with don't handle this) לֹא (תִּיכָּנֵס) לַמְעָרוֹת
+
+With parentheses (we don't handle) לֹא (תִּיכָּנֵס) לַמְעָרוֹת
 

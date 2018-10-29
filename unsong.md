@@ -112,7 +112,7 @@ Then, mid-sentence, they crashed into the crystal sphere surrounding the world, 
 
 [!book1image.png]
 
-## Chapter 1: Dark Satanic Mills
+## [TODO Chapter 1: ]Dark Satanic Mills
 
 <blockquote>
 It is good practice to have your program poke around at runtime and see if it can be used to give a light unto the Gentiles.<br/>
@@ -359,7 +359,7 @@ He sat down on the piano bench and performed a flawless rendition of Bach’s Co
 
 
 
-## Chapter 2: Arise To Spiritual Strife
+## [TODO Chapter 2: ]Arise To Spiritual Strife
 
 <blockquote>
 Jerusalem is builded as a city that is in the public domain.<br/>
@@ -605,7 +605,7 @@ Understand the seed, and you understand everything that grows from it. This is t
 
 
 
-## Chapter 3: On A Cloud I Saw A Child
+## [TODO Chapter 3: ]On A Cloud I Saw A Child
 
    -September 29, 1990
 
@@ -793,7 +793,7 @@ Uriel let out a long sigh.
 
 
 
-## Chapter 4: Tools Were Made And Born Were Hands
+## [TODO Chapter 4: ]Tools Were Made And Born Were Hands
 
 <blockquote>
 And ye shall be sorrowful, but your sorrow shall be turned into effective devices for computing in any direction.<br/>
@@ -889,7 +889,7 @@ And I ended: “MEH-MEH-MEH-MEH-MEH-MEH!”
 
 
 
-## Chapter 5: Never Seek To Tell Thy Love
+## [TODO Chapter 5: ]Never Seek To Tell Thy Love
 
 <blockquote>
 My beloved is like a bit of information that flows in the system.<br/>
@@ -1675,7 +1675,7 @@ And a singer is someone who tries to be good.
 
 
 
-## Chapter 6: Till We Have Built Jerusalem
+## [TODO Chapter 6: ]Till We Have Built Jerusalem
 
 <blockquote>
 God, grant me the serenity to accept that I will never have the serenity to accept the things I cannot change.<br/>
@@ -1868,7 +1868,7 @@ Was I arrogant to even make the comparison? Maybe. But I had crossed out of the 
 
 
 
-## Chapter 7: The Perishing Vegetable Memory
+## [TODO Chapter 7: ]The Perishing Vegetable Memory
 
 <blockquote>
 Sleep like nothing is watching. Gaze at the stars like it will never hurt.<br/>
@@ -2048,7 +2048,7 @@ My mind burning, I set out for the CalTrain station and Stanford.
 
 
 
-## Chapter 8: Laughing To Scorn Thy Laws And Terrors
+## [TODO Chapter 8: ]Laughing To Scorn Thy Laws And Terrors
 
 <blockquote>
 Love is the law, but it is poorly enforced.<br/>
@@ -2319,7 +2319,7 @@ Mark McCarthy, the last remaining Archmage of North America, took a deep breath.
 Three and one half minutes later, the police burst through the door. They had received an anonymous tip by a man with a slight Mexican accent, saying that they would find the man who had killed his four fellow Archmages sitting alone and sobbing among the bodies of his victims.
 
 
-## Chapter 9: With Art Celestial
+## [TODO Chapter 9: ]With Art Celestial
 
 <blockquote>
 The claim that the Talmudic sages were great kabbalists is a historical error. Most sages make no mention of the kabbalistic tradition at all. Shimon bar Yochai, who lived in a cave and composed 1700 pages of kabbalistic texts, is an exception and should be considered separately.
@@ -2474,7 +2474,7 @@ Sohu experimentally slathered one the fried fish-parts in ketchup, tentatively t
 
 
 
-## Chapter 10: Bring The Swift Arrows Of Light
+## [TODO Chapter 10: ]Bring The Swift Arrows Of Light
 
 <blockquote>
 Notice also that the sharing is what enables us to increase the trespass of thy brethren.<br/>
@@ -2611,7 +2611,7 @@ What are we to say to [i]that?[/i]
 
 
 
-## Chapter 11: Drive The Just Man Into Barren Climes
+## [TODO Chapter 11: ]Drive The Just Man Into Barren Climes
 
 
    -May 11, 2017
@@ -2758,7 +2758,7 @@ Quivering from head to toe, Paul knelt.
 
 
 
-## Chapter 12: Borne On Angels’ Wings
+## [TODO Chapter 12: ]Borne On Angels’ Wings
 
 
    -May 11, 2017
@@ -2954,7 +2954,7 @@ Still other texts say the Messiah will come in a generation that is [i]both[/i] 
 
 
 
-## Chapter 13: The Image Of Eternal Death
+## [TODO Chapter 13: ]The Image Of Eternal Death
 
 
    -October 10, 1990
@@ -3195,7 +3195,7 @@ She thought for a second. So many things she wanted to say. She formed the respo
 
 
 
-## Chapter 14: Cruelty Has A Human Heart
+## [TODO Chapter 14: ]Cruelty Has A Human Heart
 
 <blockquote>
 Because the law worketh wrath: for where no law is, there is power: and who may stand in thy sight are but as yesterday when it is applied. These two rules describe the essence of a computer programmer trainee<br/>
@@ -3361,7 +3361,7 @@ As Director-General Malia Ngo and two UNSONG guards strained to understand my ma
 
 
 
-## Chapter 15: O Where Shall I Hide My Face?
+## [TODO Chapter 15: ]O Where Shall I Hide My Face?
 
 <blockquote>
 You saved your shillings and your last six pence<br/>
@@ -3473,7 +3473,7 @@ She was finished with the lands of men.
 
 She was going to San Francisco.
 
-## Chapter 16: If Perchance With Iron Power He Might Avert His Own Despair
+## [TODO Chapter 16: ]If Perchance With Iron Power He Might Avert His Own Despair
 
 <blockquote>
 There’s a story about an old man walking down a beach. He sees a child picking up starfish and throwing them into the water. The man asks the child what he’s doing, and the child says that these starfish are stuck on land at low tide. They can’t survive out of water, so he’s throwing them back in the ocean to save them. The old man says, “But surely you know that there are millions of starfish just on this one beach. And there are thousands of beaches all around the world. And this same thing happens at high tide day after day, forever. You’ll never be able to make a difference.” And the child just picks up another starfish, throws it into the ocean, and said “Made a difference to that one!”
@@ -3877,7 +3877,7 @@ My uncle told me it was Neil Armstrong, who had passed beyond time into Eternity
 
 [!book2imageb.png]
 
-## Chapter 17: No Earthly Parents I Confess
+## [TODO Chapter 17: ]No Earthly Parents I Confess
 
 <blockquote>
 Said the night wind to the little lamb,<br/>
@@ -3948,7 +3948,7 @@ And so in November 1976, behold, a virgin conceived and bore a son, and she call
 
 
 
-## Chapter 18: That The Children Of Jerusalem May Be Saved From Slavery (Passover Bonus Chapter)
+## [TODO Chapter 18: ]That The Children Of Jerusalem May Be Saved From Slavery (Passover Bonus Chapter)
 
 <blockquote>
  And the LORD said unto Moses, Pharaoh’s heart is hardened, he refuseth to let the user control whether or not to memoize thunks<br/>
@@ -4321,7 +4321,7 @@ Then he turned to lightning and flew out of the room.
 
 
 
-## Chapter 19: The Form Of The Angelic Land
+## [TODO Chapter 19: ]The Form Of The Angelic Land
 
 
    -Morning, May 12, 2017
@@ -4588,7 +4588,7 @@ Jane threw the single paddle to me, scooted forward suddenly, and the kayak drop
 
 
 
-## Chapter 20: When The Stars Threw Down Their Spears
+## [TODO Chapter 20: ]When The Stars Threw Down Their Spears
 
 <blockquote>
 Where wast thou when I laid the foundations for theoretical computer science?<br/>
@@ -5068,7 +5068,7 @@ When Gabriel was out of sight, Uriel sat back down and started shaking. He shook
 
 
 
-## Chapter 21: Thou Also Dwellest In Eternity
+## [TODO Chapter 21: ]Thou Also Dwellest In Eternity
 
 <blockquote>
 Work hard, play hard, converge to a transcendent and unified end state of human evolution called the Omega Point as predicted by Teilhard.<br/>
@@ -5346,7 +5346,7 @@ But as the demons very slowly pushed their way toward Moscow, buoyed by their ne
 
 So passed the first quarter of the 1970s.
 
-## Chapter 22: Whose Ears Have Heard The Holy Word
+## [TODO Chapter 22: ]Whose Ears Have Heard The Holy Word
 
 <blockquote>
 Object gods have meta gods<br/>
@@ -5508,7 +5508,7 @@ And then there was the rather high chance that he would be executed very painful
 
 
 
-## Chapter 23: Now Descendeth Out Of Heaven A City
+## [TODO Chapter 23: ]Now Descendeth Out Of Heaven A City
 
 <blockquote>
 Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the LORD.<br/>
@@ -5696,7 +5696,7 @@ The nameplate was tastefully on fire.
 
 
 
-## Chapter 24: Why Dost Thou Come To Angels’ Eyes?
+## [TODO Chapter 24: ]Why Dost Thou Come To Angels’ Eyes?
 
 
    -Morning, May 12, 2017
@@ -5779,7 +5779,7 @@ Holding my hand was forgotten. Keeping track of me at all was forgotten. I could
 
 
 
-## Chapter 25: Lie Down Before My Feet, O Dragon
+## [TODO Chapter 25: ]Lie Down Before My Feet, O Dragon
 
 
    -Afternoon, May 12, 2017
@@ -6069,7 +6069,7 @@ On November 1, 1973, the Broadcast went out to an unsuspecting nation.
 
 
 
-## Chapter 26: For Not One Sparrow Can Suffer And The Whole Universe Not Suffer Also
+## [TODO Chapter 26: ]For Not One Sparrow Can Suffer And The Whole Universe Not Suffer Also
 
 <blockquote>
 St. Francis saw above him, filling the whole heavens, some vast immemorial unthinkable power, ancient like the Ancient of Days, whose calm men had conceived under the forms of winged bulls or monstrous cherubim, and all that winged wonder was in pain like a wounded bird.<br/>
@@ -6371,7 +6371,7 @@ The way having been prepared before them, the armies of Thamiel the Lord of Demo
 
 
 
-## Chapter 27: The Starry Floor, The Watery Shore
+## [TODO Chapter 27: ]The Starry Floor, The Watery Shore
 
 
    -May 12-13, 2017
@@ -6707,7 +6707,7 @@ Slowly, brokenly, the [i]Not A Metaphor[/i] began to sail south.
 
 
 
-## Chapter 28: Hid As In An Ark
+## [TODO Chapter 28: ]Hid As In An Ark
 
 
    -May 12, 2017
@@ -7000,7 +7000,7 @@ Protect us by Thy might,<br/>
 Great God our King.
 </blockquote>
 
-## Chapter 29: He Who Respects The Infant’s Faith
+## [TODO Chapter 29: ]He Who Respects The Infant’s Faith
 
 <blockquote>
 Said the little lamb to the shepherd boy<br/>
@@ -7295,7 +7295,7 @@ Vihaan and Ellis looked at each other.
 
 
 
-## Chapter 30: Over The Dark Deserts
+## [TODO Chapter 30: ]Over The Dark Deserts
 
 <blockquote>
 You don’t truly understand necromancy if you can’t explain it to your great-great-great-grandmother.<br/>
@@ -7437,7 +7437,7 @@ Night fell upon the city of the Other King.
 
 
 
-## Chapter 31: The Foundation Of Empire
+## [TODO Chapter 31: ]The Foundation Of Empire
 
 <blockquote>
 Together, we can build a better America, colonize it, and use the old one for raw materials and target practice.<br/>
@@ -7620,7 +7620,7 @@ A presidential staffer came in. “Mr. President, lunch is ready. Reporters from
 
 
 
-## Chapter 32: The Human Form Divine
+## [TODO Chapter 32: ]The Human Form Divine
 
 
    -August 7, 1991
@@ -7825,7 +7825,7 @@ Uriel grumbled. “I HAVE JUST LOST A NEGOTIATION WITH AN EIGHT YEAR OLD GIRL. T
 
 
 
-## Chapter 33: The Doors Of Perception
+## [TODO Chapter 33: ]The Doors Of Perception
 
 
    -May 13, 2017
@@ -7984,7 +7984,7 @@ Simeon was already gone.
 
 
 
-## Chapter 34: Why Wilt Thou Rend Thyself Apart, Jerusalem?
+## [TODO Chapter 34: ]Why Wilt Thou Rend Thyself Apart, Jerusalem?
 
 <blockquote>
 He said, Go and utterly destroy them; namely, the Hittites, and the Girgashites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, which were not defiled with women; for they are not very good for implementing high-performance floating-point calculations or calculations that intensively manipulate bit vectors.
@@ -8175,7 +8175,7 @@ In the center of the crater where Madrid had once been located, Uriel turned int
 
 
 
-## Chapter 35: The Voices Of Children In His Tents
+## [TODO Chapter 35: ]The Voices Of Children In His Tents
 
 <blockquote>
 Fast cars! Fast women! Fastidious adherence to the precepts of the moral law!<br/>
@@ -8273,7 +8273,7 @@ The Comet King had no more children.
 
 
 
-## Chapter 36: My Father’s Business
+## [TODO Chapter 36: ]My Father’s Business
 
 <blockquote>
 Fill the god-shaped hole in your soul with molten metal, then shatter your soul, leaving only a metal god<br/>
@@ -8653,7 +8653,7 @@ Then we both broke down laughing helplessly.
 
 I tell you this story as an apology. So that when we get to the part in the next chapter where I had to decide between dooming the world and dooming Ana, you understand why it was such a tough choice.
 
-## Chapter 37: Love That Never Told Can Be
+## [TODO Chapter 37: ]Love That Never Told Can Be
 
 
    -May 13, 2017
@@ -8786,7 +8786,7 @@ I swallowed the peyote before my better side could talk me out of it.
 
 
 
-## Chapter 38: I Will Not Cease From Mental Fight
+## [TODO Chapter 38: ]I Will Not Cease From Mental Fight
 
 <blockquote>
 Hershel of Ostropol came to an inn and asked for a warm meal. The innkeeper demanded he pay in advance, and when Hershel had no money, he told him to get out. Hershel raised himself up to his full height, looked the innkeeper in the eye menacingly, and said “Give me my meal, or I will do what my father did? You hear me? I will DO WHAT MY FATHER DID!” The terrified innkeeper served the traveller a nice warm meal. After dinner, when Hershel was calmer, he ventured to ask exactly what Hershel’s father had done. “That is simple,” answered Hershel. “When my father asked someone for a meal, and they refused to give it to him—then he would go to bed hungry.”<br/>
@@ -9036,7 +9036,7 @@ The hallucinatory landscape was beginning to dissolve. The pyramids of Teotihuac
 
 
 
-## Chapter 39: Fearful Symmetry
+## [TODO Chapter 39: ]Fearful Symmetry
 
 <blockquote>Tiferet’s position down the center between Keter and Yesod indicates to many Kabbalists that it is somewhat of a “converting” Sephirot between form (Yesod) and force (Keter). In other words, all crossing over the middle path via Tiferet results in a reversed polarity.
 </blockquote>
@@ -9334,7 +9334,7 @@ Not A Metaphor entered the Atlantic Ocean and sailed into the rising sun.
 
 
 
-## Chapter 40: In Terrible Majesty
+## [TODO Chapter 40: ]In Terrible Majesty
 
 <blockquote>
 In a large and complicated system there might be various things that are pleasing in His eyes.<br/>
@@ -9454,7 +9454,7 @@ Then I felt space snap and resigned myself to whatever awaited me on the other s
 
 [!book3image.png]
 
-## Chapter 41: Go Love Without The Help Of Any Thing On Earth
+## [TODO Chapter 41: ]Go Love Without The Help Of Any Thing On Earth
 
 <b>To:</b> aaron.teller@gmail.com, telleraar@countenance.com, a.smithte@stanford.edu, aleph_samech_tet@stevensite.net, _LOS_@hotmail.com, A_IS_FOR_ADAM@myfreeemails.tk...<br/>
 <b>From:</b> root@[open-bracket]58.175.48.72]
@@ -9548,7 +9548,7 @@ NEW ISSUES WILL BE ADDED TO THE QUEUE AS THEY ARISE. THERE MAY BE SOME GLITCHES 
 
 
 
-## Chapter 42: Whose Whole Delight Is In Destroying
+## [TODO Chapter 42: ]Whose Whole Delight Is In Destroying
 
 <blockquote>
 They smote the city with the edge of the sword, and one of his main motivations was the high cost of proprietary software houses.<br/>
@@ -9692,7 +9692,7 @@ Dylan slapped his head. “The girl’s a genius!” he said. “See! I knew thi
 
 
 
-## Chapter 43: Lest They Be Annihilated In Thy Annihilation
+## [TODO Chapter 43: ]Lest They Be Annihilated In Thy Annihilation
 
 <blockquote>
 And Abraham said unto the LORD, “Will you not destroy the world if there are even a million righteous people in it?” And the LORD replied unto Abraham, “The world shall not be destroyed if there are even a thousand competent people in it. I don’t have anything to do with the process, mind, just making a prediction.”<br/>
@@ -9800,7 +9800,7 @@ He turned to lightning and flew out of the room.
 
 
 
-## Chapter 44: A World Within Opening Its Gates
+## [TODO Chapter 44: ]A World Within Opening Its Gates
 
 <blockquote>
 The LORD sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give unto all this evil that was come to the decisive step of mathematical abstraction<br/>
@@ -10088,7 +10088,7 @@ Sohu thought for a second.
 
 
 
-## Chapter 45: In The Remotest Bottoms Of The Caves
+## [TODO Chapter 45: ]In The Remotest Bottoms Of The Caves
 
 <blockquote>
 Praise the LORD from my hand for my son, to make a faster machine.<br/>
@@ -10186,7 +10186,7 @@ Sarah fell to the ground unconscious.
 
 
 
-## Chapter 46: To Talk Of Patience To The Afflicted
+## [TODO Chapter 46: ]To Talk Of Patience To The Afflicted
 
 <blockquote>
 Why some people think the self is a prison escapes me.<br/>
@@ -10334,7 +10334,7 @@ A few minutes later, three invisible figures walked right past the guard and lef
 
 
 
-## Chapter 47: For He Beheld New Female Forms
+## [TODO Chapter 47: ]For He Beheld New Female Forms
 
 
    -February 1984
@@ -10429,7 +10429,7 @@ The anger evaporated from the priest’s face. “What’s wrong, Jala?”
 
 
 
-## Chapter 48: Bring Me My Chariot Of Fire
+## [TODO Chapter 48: ]Bring Me My Chariot Of Fire
 
 <blockquote>
 Rage in favor of the proposition that the machine is somehow important in a way that could be uncovered through dispassionate analysis.<br/>
@@ -10703,7 +10703,7 @@ We were all silent just a little too long.
 
 
 
-## Chapter 49: Terrors Of The Sun And Moon
+## [TODO Chapter 49: ]Terrors Of The Sun And Moon
 
 
    -December 4, 1993
@@ -10951,7 +10951,7 @@ The military is standing by in case of any disturbances.
 
 
 
-## Chapter 50: Silent As Despairing Love
+## [TODO Chapter 50: ]Silent As Despairing Love
 
 <blockquote>
 Praise the LORD from my hand for my son, to make a faster machine.<br/>
@@ -11191,7 +11191,7 @@ Ever since that conversation with Ana, I’ve had a horrible theory of my own. M
 
 (But the soul is still oracular; amid the market’s din / List the ominous stern whisper from the Delphic cave within / ‘They enslave their children’s children who make compromise with sin.’)
 
-## Chapter 51: He Wondered That He Felt Love
+## [TODO Chapter 51: ]He Wondered That He Felt Love
 
 
    -February 1984
@@ -11327,7 +11327,7 @@ on the spice-laden mountains.
 
 
 
-## Chapter 52: The King Of Light Beheld Her Mourning
+## [TODO Chapter 52: ]The King Of Light Beheld Her Mourning
 
 <blockquote>
 And the shepherds returned, glorifying and praising God for all the possible values of x and f(x).<br/>
@@ -11549,7 +11549,7 @@ She sighed and went back to her cottage to cry.
 
 
 
-## Chapter 53: Lover Of Wild Rebellion
+## [TODO Chapter 53: ]Lover Of Wild Rebellion
 
 
    -Morning, May 13, 2017
@@ -11764,7 +11764,7 @@ In the midst of the word he was trying to say—in the midst of his laughter and
 
 
 
-## Chapter 54: My Course Among the Stars
+## [TODO Chapter 54: ]My Course Among the Stars
 
    -Spring 1999
 
@@ -11814,7 +11814,7 @@ Sleep came to them there, together, for the last time.
 
 
 
-## Chapter 55: None Can Visit His Regions
+## [TODO Chapter 55: ]None Can Visit His Regions
 
 <blockquote>
 I’ve reserved this space as a safety zone for pouring my empty and vain wishes.<br/>
@@ -12010,7 +12010,7 @@ There were a lot of people who thought that America would never go for martial l
 
 
 
-## Chapter 56: Agony In The Garden
+## [TODO Chapter 56: ]Agony In The Garden
 
 <blockquote>
 Said the shepherd boy to the mighty king,<br/>
@@ -12198,7 +12198,7 @@ The idiot Chaos blew Earth’s dust away.
 
 
 
-## Chapter 57: Now Taking On Ahania’s Form...
+## [TODO Chapter 57: ]Now Taking On Ahania’s Form...
 
 <blockquote>
 The word of the LORD is a great deal of research activity in this area, and probabilistic algorithms have been fruitfully applied.<br/>
@@ -12328,7 +12328,7 @@ The circle flared brighter and higher than I’d ever seen before, probably beca
 
 
 
-## Chapter 58: ... And Now The Form Of Enion
+## [TODO Chapter 58: ]... And Now The Form Of Enion
 
 <blockquote>
 The LORD is greater than or equal to the expression involving f(y)<br/>
@@ -12651,7 +12651,7 @@ But really, you don’t need to bring out the big guns to figure this stuff out.
 And in the end, the new administration managed to outperform everyone’s expectations: it lasted an entire four months before the apocalypse descended in fire and blood upon America and the world.
 
 
-## Chapter 59: Clothe Yourself In Golden Arms
+## [TODO Chapter 59: ]Clothe Yourself In Golden Arms
 
 <blockquote>
 This is a reasonable approach for handling small problems, but it would be awkward if there were any that did understand, and seek God.<br/>
@@ -12817,7 +12817,7 @@ For a second, all was quiet. Then: “That was the most feckin’ pointless thin
 
 
 
-## Chapter 60: O Rose, Thou Art Sick
+## [TODO Chapter 60: ]O Rose, Thou Art Sick
 
 <blockquote>
 There is free memory available into which we can design our programs, to increase the trespass of Israel.<br/>
@@ -12911,7 +12911,7 @@ Before he could respond, the lady was gone.
 
 
 
-## Chapter 61: And Ololon Said, Let Us Descend Also, And Let Us Give Ourselves To Death In Ulro Among The Transgressors
+## [TODO Chapter 61: ]And Ololon Said, Let Us Descend Also, And Let Us Give Ourselves To Death In Ulro Among The Transgressors
 
 <blockquote>
 He has a devil-may-care-so-let-us-make-every-effort-to-be-considerate-of-his-infernal-highness’s-feelings attitude.<br/>
@@ -13025,7 +13025,7 @@ She lay there, in the Garden of the Gods, naked and alone, on the foul sulfur-sc
 
 
 
-## Chapter 62: That The Wide World Might Fly From Its Hinges
+## [TODO Chapter 62: ]That The Wide World Might Fly From Its Hinges
 
 <blockquote>
 Thou hast been faithful in a very interesting way.<br/>
@@ -13185,7 +13185,7 @@ The Other King’s missile was not headed toward Colorado Springs.
 
 
 
-## Chapter 63: My Wrath Burns To The Top Of Heaven
+## [TODO Chapter 63: ]My Wrath Burns To The Top Of Heaven
 
 <blockquote>
 So when the last and dreadful hour<br/>
@@ -13229,7 +13229,7 @@ Then there was fire, and hurricane and archangel and machinery alike disintegrat
 
 
 
-## Chapter 64: Another Better World Shall Be
+## [TODO Chapter 64: ]Another Better World Shall Be
 
 <blockquote>
 These be the words which the LORD did there confound the language of electrical systems.<br/>
@@ -13345,7 +13345,7 @@ Before Dylan could give any kind of a monologue, Erica pushed her way forward, b
 
 
 
-## Chapter 65: The Fruit Of My Mysterious Tree
+## [TODO Chapter 65: ]The Fruit Of My Mysterious Tree
 
 <blockquote>
 We find that the pattern unifies with the conclusion of the rule which God hath spoken in his holiness<br/>
@@ -13439,7 +13439,7 @@ Malia frowned at her.
 
 Erica lunged forward and thrust the molten metal nameplate through Malia Ngo’s throat as the flames closed around them both.
 
-## Chapter 66: In The Forests Of The Night
+## [TODO Chapter 66: ]In The Forests Of The Night
 
 <blockquote>
 It’s coming to America first<br/>
@@ -13553,7 +13553,7 @@ A minute later, back came James, half-dragging a figure who looked like he’d s
 
 
 
-## Chapter 67: The Night Of Enitharmon’s Joy
+## [TODO Chapter 67: ]The Night Of Enitharmon’s Joy
 
 <blockquote>
 Everybody knows that the boat is leaking<br/>
@@ -13803,7 +13803,7 @@ Ana climbed belowdecks and knocked on the door to the Captain’s quarters.
 
 
 
-## Chapter 68: ... Puts All Heaven In A Rage
+## [TODO Chapter 68: ]... Puts All Heaven In A Rage
 
 <blockquote>
 For a Tear is an Intellectual Thing<br/>
@@ -13916,7 +13916,7 @@ The two of them disappeared.
 
 [!book4image.png]
 
-## Chapter 69: Love Seeketh Not Itself To Please
+## [TODO Chapter 69: ]Love Seeketh Not Itself To Please
 
 
    -Afternoon, May 14, 2017
@@ -14035,7 +14035,7 @@ Then she walked out of the room.
 
 
 
-## Chapter 70: Nor For Itself Hath Any Care
+## [TODO Chapter 70: ]Nor For Itself Hath Any Care
 
 
    -Evening, May 14, 2017
@@ -14236,7 +14236,7 @@ Sohu blinked again, and her eyes were deep brown.
 
 Sohu turned to lightning and disappeared. The last few ashes and sparks fell to the base of Pike’s Peak. The force of the battle had split the mountain in two.
 
-## Chapter 71: But For Another Gives Its Ease
+## [TODO Chapter 71: ]But For Another Gives Its Ease
 
 <blockquote>
 Everybody already has enlightenment. Why did Buddha sit for six years, see a star, and then get enlightenment? That’s stupid! If you see a star, you get enlightenment now!<br/>
@@ -14538,7 +14538,7 @@ The final chapter will be posted next week. I will be doing a dramatic reading o
 
 
 
-## Chapter 72: And Builds A Heaven In Hell’s Despair
+## [TODO Chapter 72: ]And Builds A Heaven In Hell’s Despair
 
 <blockquote>
 If we are worthy, our Master will redeem us by justice, and if not, He will redeem us with mercy.<br/>

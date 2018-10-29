@@ -1,22 +1,6 @@
-
-- Handle Hebrew:
-    - At line level, reverse Hebrew text.
-        - Can't do it at paragraph level, stuff would move up.
-    - Define "Hebrew text" as any contiguous sequence of Hebrew
-        letter, punctuation, and digits, including at least one
-        Hebrew character. Exclude punctuation at the ends.
-    - Have fallback Hebrew typeface. Use same size and attributes
-        as surrounding text.
-    - Regexp for finding Hebrew text: [\u0590-\u05fe]
-    - http://www.unicode.org/charts/PDF/U0590.pdf
-    - Hebrew text:
-        - Every interlude (single character), one has two separated characters.
-        - Quote at start of chapter 9 (three words).
-            - http://unsongbook.com/chapter-9-with-art-celestial/
 - Handle or delete <u> and </u>. Look for other HTML.
 - In table of contents handle long chapter names (wrap earlier).
 - Why are some lines too long?
-- Remove space before two-part punctuation.
 - Fix blockquotes at top of chapters.
 - Fix embedded blockquotes (signs, etc.).
 - Fix all blockquotes.
@@ -28,8 +12,6 @@
     into French guimets.
 - Insert various photos and drawings.
 - Come up with a cover page.
-- The repeated "Chapter" in the TOC is unpleasant. What do other
-    book like Harry Potter do?
 - Add an index?
     - Link to first mention of each character and concept.
     - How to split across two books?
@@ -41,7 +23,25 @@
     - Book 4: 849-927 (78)
     - Books 1 and 2: 578
     - Books 3 and 4: 348
+    - Most balanced option would be three books (1; 2; 3&4).
+- Regenerate javadoc.
 
 - Letter spacing looks weird. Are we loading the font correctly?
     - Seems okay when I zoom in.
 
+
+Done:
+
+- Handle Hebrew:
+    - Regexp for finding Hebrew text: [\u0590-\u05fe]
+    - http://www.unicode.org/charts/PDF/U0590.pdf
+    - Hebrew text:
+        - Every interlude (single character), one has two separated characters.
+        - Quote at start of chapter 9 (three words).
+            - http://unsongbook.com/chapter-9-with-art-celestial/
+- The repeated "Chapter" in the TOC is unpleasant. What do other
+    book like Harry Potter do?
+    - Options:
+        - Skip "Chapter 5: ". Will look the nicest but maybe people refer to chapter
+            numbers. Also Interludes might be weird.
+        - Just show "5: ". Will look weird.
