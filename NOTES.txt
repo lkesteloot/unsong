@@ -1,10 +1,35 @@
-- In table of contents handle long chapter names (wrap earlier).
-- Why are some lines too long?
-- Fix blockquotes at top of chapters.
-- Fix embedded blockquotes (signs, etc.).
-- Fix all blockquotes.
+- Types of blockquotes:
+    - Top of chapters.
+        - Typically some text, followed by a reference.
+        - Interlude ז has two of them "Let’s play Twister, let’s play Risk"
+    - "H has become a most troublesome letter"
+        - Could use poetry.
+    - File contents: "AARON SMITH-TELLER IS BEING HELD"
+    - Children's song "A little goat, a little goat"
+        - Could use poetry.
+    - Sign: "AS PER THE CALIFORNIA SECURITY"
+    - Poetry: "O thou, who burns with tears"
+    - Poetry: "Ah Love! could thou and I with"
+    - "The north and the south Thou hast" (two more after that)
+    - Song: "My country, ’tis of thee,"
+    - Song: "The careful text-books measure"
+    - Need:
+        - Explicit blockquote section.
+            - Indent on both sides.
+            - Smaller font.
+            - Blank above and below.
+        - Explicit line break?
+            - Or just regular poetry mode?
+    - Fix blockquotes at top of chapters.
+    - Fix embedded blockquotes (signs, etc.).
+    - Fix all blockquotes.
 - Look for other HTML.
+    - Remove all links? I don't care myself, but might limit what I can do
+        with print copy if people want the links later.
+    - Maybe convert to [a] and ignore the tag?
+- In table of contents handle long chapter names (wrap earlier).
 - Deal with content warning.
+- Why are some lines too long?
 - Make high-res version of tree_of_life2.png image, and figure out
     why it's not centered properly. Too small? Also fix all other
     images.

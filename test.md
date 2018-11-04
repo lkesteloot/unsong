@@ -1,7 +1,7 @@
 % vim:spelllang=en
 
 % General configuration.
-[Language: fr]
+[Language: en_US]
 
 % String configuration.
 [Title: Unsong]
@@ -44,7 +44,20 @@
 
 [TOC]
 
-# Hello א there.
+# Part 1
+
+## Hello א there.
+
+[blockquote]
+The claim that the Talmudic sages were great kabbalists is a historical error. Most sages make no mention of the kabbalistic tradition at all. Shimon bar Yochai, who lived in a cave and composed 1700 pages of kabbalistic texts, is an exception and should be considered separately.
+
+Bar Yochai spent thirteen years hiding from the Romans in a cavern near Peki’in, and took advantage of his long downtime to write what would later become the [i]Zohar[/i]—the founding work of kabbalah, as brilliant as it is impenetrable. Worried that it would lead younger students into flights of overwrought superstition, the orthodox banned study of the [i]Zohar[/i] to everyone except married Jews above the age of forty—and even these carefully selected students tended to go off the deep end after a while. The circumstances of the Zohar’s composition are widely believed to be the origin of the old rabbinic proverb against delving too deep into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”<br/>
+—Gebron and Eleazar, [i]Kabbalah: A Modern Approach[/i]
+[/blockquote]
+
+   -October 3, 1990
+
+   -Gulf of Mexico
 
 What do "you" think?
 
