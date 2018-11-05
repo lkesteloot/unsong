@@ -115,9 +115,9 @@ Then, mid-sentence, they crashed into the crystal sphere surrounding the world, 
 ## [TODO Chapter 1: ]Dark Satanic Mills
 
 [blockquote]
-It is good practice to have your program poke around at runtime and see if it can be used to give a light unto the Gentiles.<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+It is good practice to have your program poke around at runtime and see if it can be used to give a light unto the Gentiles.
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
    -May 10, 2017
@@ -362,8 +362,9 @@ He sat down on the piano bench and performed a flawless rendition of Bach’s Co
 ## [TODO Chapter 2: ]Arise To Spiritual Strife
 
 [blockquote]
-Jerusalem is builded as a city that is in the public domain.<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+Jerusalem is builded as a city that is in the public domain.
+
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 
 [/blockquote]
 
@@ -536,10 +537,11 @@ And that was why every Wednesday night the choir of the Unitarian Church would m
 ## Interlude ב: The Code of the World
 
 [blockquote]
-For the LORD will work for each type of data it is applied to.<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+For the LORD will work for each type of data it is applied to.
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
+
 <font size="1"><b>[i]“The Code Of The World”, by Aaron Smith-Teller<br/>
 Published in the March 2017 issue of the [/i]Stevensite Standard</b></font>
 
@@ -796,9 +798,9 @@ Uriel let out a long sigh.
 ## [TODO Chapter 4: ]Tools Were Made And Born Were Hands
 
 [blockquote]
-And ye shall be sorrowful, but your sorrow shall be turned into effective devices for computing in any direction.<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+And ye shall be sorrowful, but your sorrow shall be turned into effective devices for computing in any direction.
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
    -May 10, 2017
@@ -892,9 +894,9 @@ And I ended: “MEH-MEH-MEH-MEH-MEH-MEH!”
 ## [TODO Chapter 5: ]Never Seek To Tell Thy Love
 
 [blockquote]
-My beloved is like a bit of information that flows in the system.<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+My beloved is like a bit of information that flows in the system.
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
 #### I.
@@ -1678,9 +1680,9 @@ And a singer is someone who tries to be good.
 ## [TODO Chapter 6: ]Till We Have Built Jerusalem
 
 [blockquote]
-God, grant me the serenity to accept that I will never have the serenity to accept the things I cannot change.<br/>
-[i]— <a href="https://twitter.com/stevenkaas">Steven Kaas</a>[/i]
+God, grant me the serenity to accept that I will never have the serenity to accept the things I cannot change.
 
+   -[i]— <a href="https://twitter.com/stevenkaas">Steven Kaas</a>[/i]
 [/blockquote]
 
    -Early morning, May 11, 2017
@@ -1871,9 +1873,9 @@ Was I arrogant to even make the comparison? Maybe. But I had crossed out of the 
 ## [TODO Chapter 7: ]The Perishing Vegetable Memory
 
 [blockquote]
-Sleep like nothing is watching. Gaze at the stars like it will never hurt.<br/>
-[i]— <a href="https://twitter.com/stevenkaas">Steven Kaas</a>[/i]
+Sleep like nothing is watching. Gaze at the stars like it will never hurt.
 
+   -[i]— <a href="https://twitter.com/stevenkaas">Steven Kaas</a>[/i]
 [/blockquote]
 
    -Early morning, May 11, 2017
@@ -2051,9 +2053,9 @@ My mind burning, I set out for the CalTrain station and Stanford.
 ## [TODO Chapter 8: ]Laughing To Scorn Thy Laws And Terrors
 
 [blockquote]
-Love is the law, but it is poorly enforced.<br/>
-[i]— Reverend Raymond Stevens, “Singers In The Hands Of An Angry God”[/i]
+Love is the law, but it is poorly enforced.
 
+   -[i]— Reverend Raymond Stevens, “Singers In The Hands Of An Angry God”[/i]
 [/blockquote]
 
    -March 20, 2001
@@ -2324,8 +2326,9 @@ Three and one half minutes later, the police burst through the door. They had re
 [blockquote]
 The claim that the Talmudic sages were great kabbalists is a historical error. Most sages make no mention of the kabbalistic tradition at all. Shimon bar Yochai, who lived in a cave and composed 1700 pages of kabbalistic texts, is an exception and should be considered separately.
 
-Bar Yochai spent thirteen years hiding from the Romans in a cavern near Peki’in, and took advantage of his long downtime to write what would later become the [i]Zohar[/i]—the founding work of kabbalah, as brilliant as it is impenetrable. Worried that it would lead younger students into flights of overwrought superstition, the orthodox banned study of the [i]Zohar[/i] to everyone except married Jews above the age of forty—and even these carefully selected students tended to go off the deep end after a while. The circumstances of the Zohar’s composition are widely believed to be the origin of the old rabbinic proverb against delving too deep into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”<br/>
-—Gebron and Eleazar, [i]Kabbalah: A Modern Approach[/i]
+Bar Yochai spent thirteen years hiding from the Romans in a cavern near Peki’in, and took advantage of his long downtime to write what would later become the [i]Zohar[/i]—the founding work of kabbalah, as brilliant as it is impenetrable. Worried that it would lead younger students into flights of overwrought superstition, the orthodox banned study of the [i]Zohar[/i] to everyone except married Jews above the age of forty—and even these carefully selected students tended to go off the deep end after a while. The circumstances of the Zohar’s composition are widely believed to be the origin of the old rabbinic proverb against delving too deep into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”
+
+   -—Gebron and Eleazar, [i]Kabbalah: A Modern Approach[/i]
 [/blockquote]
 
    -October 3, 1990
@@ -2477,9 +2480,9 @@ Sohu experimentally slathered one the fried fish-parts in ketchup, tentatively t
 ## [TODO Chapter 10: ]Bring The Swift Arrows Of Light
 
 [blockquote]
-Notice also that the sharing is what enables us to increase the trespass of thy brethren.<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+Notice also that the sharing is what enables us to increase the trespass of thy brethren.
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
    -May 11, 2017
@@ -2708,9 +2711,9 @@ Then she went visible again, called a cab, and asked how much it would cost to g
 ## Interlude ה: The Right Hand Of God
 
 [blockquote]
-But woe unto them that were with him, at the valley gate, and at the University of California at Berkeley.<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+But woe unto them that were with him, at the valley gate, and at the University of California at Berkeley.
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
    -June 20, 1970
@@ -3195,9 +3198,9 @@ She thought for a second. So many things she wanted to say. She formed the respo
 ## [TODO Chapter 14: ]Cruelty Has A Human Heart
 
 [blockquote]
-Because the law worketh wrath: for where no law is, there is power: and who may stand in thy sight are but as yesterday when it is applied. These two rules describe the essence of a computer programmer trainee<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+Because the law worketh wrath: for where no law is, there is power: and who may stand in thy sight are but as yesterday when it is applied. These two rules describe the essence of a computer programmer trainee
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
    -May 11, 2017
@@ -3675,15 +3678,17 @@ Sohu said nothing. Uriel turned away and went back to running the universe.
 
 [blockquote]
 Let’s play Twister, let’s play Risk<br/>
-See you in Heaven if you make the list<br/>
-[i]— R.E.M., <a href="https://www.youtube.com/watch?v=5ojx_ldHs5M">Man On The Sphere</a>[/i]
+See you in Heaven if you make the list
 
+   -[i]— R.E.M., <a href="https://www.youtube.com/watch?v=5ojx_ldHs5M">Man On The Sphere</a>[/i]
 [/blockquote]
+
 [blockquote]
-I believe that this nation should commit itself to achieving the goal, until we’ve landed on the moon, of preventing this decade from ending<br/>
-[i]— <a href="https://twitter.com/vesselofspirit">@vesselofspirit</a>[/i]
+I believe that this nation should commit itself to achieving the goal, until we’ve landed on the moon, of preventing this decade from ending
 
+   -[i]— <a href="https://twitter.com/vesselofspirit">@vesselofspirit</a>[/i]
 [/blockquote]
+
 #### I.
 
 They say that March comes in like a lion and goes out like a lamb. March 1969 had been more like one of those Biblical angels with four lion heads and four lamb heads and a couple dragon heads for good measure, all spinning within a gigantic flaming wheel, and if you met its gaze for too long then you died.
@@ -3948,10 +3953,11 @@ And so in November 1976, behold, a virgin conceived and bore a son, and she call
 ## [TODO Chapter 18: ]That The Children Of Jerusalem May Be Saved From Slavery (Passover Bonus Chapter)
 
 [blockquote]
- And the LORD said unto Moses, Pharaoh’s heart is hardened, he refuseth to let the user control whether or not to memoize thunks<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+ And the LORD said unto Moses, Pharaoh’s heart is hardened, he refuseth to let the user control whether or not to memoize thunks
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
+
 #### I.
 
 
@@ -4589,9 +4595,9 @@ Jane threw the single paddle to me, scooted forward suddenly, and the kayak drop
 ## [TODO Chapter 20: ]When The Stars Threw Down Their Spears
 
 [blockquote]
-Where wast thou when I laid the foundations for theoretical computer science?<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+Where wast thou when I laid the foundations for theoretical computer science?
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
    -3??? BC
@@ -5069,9 +5075,9 @@ When Gabriel was out of sight, Uriel sat back down and started shaking. He shook
 ## [TODO Chapter 21: ]Thou Also Dwellest In Eternity
 
 [blockquote]
-Work hard, play hard, converge to a transcendent and unified end state of human evolution called the Omega Point as predicted by Teilhard.<br/>
-[i]— <a href="https://twitter.com/GapOfGods">@GapOfGods</a>[/i]
+Work hard, play hard, converge to a transcendent and unified end state of human evolution called the Omega Point as predicted by Teilhard.
 
+   -[i]— <a href="https://twitter.com/GapOfGods">@GapOfGods</a>[/i]
 [/blockquote]
 
    -Noon, May 12, 2017
@@ -5352,9 +5358,9 @@ So passed the first quarter of the 1970s.
 Object gods have meta gods<br/>
 Up in their skies to smite them<br/>
 And meta gods have meta gods,<br/>
-And so ad infinitum.<br/>
-[i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
+And so ad infinitum.
 
+   -[i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
 [/blockquote]
 
    -January 30, 2002
@@ -5512,9 +5518,9 @@ And then there was the rather high chance that he would be executed very painful
 ## [TODO Chapter 23: ]Now Descendeth Out Of Heaven A City
 
 [blockquote]
-Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the LORD.<br/>
-[i]— Obadiah 1:4[/i]
+Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the LORD.
 
+   -[i]— Obadiah 1:4[/i]
 [/blockquote]
 
    -Afternoon, May 12, 2017
@@ -5654,9 +5660,9 @@ James, Lin, and John looked at her as though it was by no means obvious.
 ## Interlude ט: The General Assembly
 
 [blockquote]
-And Satan stood up against them in the global environment.<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+And Satan stood up against them in the global environment.
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
    -December 14, 1972
@@ -5894,10 +5900,11 @@ And now we were going to Vegas. A dark place, to be sure, but not Jane’s place
 ## Interlude י: The Broadcast
 
 [blockquote]
-The greatest trick the Devil ever pulled was spreading a catchy quote denying all tricks greater than the one about faking nonexistence.<br/>
-[i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
+The greatest trick the Devil ever pulled was spreading a catchy quote denying all tricks greater than the one about faking nonexistence.
 
+   -[i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
 [/blockquote]
+
 [i]<font size="1">[open-bracket]Content warning: Part II of this chapter contains graphic scenes including references to Hell, gore, rape, psychological torture, and death. Some commenters are saying it was excessive even beyond the level suggested by this content warning, so take that into account. If you don’t want to read it, you can skip to Part III without missing too much plot-wise. Thanks to Pyth for helping out as Hell Consultant.]</font>[/i]
 
 #### I.
@@ -6077,9 +6084,9 @@ On November 1, 1973, the Broadcast went out to an unsuspecting nation.
 ## [TODO Chapter 26: ]For Not One Sparrow Can Suffer And The Whole Universe Not Suffer Also
 
 [blockquote]
-St. Francis saw above him, filling the whole heavens, some vast immemorial unthinkable power, ancient like the Ancient of Days, whose calm men had conceived under the forms of winged bulls or monstrous cherubim, and all that winged wonder was in pain like a wounded bird.<br/>
-—[i]St. Francis of Assisi[/i], by G.K. Chesterton
+St. Francis saw above him, filling the whole heavens, some vast immemorial unthinkable power, ancient like the Ancient of Days, whose calm men had conceived under the forms of winged bulls or monstrous cherubim, and all that winged wonder was in pain like a wounded bird.
 
+   -—[i]St. Francis of Assisi[/i], by G.K. Chesterton
 [/blockquote]
 
    -June 26, 1991
@@ -7013,9 +7020,9 @@ Do you hear what I hear<br/>
 Ringing through the sky, shepherd boy,<br/>
 Do you hear what I hear<br/>
 A song, a song, high above the trees<br/>
-With a voice as big as the sea<br/>
-[i]— Noël Regney, <a href="https://en.wikipedia.org/wiki/Do_You_Hear_What_I_Hear%3F">Do You Hear What I Hear?</a>[/i]
+With a voice as big as the sea
 
+   -[i]— Noël Regney, <a href="https://en.wikipedia.org/wiki/Do_You_Hear_What_I_Hear%3F">Do You Hear What I Hear?</a>[/i]
 [/blockquote]
 
    -October 2, 1978
@@ -7303,9 +7310,9 @@ Vihaan and Ellis looked at each other.
 ## [TODO Chapter 30: ]Over The Dark Deserts
 
 [blockquote]
-You don’t truly understand necromancy if you can’t explain it to your great-great-great-grandmother.<br/>
-[i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
+You don’t truly understand necromancy if you can’t explain it to your great-great-great-grandmother.
 
+   -[i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
 [/blockquote]
 
    -Evening, May 12, 2017
@@ -7445,9 +7452,9 @@ Night fell upon the city of the Other King.
 ## [TODO Chapter 31: ]The Foundation Of Empire
 
 [blockquote]
-Together, we can build a better America, colonize it, and use the old one for raw materials and target practice.<br/>
-[i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
+Together, we can build a better America, colonize it, and use the old one for raw materials and target practice.
 
+   -[i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
 [/blockquote]
 
    -January 30, 1981
@@ -7465,6 +7472,7 @@ But in every age<br/>
 A hero or sage<br/>
 Came to our aid
 [/blockquote]
+
 As the 1970s drew to a close, America was at a low point. The armies of Thamiel had been defeated by twin miracles in the East and West. But technology and infrastructure were still shattered, the state governments could barely maintain order, and outside the Eastern Seaboard the country was still divided into the regional powers that had taken over after Nixon’s fall.
 
 We needed a hero or sage to come to our aid.
@@ -8183,9 +8191,9 @@ In the center of the crater where Madrid had once been located, Uriel turned int
 ## [TODO Chapter 35: ]The Voices Of Children In His Tents
 
 [blockquote]
-Fast cars! Fast women! Fastidious adherence to the precepts of the moral law!<br/>
-[i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
+Fast cars! Fast women! Fastidious adherence to the precepts of the moral law!
 
+   -[i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
 [/blockquote]
 
    -Spring 1982
@@ -8281,9 +8289,9 @@ The Comet King had no more children.
 ## [TODO Chapter 36: ]My Father’s Business
 
 [blockquote]
-Fill the god-shaped hole in your soul with molten metal, then shatter your soul, leaving only a metal god<br/>
-[i]— <a href="https://twitter.com/gapofgods">Gap Of Gods</a>[/i]
+Fill the god-shaped hole in your soul with molten metal, then shatter your soul, leaving only a metal god
 
+   -[i]— <a href="https://twitter.com/gapofgods">Gap Of Gods</a>[/i]
 [/blockquote]
 
    -October 31, 1991
@@ -8795,9 +8803,9 @@ I swallowed the peyote before my better side could talk me out of it.
 ## [TODO Chapter 38: ]I Will Not Cease From Mental Fight
 
 [blockquote]
-Hershel of Ostropol came to an inn and asked for a warm meal. The innkeeper demanded he pay in advance, and when Hershel had no money, he told him to get out. Hershel raised himself up to his full height, looked the innkeeper in the eye menacingly, and said “Give me my meal, or I will do what my father did? You hear me? I will DO WHAT MY FATHER DID!” The terrified innkeeper served the traveller a nice warm meal. After dinner, when Hershel was calmer, he ventured to ask exactly what Hershel’s father had done. “That is simple,” answered Hershel. “When my father asked someone for a meal, and they refused to give it to him—then he would go to bed hungry.”<br/>
-[i]—Old Jewish folktale[/i]
+Hershel of Ostropol came to an inn and asked for a warm meal. The innkeeper demanded he pay in advance, and when Hershel had no money, he told him to get out. Hershel raised himself up to his full height, looked the innkeeper in the eye menacingly, and said “Give me my meal, or I will do what my father did? You hear me? I will DO WHAT MY FATHER DID!” The terrified innkeeper served the traveller a nice warm meal. After dinner, when Hershel was calmer, he ventured to ask exactly what Hershel’s father had done. “That is simple,” answered Hershel. “When my father asked someone for a meal, and they refused to give it to him—then he would go to bed hungry.”
 
+   -[i]—Old Jewish folktale[/i]
 [/blockquote]
 
    -May 13, 2017
@@ -9343,9 +9351,9 @@ Not A Metaphor entered the Atlantic Ocean and sailed into the rising sun.
 ## [TODO Chapter 40: ]In Terrible Majesty
 
 [blockquote]
-In a large and complicated system there might be various things that are pleasing in His eyes.<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+In a large and complicated system there might be various things that are pleasing in His eyes.
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
    -Evening, May 13, 2017
@@ -9557,9 +9565,9 @@ NEW ISSUES WILL BE ADDED TO THE QUEUE AS THEY ARISE. THERE MAY BE SOME GLITCHES 
 ## [TODO Chapter 42: ]Whose Whole Delight Is In Destroying
 
 [blockquote]
-They smote the city with the edge of the sword, and one of his main motivations was the high cost of proprietary software houses.<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+They smote the city with the edge of the sword, and one of his main motivations was the high cost of proprietary software houses.
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
    -Afternoon, May 12, 2017
@@ -9701,9 +9709,9 @@ Dylan slapped his head. “The girl’s a genius!” he said. “See! I knew thi
 ## [TODO Chapter 43: ]Lest They Be Annihilated In Thy Annihilation
 
 [blockquote]
-And Abraham said unto the LORD, “Will you not destroy the world if there are even a million righteous people in it?” And the LORD replied unto Abraham, “The world shall not be destroyed if there are even a thousand competent people in it. I don’t have anything to do with the process, mind, just making a prediction.”<br/>
-[i]— Eliezer Yudkowsky[/i]
+And Abraham said unto the LORD, “Will you not destroy the world if there are even a million righteous people in it?” And the LORD replied unto Abraham, “The world shall not be destroyed if there are even a thousand competent people in it. I don’t have anything to do with the process, mind, just making a prediction.”
 
+   -[i]— Eliezer Yudkowsky[/i]
 [/blockquote]
 
    -Summer 1983
@@ -9809,9 +9817,9 @@ He turned to lightning and flew out of the room.
 ## [TODO Chapter 44: ]A World Within Opening Its Gates
 
 [blockquote]
-The LORD sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give unto all this evil that was come to the decisive step of mathematical abstraction<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+The LORD sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give unto all this evil that was come to the decisive step of mathematical abstraction
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
    -1993
@@ -10098,9 +10106,9 @@ Sohu thought for a second.
 ## [TODO Chapter 45: ]In The Remotest Bottoms Of The Caves
 
 [blockquote]
-Praise the LORD from my hand for my son, to make a faster machine.<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+Praise the LORD from my hand for my son, to make a faster machine.
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
    -Evening, May 13, 2017
@@ -10196,9 +10204,9 @@ Sarah fell to the ground unconscious.
 ## [TODO Chapter 46: ]To Talk Of Patience To The Afflicted
 
 [blockquote]
-Why some people think the self is a prison escapes me.<br/>
-[i]— <a href="https://twitter.com/GapOfGods">@GapOfGods</a>[/i]
+Why some people think the self is a prison escapes me.
 
+   -[i]— <a href="https://twitter.com/GapOfGods">@GapOfGods</a>[/i]
 [/blockquote]
 
    -Dawn, May 13, 2017
@@ -10439,9 +10447,9 @@ The anger evaporated from the priest’s face. “What’s wrong, Jala?”
 ## [TODO Chapter 48: ]Bring Me My Chariot Of Fire
 
 [blockquote]
-Rage in favor of the proposition that the machine is somehow important in a way that could be uncovered through dispassionate analysis.<br/>
-[i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
+Rage in favor of the proposition that the machine is somehow important in a way that could be uncovered through dispassionate analysis.
 
+   -[i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
 [/blockquote]
 
    -Morning, May 14, 2017
@@ -10964,9 +10972,9 @@ The military is standing by in case of any disturbances.
 ## [TODO Chapter 50: ]Silent As Despairing Love
 
 [blockquote]
-Praise the LORD from my hand for my son, to make a faster machine.<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+Praise the LORD from my hand for my son, to make a faster machine.
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
    -Evening, May 13, 2017
@@ -11331,18 +11339,12 @@ and be like a gazelle<br/>
 or like a young stag<br/>
 on the spice-laden mountains.
 
-
-
-
-
-
-
 ## [TODO Chapter 52: ]The King Of Light Beheld Her Mourning
 
 [blockquote]
-And the shepherds returned, glorifying and praising God for all the possible values of x and f(x).<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+And the shepherds returned, glorifying and praising God for all the possible values of x and f(x).
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
    -July 29, 2001
@@ -11827,9 +11829,9 @@ Sleep came to them there, together, for the last time.
 ## [TODO Chapter 55: ]None Can Visit His Regions
 
 [blockquote]
-I’ve reserved this space as a safety zone for pouring my empty and vain wishes.<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+I’ve reserved this space as a safety zone for pouring my empty and vain wishes.
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
    -July 1999
@@ -12028,9 +12030,9 @@ Do you know what I know?<br/>
 In your palace warm, mighty king,<br/>
 Do you know what I know?<br/>
 A child, a child shivers in the cold<br/>
-Let us bring him silver and gold<br/>
-[i]— Noël Regney, <a href="https://en.wikipedia.org/wiki/Do_You_Hear_What_I_Hear%3F">Do You Hear What I Hear?</a>[/i]
+Let us bring him silver and gold
 
+   -[i]— Noël Regney, <a href="https://en.wikipedia.org/wiki/Do_You_Hear_What_I_Hear%3F">Do You Hear What I Hear?</a>[/i]
 [/blockquote]
 
    -August 1, 1999
@@ -12211,9 +12213,9 @@ The idiot Chaos blew Earth’s dust away.
 ## [TODO Chapter 57: ]Now Taking On Ahania’s Form...
 
 [blockquote]
-The word of the LORD is a great deal of research activity in this area, and probabilistic algorithms have been fruitfully applied.<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+The word of the LORD is a great deal of research activity in this area, and probabilistic algorithms have been fruitfully applied.
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
    -Evening, May 13, 2017
@@ -12341,9 +12343,9 @@ The circle flared brighter and higher than I’d ever seen before, probably beca
 ## [TODO Chapter 58: ]... And Now The Form Of Enion
 
 [blockquote]
-The LORD is greater than or equal to the expression involving f(y)<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+The LORD is greater than or equal to the expression involving f(y)
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
    -Evening, May 13, 2017
@@ -12526,10 +12528,11 @@ I woke into the regular world. A new stack of books was piled on the table. Sohu
 ## Interlude ת: Trump
 
 [blockquote]
-Want to feel old? The span of time between Saddam Hussein’s death and now is longer than between now and when 1/3 of the sea becomes blood.<br/>
-[i]— <a href="https://twitter.com/GateOfHeavens">@GateOfHeavens</a>[/i]
+Want to feel old? The span of time between Saddam Hussein’s death and now is longer than between now and when 1/3 of the sea becomes blood.
 
+   -[i]— <a href="https://twitter.com/GateOfHeavens">@GateOfHeavens</a>[/i]
 [/blockquote]
+
 #### I.
 
 The 2016 Republican primaries went the way any nominative determinist would have predicted. The guy named Walker left early. The guy named Bush got mowed down. The guy named Rand ran as a libertarian. The guy named Cruz (Latin, meaning “cross”) ran on a platform of evangelical Christianity. The guy named Marco (Latin, meaning “warlike”), ran on a platform of neoconservative imperialism. The guy named Benjamin (Hebrew, meaning “son of my right hand”) ran on a platform laid out in his book [i]Clever Hands[/i].
@@ -12664,9 +12667,9 @@ And in the end, the new administration managed to outperform everyone’s expect
 ## [TODO Chapter 59: ]Clothe Yourself In Golden Arms
 
 [blockquote]
-This is a reasonable approach for handling small problems, but it would be awkward if there were any that did understand, and seek God.<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+This is a reasonable approach for handling small problems, but it would be awkward if there were any that did understand, and seek God.
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
    -Evening, May 13, 2017
@@ -12830,9 +12833,9 @@ For a second, all was quiet. Then: “That was the most feckin’ pointless thin
 ## [TODO Chapter 60: ]O Rose, Thou Art Sick
 
 [blockquote]
-There is free memory available into which we can design our programs, to increase the trespass of Israel.<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+There is free memory available into which we can design our programs, to increase the trespass of Israel.
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
    -September 3, 1999
@@ -12924,9 +12927,9 @@ Before he could respond, the lady was gone.
 ## [TODO Chapter 61: ]And Ololon Said, Let Us Descend Also, And Let Us Give Ourselves To Death In Ulro Among The Transgressors
 
 [blockquote]
-He has a devil-may-care-so-let-us-make-every-effort-to-be-considerate-of-his-infernal-highness’s-feelings attitude.<br/>
-[i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
+He has a devil-may-care-so-let-us-make-every-effort-to-be-considerate-of-his-infernal-highness’s-feelings attitude.
 
+   -[i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
 [/blockquote]
 
    -September 20, 1999
@@ -13038,9 +13041,9 @@ She lay there, in the Garden of the Gods, naked and alone, on the foul sulfur-sc
 ## [TODO Chapter 62: ]That The Wide World Might Fly From Its Hinges
 
 [blockquote]
-Thou hast been faithful in a very interesting way.<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+Thou hast been faithful in a very interesting way.
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
    -Afternoon, May 14, 2017
@@ -13202,9 +13205,9 @@ So when the last and dreadful hour<br/>
 This crumbling pageant shall devour,<br/>
 The trumpet shall be heard on high,<br/>
 The dead shall live, the living die,<br/>
-And Music shall untune the sky!<br/>
-[i]— <a href="https://www.poets.org/poetsorg/poem/song-st-cecilias-day">John Dryden</a>[/i]
+And Music shall untune the sky!
 
+   -[i]— <a href="https://www.poets.org/poetsorg/poem/song-st-cecilias-day">John Dryden</a>[/i]
 [/blockquote]
 
    -Afternoon, May 14, 2017
@@ -13242,9 +13245,9 @@ Then there was fire, and hurricane and archangel and machinery alike disintegrat
 ## [TODO Chapter 64: ]Another Better World Shall Be
 
 [blockquote]
-These be the words which the LORD did there confound the language of electrical systems.<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+These be the words which the LORD did there confound the language of electrical systems.
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
    -Afternoon, May 14, 2017
@@ -13358,9 +13361,9 @@ Before Dylan could give any kind of a monologue, Erica pushed her way forward, b
 ## [TODO Chapter 65: ]The Fruit Of My Mysterious Tree
 
 [blockquote]
-We find that the pattern unifies with the conclusion of the rule which God hath spoken in his holiness<br/>
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+We find that the pattern unifies with the conclusion of the rule which God hath spoken in his holiness
 
+   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
 [/blockquote]
 
    -Afternoon, May 14, 2017
@@ -13456,9 +13459,9 @@ It’s coming to America first<br/>
 The cradle of the best and of the worst<br/>
  It’s here they got the range<br/>
  And the machinery for change<br/>
- And it’s here they got the spiritual thirst<br/>
-[i]— <a href="https://www.youtube.com/watch?v=Ag5QsNA3Xwk">Leonard Cohen</a>[/i]
+ And it’s here they got the spiritual thirst
 
+   -[i]— <a href="https://www.youtube.com/watch?v=Ag5QsNA3Xwk">Leonard Cohen</a>[/i]
 [/blockquote]
 
    -Afternoon, May 14, 2017
@@ -13567,9 +13570,9 @@ A minute later, back came James, half-dragging a figure who looked like he’d s
 
 [blockquote]
 Everybody knows that the boat is leaking<br/>
-Everybody knows that the captain lied.<br/>
-[i]— <a href="https://www.youtube.com/watch?v=xS6V0waUtaQ">Leonard Cohen</a>[/i]
+Everybody knows that the captain lied.
 
+   -[i]— <a href="https://www.youtube.com/watch?v=xS6V0waUtaQ">Leonard Cohen</a>[/i]
 [/blockquote]
 
    -Evening, May 14, 2017
@@ -13819,9 +13822,9 @@ Ana climbed belowdecks and knocked on the door to the Captain’s quarters.
 For a Tear is an Intellectual Thing<br/>
 And a Sigh is the Sword of an Angel King<br/>
 And the bitter groan of the Martyr’s woe<br/>
-Is an Arrow from the Almighty’s Bow<br/>
-[i]— William Blake, <a href="https://www.rc.umd.edu/editions/poets/texts/greymonk.html">The Grey Monk</a>[/i]
+Is an Arrow from the Almighty’s Bow
 
+   -[i]— William Blake, <a href="https://www.rc.umd.edu/editions/poets/texts/greymonk.html">The Grey Monk</a>[/i]
 [/blockquote]
 
    -December 21, 1999
@@ -14249,9 +14252,9 @@ Sohu turned to lightning and disappeared. The last few ashes and sparks fell to 
 ## [TODO Chapter 71: ]But For Another Gives Its Ease
 
 [blockquote]
-Everybody already has enlightenment. Why did Buddha sit for six years, see a star, and then get enlightenment? That’s stupid! If you see a star, you get enlightenment now!<br/>
-[i]— <a href="https://www.reddit.com/r/zen/comments/2uc2f1/chunsong_sunim_18911978_a_modern_korean_zen_son/">Ch’unsong Sunim</a>[/i]
+Everybody already has enlightenment. Why did Buddha sit for six years, see a star, and then get enlightenment? That’s stupid! If you see a star, you get enlightenment now!
 
+   -[i]— <a href="https://www.reddit.com/r/zen/comments/2uc2f1/chunsong_sunim_18911978_a_modern_korean_zen_son/">Ch’unsong Sunim</a>[/i]
 [/blockquote]
 
    -Evening, May 14, 2017
@@ -14551,9 +14554,9 @@ The final chapter will be posted next week. I will be doing a dramatic reading o
 ## [TODO Chapter 72: ]And Builds A Heaven In Hell’s Despair
 
 [blockquote]
-If we are worthy, our Master will redeem us by justice, and if not, He will redeem us with mercy.<br/>
-[i]— <a href="http://www.cs.utah.edu/~spiegel/kabbalah/jkm10.htm">Rabbinic saying</a>[/i]
+If we are worthy, our Master will redeem us by justice, and if not, He will redeem us with mercy.
 
+   -[i]— <a href="http://www.cs.utah.edu/~spiegel/kabbalah/jkm10.htm">Rabbinic saying</a>[/i]
 [/blockquote]
 
    -Evening, May 14, 2017
@@ -14760,8 +14763,9 @@ It was a faint voice, almost too faint to detect, audible not to the ears but to
 ### Epilogue
 
 [blockquote]
-Yes<br/>
-[i]— <a href="https://en.wikipedia.org/wiki/William_Godwin">Will Godwin</a>[/i]
+Yes.
+
+   -[i]— <a href="https://en.wikipedia.org/wiki/William_Godwin">Will Godwin</a>[/i]
 [/blockquote]
 
    -Evening, May 14, 2017

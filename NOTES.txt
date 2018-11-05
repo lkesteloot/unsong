@@ -1,4 +1,5 @@
 - Types of blockquotes:
+    - Resolve isInBlockQuote() and BLOCK_QUOTE block type.
     - Top of chapters.
         - Typically some text, followed by a reference.
         - Interlude ז has two of them "Let’s play Twister, let’s play Risk"
