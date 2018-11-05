@@ -117,7 +117,7 @@ Then, mid-sentence, they crashed into the crystal sphere surrounding the world, 
 [blockquote]
 It is good practice to have your program poke around at runtime and see if it can be used to give a light unto the Gentiles.
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
    -May 10, 2017
@@ -364,7 +364,7 @@ He sat down on the piano bench and performed a flawless rendition of Bach’s Co
 [blockquote]
 Jerusalem is builded as a city that is in the public domain.
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 
 [/blockquote]
 
@@ -458,7 +458,7 @@ One of my few true talents is an ability to stride confidently to the front of t
 
 “We will now begin choir.”
 
-Fifty years ago, Apollo 8 cracked the sky open and people started discovering the Names of God. A decade later, corporations started patenting them, demanding license fees for anyone who wanted to work miracles with them. A decade after [i]that[/i], they codified the whole system into international law and created UNSONG— the United Nations Subcommittee On Names of God—to enforce it.
+Fifty years ago, Apollo 8 cracked the sky open and people started discovering the Names of God. A decade later, corporations started patenting them, demanding license fees for anyone who wanted to work miracles with them. A decade after [i]that[/i], they codified the whole system into international law and created UNSONG—the United Nations Subcommittee On Names of God—to enforce it.
 
 And a decade after [i]that[/i], people started asking: why are we allowing this? Everything we know about God suggests that He loves all humans and is [i]not[/i] a fan of the rich getting richer. First came Reverend Stevens and his book. Then came the political movement, growing out of local Unitarian churches that insisted that God loved everyone alike and therefore everyone alike must know His Names. And finally, when every legitimate avenue of resistance had been crushed, there came groups like ours, stealing what Names we could find and teaching them to one another in hidden forests or dark basements. Spreading the illegal knowledge in preparation for... well... okay, the endgame wasn’t exactly our strong point. Reverend Stevens had said that once enough people knew the Names, it would spark a revolution in consciousness, an immanentization of the eschaton as the holy essence reverberated within the minds of all life. Sure. Let’s go with that.
 
@@ -539,7 +539,7 @@ And that was why every Wednesday night the choir of the Unitarian Church would m
 [blockquote]
 For the LORD will work for each type of data it is applied to.
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
 <font size="1"><b>[i]“The Code Of The World”, by Aaron Smith-Teller<br/>
@@ -800,7 +800,7 @@ Uriel let out a long sigh.
 [blockquote]
 And ye shall be sorrowful, but your sorrow shall be turned into effective devices for computing in any direction.
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
    -May 10, 2017
@@ -896,7 +896,7 @@ And I ended: “MEH-MEH-MEH-MEH-MEH-MEH!”
 [blockquote]
 My beloved is like a bit of information that flows in the system.
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
 #### I.
@@ -1682,7 +1682,7 @@ And a singer is someone who tries to be good.
 [blockquote]
 God, grant me the serenity to accept that I will never have the serenity to accept the things I cannot change.
 
-   -[i]— <a href="https://twitter.com/stevenkaas">Steven Kaas</a>[/i]
+   -—[a href="https://twitter.com/stevenkaas"]Steven Kaas[/a]
 [/blockquote]
 
    -Early morning, May 11, 2017
@@ -1875,7 +1875,7 @@ Was I arrogant to even make the comparison? Maybe. But I had crossed out of the 
 [blockquote]
 Sleep like nothing is watching. Gaze at the stars like it will never hurt.
 
-   -[i]— <a href="https://twitter.com/stevenkaas">Steven Kaas</a>[/i]
+   -—[a href="https://twitter.com/stevenkaas"]Steven Kaas[/a]
 [/blockquote]
 
    -Early morning, May 11, 2017
@@ -2055,7 +2055,7 @@ My mind burning, I set out for the CalTrain station and Stanford.
 [blockquote]
 Love is the law, but it is poorly enforced.
 
-   -[i]— Reverend Raymond Stevens, “Singers In The Hands Of An Angry God”[/i]
+   -—Reverend Raymond Stevens, [i]“Singers In The Hands Of An Angry God”[/i]
 [/blockquote]
 
    -March 20, 2001
@@ -2482,7 +2482,7 @@ Sohu experimentally slathered one the fried fish-parts in ketchup, tentatively t
 [blockquote]
 Notice also that the sharing is what enables us to increase the trespass of thy brethren.
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
    -May 11, 2017
@@ -2713,7 +2713,7 @@ Then she went visible again, called a cab, and asked how much it would cost to g
 [blockquote]
 But woe unto them that were with him, at the valley gate, and at the University of California at Berkeley.
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
    -June 20, 1970
@@ -2888,15 +2888,15 @@ Ring the bells that still can ring<br/>
 Forget your perfect offering<br/>
 There is a crack in everything<br/>
 That’s how the light gets in.<br/>
-[i]— Leonard Cohen, “Anthem”[/i]
+—Leonard Cohen, [i]“Anthem”[/i]
 
 [/blockquote]
 <font size="1"><b>[i]“There’s A Hole In My Bucket”, by Aaron Smith-Teller<br/>
 Submitted for the June 2017 issue of the [/i]Stevensite Standard</b></font>
 
-You’ve probably heard <a href="https://en.wikipedia.org/wiki/There's_a_Hole_in_My_Bucket#Lyrics">the old children’s song</a>. “There’s a hole in my bucket, dear Liza, dear Liza.” A child named Henry asks his friend Liza for help with a hole in his bucket. Liza tells him to mend it with straw, but Henry needs—successively—a knife to cut the straw, a stone to sharpen the knife, water to wet the stone, and a bucket to get the water. He ends up in the same place he started—there is a hole in his bucket and he doesn’t know what to do. All of this has obvious kabbalistic implications.
+You’ve probably heard [a href="https://en.wikipedia.org/wiki/There's_a_Hole_in_My_Bucket#Lyrics"]the old children’s song[/a]. “There’s a hole in my bucket, dear Liza, dear Liza.” A child named Henry asks his friend Liza for help with a hole in his bucket. Liza tells him to mend it with straw, but Henry needs—successively—a knife to cut the straw, a stone to sharpen the knife, water to wet the stone, and a bucket to get the water. He ends up in the same place he started—there is a hole in his bucket and he doesn’t know what to do. All of this has obvious kabbalistic implications.
 
-Looking up “Liza” we find it derives from Hebrew Elisheba, a complicated name I have seen translated as “God is an oath”, “God is satisfaction”, “God is wrath” or— if you take it entirely literally—“God is seven”. Okay. Let’s put that one on hold for now.
+Looking up “Liza” we find it derives from Hebrew Elisheba, a complicated name I have seen translated as “God is an oath”, “God is satisfaction”, “God is wrath” or—if you take it entirely literally—“God is seven”. Okay. Let’s put that one on hold for now.
 
 Looking up “Henry” we find that it is the written form of the name spoken as “Harry”. Why write a name differently than it’s spoken? In Hebrew there is a tradition of writing the Names one way and speaking them differently—thus A—i becomes “HaShem”. A few months ago, I jokingly told a friend that the Explicit Name was “Harold”, based on the prayer “Our Father in Heaven, Harold be thy name”. If Harold is indeed a divine Name, it makes sense that it should be written differently than it is spoken.
 
@@ -3200,7 +3200,7 @@ She thought for a second. So many things she wanted to say. She formed the respo
 [blockquote]
 Because the law worketh wrath: for where no law is, there is power: and who may stand in thy sight are but as yesterday when it is applied. These two rules describe the essence of a computer programmer trainee
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
    -May 11, 2017
@@ -3373,7 +3373,7 @@ Rebels are we<br/>
 Though heavy our hearts shall always be<br/>
 Ah, no ball or chain no prison shall keep<br/>
 We’re the rebels of the sacred heart<br/>
-[i]— <a href="https://www.youtube.com/watch?v=Gdlkx_cIqtE">Rebels Of The Sacred Heart</a>[/i]
+—[a href="https://www.youtube.com/watch?v=Gdlkx_cIqtE"]Rebels Of The Sacred Heart[/a]
 
 [/blockquote]
 
@@ -3680,13 +3680,13 @@ Sohu said nothing. Uriel turned away and went back to running the universe.
 Let’s play Twister, let’s play Risk<br/>
 See you in Heaven if you make the list
 
-   -[i]— R.E.M., <a href="https://www.youtube.com/watch?v=5ojx_ldHs5M">Man On The Sphere</a>[/i]
+   -—R.E.M., [i][a href="https://www.youtube.com/watch?v=5ojx_ldHs5M"]Man On The Sphere[/a][/i]
 [/blockquote]
 
 [blockquote]
 I believe that this nation should commit itself to achieving the goal, until we’ve landed on the moon, of preventing this decade from ending
 
-   -[i]— <a href="https://twitter.com/vesselofspirit">@vesselofspirit</a>[/i]
+   -—[a href="https://twitter.com/vesselofspirit"]@vesselofspirit[/a]
 [/blockquote]
 
 #### I.
@@ -3888,7 +3888,7 @@ Way up in the sky, little lamb,<br/>
 Do you see what I see?<br/>
 A star, a star, dancing in the night<br/>
 With a tail as big as a kite<br/>
-[i]— Noël Regney, <a href="https://en.wikipedia.org/wiki/Do_You_Hear_What_I_Hear%3F">Do You Hear What I Hear?</a>[/i]
+—Noël Regney, [i][a href="https://en.wikipedia.org/wiki/Do_You_Hear_What_I_Hear%3F"]Do You Hear What I Hear?[/a][/i]
 
 [/blockquote]
 
@@ -3955,7 +3955,7 @@ And so in November 1976, behold, a virgin conceived and bore a son, and she call
 [blockquote]
  And the LORD said unto Moses, Pharaoh’s heart is hardened, he refuseth to let the user control whether or not to memoize thunks
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
 #### I.
@@ -4597,7 +4597,7 @@ Jane threw the single paddle to me, scooted forward suddenly, and the kayak drop
 [blockquote]
 Where wast thou when I laid the foundations for theoretical computer science?
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
    -3??? BC
@@ -5077,7 +5077,7 @@ When Gabriel was out of sight, Uriel sat back down and started shaking. He shook
 [blockquote]
 Work hard, play hard, converge to a transcendent and unified end state of human evolution called the Omega Point as predicted by Teilhard.
 
-   -[i]— <a href="https://twitter.com/GapOfGods">@GapOfGods</a>[/i]
+   -—[a href="https://twitter.com/GapOfGods"]@GapOfGods[/a]
 [/blockquote]
 
    -Noon, May 12, 2017
@@ -5360,7 +5360,7 @@ Up in their skies to smite them<br/>
 And meta gods have meta gods,<br/>
 And so ad infinitum.
 
-   -[i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
+   -—[a href="https://twitter.com/stevenkaas/"]Steven Kaas[/a]
 [/blockquote]
 
    -January 30, 2002
@@ -5520,7 +5520,7 @@ And then there was the rather high chance that he would be executed very painful
 [blockquote]
 Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the LORD.
 
-   -[i]— Obadiah 1:4[/i]
+   -—Obadiah 1:4
 [/blockquote]
 
    -Afternoon, May 12, 2017
@@ -5662,7 +5662,7 @@ James, Lin, and John looked at her as though it was by no means obvious.
 [blockquote]
 And Satan stood up against them in the global environment.
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
    -December 14, 1972
@@ -5689,7 +5689,7 @@ No, we are not your enemy. You say we are your enemy, you hope it is true, but i
 
 Ladies, gentlemen, Mr. Secretary-General. I have no enemies in this room. We have always been comrades in spirit. Now we are comrades in name as well. For this, I thank you.”
 
-When Thamiel had finished speaking, he lingered for a moment at the podium, almost as if daring anyone to object. No one objected. His second head remained locked in its silent scream. Smoke twirled around him like buzzing flies, and his skin seemed rough with cancerous growths in the dim light of the chamber. But it wasn’t just fear that kept the ambassadors quiet. These were diplomats— that is, liars—and for just a moment they saw themselves as they were and paid obeisance to the Prince of Lies.
+When Thamiel had finished speaking, he lingered for a moment at the podium, almost as if daring anyone to object. No one objected. His second head remained locked in its silent scream. Smoke twirled around him like buzzing flies, and his skin seemed rough with cancerous growths in the dim light of the chamber. But it wasn’t just fear that kept the ambassadors quiet. These were diplomats—that is, liars—and for just a moment they saw themselves as they were and paid obeisance to the Prince of Lies.
 
 A sudden gust of scalding wind arose seemingly from nowhere, knocked two of the delegates apart from each other, scattered their nametags. A puff of brimstone in the middle, which cleared as quickly as it had arrived.
 
@@ -5902,7 +5902,7 @@ And now we were going to Vegas. A dark place, to be sure, but not Jane’s place
 [blockquote]
 The greatest trick the Devil ever pulled was spreading a catchy quote denying all tricks greater than the one about faking nonexistence.
 
-   -[i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
+   -—[a href="https://twitter.com/stevenkaas/"]Steven Kaas[/a]
 [/blockquote]
 
 [i]<font size="1">[open-bracket]Content warning: Part II of this chapter contains graphic scenes including references to Hell, gore, rape, psychological torture, and death. Some commenters are saying it was excessive even beyond the level suggested by this content warning, so take that into account. If you don’t want to read it, you can skip to Part III without missing too much plot-wise. Thanks to Pyth for helping out as Hell Consultant.]</font>[/i]
@@ -7022,7 +7022,7 @@ Do you hear what I hear<br/>
 A song, a song, high above the trees<br/>
 With a voice as big as the sea
 
-   -[i]— Noël Regney, <a href="https://en.wikipedia.org/wiki/Do_You_Hear_What_I_Hear%3F">Do You Hear What I Hear?</a>[/i]
+   -—Noël Regney, [i][a href="https://en.wikipedia.org/wiki/Do_You_Hear_What_I_Hear%3F"]Do You Hear What I Hear?[/a][/i]
 [/blockquote]
 
    -October 2, 1978
@@ -7312,7 +7312,7 @@ Vihaan and Ellis looked at each other.
 [blockquote]
 You don’t truly understand necromancy if you can’t explain it to your great-great-great-grandmother.
 
-   -[i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
+   -—[a href="https://twitter.com/stevenkaas/"]Steven Kaas[/a]
 [/blockquote]
 
    -Evening, May 12, 2017
@@ -7454,7 +7454,7 @@ Night fell upon the city of the Other King.
 [blockquote]
 Together, we can build a better America, colonize it, and use the old one for raw materials and target practice.
 
-   -[i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
+   -—[a href="https://twitter.com/stevenkaas/"]Steven Kaas[/a]
 [/blockquote]
 
    -January 30, 1981
@@ -8002,7 +8002,7 @@ Simeon was already gone.
 [blockquote]
 He said, Go and utterly destroy them; namely, the Hittites, and the Girgashites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, which were not defiled with women; for they are not very good for implementing high-performance floating-point calculations or calculations that intensively manipulate bit vectors.
 
-[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 
 [/blockquote]
 
@@ -8193,7 +8193,7 @@ In the center of the crater where Madrid had once been located, Uriel turned int
 [blockquote]
 Fast cars! Fast women! Fastidious adherence to the precepts of the moral law!
 
-   -[i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
+   -—[a href="https://twitter.com/stevenkaas/"]Steven Kaas[/a]
 [/blockquote]
 
    -Spring 1982
@@ -8291,7 +8291,7 @@ The Comet King had no more children.
 [blockquote]
 Fill the god-shaped hole in your soul with molten metal, then shatter your soul, leaving only a metal god
 
-   -[i]— <a href="https://twitter.com/gapofgods">Gap Of Gods</a>[/i]
+   -—[a href="https://twitter.com/gapofgods"]Gap Of Gods[/a]
 [/blockquote]
 
    -October 31, 1991
@@ -8792,7 +8792,7 @@ None of them rang true. The truth was, I wasn’t the Comet King. I was a scared
 
 I swallowed the peyote before my better side could talk me out of it.
 
-[i][open-bracket]If you like this story, please <a href="http://topwebfiction.com/vote.php?for=unsong">vote for it on topwebfiction</a>. Even if you voted for it on Wednesday, please vote again, since you can vote every day. After today I will put this message on the sidebar or something and not keep spamming you with it every update.][/i]
+[i][open-bracket]If you like this story, please [a href="http://topwebfiction.com/vote.php?for=unsong"]vote for it on topwebfiction[/a]. Even if you voted for it on Wednesday, please vote again, since you can vote every day. After today I will put this message on the sidebar or something and not keep spamming you with it every update.][/i]
 
 
 
@@ -8805,7 +8805,7 @@ I swallowed the peyote before my better side could talk me out of it.
 [blockquote]
 Hershel of Ostropol came to an inn and asked for a warm meal. The innkeeper demanded he pay in advance, and when Hershel had no money, he told him to get out. Hershel raised himself up to his full height, looked the innkeeper in the eye menacingly, and said “Give me my meal, or I will do what my father did? You hear me? I will DO WHAT MY FATHER DID!” The terrified innkeeper served the traveller a nice warm meal. After dinner, when Hershel was calmer, he ventured to ask exactly what Hershel’s father had done. “That is simple,” answered Hershel. “When my father asked someone for a meal, and they refused to give it to him—then he would go to bed hungry.”
 
-   -[i]—Old Jewish folktale[/i]
+   -—Old Jewish folktale
 [/blockquote]
 
    -May 13, 2017
@@ -9353,7 +9353,7 @@ Not A Metaphor entered the Atlantic Ocean and sailed into the rising sun.
 [blockquote]
 In a large and complicated system there might be various things that are pleasing in His eyes.
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
    -Evening, May 13, 2017
@@ -9567,7 +9567,7 @@ NEW ISSUES WILL BE ADDED TO THE QUEUE AS THEY ARISE. THERE MAY BE SOME GLITCHES 
 [blockquote]
 They smote the city with the edge of the sword, and one of his main motivations was the high cost of proprietary software houses.
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
    -Afternoon, May 12, 2017
@@ -9666,7 +9666,7 @@ Clark started laughing. Dylan turned and shushed him.
 
 Clark nudged the letterbomb on the table. “Think they’re the ones who end up feeling the warm glow, most of the time.” He laughed uproariously at himself.
 
-“It’s not a joke!” Alvarez protested. “A letterbomb is, in its way, the most honest form of communication. People say communication is about conveying information, but it really isn’t. Communication is a form of magic. The kabbalists say they know words that can draw lightning from the sky, or summon trees from the ground. So what?! Our everyday words are far more powerful than their most sacred incantation! A German guy with a silly beard writes a manifesto, and fifty years later half the world is in flames! An Austrian guy with a silly mustache gives a speech, and a decade later ten million people are dead! A hundred diplomats in the UN sign a charter, and suddenly you’ve got to pay Gogmagog everything you have if you want the doctor to be able to save your life. People get all excited about the Names, call them words of power, but who ever heard of a Name that kills ten million people? Oh, there are words of power, all right, but it’s not the Names of God you have to worry about. And in a sense this— ” he tossed the letterbomb up in the air, then caught it theatrically—“is the essence of kabbalah. The Word made flesh!”
+“It’s not a joke!” Alvarez protested. “A letterbomb is, in its way, the most honest form of communication. People say communication is about conveying information, but it really isn’t. Communication is a form of magic. The kabbalists say they know words that can draw lightning from the sky, or summon trees from the ground. So what?! Our everyday words are far more powerful than their most sacred incantation! A German guy with a silly beard writes a manifesto, and fifty years later half the world is in flames! An Austrian guy with a silly mustache gives a speech, and a decade later ten million people are dead! A hundred diplomats in the UN sign a charter, and suddenly you’ve got to pay Gogmagog everything you have if you want the doctor to be able to save your life. People get all excited about the Names, call them words of power, but who ever heard of a Name that kills ten million people? Oh, there are words of power, all right, but it’s not the Names of God you have to worry about. And in a sense this—” he tossed the letterbomb up in the air, then caught it theatrically—“is the essence of kabbalah. The Word made flesh!”
 
 Clark clapped sarcastically. Erica and Maduegbuna just stared. Brian looked pained. “Please don’t toss the bomb,” he said. “The detonation mechanism is still...”
 
@@ -9711,7 +9711,7 @@ Dylan slapped his head. “The girl’s a genius!” he said. “See! I knew thi
 [blockquote]
 And Abraham said unto the LORD, “Will you not destroy the world if there are even a million righteous people in it?” And the LORD replied unto Abraham, “The world shall not be destroyed if there are even a thousand competent people in it. I don’t have anything to do with the process, mind, just making a prediction.”
 
-   -[i]— Eliezer Yudkowsky[/i]
+   -—Eliezer Yudkowsky
 [/blockquote]
 
    -Summer 1983
@@ -9819,7 +9819,7 @@ He turned to lightning and flew out of the room.
 [blockquote]
 The LORD sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give unto all this evil that was come to the decisive step of mathematical abstraction
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
    -1993
@@ -10108,7 +10108,7 @@ Sohu thought for a second.
 [blockquote]
 Praise the LORD from my hand for my son, to make a faster machine.
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
    -Evening, May 13, 2017
@@ -10206,7 +10206,7 @@ Sarah fell to the ground unconscious.
 [blockquote]
 Why some people think the self is a prison escapes me.
 
-   -[i]— <a href="https://twitter.com/GapOfGods">@GapOfGods</a>[/i]
+   -—[a href="https://twitter.com/GapOfGods"]@GapOfGods[/a]
 [/blockquote]
 
    -Dawn, May 13, 2017
@@ -10289,7 +10289,7 @@ Mark sighed, resigned.
 
 “The world didn’t do this to me, Dylan. [i]You[/i] did.”
 
-“I didn’t invent Sing Sing. I didn’t tell your wife to divorce you. I didn’t tell your kids to like their new daddy more than their old daddy. I didn’t beat you up three times in the exercise yard <a href="https://thetransintransgenic.tumblr.com/post/143892818216/microficcing-the-omer-hod-bagvurah">—</a> yes, I looked into your prison records, are you surprised? I didn’t kill your old cellmate with a makeshift knife right in front of you and give you such bad PTSD that you can’t get to sleep on your own, then patronizingly tell you that you can’t have more than a week’s worth of copies of the Somnolent Name because the budget is low and there are other inmates with [i]real[/i] problems.”
+“I didn’t invent Sing Sing. I didn’t tell your wife to divorce you. I didn’t tell your kids to like their new daddy more than their old daddy. I didn’t beat you up three times in the exercise yard [a href="https://thetransintransgenic.tumblr.com/post/143892818216/microficcing-the-omer-hod-bagvurah"]—[/a] yes, I looked into your prison records, are you surprised? I didn’t kill your old cellmate with a makeshift knife right in front of you and give you such bad PTSD that you can’t get to sleep on your own, then patronizingly tell you that you can’t have more than a week’s worth of copies of the Somnolent Name because the budget is low and there are other inmates with [i]real[/i] problems.”
 
 Mark looked uncomfortable.
 
@@ -10449,7 +10449,7 @@ The anger evaporated from the priest’s face. “What’s wrong, Jala?”
 [blockquote]
 Rage in favor of the proposition that the machine is somehow important in a way that could be uncovered through dispassionate analysis.
 
-   -[i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
+   -—[a href="https://twitter.com/stevenkaas/"]Steven Kaas[/a]
 [/blockquote]
 
    -Morning, May 14, 2017
@@ -10974,7 +10974,7 @@ The military is standing by in case of any disturbances.
 [blockquote]
 Praise the LORD from my hand for my son, to make a faster machine.
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
    -Evening, May 13, 2017
@@ -11344,7 +11344,7 @@ on the spice-laden mountains.
 [blockquote]
 And the shepherds returned, glorifying and praising God for all the possible values of x and f(x).
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
    -July 29, 2001
@@ -11831,7 +11831,7 @@ Sleep came to them there, together, for the last time.
 [blockquote]
 I’ve reserved this space as a safety zone for pouring my empty and vain wishes.
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
    -July 1999
@@ -12032,7 +12032,7 @@ Do you know what I know?<br/>
 A child, a child shivers in the cold<br/>
 Let us bring him silver and gold
 
-   -[i]— Noël Regney, <a href="https://en.wikipedia.org/wiki/Do_You_Hear_What_I_Hear%3F">Do You Hear What I Hear?</a>[/i]
+   -—Noël Regney, [i][a href="https://en.wikipedia.org/wiki/Do_You_Hear_What_I_Hear%3F"]Do You Hear What I Hear?[/a][/i]
 [/blockquote]
 
    -August 1, 1999
@@ -12215,7 +12215,7 @@ The idiot Chaos blew Earth’s dust away.
 [blockquote]
 The word of the LORD is a great deal of research activity in this area, and probabilistic algorithms have been fruitfully applied.
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
    -Evening, May 13, 2017
@@ -12345,7 +12345,7 @@ The circle flared brighter and higher than I’d ever seen before, probably beca
 [blockquote]
 The LORD is greater than or equal to the expression involving f(y)
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
    -Evening, May 13, 2017
@@ -12530,7 +12530,7 @@ I woke into the regular world. A new stack of books was piled on the table. Sohu
 [blockquote]
 Want to feel old? The span of time between Saddam Hussein’s death and now is longer than between now and when 1/3 of the sea becomes blood.
 
-   -[i]— <a href="https://twitter.com/GateOfHeavens">@GateOfHeavens</a>[/i]
+   -—[a href="https://twitter.com/GateOfHeavens"]@GateOfHeavens[/a]
 [/blockquote]
 
 #### I.
@@ -12669,7 +12669,7 @@ And in the end, the new administration managed to outperform everyone’s expect
 [blockquote]
 This is a reasonable approach for handling small problems, but it would be awkward if there were any that did understand, and seek God.
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
    -Evening, May 13, 2017
@@ -12835,7 +12835,7 @@ For a second, all was quiet. Then: “That was the most feckin’ pointless thin
 [blockquote]
 There is free memory available into which we can design our programs, to increase the trespass of Israel.
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
    -September 3, 1999
@@ -12929,7 +12929,7 @@ Before he could respond, the lady was gone.
 [blockquote]
 He has a devil-may-care-so-let-us-make-every-effort-to-be-considerate-of-his-infernal-highness’s-feelings attitude.
 
-   -[i]— <a href="https://twitter.com/stevenkaas/">Steven Kaas</a>[/i]
+   -—[a href="https://twitter.com/stevenkaas/"]Steven Kaas[/a]
 [/blockquote]
 
    -September 20, 1999
@@ -13043,7 +13043,7 @@ She lay there, in the Garden of the Gods, naked and alone, on the foul sulfur-sc
 [blockquote]
 Thou hast been faithful in a very interesting way.
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
    -Afternoon, May 14, 2017
@@ -13207,7 +13207,7 @@ The trumpet shall be heard on high,<br/>
 The dead shall live, the living die,<br/>
 And Music shall untune the sky!
 
-   -[i]— <a href="https://www.poets.org/poetsorg/poem/song-st-cecilias-day">John Dryden</a>[/i]
+   -—[a href="https://www.poets.org/poetsorg/poem/song-st-cecilias-day"]John Dryden[/a]
 [/blockquote]
 
    -Afternoon, May 14, 2017
@@ -13247,7 +13247,7 @@ Then there was fire, and hurricane and archangel and machinery alike disintegrat
 [blockquote]
 These be the words which the LORD did there confound the language of electrical systems.
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
    -Afternoon, May 14, 2017
@@ -13363,7 +13363,7 @@ Before Dylan could give any kind of a monologue, Erica pushed her way forward, b
 [blockquote]
 We find that the pattern unifies with the conclusion of the rule which God hath spoken in his holiness
 
-   -[i]— <a href="http://kingjamesprogramming.tumblr.com/tagged/bible">kingjamesprogramming.tumblr.com</a>[/i]
+   -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]
 
    -Afternoon, May 14, 2017
@@ -13461,7 +13461,7 @@ The cradle of the best and of the worst<br/>
  And the machinery for change<br/>
  And it’s here they got the spiritual thirst
 
-   -[i]— <a href="https://www.youtube.com/watch?v=Ag5QsNA3Xwk">Leonard Cohen</a>[/i]
+   -—[a href="https://www.youtube.com/watch?v=Ag5QsNA3Xwk"]Leonard Cohen[/a]
 [/blockquote]
 
    -Afternoon, May 14, 2017
@@ -13572,7 +13572,7 @@ A minute later, back came James, half-dragging a figure who looked like he’d s
 Everybody knows that the boat is leaking<br/>
 Everybody knows that the captain lied.
 
-   -[i]— <a href="https://www.youtube.com/watch?v=xS6V0waUtaQ">Leonard Cohen</a>[/i]
+   -—[a href="https://www.youtube.com/watch?v=xS6V0waUtaQ"]Leonard Cohen[/a]
 [/blockquote]
 
    -Evening, May 14, 2017
@@ -13824,7 +13824,7 @@ And a Sigh is the Sword of an Angel King<br/>
 And the bitter groan of the Martyr’s woe<br/>
 Is an Arrow from the Almighty’s Bow
 
-   -[i]— William Blake, <a href="https://www.rc.umd.edu/editions/poets/texts/greymonk.html">The Grey Monk</a>[/i]
+   -—William Blake, [i][a href="https://www.rc.umd.edu/editions/poets/texts/greymonk.html"]The Grey Monk[/a][/i]
 [/blockquote]
 
    -December 21, 1999
@@ -14254,7 +14254,7 @@ Sohu turned to lightning and disappeared. The last few ashes and sparks fell to 
 [blockquote]
 Everybody already has enlightenment. Why did Buddha sit for six years, see a star, and then get enlightenment? That’s stupid! If you see a star, you get enlightenment now!
 
-   -[i]— <a href="https://www.reddit.com/r/zen/comments/2uc2f1/chunsong_sunim_18911978_a_modern_korean_zen_son/">Ch’unsong Sunim</a>[/i]
+   -[i]—[a href="https://www.reddit.com/r/zen/comments/2uc2f1/chunsong_sunim_18911978_a_modern_korean_zen_son/"]Ch’unsong Sunim[/a][/i]
 [/blockquote]
 
    -Evening, May 14, 2017
@@ -14546,7 +14546,7 @@ The voice of God said out of the whirlwind, “YOU, WHO ONLY TWO DAYS AGO SOARED
 Then the Leviathan wheeled around, opened its colossal maw, and engulfed the [i]Not A Metaphor[/i]. The ship spent a single wild moment in its mouth before the monster closed its jaws and crushed all of them into tiny pieces.
 
 <hr/>
-The final chapter will be posted next week. I will be doing a dramatic reading of Chapter 72 in Berkeley, [i]very tentatively[/i] at the CFAR office on the 7th floor of 2030 Addison St at 4:30 PM on Sunday May 14, but I need to double-check this will fit everybody. If you’re interested in coming, please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJ24jPnVX86PLSTh0UYXFClsR9IxO81kHCVeEcJGQux1PYIw/viewform?usp=sf_link"><b>this RSVP</b></a> and give me your email address so I can tell you about any changes. There will be other related events in <a href="https://www.facebook.com/events/1876146402654011/">NYC</a>, <a href="https://www.facebook.com/events/1911865009048353">Tel Aviv</a>, <a href="https://www.facebook.com/events/1538533946190765">Boston</a>; and <a href="https://www.facebook.com/events/223053658182473/">Austin</a>; ask on the linked Facebook pages for details.
+The final chapter will be posted next week. I will be doing a dramatic reading of Chapter 72 in Berkeley, [i]very tentatively[/i] at the CFAR office on the 7th floor of 2030 Addison St at 4:30 PM on Sunday May 14, but I need to double-check this will fit everybody. If you’re interested in coming, please fill out [a href="https://docs.google.com/forms/d/e/1FAIpQLSfJ24jPnVX86PLSTh0UYXFClsR9IxO81kHCVeEcJGQux1PYIw/viewform?usp=sf_link"]<b>this RSVP</b>[/a] and give me your email address so I can tell you about any changes. There will be other related events in [a href="https://www.facebook.com/events/1876146402654011/"]NYC[/a], [a href="https://www.facebook.com/events/1911865009048353"]Tel Aviv[/a], [a href="https://www.facebook.com/events/1538533946190765"]Boston[/a]; and [a href="https://www.facebook.com/events/223053658182473/"]Austin[/a]; ask on the linked Facebook pages for details.
 
 
 
@@ -14556,7 +14556,7 @@ The final chapter will be posted next week. I will be doing a dramatic reading o
 [blockquote]
 If we are worthy, our Master will redeem us by justice, and if not, He will redeem us with mercy.
 
-   -[i]— <a href="http://www.cs.utah.edu/~spiegel/kabbalah/jkm10.htm">Rabbinic saying</a>[/i]
+   -—[a href="http://www.cs.utah.edu/~spiegel/kabbalah/jkm10.htm"]Rabbinic saying[/a]
 [/blockquote]
 
    -Evening, May 14, 2017
@@ -14765,7 +14765,7 @@ It was a faint voice, almost too faint to detect, audible not to the ears but to
 [blockquote]
 Yes.
 
-   -[i]— <a href="https://en.wikipedia.org/wiki/William_Godwin">Will Godwin</a>[/i]
+   -—[a href="https://en.wikipedia.org/wiki/William_Godwin"]Will Godwin[/a]
 [/blockquote]
 
    -Evening, May 14, 2017
