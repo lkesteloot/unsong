@@ -3950,10 +3950,10 @@ And so in November 1976, behold, a virgin conceived and bore a son, and she call
 
 
 
-## [TODO Chapter 18: ]That The Children Of Jerusalem May Be Saved From Slavery (Passover Bonus Chapter)
+## [TODO Chapter 18: ]That The Children Of Jerusalem May Be Saved From Slavery
 
 [blockquote]
- And the LORD said unto Moses, Pharaoh’s heart is hardened, he refuseth to let the user control whether or not to memoize thunks
+ And the LORD said unto Moses, Pharaoh’s heart is hardened, he refuseth to let the user control whether or not to memoize thunks.
 
    -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 [/blockquote]

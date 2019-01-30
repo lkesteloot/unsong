@@ -5,6 +5,8 @@
         - Interlude ז has two of them "Let’s play Twister, let’s play Risk"
     - "H has become a most troublesome letter"
         - Could use poetry.
+    - A bunch of blockquotes got converted to [blockquote] when they
+        should use the old-style three-space-and-double-quote.
     - File contents: "AARON SMITH-TELLER IS BEING HELD"
     - Children's song "A little goat, a little goat"
         - Could use poetry.
@@ -24,6 +26,8 @@
     - Fix blockquotes at top of chapters.
     - Fix embedded blockquotes (signs, etc.).
     - Fix all blockquotes.
+- Fix long chapter names in page headers.
+    - See chapter called "That The Children..."
 - Look for other HTML.
     - Remove all links? I don't care myself, but might limit what I can do
         with print copy if people want the links later.
