@@ -5,6 +5,7 @@
 
 % String configuration.
 [Title: Unsong]
+[Subtitle: books iii & iv]
 [Author: Scott Alexander]
 [Publisher-Name: Team Ten Press]
 [Publisher-Location: San Francisco, California]
@@ -23,8 +24,10 @@
 [Page-Number-Font: Minion, regular, 8pt]
 [Headline-Font: Minion, regular, 8pt]
 [Half-Title-Page-Title-Font: Minion, small caps, 19pt]
+[Half-Title-Page-Subtitle-Font: Minion, small caps, 14pt]
 [Title-Page-Author-Font: Minion, small caps, 14pt]
 [Title-Page-Title-Font: Minion, small caps, 27pt]
+[Title-Page-Subtitle-Font: Minion, small caps, 14pt]
 [Title-Page-Publisher-Name-Font: Minion, small caps, 9pt]
 [Title-Page-Publisher-Location-Font: Minion, italic, 9pt]
 [Copyright-Page-Copyright-Font: Minion, italic, 11pt]
@@ -41,6 +44,12 @@
 [Page-Margin-Bottom: 6pc]
 [Page-Margin-Outer: 6pc]
 [Page-Margin-Inner: 8pc]
+
+[HALF-TITLE]
+
+[TITLE]
+
+[COPYRIGHT]
 
 [TOC]
 

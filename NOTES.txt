@@ -1,3 +1,8 @@
+- Convert Uriel's text to smallcaps.
+    - Figure out why all-caps words don't hyphenate.
+    - Write script to find Uriel's lines, count how many there are.
+    - If too many, modify script to update them.
+    - Also maybe Names of God in chapter 1.
 - Types of blockquotes:
     - Resolve isInBlockQuote() and BLOCK_QUOTE block type.
     - Top of chapters.
@@ -40,11 +45,12 @@
     images.
 - Make sure there are no straight quotes, or they'll be turned
     into French guimets.
+    - Intelligently convert to American quotes, based on language.
 - Insert various photos and drawings.
 - Come up with a cover image.
 - Add an index?
     - Link to first mention of each character and concept.
-    - How to split across two books?
+    - How to split across two/three books?
 - See what max size of Lulu book is. Maybe split book.
     - Max is 740.
     - Book 1: 1-239 (238)
@@ -54,8 +60,9 @@
     - Books 1 and 2: 578
     - Books 3 and 4: 348
     - Most balanced option would be three books (1; 2; 3&4).
+    - Index in each book? Will need which book. See Julia Child books.
 - Regenerate javadoc.
-
+- Correct spelling of "Wiliam".
 
 Done:
 
@@ -72,3 +79,9 @@ Done:
         - Skip "Chapter 5: ". Will look the nicest but maybe people refer to chapter
             numbers. Also Interludes might be weird.
         - Just show "5: ". Will look weird.
+- Add usage message to main().
+- Document how to run typesetter on this.
+    - Maybe provide script for doing so.
+    - Get runtime classpath from gradle, and run it manually?
+- Add subtitle.
+- Split into three MD files.

@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# cd ../teamten-typeset
+# ./gradlew -PrunWorkingDir=$HOME/mine/unsong runx --args="unsong.md unsong.pdf"
+
+NAME=unsong
+if [ -n "$1" ]; then
+    NAME="$1"
+fi
+
+export CLASSPATH=$(cd ../teamten-typeset && ./gradlew --quiet build printClasspath)
+java com.teamten.typeset.Typesetter $NAME.md $NAME.pdf
