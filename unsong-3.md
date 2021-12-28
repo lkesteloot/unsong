@@ -12,6 +12,7 @@
 [Copyright: Copyright © 2017 Scott Alexander]
 [Colophon: First edition, October 2018]
 [Toc-Title: Table of Contents]
+[Toc-Style: Modern]
 
 % Font configuration.
 [Body-Font: Minion, regular, 11pt]

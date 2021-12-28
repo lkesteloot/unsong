@@ -4027,7 +4027,7 @@ Pirindiel had been looking unusually glum this month, ever since one of the big 
 
 “He’s not coming,” said Erica. “It’s a metaphor.” Pirindiel’s face fell. He stared down at his plate in what I thought was embarrassment.
 
-Erica finished pouring the wine and went to the head of the table. “We are gathered here today,” she said, “to celebrate how the Israelites went from slavery into freedom. Yet in a sense, we are still slaves. Wiliam Blake said: ‘I must create my own system, or be enslaved by another man’s’. We are no longer slaves to a Pharaoh, but we are slaves to a system, a system that takes the work of our hands and minds and forces us to toil for its benefit. We celebrate tonight not only our current freedom, but the freedom yet to come, when the Names of God will be free for all the people of the earth.” She raised her glass. “To freedom!”
+Erica finished pouring the wine and went to the head of the table. “We are gathered here today,” she said, “to celebrate how the Israelites went from slavery into freedom. Yet in a sense, we are still slaves. William Blake said: ‘I must create my own system, or be enslaved by another man’s’. We are no longer slaves to a Pharaoh, but we are slaves to a system, a system that takes the work of our hands and minds and forces us to toil for its benefit. We celebrate tonight not only our current freedom, but the freedom yet to come, when the Names of God will be free for all the people of the earth.” She raised her glass. “To freedom!”
 
 We all drank to freedom.
 

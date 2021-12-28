@@ -4,7 +4,7 @@
 [Language: en_US]
 
 % String configuration.
-[Title: Unsong]
+[Title: Unsong AVA]
 [Subtitle: books iii & iv]
 [Author: Scott Alexander]
 [Publisher-Name: Team Ten Press]
@@ -14,7 +14,7 @@
 [Toc-Title: Table of Contents]
 
 % Font configuration.
-[Body-Font: Minion, regular, 11pt]
+[Body-Font: Times New Roman, regular, 11pt]
 [Block-Quote-Font: Minion, italic, 11pt]
 [Code-Font: Minion, regular, 11pt]
 [Caption-Font: Minion, italic, 9.5pt]
@@ -55,7 +55,7 @@
 
 # Part 1
 
-## Hello א there.
+## And Ololon Said, Let Us Descend Also, And Let Us Give Ourselves To Death In Ulro Among The Transgressors
 
 [blockquote]
 The claim that the Talmudic sages were great kabbalists is a historical error. Most sages make no mention of the kabbalistic tradition at all. Shimon bar Yochai, who lived in a cave and composed 1700 pages of kabbalistic texts, is an exception and should be considered separately.
@@ -75,7 +75,7 @@ What do "you" think?
 
 Hello א there.
 
-arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”
+arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.” AVA
 
 into arcane secrets: לֹא תִּיכָּנֵס לַמְעָרוֹת, meaning “don’t go into the caves.”
 

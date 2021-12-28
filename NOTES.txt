@@ -1,68 +1,44 @@
 - Convert Uriel's text to smallcaps.
-    - Figure out why all-caps words don't hyphenate.
     - Write script to find Uriel's lines, count how many there are.
     - If too many, modify script to update them.
     - Also maybe Names of God in chapter 1.
 - Types of blockquotes:
     - Resolve isInBlockQuote() and BLOCK_QUOTE block type.
-    - Top of chapters.
-        - Typically some text, followed by a reference.
-        - Interlude ז has two of them "Let’s play Twister, let’s play Risk"
-    - "H has become a most troublesome letter"
-        - Could use poetry.
-    - A bunch of blockquotes got converted to [blockquote] when they
-        should use the old-style three-space-and-double-quote.
-    - File contents: "AARON SMITH-TELLER IS BEING HELD"
-    - Children's song "A little goat, a little goat"
-        - Could use poetry.
-    - Sign: "AS PER THE CALIFORNIA SECURITY"
-    - Poetry: "O thou, who burns with tears"
-    - Poetry: "Ah Love! could thou and I with"
-    - "The north and the south Thou hast" (two more after that)
-    - Song: "My country, ’tis of thee,"
-    - Song: "The careful text-books measure"
+    - Cases:
+        - Top of chapters.
+            - Typically some text, followed by a reference.
+            - Interlude ז has two of them "Let’s play Twister, let’s play Risk"
+        - "H has become a most troublesome letter"
+            - Could use poetry.
+        - A bunch of blockquotes got converted to [blockquote] when they
+            should use the old-style three-space-and-double-quote.
+        - File contents: "AARON SMITH-TELLER IS BEING HELD"
+        - Children's song "A little goat, a little goat"
+            - Could use poetry.
+        - Sign: "AS PER THE CALIFORNIA SECURITY"
+        - Poetry: "O thou, who burns with tears"
+        - Poetry: "Ah Love! could thou and I with"
+        - "The north and the south Thou hast" (two more after that)
+        - Song: "My country, ’tis of thee,"
+        - Song: "The careful text-books measure"
     - Need:
-        - Explicit blockquote section.
-            - Indent on both sides.
-            - Smaller font.
-            - Blank above and below.
         - Explicit line break?
             - Or just regular poetry mode?
-    - Fix blockquotes at top of chapters.
+    - Use blockquote tag at top of chapters.
     - Fix embedded blockquotes (signs, etc.).
     - Fix all blockquotes.
 - Fix long chapter names in page headers.
-    - See chapter called "That The Children..."
-- Look for other HTML.
-    - Remove all links? I don't care myself, but might limit what I can do
-        with print copy if people want the links later.
-    - Maybe convert to [a] and ignore the tag?
-- In table of contents handle long chapter names (wrap earlier).
+    - See chapter called "That The Children...", start of book 2.
+    - "And Ololon Said", book 3.
+- Look for HTML.
+    - Mostly in block quotes.
 - Deal with content warning.
 - Why are some lines too long?
 - Make high-res version of tree_of_life2.png image, and figure out
     why it's not centered properly. Too small? Also fix all other
     images.
-- Make sure there are no straight quotes, or they'll be turned
-    into French guimets.
-    - Intelligently convert to American quotes, based on language.
 - Insert various photos and drawings.
 - Come up with a cover image.
-- Add an index?
-    - Link to first mention of each character and concept.
-    - How to split across two/three books?
-- See what max size of Lulu book is. Maybe split book.
-    - Max is 740.
-    - Book 1: 1-239 (238)
-    - Book 2: 239-579 (340)
-    - Book 3: 579-849 (270)
-    - Book 4: 849-927 (78)
-    - Books 1 and 2: 578
-    - Books 3 and 4: 348
-    - Most balanced option would be three books (1; 2; 3&4).
-    - Index in each book? Will need which book. See Julia Child books.
-- Regenerate javadoc.
-- Correct spelling of "Wiliam".
 
 Done:
 
@@ -85,3 +61,21 @@ Done:
     - Get runtime classpath from gradle, and run it manually?
 - Add subtitle.
 - Split into three MD files.
+- Explicit blockquote section.
+    - Indent on both sides.
+    - Smaller font.
+    - Blank above and below.
+- See what max size of Lulu book is. Maybe split book.
+    - Max is 740.
+    - Book 1: 1-239 (238)
+    - Book 2: 239-579 (340)
+    - Book 3: 579-849 (270)
+    - Book 4: 849-927 (78)
+    - Books 1 and 2: 578
+    - Books 3 and 4: 348
+    - Most balanced option would be three books (1; 2; 3&4).
+    - Index in each book? Will need which book. See Julia Child books.
+- Correct spelling of "Wiliam".
+- Regenerate javadoc.
+- In table of contents handle long chapter names (wrap earlier).
+    - "And Ololon Said", book 3.
