@@ -7,8 +7,31 @@
     - Because it looks really ugly to stick out.
 - Convert Uriel's text to smallcaps.
     - Write script to find Uriel's lines, count how many there are.
+        % python3 count_uriel.py < unsong-1.md | wc -l
+        179
+        % python3 count_uriel.py < unsong-2.md | wc -l
+        182
+        % python3 count_uriel.py < unsong-3.md | wc -l
+        252
     - If too many, modify script to update them.
+        - It's about 613.
+        - Modify script to:
+            - Go through file.
+            - Skip lines that have XXX
+            - Show line and line number.
+            - Show proposed fix.
+                - If there are quotes, only do what's inside quotes.
+                - If there are no quotes and the whole line is caps, do whole line.
+                - Otherwise look for sequences of upper case?
+                - Surround with [sc][/sc].
+                - Convert to lower case.
+                - Use upper case at start and after period and for "I".
+            - Can accept, skip, mark, or quit.
+            - If mark, inserts both and puts XXX next to old line.
+            - Save as you go, so can be interrupted anytime.
     - Also maybe Names of God in chapter 1.
+        - Test this.
+        - Yeah it's much better.
     - Or crowd-source this.
 - Types of blockquotes:
     - Resolve isInBlockQuote() and BLOCK_QUOTE block type.
@@ -35,10 +58,6 @@
     - Use blockquote tag at top of chapters.
     - Fix embedded blockquotes (signs, etc.).
     - Fix all blockquotes.
-- Table of Contents:
-    - Get rid of the "Book" (part) indent?
-    - We'd want it for the third physical book.
-    - Maybe display it differently, like a section header.
 - Look for HTML.
     - Mostly in block quotes.
 - Make high-res version of tree_of_life2.png image, and figure out
@@ -86,3 +105,12 @@ Done:
 - Regenerate javadoc.
 - In table of contents handle long chapter names (wrap earlier).
     - "And Ololon Said", book 3.
+- Fix long chapter names in page headers.
+    - See chapter called "That The Children...", start of book 2.
+    - "And Ololon Said", book 3.
+- Deal with content warning.
+X Table of Contents:
+    - (Didn't address this, I think it's fine.)
+    - Get rid of the "Book" (part) indent?
+    - We'd want it for the third physical book.
+    - Maybe display it differently, like a section header.

@@ -56,7 +56,7 @@
 
 # Part 1
 
-## And Ololon Said, Let Us Descend Also, And Let Us Give Ourselves To Death In Ulro Among The Transgressors
+## [SHORTENED And Ololon Said, Let Us Descend Also...]And Ololon Said, Let Us Descend Also, And Let Us Give Ourselves To Death In Ulro Among The Transgressors
 
 [blockquote]
 The claim that the Talmudic sages were great kabbalists is a historical error. Most sages make no mention of the kabbalistic tradition at all. Shimon bar Yochai, who lived in a cave and composed 1700 pages of kabbalistic texts, is an exception and should be considered separately.
@@ -134,6 +134,8 @@ I started: “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GAL
 
 I started: “ros-aile-kaphiluton-mirakoi-kalaniemi-tshana-kai-kai-ephsander-galisdo-tahun...”
 
+#### I.
+
 “I JUST REALIZED. THE BUTTERFLIES ARE STARTING TO MIGRATE. IT IS ONLY OCTOBER. THEY SHOULD NOT MIGRATE FOR SEVERAL MORE MONTHS. I THINK I MIGHT HAVE MADE AN OFF-BY-ONE ERROR THE LAST TIME I SYNCHRONIZED THE INSECT MIGRATION ALGORITHMS.”
 
 “I just realized. the butterflies are starting to migrate. it is only october. they should not migrate for several more months. I think I might have made an off-by-one error the last time I synchronized the insect migration algorithms.”
@@ -143,4 +145,8 @@ I started: “ros-aile-kaphiluton-mirakoi-kalaniemi-tshana-kai-kai-ephsander-gal
 “VIS-LAIGA-RON-TEPHENOR-AST-AST-TELISA-ROK-SUPH-VOD-APANOR-HOV-KEREG-RAI-UM”. My computer shifted to a different part of namespace, and I followed.
 
 “VIS-LAIGA-RON-TEPHENOR-AST-AST-TELISA-ROK-SUPH-VOD-APANOR-HOV-KEREG-RAI-US.”
+
+I incanted: “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN...” and just as I finished, my timer reached zero and told me I was finished, for today, free until tomorrow morning crashed down on me and I started the same thing all over again.
+
+I incanted: “[sc]Ros-Aile-Kaphiluton-Mirakoi-Kalaniemi-Tshana-Kai-Kai-Ephsander-Galisdo-Tahun...[/sc]” and just as I finished, my timer reached zero and told me I was finished, for today, free until tomorrow morning crashed down on me and I started the same thing all over again.
 

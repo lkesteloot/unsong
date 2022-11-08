@@ -5382,7 +5382,7 @@ And the voice said:
 
 [open-bracket]Poe?]
 
-[open-bracket]“And not even the angels in Heaven above, nor the demons down under the sea, could ever dissever my soul from the soul of the beautiful Anna—]
+[open-bracket]“And not even the angels in Heaven above, nor the demons down under the sea, could ever dissever my soul from the soul of the beautiful Anna—”]
 
 [open-bracket]Get a room, you two!]
 
@@ -5444,7 +5444,7 @@ And the voice said:
 
 [open-bracket]That wasn’t a knock-knock joke!]
 
-[open-bracket]I AM ALMOST CERTAIN THAT IT WAS. ALSO, “IT IS ALBION-D MY UNDERSTANDING]
+[open-bracket]I AM ALMOST CERTAIN THAT IT WAS. ALSO, “IT IS ALBION-D MY UNDERSTANDING”]
 
 [open-bracket]All be one and one be all!]
 
