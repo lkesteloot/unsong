@@ -2084,7 +2084,9 @@ The greatest trick the Devil ever pulled was spreading a catchy quote denying al
    -—[a href="https://twitter.com/stevenkaas/"]Steven Kaas[/a]
 [/blockquote]
 
-[i]<font size="1">[open-bracket]Content warning: Part II of this chapter contains graphic scenes including references to Hell, gore, rape, psychological torture, and death. Some commenters are saying it was excessive even beyond the level suggested by this content warning, so take that into account. If you don’t want to read it, you can skip to Part III without missing too much plot-wise. Thanks to Pyth for helping out as Hell Consultant.]</font>[/i]
+[i]Content warning: Part II of this chapter contains graphic scenes including references to Hell, gore, rape, psychological torture, and death. Some commenters are saying it was excessive even beyond the level suggested by this content warning, so take that into account. If you don’t want to read it, you can skip to Part III without missing too much plot-wise. Thanks to Pyth for helping out as Hell Consultant.[/i]
+
+[SEPARATOR]
 
 #### I.
 

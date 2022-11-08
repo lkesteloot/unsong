@@ -36,12 +36,11 @@
     - Fix embedded blockquotes (signs, etc.).
     - Fix all blockquotes.
 - Table of Contents:
-    - Get rid of the "Book" indent?
+    - Get rid of the "Book" (part) indent?
     - We'd want it for the third physical book.
     - Maybe display it differently, like a section header.
 - Look for HTML.
     - Mostly in block quotes.
-- Deal with content warning.
 - Make high-res version of tree_of_life2.png image, and figure out
     why it's not centered properly. Too small? Also fix all other
     images.

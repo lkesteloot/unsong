@@ -1732,7 +1732,9 @@ We walked back to the Cometspawn hand in hand. Five pairs of eyes focused on us.
 
 ## Interlude ע: Hell on Earth
 
-[i]<font size="1">[open-bracket]Content warning: More discussion of Hell.]</font>[/i]
+[i]Content warning: More discussion of Hell.[/i]
+
+[SEPARATOR]
 
 In 1985, the Hellish Empire stretched from Moscow to Montreal, a sprawling stain over the northern quarter of the world.
 
@@ -3526,7 +3528,9 @@ He has a devil-may-care-so-let-us-make-every-effort-to-be-considerate-of-his-inf
 
    -Colorado Springs
 
-[i]<font size="1">[open-bracket]Content warning: Thamiel chapter. Sorry for short chapter. Story will pick up again next week as we move into final arc.]</font>[/i]
+[i]Content warning: Thamiel chapter.[/i]
+
+[SEPARATOR]
 
 Midnight falls in the Garden of the Gods, and Robin West stands alone beneath the cold stars.
 
