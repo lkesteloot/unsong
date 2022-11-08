@@ -3514,7 +3514,7 @@ Before he could respond, the lady was gone.
 
 
 
-## [TODO Chapter 61: ]And Ololon Said, Let Us Descend Also, And Let Us Give Ourselves To Death In Ulro Among The Transgressors
+## [TODO Chapter 61: ][SHORTENED And Ololon Said, Let Us Descend Also...]And Ololon Said, Let Us Descend Also, And Let Us Give Ourselves To Death In Ulro Among The Transgressors
 
 [blockquote]
 He has a devil-may-care-so-let-us-make-every-effort-to-be-considerate-of-his-infernal-highness’s-feelings attitude.

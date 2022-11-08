@@ -129,7 +129,7 @@ And so in November 1976, behold, a virgin conceived and bore a son, and she call
 
 
 
-## [TODO Chapter 18: ]That The Children Of Jerusalem May Be Saved From Slavery
+## [TODO Chapter 18: ][SHORTENED That The Children Of Jerusalem May Be Saved...]That The Children Of Jerusalem May Be Saved From Slavery
 
 [blockquote]
  And the LORD said unto Moses, Pharaoh’s heart is hardened, he refuseth to let the user control whether or not to memoize thunks.
@@ -2260,7 +2260,7 @@ On November 1, 1973, the Broadcast went out to an unsuspecting nation.
 
 
 
-## [TODO Chapter 26: ]For Not One Sparrow Can Suffer And The Whole Universe Not Suffer Also
+## [TODO Chapter 26: ][SHORTENED For Not One Sparrow Can Suffer...]For Not One Sparrow Can Suffer And The Whole Universe Not Suffer Also
 
 [blockquote]
 St. Francis saw above him, filling the whole heavens, some vast immemorial unthinkable power, ancient like the Ancient of Days, whose calm men had conceived under the forms of winged bulls or monstrous cherubim, and all that winged wonder was in pain like a wounded bird.

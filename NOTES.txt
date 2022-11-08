@@ -1,7 +1,15 @@
+- Why are some lines too long?
+    - See end of test.md, and see what the penalties are for the various options.
+    - Are penalizing too much for being shorter?
+    - Is there any way to insert spaces between letters?
+        - Or around hyphens.
+        - Or in the paragraph indent?
+    - Because it looks really ugly to stick out.
 - Convert Uriel's text to smallcaps.
     - Write script to find Uriel's lines, count how many there are.
     - If too many, modify script to update them.
     - Also maybe Names of God in chapter 1.
+    - Or crowd-source this.
 - Types of blockquotes:
     - Resolve isInBlockQuote() and BLOCK_QUOTE block type.
     - Cases:
@@ -27,13 +35,13 @@
     - Use blockquote tag at top of chapters.
     - Fix embedded blockquotes (signs, etc.).
     - Fix all blockquotes.
-- Fix long chapter names in page headers.
-    - See chapter called "That The Children...", start of book 2.
-    - "And Ololon Said", book 3.
+- Table of Contents:
+    - Get rid of the "Book" indent?
+    - We'd want it for the third physical book.
+    - Maybe display it differently, like a section header.
 - Look for HTML.
     - Mostly in block quotes.
 - Deal with content warning.
-- Why are some lines too long?
 - Make high-res version of tree_of_life2.png image, and figure out
     why it's not centered properly. Too small? Also fix all other
     images.

@@ -12,9 +12,10 @@
 [Copyright: Copyright © 2017 Scott Alexander]
 [Colophon: First edition, October 2018]
 [Toc-Title: Table of Contents]
+[Toc-Style: Modern]
 
 % Font configuration.
-[Body-Font: Times New Roman, regular, 11pt]
+[Body-Font: Minion, regular, 11pt]
 [Block-Quote-Font: Minion, italic, 11pt]
 [Code-Font: Minion, regular, 11pt]
 [Caption-Font: Minion, italic, 9.5pt]
@@ -128,3 +129,18 @@ The claim that the Talmudic sages were great kabbalists is a historical error. M
 [/blockquote]
 
 The claim that the Talmudic sages were great kabbalists is a historical error. Most sages make no mention of the kabbalistic tradition at all. Shimon bar Yochai, who lived in a cave and composed 1700 pages of kabbalistic texts, is an exception and should be considered separately.
+
+I started: “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN...”
+
+I started: “ros-aile-kaphiluton-mirakoi-kalaniemi-tshana-kai-kai-ephsander-galisdo-tahun...”
+
+“I JUST REALIZED. THE BUTTERFLIES ARE STARTING TO MIGRATE. IT IS ONLY OCTOBER. THEY SHOULD NOT MIGRATE FOR SEVERAL MORE MONTHS. I THINK I MIGHT HAVE MADE AN OFF-BY-ONE ERROR THE LAST TIME I SYNCHRONIZED THE INSECT MIGRATION ALGORITHMS.”
+
+“I just realized. the butterflies are starting to migrate. it is only october. they should not migrate for several more months. I think I might have made an off-by-one error the last time I synchronized the insect migration algorithms.”
+
+“[sc]I just realized. the butterflies are starting to migrate. it is only october. they should not migrate for several more months. I think I might have made an off-by-one error the last time I synchronized the insect migration algorithms.[/sc]”
+
+“VIS-LAIGA-RON-TEPHENOR-AST-AST-TELISA-ROK-SUPH-VOD-APANOR-HOV-KEREG-RAI-UM”. My computer shifted to a different part of namespace, and I followed.
+
+“VIS-LAIGA-RON-TEPHENOR-AST-AST-TELISA-ROK-SUPH-VOD-APANOR-HOV-KEREG-RAI-US.”
+
