@@ -132,31 +132,31 @@ The apocalypse began in a cubicle.
 
 Its walls were gray, its desk was gray, its floor was that kind of grayish tile that is designed to look dirty so nobody notices that it is actually dirty. Upon the floor was a chair and upon the chair was me. My name is Aaron Smith-Teller and I am twenty-two years old. I was fiddling with a rubber band and counting the minutes until my next break and seeking the hidden transcendent Names of God.
 
-“AR-ASH-KON-CHEL-NA-VAN-TSIR,” I chanted.
+“[sc]Ar-ash-kon-chel-na-van-tsir[/sc],” I chanted.
 
 That wasn’t a hidden transcendent Name of God. That wasn’t surprising. During my six months at Countenance I must have spoken five hundred thousand of these words. Each had taken about five seconds, earned me about two cents, and cost a small portion of my dignity. None of them had been hidden transcendent Names of God.
 
-“AR-ASH-KON-CHEL-NA-VAN-TSIS,” ordered my computer, and I complied. “AR-ASH-KON-CHEL-NA-VAN-TSIS,” I said.
+“[sc]Ar-ash-kon-chel-na-van-tsis[/sc],” ordered my computer, and I complied. “[sc]Ar-ash-kon-chel-na-van-tsis[/sc],” I said.
 
 The little countdown clock on my desk said I had seven minutes, thirty nine seconds until my next break. That made a total of 459 seconds, which was appropriate, given that the numerical equivalents of the letters in the Hebrew phrase “arei miklat” meaning “city of refuge” summed to 459. There were six cities of refuge in Biblical Israel, three on either side of the Jordan River. There were six ten minute breaks during my workday, three on either side of lunch. None of this was a coincidence because nothing was ever a coincidence.
 
-“AR-ASH-KON-CHEL-NA-VAN-TSIT” was my computer’s next suggestion. “AR-ASH-KON-CHEL-NA-VAN-TSIT,” I said.
+“[sc]Ar-ash-kon-chel-na-van-tsit[/sc]” was my computer’s next suggestion. “[sc]Ar-ash-kon-chel-na-van-tsit[/sc],” I said.
 
 God created Man in His own image but He created everything else in His own image too. By learning the structure of one entity, like Biblical Israel, we learn facts that carry over to other structures, like the moral law, or the purpose of the universe, or my workday. This is the kabbalah. The rest is just commentary. Very, very difficult commentary, written in Martian, waiting to devour the unwary.
 
-“VIS-LAIGA-RON-TEPHENOR-AST-AST-TELISA-ROK-SUPH-VOD-APANOR-HOV-KEREG-RAI-UM”. My computer shifted to a different part of namespace, and I followed.
+“[sc]Vis-laiga-ron-tephenor-ast-ast-telisa-rok-suph-vod-apanor-hov-kereg-rai-um[/sc]”. My computer shifted to a different part of namespace, and I followed.
 
 Thirty-six letters. A little on the long side. In general, the longer a Name, the harder to discover but the more powerful its effects. The longest known was the Wrathful Name, fifty letters. When spoken it levelled cities. The Sepher Raziel predicted that the Shem haMephorash, the Explicit Name which would capture God’s full essence and bestow near-omnipotence upon the speaker, would be seventy-two letters.
 
-“VIS-LAIGA-RON-TEPHENOR-AST-AST-TELISA-ROK-SUPH-VOD-APANOR-HOV-KEREG-RAI-US.”
+“[sc]Vis-laiga-ron-tephenor-ast-ast-telisa-rok-suph-vod-apanor-hov-kereg-rai-us[/sc].”
 
 People discovered the first few Names of God through deep understanding of Torah, through silent prayer and meditation, or even through direct revelation from angels. But American capitalism took one look at prophetic inspiration and decided it lacked a certain ability to be forced upon an army of low-paid interchangeable drones. Thus the modern method: hire people at minimum wage to chant all the words that might be Names of God, and see whether one of them starts glowing with holy light or summoning an angelic host to do their bidding. If so, copyright the Name and make a fortune.
 
 But combinatorial explosion is a harsh master. There are twenty-two Hebrew letters and so 22^36 thirty-six letter Hebrew words. Even with thousands of minimum-wage drones like myself, it takes millions of years to exhaust all of them. That was why you needed to know the rules.
 
-God is awesome in majesty and infinite in glory. He’s not going to have a stupid name like GLBLGLGLBLBLGLFLFLBG. With enough understanding of Adam Kadmon, the secret structure of everything, you could tease out regularities in the nature of God and constrain the set of possible Names to something almost manageable, then make your drones chant that manageable set. This was the applied kabbalah, the project of some of the human race’s greatest geniuses.
+God is awesome in majesty and infinite in glory. He’s not going to have a stupid name like [sc]Glblglglblblglflflbg[/sc]. With enough understanding of Adam Kadmon, the secret structure of everything, you could tease out regularities in the nature of God and constrain the set of possible Names to something almost manageable, then make your drones chant that manageable set. This was the applied kabbalah, the project of some of the human race’s greatest geniuses.
 
-“VIS-LAIGA-RON-TEPHENOR-AST-AST-TELISA-ROK-SUPH-VOD-APANOR-HOV-KEREG-RAI-UA.”
+“[sc]Vis-laiga-ron-tephenor-ast-ast-telisa-rok-suph-vod-apanor-hov-kereg-rai-ua[/sc].”
 
 I should have been one of those geniuses. Gebron and Eleazar’s classic textbook says that only four kabbalists have ever gazed upon Adam Kadmon bare. Rabbi Isaac Luria. The archangel Uriel. The Comet King. And an eight year old girl. I won’t say I had gazed upon it [i]bare[/i], exactly, but in the great game of strip poker every deep thinker plays against the universe I’d gotten further than most.
 
@@ -166,15 +166,15 @@ Not that I was bitter.
 
 Now here I was, doing menial labor for minimum wage.
 
-“VIS-LAIGA-RON-TEPHENOR-AST-AST-TELISA-ROK-SUPH-VOD-APANOR-HOV-KEREG-RAI-UP.”
+“[sc]Vis-laiga-ron-tephenor-ast-ast-telisa-rok-suph-vod-apanor-hov-kereg-rai-up[/sc].”
 
 It would be a lie to say I stayed sane by keeping my mind sharp. The sort of mental sharpness you need for the kabbalah is almost perpendicular to sanity, more like a very specific and redirectable schizophrenia. I stayed [i]functional[/i] by keeping my mind in a very specific state that probably wasn’t very long-term healthy.
 
-“VIS-LAIGA-RON-TEPHENOR-AST-AST-TELISA-ROK-SUPH-VOD-APANOR-HOV-KEREG-RAI-UTS.”
+“[sc]Vis-laiga-ron-tephenor-ast-ast-telisa-rok-suph-vod-apanor-hov-kereg-rai-uts[/sc].”
 
 The timer read 4:33, which is the length of John Cage’s famous silent musical piece. 4:33 makes 273 seconds total. -273 is absolute zero in Celsius. John Cage’s piece is perfect silence; absolute zero is perfect stillness. In the year 273 AD, the two consuls of Rome were named Tacitus and Placidianus; “Tacitus” is Latin for “silence” and Placidianus is Latin for “stillness”. 273 is also the gematria of the Greek word eremon, which means “silent” or “still”. None of this is a coincidence because nothing is ever a coincidence.
 
-“VIS-LAIGA-RON-TEPHENOR-AST-AST-TELISA-ROK-SUPH-VOD-APANOR-HOV-KEREG-RAI-UK.”
+“[sc]Vis-laiga-ron-tephenor-ast-ast-telisa-rok-suph-vod-apanor-hov-kereg-rai-uk[/sc].”
 
 Just as the timer on my desk dropped into the double-digits (59—the number of different numbers in the Book of Revelation) a man dressed in a black uniform stepped into my cubicle and told me he wanted to talk. I followed him into an empty office and he sat me down and told me I was in trouble.
 
@@ -202,23 +202,23 @@ No answer. Figured. I was too wired up to telepathy straight.
 
 So I reset the timer. One more shift. One more hour before I could go home. The computer fed me my next Name candidate. I spoke.
 
-“VIS-LAIGA-RON-TEPHENOR-AST-AST-TELISSA-ROC-SUPH-VOD-APANOR-HOV-KEREG-RAI-SI.”
+“[sc]Vis-laiga-ron-tephenor-ast-ast-telissa-roc-suph-vod-apanor-hov-kereg-rai-si[/sc].”
 
 I hated to admit it, but the lost money really hurt. Ever since I lost my scholarship I’d been treading water, trying to avoid starving to death until I could claw my way back into the intellectual world. For six months I’d been telling myself that the job at Countenance was a stepping stone to bigger and better things. Maybe I could impress people here and move up from production floor drone to scientific advisor, become one of the guys who finds patterns in the Divine Names and helps narrow the search space.
 
 I could have done it. I’d already made discoveries in the field—small ones, but bigger than some made by theorists with good reputations and nice offices. But I had to get my foot back in the door. I was saving a couple hundred bucks a month. With enough time, I could get enough money to supplement loans, maybe find myself another scholarship somewhere else, even a community college would be better than this, make something of myself. And now all that was seventy dollars further away. A minor setback, but still somehow infuriating. Maybe something that put me in the wrong frame of mind, changed how I interpreted what was to come.
 
-“COR-ASTA-NAMI-NAMI-TELTHE-SO-KATA-RU.”
+“[sc]Cor-asta-nami-nami-telthe-so-kata-ru[/sc].”
 
 The minutes on the timer ticked down. The words on the computer kept coming. My energy slowly seeped away. The domino whose fall would precipitate the End of Days teetered.
 
-There were forty seconds on the timer when the computer gave me a monster. It started ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN... and it just kept going. Fifty two letters. Two longer than the Wrathful Name. It was the longest Name I’d ever been given to test, by far. I was shocked Countenance would even bother.
+There were forty seconds on the timer when the computer gave me a monster. It started [sc]Ros-aile-kaphiluton-mirakoi-kalaniemi-tshana-kai-kai-ephsander-galisdo-tahun[/sc]... and it just kept going. Fifty two letters. Two longer than the Wrathful Name. It was the longest Name I’d ever been given to test, by far. I was shocked Countenance would even bother.
 
-I incanted: “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN...” until I reached the end of the word. It was not a Name of God.
+I incanted: “[sc]Ros-aile-kaphiluton-mirakoi-kalaniemi-tshana-kai-kai-ephsander-galisdo-tahun[/sc]...” until I reached the end of the word. It was not a Name of God.
 
-I incanted: “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN...” until I reached the end of the next one. It wasn’t a Name of God either.
+I incanted: “[sc]Ros-aile-kaphiluton-mirakoi-kalaniemi-tshana-kai-kai-ephsander-galisdo-tahun[/sc]...” until I reached the end of the next one. It wasn’t a Name of God either.
 
-I incanted: “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN...” and just as I finished, my timer reached zero and told me I was finished, for today, free until tomorrow morning crashed down on me and I started the same thing all over again.
+I incanted: “[sc]Ros-aile-kaphiluton-mirakoi-kalaniemi-tshana-kai-kai-ephsander-galisdo-tahun[/sc]...” and just as I finished, my timer reached zero and told me I was finished, for today, free until tomorrow morning crashed down on me and I started the same thing all over again.
 
 “Meh,” I said. “Meh. Meh. Meh. Meh. Meh.”
 
@@ -232,9 +232,9 @@ Six thousand years earlier, the wind of God had moved upon the bare red dirt of 
 
 And that third Name was fifty-eight letters long.
 
-It began: ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN...
+It began: [sc]Ros-aile-kaphiluton-mirakoi-kalaniemi-tshana-kai-kai-ephsander-galisdo-tahun[/sc]...
 
-And it ended: ... MEH-MEH-MEH-MEH-MEH-MEH.
+And it ended: ... [sc]Meh-meh-meh-meh-meh-meh[/sc].
 
 All this I saw, as in a dream or vision. Six months and five hundred thousand nonsense words of pointless suffering, suddenly redeemed. The possibilities swam in front of me, began to take form. This wasn’t just a Name. This was the royal road. And it was mine. It was none of the candidates my computer had fed me; it was six syllables longer than any of them, Countenance would never find it. As I walked out of the office and headed for the CalTrain station, I tried to calm myself, give my mind the stillness it needed for telepathy to work. Finally, I sent out a feeler.
 
@@ -339,7 +339,7 @@ It was then, at 7:38 PM, that the red phone started ringing. He considered not p
 
 To his surprise, the voice on the other end now spoke perfect English.
 
-“HELLO PRESIDENT NIXON. THIS IS THE ARCHANGEL URIEL. I APOLOGIZE FOR RECENT DISRUPTIONS. THE MACHINERY OF THE UNIVERSE HAS BEEN SEVERELY DAMAGED. I AM WORKING TO CONTAIN THE EFFECTS, BUT AT THIS POINT MY POWER IS LIMITED BECAUSE I AM STILL MOSTLY METAPHORICAL. PLEASE INFORM EVERYONE THAT I REGRET THE INCONVENIENCE. AS COMPENSATION FOR YOUR TROUBLE, I HAVE GIVEN EVERY HUMAN THE ABILITY TO PLAY THE PIANO.”
+“[sc]Hello president Nixon. This is the archangel Uriel. I apologize for recent disruptions. The machinery of the universe has been severely damaged. I am working to contain the effects, but at this point my power is limited because I am still mostly metaphorical. Please inform everyone that I regret the inconvenience. As compensation for your trouble, I have given every human the ability to play the piano[/sc].”
 
 “Wait just a moment here,” said Nixon. “Wait just an [open-bracket]expletive deleted] moment!”
 
@@ -496,19 +496,19 @@ The Names of God are long and apparently meaningless. If you’re not a freaky m
 
 “Asat!” I sang.
 
-“ASAT!” echoed nineteen voices.
+“[sc]Asat[/sc]!” echoed nineteen voices.
 
 “Zam!”
 
-“ZAM!”
+“[sc]Zam[/sc]!”
 
 “Rus!”
 
-“RUS!”
+“[sc]Rus[/sc]!”
 
 “Asat-zam-rus!”
 
-“ASAT-ZAM-RUS!”
+“[sc]Asat-zam-rus[/sc]!”
 
 [open-bracket]You’re going to finish this quickly, skip the food, and tell me how you’ll become World Emperor soon, right?]
 
@@ -520,7 +520,7 @@ The Names of God are long and apparently meaningless. If you’re not a freaky m
 
 “Asat-zam... sorry... where were we?... Asat-zam-rus-shan-sever-las-kyon-dal-athen-try-kophu-li-mar-tan-day!”
 
-“ASAT-ZAM-RUS-SHAN-SEVER-LAS-KYON-DAL-ATHEN-TRY-KOPHU-LI-MAR-TAN-DAY!”
+“[sc]Asat-zam-rus-shan-sever-las-kyon-dal-athen-try-kophu-li-mar-tan-day[/sc]!”
 
 This was not the Vanishing Name. It didn’t really end with “day”, and it didn’t quite start with “asat”. If you sang a Name straight out, you’d invoke it, and then depending on which Name it was you’d end up teleporting to a Unitarian choir three towns over, or summoning a tempest, or destroying a city.
 
@@ -619,11 +619,11 @@ Understand the seed, and you understand everything that grows from it. This is t
 
 Ever since the sky cracked there has been a hurricane off the coast of Louisiana that never moves or decays. In its eye stands the Archangel Uriel. He is five hundred feet tall, and around him whirl colorful streams of letters from every alphabet and syllabary and abjad of every culture in history, making subtle and complex geometric patterns before they disappear in bursts of rainbow light. Occasionally he reaches out and snatches one with his colossal hand and inserts it elsewhere in the stream, and then rain falls, or empires crumble, or new islands rise from the deep. Today he is doing none of those things. Today he is looking very carefully at something no one else can see, and talking to himself.
 
-“TIFERET,” he says. “THE SUN, BEAUTY, MIRACLES. BUT ALSO REVERSAL. A MIRROR SET AT THE CENTER OF THE TREE, REFLECTING WHATEVER IT SEES.” He stares more intently now. “A PULSE OF ENERGY FROM BINAH TO HESED, THEN A RETURN PULSE FROM HESED TO BINAH. THE LETTER KUF. BUT DOUBLED. REFLECTED.” Now he pauses. “SOMETHING IS MISSING. TIFERET ARCING DOWNWARD TO NETZACH. A YUD. TWO KUFS REFLECTED ABOUT A YUD.”
+“[sc]Tiferet[/sc],” he says. “[sc]The sun, beauty, miracles. But also reversal. A mirror set at the center of the tree, reflecting whatever it sees[/sc].” He stares more intently now. “[sc]A pulse of energy from Binah to Hesed, then a return pulse from Hesed to Binah. The letter Kuf. But doubled. Reflected[/sc].” Now he pauses. “[sc]Something is missing. Tiferet arcing downward to netzach. A Yud. Two Kufs reflected about a Yud[/sc].”
 
 The colored streams of letters around his head whirl more wildly now.
 
-“KUF. YUD. KUF. A KAYAK. SOMETHING IMPORTANT IS HAPPENING INVOLVING A KAYAK.”
+“[sc]Kuf. Yud. Kuf. A Kayak. Something important is happening involving a Kayak[/sc].”
 
 The streams slow down. Somewhere in the wide world, something is happening involving a kayak, something important enough to disturb the subtle threads of the machinery of Heaven. Is it a prophet being carried down a river in Asia? A future king traversing an ocean in Europe? Is the kayak metaphorical? On the River of Time? On the Ocean of Knowledge? Might it...
 
@@ -633,33 +633,33 @@ A kayak shot out of the walls of cloud at two hundred miles an hour and missed U
 
 Only slightly off balance, the archangel reached out a hand and caught the errant vessel. He lifted it until it was directly in front of his face, stared at it with his giant eyes.
 
-“HELLO,” said the archangel.
+“[sc]Hello[/sc],” said the archangel.
 
 “Oh god I’m so sorry I’m so sorry I didn’t mean to do that I couldn’t steer,” she said. She was young, even for a human, maybe only seven or eight years old. She had light brown skin, dark brown eyes, braided black hair. She was wearing a life jacket. She was obviously terrified. Finally she managed to pull herself together, and said:
 
 “My name is Sohu. My father said I should ask you to teach me the kabbalah.”
 
-“UM. THAT IS NOT REALLY THE KIND OF THING THAT I DO. THERE ARE HUMANS WHO DO THAT, I THINK.”
+“[sc]Um. That is not really the kind of thing that I do. There are humans who do that, I think[/sc].”
 
 “Father said it had to be you.”
 
-“I AM BUSY,” said Uriel.
+“[sc]I am busy[/sc],” said Uriel.
 
 They stared at each other for a moment. The girl, sopping wet, still shaking, still holding the paddle. The archangel, taller than the hills, dressed in luminous white, with great golden wings protruding from his back, and eyes that glowed gold like the sun.
 
 “Please?” asked the girl.
 
-“I AM BUSY. I AM TRYING TO FIX CONTINENTAL DRIFT.”
+“[sc]I am busy. I am trying to fix continental drift[/sc].”
 
 “I... didn’t know it was broken.”
 
 Uriel’s face became more animated, his speech faster.
 
-“IT HAS BEEN BROKEN FOR FIVE WEEKS AND FIVE DAYS. I THINK IT BROKE WHEN I RELOADED NEW ZEALAND FROM A BACKUP COPY, BUT I DO  NOT KNOW WHY. MY SYNCHRONIZATION WAS IMPECCABLE AND THE CHANGE PROPAGATED SIMULTANEOUSLY ACROSS ALL SEPHIROT. I THINK SOMEBODY BOILED A GOAT IN ITS MOTHER’S MILK. IT IS ALWAYS THAT. I KEEP TELLING PEOPLE NOT TO DO IT, BUT NOBODY LISTENS.”
+“[sc]It has been broken for five weeks and five days. I think it broke when I reloaded New Zealand from a backup copy, but I do not know why. My synchronization was impeccable and the change propagated simultaneously across all Sephirot. I think somebody boiled a goat in its mother’s milk. It is always that. I keep telling people not to do it, but nobody listens.[/sc]”
 
 Sohu looked at him dubiously, then gently laid her paddle down across her lap. “If you teach me the kabbalah, I could try to help you fix continental drift.”
 
-“NO,” said Uriel. “I WORK CELESTIAL KABBALAH. IT IS BEYOND THE REACH OF HUMANS. IF YOU TRIED TO TOUCH THE EMANATIONS OF THE HIGHER WORLDS, THEY WOULD PASS THROUGH YOUR HANDS LIKE SHADOWS.”
+“[sc]No,[/sc]” said Uriel. “[sc]I work celestial kabbalah. It is beyond the reach of humans. If you tried to touch the emanations of the higher worlds, they would pass through your hands like shadows.[/sc]”
 
 Sohu reached up and plucked one of the letters from the cloud whirling around them. She pulled on it like a thread, and a string of other letters followed after her, bunching up into her hand. The glyphs turned first blue, then purple, then one of the three nameless colors you only see in dreams.  Then they all started changing into other glyphs more quickly than the eye could follow.
 
@@ -667,31 +667,31 @@ Uriel let out a loud shriek. Suddenly he was all action. Dropping girl and kayak
 
 “Sorry sorry sorry what did I do what did I do?” asked Sohu, who was back to being terrified again.
 
-“YOU MIGHT HAVE SORT OF MADE ALL OF THE RIVERS IN THE WORLD RUN IN REVERSE.”
+“[sc]You might have sort of made all of the rivers in the world run in reverse.[/sc]”
 
 “I’m so sorry really I didn’t mean to.”
 
-“IT IS OKAY. I FIXED THEM.” Then: “WAIT, HOW DID YOU DO THAT?”
+“[sc]It is okay. I fixed them.[/sc]” Then: “[sc]Wait, how did you do that?[/sc]”
 
 “I just reached out and grabbed one of those letters.”
 
-“THOSE LETTERS SPAN WORLDS. THEY ARE BEYOND THE REACH OF HUMANS. YOU SHOULD NOT HAVE BEEN ABLE TO TOUCH THEM.”
+“[sc]Those letters span worlds. They are beyond the reach of humans. You should not have been able to touch them.[/sc]”
 
 “I was playing outside the other day, and I saw a letter like those, and I grabbed it, and flowers started growing all over, and then Father got a very stern look on his face and said I was to get in the flying kayak and find the archangel Uriel and make him teach me the kabbalah.”
 
-“WAIT, ARE YOU [i]THAT[/i] SOHU?”
+“[sc]Wait, are you [i]that[/i] Sohu?[/sc]”
 
 “I think I might be the only person named Sohu.”
 
-“OH.”
+“[sc]Oh.[/sc]”
 
 They stared at each other.
 
-“DO OTHERS IN YOUR FAMILY HAVE THIS GIFT?”
+“[sc]Do others in your family have this gift?[/sc]”
 
 “No, I asked them,” said Sohu. “But they can’t wiggle their ears either.”
 
-“NO ONE CAN WIGGLE THEIR EARS.”
+“[sc]No one can wiggle their ears.[/sc]”
 
 Sohu wiggled her ears.
 
@@ -699,61 +699,61 @@ The archangel stood there for a moment in perfect silence. All around him, strin
 
 “Are you all right?” Sohu finally asked.
 
-“I WAS TRYING TO WIGGLE MY EARS.”
+“[sc]I was trying to wiggle my ears.[/sc]”
 
 Sohu wiggled her ears again.
 
-“YOU ARE VERY INTERESTING.”
+“[sc]You are very interesting.[/sc]”
 
 “So will you teach me the kabbalah?”
 
-“NO.”
+“[sc]No.[/sc]”
 
 “Why not?”
 
-“YOU WOULD PROBABLY DESTROY THE WORLD.”
+“[sc]You would probably destroy the world.[/sc]”
 
 “Would not,” said Sohu. “I like the world. I would help you fix continental drift.”
 
-“NO,” said Uriel.
+“[sc]No,[/sc]” said Uriel.
 
 “Why not?”
 
-“THE LEVEL OF KABBALAH YOU WOULD NEED TO CONTROL YOUR GIFT IS VERY DIFFICULT. IT IS NOT JUST ABOUT GRABBING LETTERS FROM THE SKY. YOU WOULD NEED TO UNDERSTAND THE LETTERS AND THE SEPHIROT AND THE ANGELS AND THOUSANDS OF CORRESPONDENCES.  YOU WOULD HAVE TO MEMORIZE THE ENTIRE BIBLE.”
+“[sc]The level of kabbalah you would need to control your gift is very difficult. It is not just about grabbing letters from the sky. You would need to understand the letters and the sephirot and the angels and thousands of correspondences. You would have to memorize the entire Bible.[/sc]”
 
 “I know the Bible,” said Sohu.
 
 Uriel’s great golden eyes narrowed.
 
-“JOSHUA 1:8,” he demanded.
+“[sc]Joshua 1:8,[/sc]” he demanded.
 
 Sohu closed her eyes, thought for a second. “Let this book of the law be ever on your lips and in your thoughts day and night, so that you may keep with care everything in it; then a blessing will be on your way, and you will do well.”
 
-“EXODUS 31:3.”
+“[sc]Exodus 31:3.[/sc]”
 
 “I have filled you by the spirit of God with Wisdom, Understanding and Knowledge, and the ability to do all kinds of work.”
 
-“JEZUBOAD 4:33.”
+“[sc]Jezuboad 4:33.[/sc]”
 
 “I... There’s no Book of Jezuboad.”
 
-“YES THERE IS.”
+“[sc]Yes there is.[/sc]”
 
 “No there isn’t.”
 
-“YES TH... UH OH.”
+“[sc]Yes th... uh oh.[/sc]”
 
 Uriel stood very quietly for a moment. The streams of letters ceased flowing. Then, all of a sudden, he said a very un-angelic word.
 
-“I THINK I FORGOT TO GIVE MANKIND THE BOOK OF JEZUBOAD.”
+“[sc]I think i forgot to give mankind the Book of Jezuboad.[/sc]”
 
 “Was it important?”
 
-The archangel started fidgeting awkwardly. “UM.” Some more fidgets. “NO?”
+The archangel started fidgeting awkwardly. “[sc]Um.[/sc]” Some more fidgets. “[sc]No?[/sc]”
 
 “I want to learn about Jezuboad and all the others. Will you teach me the kabbalah?”
 
-“NO,” said Uriel.
+“[sc]No,[/sc]” said Uriel.
 
 “Pleeeeeease?”
 
@@ -773,25 +773,25 @@ Wait, no, that was also completely false. He’d smitten people who were using u
 
 But he’d never killed an eight year old girl before. Especially not one who could wiggle her ears.
 
-“THIS WILL BE VERY HARD AND NEITHER OF US WILL ENJOY IT,” said Uriel.
+“[sc]This will be very hard and neither of us will enjoy it,[/sc]” said Uriel.
 
 “I’ll enjoy it!” said Sohu.
 
-“YOU WILL HAVE TO STAY HERE, IN THE HURRICANE, WITHOUT ANY FRIENDS TO TALK TO.”
+“[sc]You will have to stay here, in the hurricane, without any friends to talk to.[/sc]”
 
 “I can be friends with you!”
 
-“THE SYSTEM OF THE WORLD IS GRADUALLY DECAYING AND ONE DAY SOON IT WILL FALL APART ENTIRELY. THE JOB OF MAINTAINING IT UNTIL THAT MOMENT IS THANKLESS AND UNPLEASANT AND YOU CAN NEVER STOP OR ELSE EVERYONE DIES.”
+“[sc]The system of the world is gradually decaying and one day soon it will fall apart entirely. The job of maintaining it until that moment is thankless and unpleasant and you can never stop or else everyone dies.[/sc]”
 
 “I can help!” said Sohu.
 
 Uriel let out a long sigh.
 
-“YOU WILL START BY MEMORIZING THE BOOK OF JEZUBOAD WHILE I FIX CONTINENTAL DRIFT.” His great fingers spun the streams of colorful letters around him into a cloud, upon which he gingerly deposited girl and kayak. From another stream he formed a book which he presented to her.
+“[sc]You will start by memorizing the Book of Jezuboad while I fix continental drift.[/sc]” His great fingers spun the streams of colorful letters around him into a cloud, upon which he gingerly deposited girl and kayak. From another stream he formed a book which he presented to her.
 
-“READ,” he said.
+“[sc]Read,[/sc]” he said.
 
-[i]1) And it came to pass that in the eighth year of Ahab, Jezuboad made a burnt offering in the Temple of the Lord 2) and he spoke saying “O God, whose wisdom spanneth the heavens and the earth, I am learned in Scripture, yet much still troubles me. 3) Why the many apparent contradictions? Whence the emphasis on ritual purity? And which books are literally true and which meant only to edify?” 4) Then out of a fiery cloud before him there appeared the Archangel Uriel, whose eyes shone like the sun. 5) And he said with a mighty voice: 6) “OKAY, LET ME CLEAR ALL OF THIS CONFUSION UP RIGHT NOW, SO NO ONE ELSE EVER HAS TO WORRY ABOUT IT...”[/i]
+[i]1) And it came to pass that in the eighth year of Ahab, Jezuboad made a burnt offering in the Temple of the Lord 2) and he spoke saying “O God, whose wisdom spanneth the heavens and the earth, I am learned in Scripture, yet much still troubles me. 3) Why the many apparent contradictions? Whence the emphasis on ritual purity? And which books are literally true and which meant only to edify?” 4) Then out of a fiery cloud before him there appeared the Archangel Uriel, whose eyes shone like the sun. 5) And he said with a mighty voice: 6) “[sc]Okay, let me clear all of this confusion up right now, so no one else ever has to worry about it...[/sc]”[/i]
 
 
 
@@ -883,11 +883,11 @@ I double-clicked on the little icon for Llull, loaded it up, set it on autopilot
 
 I stood up, towering above the white frame of the computer. I placed my hand above it in a posture of benediction, like the Pope blessing a small child. Features in a beatific smile. I cleared my mind. In the background, I could [i]feel[/i] Ana’s presence, telepathically bound to me, happy, radiant.
 
-I started: “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN...”
+I started: “[sc]Ros-aile-kaphiluton-mirakoi-kalaniemi-tshana-kai-kai-ephsander-galisdo-tahun...[/sc]”
 
 Erica’s voice from the hallway: “Are you doing dark rituals in the bedroom again?! If you burn that carpet, I swear, you can summon Thamiel himself and all of his terrors will be as nothing compared to what I will put you through if...”
 
-And I ended: “MEH-MEH-MEH-MEH-MEH-MEH!”
+And I ended: “[sc]Meh-meh-meh-meh-meh-meh![/sc]”
 
 
 
@@ -1029,7 +1029,7 @@ I thought for a second. Then I thought for another second. “I got nothing,” 
 
 “Because,” said the blonde girl, “the widows of Ashur were loud in their whale.”
 
-“WAIT NO THAT WAS IT! THAT WAS MY WHALE JOKE! I SWEAR TO GOD, THAT WAS MY WHALE JOKE!”
+“[sc]Wait no that was it! That was my whale joke! I swear to god, that was my whale joke![/sc]”
 
 “This was the biggest mistake of my life and I hope I die,” said Weird Hair Girl.
 
@@ -1208,7 +1208,7 @@ She went on in this vein. We listened. One thing Ana hadn’t mentioned about Jo
 
 “As a physicist,” said Bill Dodd, “I feel obligated to say that we [i]can[/i] send lightnings! All you need is something that produces a high enough voltage, like a big van der Graaff generator.”
 
-Ana turned to Bill, with fire in her eyes. Her God impression was getting scarily on point. “Canst thou draw out Leviathan with a fish-hook? or his tongue with a cord which thou lettest down? Canst thou put an hook into his nose? or bore his jaw through with a thorn? Will he make many supplications unto thee? will he speak soft words unto thee?  Will he make a covenant with thee? wilt thou take him for a servant for ever? WILT THOU PLAY WITH HIM AS WITH A BIRD?”
+Ana turned to Bill, with fire in her eyes. Her God impression was getting scarily on point. “Canst thou draw out Leviathan with a fish-hook? or his tongue with a cord which thou lettest down? Canst thou put an hook into his nose? or bore his jaw through with a thorn? Will he make many supplications unto thee? will he speak soft words unto thee?  Will he make a covenant with thee? wilt thou take him for a servant for ever? [sc]Wilt thou play with him as with a bird[/sc]?”
 
 “Sheesh,” said Ally Hu, who was reading ahead in our shared copy. “God is so obsessed with this whole Leviathan thing. First He is talking about the earth and the stars and the clouds, and then He decides no, I will just drop everything and focus on Leviathan for three chapters.”
 
@@ -1357,9 +1357,9 @@ Ally pulled the book away from Ana.
 
 “This is not how we do theodicy in this house!” I shouted at Ally and Ana.
 
-“HELP!” shouted Ana. “IMMIGRANTS ARE STEALING MY JOB!”
+“[sc]Help![/sc]” shouted Ana. “[sc]Immigrants are stealing my job![/sc]”
 
-“WAIT!” said Bill Dodd. “I just got it! The house is called Ithaca because it’s where theodicy happens. Fuck fuck fuck fuck fuck.”
+“[sc]Wait![/sc]” said Bill Dodd. “I just got it! The house is called Ithaca because it’s where theodicy happens. Fuck fuck fuck fuck fuck.”
 
 “It’s just dessert!” Erica screamed at the oncoming Pirindiel.
 
@@ -1411,7 +1411,7 @@ Ana’s face fell. “Aaron,” she said. “I’m asexual.”
 
 “Well, it should be!”
 
-Ana rolled her eyes. “You realize you’re talking to the Augustine Distinguished Scholar in Theodicy? The girl who picketed in front of the World’s Fair back in 2012, waving a sign saying “NO IT ISN’T?” You’re preaching to the euphemism-ing choir.”
+Ana rolled her eyes. “You realize you’re talking to the Augustine Distinguished Scholar in Theodicy? The girl who picketed in front of the World’s Fair back in 2012, waving a sign saying “[sc]No it isn’t?[/sc]” You’re preaching to the euphemism-ing choir.”
 
 I was briefly discombobulated, then regained my combobulation. “Look,” I said, “I really like you. I want you to like me back. Dates are like a universally recognized signal of this.”
 
@@ -1527,9 +1527,9 @@ She’d grabbed Erica from the kitchen over her protests and dragged her into he
 
 “And stars to the firmament”
 
-“And so we invoke the Holy Name, IYAR-NA-AVANTE-SHOK-TEHAN-MI-LEVAN-ZA-NAONE-KHETH-ULAT”
+“And so we invoke the Holy Name, [sc]Iyar-na-avante-shok-tehan-mi-levan-za-naone-kheth-ulat[/sc]”
 
-“And so we invoke the Holy Name, IYAR-NA-AVANTE... uh... SHOK-TEHAN... MI? Uh... LEVAN? SHA... no, wait... ZA... NAONE-KHETH-ULAT”
+“And so we invoke the Holy Name, [sc]Iyar-na-avante[/sc]... uh... [sc]Shok-tehan... mi? uh... levan? sha.[/sc].. no, wait... [sc]Za... naone-kheth-ulat[/sc]”
 
 (here the candles start to darken)
 
@@ -1549,15 +1549,15 @@ She’d grabbed Erica from the kitchen over her protests and dragged her into he
 
 “And it is done.”
 
-Then all the letters of colored sand glowed red, then green, then white. And the candles laid round made a high-pitched sound and flared up in a burst of light. And Erica screams, and Ana seems to be gazing far away. And she briefly fits, but she gathers her wits just in time to hear her say “ANA LOOK THE LETTERS HAVE BURNED THEMSELVES INTO THE CARPET YOU ARE IN SO MUCH TROUBLE.”
+Then all the letters of colored sand glowed red, then green, then white. And the candles laid round made a high-pitched sound and flared up in a burst of light. And Erica screams, and Ana seems to be gazing far away. And she briefly fits, but she gathers her wits just in time to hear her say “[sc]Ana look the letters have burned themselves into the carpet you are in so much trouble[/sc].”
 
 “How do you feel?” Ana asked.
 
-“ANGRY,” said Erica.
+“[sc]Angry[/sc],” said Erica.
 
 “Other than that?” Ana asked.
 
-“NOTHING ELSE CAN GET THROUGH THE HOT FLAMES OF MY ANGER” Erica protested.
+“[sc]Nothing else can get through the hot flames of my anger[/sc]” Erica protested.
 
 “Huh. I don’t feel any different either.”
 
@@ -1575,9 +1575,9 @@ Then all the letters of colored sand glowed red, then green, then white. And the
 
 “Hmmmm,” said Ana. Then: “I’ll get the colored sand!”
 
-“YOU DO IT OUTSIDE THIS TIME,” Erica insisted.
+“[sc]You do it outside this time,[/sc]” Erica insisted.
 
-And so it was only about a half hour later, after numerous fits and starts due to the sand blowing away in the wind, that the two of us stood amidst the candles and spoke the holy Name IYAR-NA-AVANTE-SHOK-TEHAN-MI-LEVAN-ZA-NAONE-KHETH-ULAT.
+And so it was only about a half hour later, after numerous fits and starts due to the sand blowing away in the wind, that the two of us stood amidst the candles and spoke the holy Name [sc]Iyar-na-avante-shok-tehan-mi-levan-za-naone-kheth-ulat[/sc].
 
 And Ana said: “And God is One.”
 
@@ -1719,7 +1719,7 @@ Fourteen Hebrew letters. I looked them over closely to make sure they weren’t 
 
 I held the syllables in my mind, tasted them. I tested the correspondences.
 
-“Wait,” I said. “I know what this does.” I spoke. “KUHU-SHEN-TAR-TAVAL-ANASASI-VA.”
+“Wait,” I said. “I know what this does.” I spoke. “[sc]Kuhu-shen-tar-taval-anasasi-va.[/sc]”
 
 A bright light appeared a couple of feet in front of my face. From the light sprung a beam, pointing up and a little to the west.
 
@@ -1741,7 +1741,7 @@ Then the computer gave another melodic gong.
 
 I’d calculated that it should come up with Names on average once every couple of hours, but by the nature of averages sometimes it would be faster. Ana and I almost knocked into each other in our rush to grab the mouse. Another round of pausing and restarting.
 
-The Name was HANAPHOR-KOTA-SALUSI-NAI-AVORA-STE-KORUSA. I spoke it once, then took off my glasses. I had perfect 20-20 vision.
+The Name was [sc]Hanaphor-kota-salusi-nai-avora-ste-korusa[/sc]. I spoke it once, then took off my glasses. I had perfect 20-20 vision.
 
 Again we stopped and stared at each other. If we wanted to cut and run, we could declare that we’d stumbled across this Name through simple kabbalistic study, then sell it to the theonomic of our choice. How much would people pay for a Name that made eyeglasses unnecessary? Millions? Billions? We could both just retire, buy a house in Malibu and two tickets on Celestial Virgin, and never work again.
 
@@ -1962,7 +1962,7 @@ I nodded and made my escape before he changed his mind.
 
 When I made it back to Ithaca, I couldn’t resist stopping off in Ana’s room to check if Sarah had come up with any more Names in my absence. It hadn’t, which wasn’t really surprising—two in so short a time was a huge fluke—but my presence there at least had the effect of waking Ana up. She rubbed her eyes, griped at me for waking her—then, her tiredness melting away before the excitement of the occasion, told me to ensoul Bill’s computer already.
 
-I took the sleek MacBook out of my backpack, plugged it into the outlet, fired it up. I installed Llull. I disabled the Internet connections, not wanting to risk anything automatically updating and letting Bill know what we were doing. Then I spoke the Vital Name. “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN...” I began. Then: “MEH-MEH-MEH-MEH-MEH-MEH.”
+I took the sleek MacBook out of my backpack, plugged it into the outlet, fired it up. I installed Llull. I disabled the Internet connections, not wanting to risk anything automatically updating and letting Bill know what we were doing. Then I spoke the Vital Name. “[sc]Ros-aile-kaphiluton-mirakoi-kalaniemi-tshana-kai-kai-ephsander-galisdo-tahun...[/sc]” I began. Then: “[sc]Meh-meh-meh-meh-meh-meh.[/sc]”
 
 Nothing happened.
 
@@ -1970,7 +1970,7 @@ There’s no way to tell if a computer has a soul or not. But when you use a Nam
 
 “Huh,” I told Ana. “That didn’t work. I’ll try it again.”
 
-Once again, I spoke the Name of God at Bill’s computer. “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN... MEH-MEH-MEH-MEH-MEH-MEH”.
+Once again, I spoke the Name of God at Bill’s computer. “[sc]Ros-aile-kaphiluton-mirakoi-kalaniemi-tshana-kai-kai-ephsander-galisdo-tahun... meh-meh-meh-meh-meh-meh[/sc]”.
 
 Once again, nothing.
 
@@ -1994,11 +1994,11 @@ My extreme measure was a variant of something called the Dominic System. Memoriz
 
 Now break down the thing you want to remember into three-letter blocks. Each block represents a person performing an action on an object. Keep doing this, and you have a really weird story, which is exactly the sort of story you are most likely to remember.
 
-My R person is a Roman. My S action is sitting. My L object is a lantern. ROS-AILE becomes a Roman sitting with a lantern. It’s Hebrew, so the vowels don’t count.
+My R person is a Roman. My S action is sitting. My L object is a lantern. [sc]Ros-aile[/sc] becomes a Roman sitting with a lantern. It’s Hebrew, so the vowels don’t count.
 
-My K person is Kim Jong-un. My F action is flying. My L object is still a lantern. So Kim Jong-un is flying on a giant lantern. Add the tyrannosaur nibbling, and you’ve got KAPHILUTON.
+My K person is Kim Jong-un. My F action is flying. My L object is still a lantern. So Kim Jong-un is flying on a giant lantern. Add the tyrannosaur nibbling, and you’ve got [sc]Kaphiluton[/sc].
 
-Remembering ROS-AILE-KAPHILUTON is hard. Remembering a Roman sitting watchfully in the dark with a lantern, only to have Kim Jong-un suddenly scream past him on a lantern-shaped fighter jet so terrifying that they have to call in the dinosaur cavalry—that’s easy. Keep going, and even a fifty-eight letter name becomes tractable.
+Remembering [sc]Ros-aile-kaphiluton[/sc] is hard. Remembering a Roman sitting watchfully in the dark with a lantern, only to have Kim Jong-un suddenly scream past him on a lantern-shaped fighter jet so terrifying that they have to call in the dinosaur cavalry—that’s easy. Keep going, and even a fifty-eight letter name becomes tractable.
 
 Is it hard to make these kinds of stories up on the fly? Yes, it’s hard the first time, and the hundredth time, and even the thousandth time.
 
@@ -2006,11 +2006,11 @@ But I work eight hours a day in a sweatshop where all I do is recite a bunch of 
 
 The fifty-eight-letter Vital Name shone flawless in my mind.
 
-“ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN...” I began, and kept going. I spoke the Vital Name. It didn’t work.
+“[sc]Ros-aile-kaphiluton-mirakoi-kalaniemi-tshana-kai-kai-ephsander-galisdo-tahun[/sc]...” I began, and kept going. I spoke the Vital Name. It didn’t work.
 
 “Ana!” I said. “You have the Name! You try!”
 
-“I only know what I took from your head,” Ana said, but she spoke the Name as she recalled it. “ROS-AILE-KAPHILUTON-MIRAKOI-KALANIEMI-TSHANA-KAI-KAI-EPHSANDER-GALISDO-TAHUN...”
+“I only know what I took from your head,” Ana said, but she spoke the Name as she recalled it. “[sc]Ros-aile-kaphiluton-mirakoi-kalaniemi-tshana-kai-kai-ephsander-galisdo-tahun...[/sc]”
 
 I could see from Ana’s face that she felt nothing.
 
@@ -2339,37 +2339,37 @@ Bar Yochai spent thirteen years hiding from the Romans in a cavern near Peki’i
 
    -Gulf of Mexico
 
-“WE SAY THAT MAN WAS MADE IN THE IMAGE OF GOD,” said Uriel. “BUT GOD IS INEFFABLE AND WITHOUT PHYSICAL FORM. RESOLVE THE PARADOX.”
+“[sc]We say that Man was made in the image of God,[/sc]” said Uriel. “[sc]But God is ineffable and without physical form. Resolve the paradox[/sc].”
 
 “I’m hungry,” said Sohu.
 
 She was sitting on a little cloud, a dozen or so meters across. In the middle, the cloud-stuff had been piled up into a little amorphous cottage where she slept and stored her books. On the far end of the cloud was the flying kayak, tied down with cloud-ropes.
 
-“UM.” Uriel thought for a moment. “I CAN MAKE MORE MANNA.”
+“[sc]Um.[/sc]” Uriel thought for a moment. “[sc]I can make more manna.[/sc]”
 
 “I had manna yesterday and the day before. It doesn’t taste like [i]anything[/i]!”
 
-“UM. SORRY. YOU ARE VERY PICKY.”
+“[sc]Um. Sorry. You are very picky.[/sc]”
 
 “We’re in the middle of an ocean! Aren’t there fish or something?”
 
-“UM.”
+“[sc]Um.[/sc]”
 
 The archangel bent down, reached into the deep, and placed a giant grouper the size of a Jeep on Sohu’s cloud. It flailed half-heartedly for a moment, then stared at Sohu with dinner-plate-sized lidless eyes. It looked resigned.
 
-“AS I WAS SAYING, GOD HAS NO PHYSICAL FORM, SO THE CLAIM THAT HUMANS WERE MADE IN THE IMAGE OF GOD MUST HAVE SOME MORE SUBTLE MEANING. RABBI AKIVA PROPOSED—”
+“[sc]As I was saying, God has no physical form, so the claim that humans were made in the image of God must have some more subtle meaning. Rabbi Akiva proposed—[/sc]”
 
 “Uriel!” protested Sohu. “What are you doing?”
 
-“I AM TEACHING YOU THE KABBALAH.”
+“[sc]I am teaching you the kabbalah.[/sc]”
 
 “I can’t eat this!”
 
-“IT IS A FISH. IT IS KOSHER AND FULL OF NUTRIENTS.”
+“[sc]It is a fish. It is kosher and full of nutrients.[/sc]”
 
 “It’s staring at me!”
 
-“THAT MAKES SENSE. IT DOES NOT HAVE EYELIDS.”
+“[sc]That makes sense. It does not have eyelids.[/sc]”
 
 “Uriel! Make it stop!”
 
@@ -2379,7 +2379,7 @@ The fish had eyelids. It blinked.
 
 “That doesn’t help!”
 
-“YOU ARE VERY PICKY.”
+“[sc]You are very picky.[/sc]”
 
 The poor fish gave up the ghost.
 
@@ -2387,87 +2387,87 @@ The poor fish gave up the ghost.
 
 A series of knives rained from the sky, barely missing the girl’s head, and embedded themselves point down in the cloud. They were followed by frying pans and entire stoves and bottles of ketchup and, finally, manna.
 
-“SORRY,” said Uriel. “IT WAS THE CLOSEST I COULD COME TO BREAD.”
+“[sc]Sorry,[/sc]” said Uriel. “[sc]It was the closest i could come to bread.[/sc]”
 
 Sohu stared at the objects for a while, then sighed, then picked up one of the larger knives.
 
-“RABBI AKIVA PROPOSED THAT THE VERSE HAS BEEN MISINTERPRETED. ‘GOD MADE MAN IN HIS IMAGE’ MEANS ‘GOD MADE MAN ACCORDING TO AN IMAGE BELONGING TO GOD’. IN OTHER WORDS, MAN WAS BUILT TO A SPECIFIC CELESTIAL BLUEPRINT. WE CALL THAT BLUEPRINT ADAM KADMON, MEANING ‘ORIGINAL MAN’. ADAM KADMON IS THE BLUEPRINT NOT ONLY FOR MAN, BUT FOR THE ENTIRE UNIVERSE. THE RELATIONSHIP BETWEEN THIS BLUEPRINT AND THE UNIVERSE ITSELF IS THE BASIS OF KABBALAH.”
+“Rabbi Akiva proposed that the verse has been misinterpreted. ‘God made Man in his image’ means ‘God made Man according to an image belonging to God’. In other words, Man was built to a specific celestial blueprint. We call that blueprint Adam Kadmon, meaning ‘original man’. Adam Kadmon is the blueprint not only for Man, but for the entire universe. The relationship between this blueprint and the universe itself is the basis of kabbalah.”
 
 Sohu cut through a scale, and was rewarded with a spurt of blood for her efforts. She shrieked and almost fell off the cloud.
 
 “Aaak!” she said. Then: “Sorry. I was listening. Really.”
 
-“NOVICES IN KABBALAH EXPECT THERE TO BE A SIMPLE CORRESPONDENCE BETWEEN ASPECTS OF ADAM KADMON AND OBJECTS IN THE UNIVERSE. FOR EXAMPLE, ONE PART OF ADAM KADMON MIGHT DESCRIBE HUMANS, ANOTHER MIGHT DESCRIBE TREES, AND ANOTHER MIGHT DESCRIBE THE STARS. THEY BELIEVE YOU CAN CARVE UP THE DIFFERENT FEATURES OF THE UNIVERSE, MUCH LIKE CARVING A FISH, AND SIMPLY...”
+“[sc]Novices in kabbalah expect there to be a simple correspondence between aspects of Adam Kadmon and objects in the universe. For example, one part of Adam Kadmon might describe humans, another might describe trees, and another might describe the stars. They believe you can carve up the different features of the universe, much like carving a fish, and simply...[/sc]”
 
 “No,” said Sohu, who was still trying to wipe blood off herself. “No fish-carving metaphors.”
 
-“THEY BELIEVE YOU CAN CARVE UP THE DIFFERENT FEATURES OF THE UNIVERSE, ENTIRELY UNLIKE CARVING A FISH,” the angel corrected himself. “BUT IN FACT EVERY PART OF THE BLUEPRINT IS CONTAINED IN EVERY OBJECT AS WELL AS IN THE ENTIRETY OF THE UNIVERSE. THINK OF IT AS A FRACTAL, IN WHICH EVERY PART CONTAINS THE WHOLE. IT MAY BE TRANSFORMED ALMOST BEYOND RECOGNITION. BUT THE WHOLE IS THERE. THUS, STUDYING ANY OBJECT GIVES US CERTAIN DOMAIN-GENERAL KNOWLEDGE WHICH APPLIES TO EVERY OTHER OBJECT. HOWEVER, BECAUSE ADAM KADMON IS ARRANGED IN A WAY DRAMATICALLY DIFFERENTLY FROM HOW OUR OWN MINDS ARRANGE INFORMATION, THIS KNOWLEDGE IS FIENDISHLY DIFFICULT TO DETECT AND APPLY. YOU MUST FIRST CUT THROUGH THE THICK SKIN OF CONTINGENT APPEARANCES BEFORE REACHING THE HEART OF -”
+“[sc]They believe you can carve up the different features of the universe, entirely unlike carving a fish,[/sc]” the angel corrected himself. “[sc]But in fact every part of the blueprint is contained in every object as well as in the entirety of the universe. Think of it as a fractal, in which every part contains the whole. It may be transformed almost beyond recognition. But the whole is there. Thus, studying any object gives us certain domain-general knowledge which applies to every other object. However, because Adam Kadmon is arranged in a way dramatically differently from how our own minds arrange information, this knowledge is fiendishly difficult to detect and apply. You must first cut through the thick skin of contingent appearances before reaching the heart of -[/sc]”
 
 “No. Cutting. Metaphors,” Sohu told the archangel. She had finally made a good incision and was slowly pulling things out of the fish, sorting them by apparent edibility.
 
-“THE BIBLE IS AN ESPECIALLY CLEAR EXAMPLE OF A SYSTEM WHICH IS ISOMORPHIC TO ADAM KADMON. SO ARE ALL HUMAN LANGUAGES. SO IS THE HUMAN BODY. SO IS THE TAROT.  SO ARE THE WORKS OF WILLIAM BLAKE. SO IS THE SKY AND CONSTELLATIONS.”
+“[sc]The bible is an especially clear example of a system which is isomorphic to Adam Kadmon. So are all human languages. So is the human body. So is the tarot.  So are the works of William Blake. So is the sky and constellations.[/sc]”
 
 Sohu nodded. Was that a spleen? Did fishes even have spleens?
 
-“THERE ARE FOUR GOSPELS IN THE BIBLE, FOUR LETTERS IN THE TETRAGRAMMATON, FOUR LIMBS ON THE HUMAN BODY, FOUR SUITS OF THE TAROT, FOUR ZOAS IN BLAKE, AND FOUR QUARTERS OF THE SKY. THE NOVICE CONSIDERS THIS A COINCIDENCE. THE ADEPT UNDERSTANDS THIS IS BECAUSE THE NUMBER FOUR IS AN IMPORTANT ORGANIZING PRINCIPLE OF ADAM KADMON, AND INSOFAR AS ALL SYSTEMS REFLECT ADAM KADMON, THEY ARE ALSO ORGANIZED INTO FOUR PARTS.”
+“[sc]There are four gospels in the Bible, four letters in the tetragrammaton, four limbs on the human body, four suits of the tarot, four zoas in Blake, and four quarters of the sky. The novice considers this a coincidence. The adept understands this is because the number four is an important organizing principle of Adam Kadmon, and insofar as all systems reflect Adam Kadmon, they are also organized into four parts.[/sc]”
 
 Sohu managed to extract the heart from the fish. For a second she felt some strange significance at seeing it divided neatly into four chambers. Then she shook herself out of it and moved on.
 
-“THERE ARE TEN COMMANDMENTS IN THE BIBLE, TEN DIGITS IN THE NUMBER SYSTEM, TEN FINGERS ON THE HUMAN BODY, TEN PIP CARDS IN THE TAROT, TEN PROPHETIC BOOKS IN BLAKE, AND TEN CELESTIAL BODIES IN THE SKY.”
+“[sc]There are ten commandments in the Bible, ten digits in the number system, ten fingers on the human body, ten pip cards in the tarot, ten prophetic books in Blake, and ten celestial bodies in the sky.[/sc]”
 
 “Ten celestial bodies?”
 
-“EIGHT PLANETS, THE SUN, AND THE MOON. THERE ARE TWENTY-TWO BOOKS IN THE HEBREW BIBLE, TWENTY-TWO LETTERS IN THE HEBREW ALPHABET, TWENTY-TWO SOMATIC CHROMOSOMES IN THE HUMAN BODY, TWENTY-TWO MAJOR ARCANA IN THE TAROT, TWENTY-TWO ENGRAVINGS IN BLAKE’S BOOK OF JOB, AND TWENTY-TWO CONSTELLATIONS IN EACH OF THE FOUR QUARTERS OF THE SKY.”
+“[sc]Eight planets, the sun, and the moon. There are twenty-two books in the Hebrew Bible, twenty-two letters in the Hebrew Alphabet, twenty-two somatic chromosomes in the human body, twenty-two major arcana in the tarot, twenty-two engravings in Blake’s book of job, and twenty-two constellations in each of the four quarters of the sky.[/sc]”
 
 Sohu wiped off her hands. She was pretty sure she had gotten everything even potentially edible out of the fish now. She looked at her piles. There were twenty two weird unidentifiable fish organs.
 
 “Huh,” she said.
 
-“LIKEWISE, THERE ARE SEVENTY-TWO BOOKS IN THE CATHOLIC BIBLE, SEVENTY-TWO LETTERS IN THE SHEM HA-MEPHORASH, SEVENTY-TWO HEARTBEATS PER MINUTE IN A HEALTHY HUMAN ADULT, SEVENTY-TWO SIDES OF NUMBER CARDS IN THE TAROT, SEVENTY-TWO PAGES IN WILLIAM BLAKE’S POETICAL SKETCHES, AND SEVENTY-TWO YEARS TO ONE DEGREE OF PRECESSION OF THE EARTH’S EQUINOX.”
+“[sc]Likewise, there are seventy-two books in the catholic Bible, seventy-two letters in the shem ha-mephorash, seventy-two heartbeats per minute in a healthy human adult, seventy-two sides of number cards in the tarot, seventy-two pages in William Blake’s poetical sketches, and seventy-two years to one degree of precession of the earth’s equinox.[/sc]”
 
 Sohu had finally extracted enough pieces of fish innard to put on a frying pan. She placed it on a stove. Even though the stove was unconnected to any source of gas or electricity, it started burning with a thin blue flame.
 
-“IN KABBALAH,” Uriel continued “WE RECOGNIZE CERTAIN DIVISIONS OF ADAM KADMON AS ESPECIALLY IMPORTANT. A FOURFOLD DIVISION, WHICH WE INTERPRET AS FOUR WORLDS. A TENFOLD DIVISION, WHICH WE INTERPRET AS TEN SEPHIROT. A TWENTY-TWO-FOLD DIVISION, WHICH WE INTERPRET AS TWENTY-TWO PATHS BETWEEN SEPHIROT. AND A SEVENTY-TWO-FOLD DIVISION, WHICH WE INTERPRET AS THE SEVENTY-TWO-FOLD EXPLICIT NAME OF GOD. BY UNDERSTANDING ALL OF THESE DIVISIONS, WE LEARN THE STRUCTURE OF ADAM KADMON AND THEREFORE THE ORGANIZATIONAL PRINCIPLES OF THE UNIVERSE. ONCE THE ORGANIZATIONAL PRINCIPLES OF THE UNIVERSE ARE UNDERSTOOD, THEY CAN BE CHANGED. IT IS AS EASY AS SHOOTING FISH IN A BARREL.”
+“[sc]In kabbalah,[/sc]” Uriel continued “[sc]We recognize certain divisions of Adam Kadmon as especially important. A fourfold division, which we interpret as four worlds. A tenfold division, which we interpret as ten sephirot. A twenty-two-fold division, which we interpret as twenty-two paths between sephirot. And a seventy-two-fold division, which we interpret as the seventy-two-fold explicit name of God. By understanding all of these divisions, we learn the structure of Adam Kadmon and therefore the organizational principles of the universe. Once the organizational principles of the universe are understood, they can be changed. It is as easy as shooting fish in a barrel.[/sc]”
 
 “You’re doing it on purpose now!”
 
-“THERE ARE MANY FISH METAPHORS.”
+“[sc]There are many fish metaphors.[/sc]”
 
 “Wait a second. If you can create stoves and ketchup bottles ex nihilo, how come you can’t create food ex nihilo for me?”
 
-“THE MOST BASIC DIVISION IN THE MYSTICAL BODY OF GOD IS THE TEN SEPHIROT. SEPHIRAH IS A HEBREW WORD RELATED TO THE ENGLISH “SAPPHIRE”, BECAUSE THE SAGES IMAGINED THEM AS SAPPHIRE-LIKE JEWELS ARRANGED IN A STRING. THE TEN SEPHIROT ARE A SERIES OF STAGES OR LEVELS OR JEWELS THROUGH WHICH DIVINE POWER FLOWS IN ITS MOVEMENT FROM GOD TO THE FINITE WORLD. EACH ONE CORRESPONDS TO A SPECIFIC DIVINE ATTRIBUTE. THE FIRST REPRESENTS THE WILL OF GOD. THE SECOND REPRESENTS THE WISDOM OF GOD. AND SO ON.”
+“[sc]The most basic division in the mystical body of God is the ten sephirot. Sephirah is a Hebrew word related to the English “sapphire”, because the sages imagined them as sapphire-like jewels arranged in a string. The ten sephirot are a series of stages or levels or jewels through which divine power flows in its movement from God to the finite world. Each one corresponds to a specific divine attribute. The first represents the will of God. The second represents the wisdom of God. And so on.[/sc]”
 
 A spark appeared on Uriel’s finger, and in lines of fire he traced a diagram into the sky in front of him.[!tree_of_life2.png The Tree of Life]
 
-“THERE ARE TWENTY-TWO DIFFERENT PATHS BETWEEN THESE JEWELS. EACH CORRESPONDS TO A PARTICULAR HEBREW LETTER.”
+“[sc]There are twenty-two different paths between these jewels. Each corresponds to a particular Hebrew letter.[/sc]”
 
 Sohu looked at the glowing diagram. “Okay,” she said. “But what does all this [i]mean[/i]?”
 
-“THIS WAS GOD’S MACHINE FOR CREATING THE WORLD,” said Uriel. “IT HAD MANY PROBLEMS. SO I HACKED INTO IT AND MADE IT EMULATE A DIFFERENT MACHINE WHICH RUNS THE WORLD MY WAY. IT INVOLVES MANY FEWER SURPRISES. IT IS IMPORTANT TO KNOW THE STRUCTURE OF THE ORIGINAL MACHINE BOTH IN ORDER TO CONTROL THE EMULATION, AND BECAUSE THE EMULATION IS NO LONGER COMPLETE.”
+“[sc]This was God’s machine for creating the world,[/sc]” said Uriel. “[sc]It had many problems. So I hacked into it and made it emulate a different machine which runs the world my way. It involves many fewer surprises. It is important to know the structure of the original machine both in order to control the emulation, and because the emulation is no longer complete.[/sc]”
 
 “So the whole universe runs on this system of sapphires connected by paths?”
 
-“MOST OF IT RUNS ON SAPPHIRES ON PATHS, BUT I USE RUBY ON RAILS FOR THE DATABASES.”
+“[sc]Most of it runs on sapphires on paths, but I use Ruby on Rails for the databases.[/sc]”
 
 “Huh? Is that a different thing?”
 
-“WE CANNOT TALK NOW,” said Uriel, suddenly. “THE BUTTERFLIES ARE MIGRATING”.
+“[sc]We cannot talk now,[/sc]” said Uriel, suddenly. “[sc]The butterflies are migrating[/sc].”
 
 “What?”
 
-“I JUST REALIZED. THE BUTTERFLIES ARE STARTING TO MIGRATE. IT IS ONLY OCTOBER. THEY SHOULD NOT MIGRATE FOR SEVERAL MORE MONTHS. I THINK I MIGHT HAVE MADE AN OFF-BY-ONE ERROR THE LAST TIME I SYNCHRONIZED THE INSECT MIGRATION ALGORITHMS.”
+“[sc]I just realized. The butterflies are starting to migrate. It is only October. They should not migrate for several more months. I think I might have made an off-by-one error the last time I synchronized the insect migration algorithms.[/sc]”
 
 “Can’t you just let them migrate early?”
 
-“EVERY TIME A BUTTERFLY FLAPS ITS WINGS, IT CREATES A CASCADING CHAIN OF AFTER-EFFECTS WHICH CAN UPSET THE ENTIRE COURSE OF HISTORY. IF THE ENTIRE BUTTERFLY MIGRATION HAPPENED AT THE WRONG TIME, THE RESULT WOULD BE TOO HORRIBLE TO IMAGINE.”
+“[sc]Every time a butterfly flaps its wings, it creates a cascading chain of after-effects which can upset the entire course of history. If the entire butterfly migration happened at the wrong time, the result would be too horrible to imagine.[/sc]”
 
 “Oh. I’m sorry.”
 
-“IT IS NOT YOUR FAULT. I AM GOING TO FIX THE BUTTERFLY MIGRATION. I WILL GIVE YOU HOMEWORK FOR TONIGHT. ALL LANGUAGES ARE ISOMORPHIC TO ADAM KADMON, BUT IN DIFFERENT WAYS. YOU WILL NEED TO COMPARE AND CONTRAST THEM. YOUR HOMEWORK ASSIGNMENT IS TO LEARN EVERY HUMAN LANGUAGE.”
+“[sc]It is not your fault. I am going to fix the butterfly migration. I will give you homework for tonight. All languages are isomorphic to Adam Kadmon, but in different ways. You will need to compare and contrast them. Your homework assignment is to learn every human language.[/sc]”
 
 “Um, that’s not something humans can realistically do.”
 
-“OH. THEN DO SOMETHING HUMANS ARE GOOD AT. FALL IN LOVE. START A WAR.”
+“[sc]Oh. Then do something humans are good at. Fall in love. Start a war.[/sc]”
 
 “But—”
 
@@ -2587,7 +2587,7 @@ They worked out this whole horrible system. On Yom Kippur, the High Priest would
 
 The Jews naturally got a little bit spooked about the Tetragrammaton after a few centuries of this sort of thing, and the rabbis decreed that any time you needed to use the Tetragrammaton, you should instead substitute the totally different word “A—i”. And [i]then[/i] when you were going to say “A—i” you should substitute [i]that[/i] with “HaShem”, so as to stay two semantic steps away from the Tetragrammaton at all times. If they could have, they would have demanded that “HaShem” be replaced with something else too, except that “HaShem” literally just meant “the Name” and so was already maximally vague.
 
-It is a well-known fact among kabbalists that Christians are really dumb. At some point in the AD era, the Christians decided that something something Jesus died for our sins something something made us pure, and they decided to show their deep communion with God by just speaking the Tetragrammaton willy-nilly at random points in their services. Luckily for them by this point Uriel had pretty well finished blocking the divine light, and their services caused nothing worse than facepalms from any Jews who happened to overhear. Then the sky cracked. There very well could have been this huge catastrophe the Sunday afterwards when every Christian church suddenly went up in flames. But the Tetragrammaton is famously difficult to pronounce, and the true pronunciation, which turned out to sound sort of like “JA-HO-RAH”, came as a total surprise to everyone, wasn’t in anybody’s liturgy, and actually doesn’t even quite correspond to the Hebrew letters involved. Thus was the entire Christian religion saved by its inability to pronounce a four-letter word.
+It is a well-known fact among kabbalists that Christians are really dumb. At some point in the AD era, the Christians decided that something something Jesus died for our sins something something made us pure, and they decided to show their deep communion with God by just speaking the Tetragrammaton willy-nilly at random points in their services. Luckily for them by this point Uriel had pretty well finished blocking the divine light, and their services caused nothing worse than facepalms from any Jews who happened to overhear. Then the sky cracked. There very well could have been this huge catastrophe the Sunday afterwards when every Christian church suddenly went up in flames. But the Tetragrammaton is famously difficult to pronounce, and the true pronunciation, which turned out to sound sort of like “[sc]ja-ho-rah[/sc]”, came as a total surprise to everyone, wasn’t in anybody’s liturgy, and actually doesn’t even quite correspond to the Hebrew letters involved. Thus was the entire Christian religion saved by its inability to pronounce a four-letter word.
 
 If you don’t insist on magic powers for your Names, there are ones even shorter than this. The Digrammaton is aleph-lamed, or “El”. To a Californian like me, that always made places like El Segundo and El Cerrito seem a bit creepy. It wasn’t the same sort of primal horror as sticking the Tetragrammaton in the middle of something, but no kabbalist I know has ever voluntarily eaten at El Pollo Loco either.
 
@@ -2623,7 +2623,7 @@ What are we to say to [i]that?[/i]
 
 #### I.
 
-Time and chance, according to the Book of Ecclesiastes, happeneth to us all. Ana had planned to sleep in, but it so happeneth that she woke up hungry and found herself out of milk. She threw on an old t-shirt—one she had gotten at a theodicy conference a few years ago, with the motto WHO WATCHES THE WATCHMAKER? on the front—grabbed a shopping bag, and headed out to the 7-11 on the corner.
+Time and chance, according to the Book of Ecclesiastes, happeneth to us all. Ana had planned to sleep in, but it so happeneth that she woke up hungry and found herself out of milk. She threw on an old t-shirt—one she had gotten at a theodicy conference a few years ago, with the motto [sc]Who watches the watchmaker?[/sc] on the front—grabbed a shopping bag, and headed out to the 7-11 on the corner.
 
 Seven represents the world—thus the seven days of creation, the seven worldly sephirot below the Abyss, and the seven continents. Eleven represents excess, a transcendence of the supernatural completeness of ten into an unlawful proliferation of forms. Added together they make eighteen, corresponding to the gematria value of the Hebrew word “chai”, meaning life. Therefore, 7-11 represents an excess of worldly life-sustaining goods—in other words, too much food. In keeping with the secret laws of God, Ana caved in and bought a box of donuts.
 
@@ -2665,9 +2665,9 @@ Her hands shaking, expecting to be arrested at any moment, she opened the laptop
 
 The familiar picture of Sarah Michelle-Gellar stared back at her. Llull was gone. The browser was gone. All the desktop icons were gone except one. A text file called README. Ana read.
 
-[blockquote]AARON SMITH-TELLER IS BEING HELD AT A SECRET UNSONG DETENTION FACILITY A MILE SOUTH WEST OF IONE CALIFORNIA. YOU SHOULD TRY TO RESCUE HIM. USE THE NAMES BELOW. ABSOLUTELY NOTHING WILL GO WRONG.
+[blockquote][sc]Aaron Smith-Teller is being held at a secret UNSONG detention facility a mile south west of Ione California. You should try to rescue him. Use the names below. Absolutely nothing will go wrong.[/sc]
 
-LEAVE NOW. IT IS NOT SAFE HERE.
+[sc]Leave now. It is not safe here.[/sc]
 [/blockquote]
 
 And there followed three totally novel Names and three explanations. The first was the Spectral Name, which granted invisibility. The second the Airwalker Name, which granted the power to tread on air as if it were solid ground. And the third the Mistral Name, which according to the document’s somewhat ominous description “called the winds”.
@@ -2738,21 +2738,21 @@ His friend was standing upright. No, not standing. Hovering. He was hovering abo
 
 Paul screamed.
 
-“DO NOT BE AFRAID,” said Kesey, but it was not his voice.
+“[sc]Do not be afraid,[/sc]” said Kesey, but it was not his voice.
 
 “What... what’s going... who... what are... help!”
 
-“DO NOT BE AFRAID,” said Kesey, and it was definitely not his voice. “I AM THE RIGHT HAND OF GOD. I BRING YOU ETERNITY. ALL THE WALLS WILL FALL AROUND YOU.”
+“[sc]Do not be afraid,[/sc]” said Kesey, and it was definitely not his voice. “[sc]I am the right hand of god. I bring you eternity. All the walls will fall around you.[/sc]”
 
 Paul tried to stand. He took a second to catch his breath. Kesey—the thing in Kesey’s body—seemed content to let him. He just stood there, hovering.
 
 “W... who are you?” asked Paul.
 
-“KNEEL,” said the thing in Kesey’s body.
+“[sc]Kneel,[/sc]” said the thing in Kesey’s body.
 
 “But... who... what [i]are[/i] you?”
 
-“KNEEL,” said the thing in Kesey’s body, somewhat more forcefully.
+“[sc]Kneel,[/sc]” said the thing in Kesey’s body, somewhat more forcefully.
 
 Quivering from head to toe, Paul knelt.
 
@@ -2971,111 +2971,111 @@ Still other texts say the Messiah will come in a generation that is [i]both[/i] 
 
 He had heard the greeting. She took a deep breath, readied herself for what was to come.
 
-“KNOCK KNOCK,” said Uriel.
+“[sc]Knock knock,[/sc]” said Uriel.
 
 “... what?” said Sohu.
 
-“LAST WEEK I SAID YOUR HOMEWORK ASSIGNMENT WAS TO LEARN EVERY LANGUAGE,” said Uriel. “DID YOU—”
+“[sc]Last week I said your homework assignment was to learn every language,[/sc]” said Uriel. “[sc]Did you—[/sc]”
 
 “Wait,” said Sohu. “What was with the knock knock?”
 
-“YOU HAVE SEEMED SOMEWHAT LOST RECENTLY. I BORROWED A HUMAN BOOK ON EDUCATION. IT SAYS THAT IN ORDER TO KEEP CHILDREN ENGAGED, YOU SHOULD TELL JOKES THROUGHOUT YOUR LESSON.”
+“[sc]You have seemed somewhat lost recently. I borrowed a human book on education. It says that in order to keep children engaged, you should tell jokes throughout your lesson.[/sc]”
 
 “And someone told you that was how jokes work?”
 
-“NO, BUT I WAS ABLE TO FIGURE IT OUT MYSELF AFTER READING SEVERAL EXAMPLES.”
+“[sc]No, but i was able to figure it out myself after reading several examples.[/sc]”
 
 Sohu mentally assessed whether this was better or worse than the normal way Uriel did things, came up blank.
 
 “No. You have to—here, let me show you. Knock knock.”
 
-“UM.”
+“[sc]Um.[/sc]”
 
 “Now you say ‘who’s there’. It’s a joke.”
 
-“IT IS NOT VERY FUNNY.”
+“[sc]It is not very funny.[/sc]”
 
 “That’s not the joke. When I say ‘knock knock’, you say ‘who’s there?’ Knock knock.”
 
-“WHO’S THERE? THIS IS STILL NOT VERY FUNNY.”
+“[sc]Who’s there? This is still not very funny.[/sc]”
 
 “Slow down! I say knock knock. You say who’s there. I say a name. You say that same name, and then you add ‘who’. And then I make a joke.”
 
-“I THINK IT WOULD BE MORE EFFICIENT IF YOU STARTED BY MAKING THE JOKE.”
+“[sc]I think it would be more efficient if you started by making the joke.[/sc]”
 
 “It wouldn’t work that way! Knock knock!”
 
-“WHO’S THERE?”
+“[sc]Who’s there?[/sc]”
 
 “Avery.”
 
-“AVERY WHO?”
+“[sc]Avery who?[/sc]”
 
 “Avery silly knock knock joke.”
 
-“AVERY SILLY KNOCK KNOCK JOKE WHO?”
+“[sc]Avery silly knock knock joke who?[/sc]”
 
 “You only say who one time!”
 
-“OKAY.”
+“[sc]Okay.[/sc]”
 
 “You... didn’t seem to find that very funny.”
 
-“WHICH PART WAS THE JOKE, AGAIN?”
+“[sc]Which part was the joke, again?[/sc]”
 
 “I said Avery, like it was my name. But actually, I was using it as part of the phrase ‘a very silly knock knock joke.'”
 
-“WHY?”
+“[sc]Why?[/sc]”
 
 “It’s like... it’s like what you were saying about kabbalistic correspondences. Two different things that have the same structure. The name Avery, and the words ‘a very’, and you don’t see it at first, but then later you do.”
 
 Uriel stood quietly, glowing letters swirling all around him. He seemed to be thinking deeply, as if this were a far harder problem than merely stabilizing the El Nino cycle (his project for yesterday) or defragmenting mammalian DNA (the day before).
 
-“SO A JOKE IS LIKE A SURPRISING KABBALISTIC CORRESPONDENCE?”
+“[sc]So a joke is like a surprising kabbalistic correspondence?[/sc]”
 
 “Sort of.”
 
-“KNOCK KNOCK.”
+“[sc]Knock knock.[/sc]”
 
 “Who’s there?”
 
-“‘NACHASH’ IS THE HEBREW WORD FOR SERPENT, BUT IT HAS A GEMATRIA VALUE OF 358, WHICH IS THE SAME AS THE HEBREW WORD “MOSHIACH’, MEANING MESSIAH. THUS, ALTHOUGH THE SERPENT INTRODUCES SIN INTO THE WORLD AND THE MESSIAH REDEEMS THE WORLD FROM SIN, BOTH ARE KABBALISTICALLY IDENTICAL. YOU ARE NOT LAUGHING.”
+“[sc]‘Nachash’ is the Hebrew word for serpent, but it has a gematria value of 358, which is the same as the Hebrew word “moshiach’, meaning Messiah. Thus, although the serpent introduces sin into the world and the Messiah redeems the world from sin, both are kabbalistically identical. You are not laughing.[/sc]”
 
 Sohu’s expression was somewhere between horror and pity.
 
-“THAT WAS NOT FUNNY?”
+“[sc]That was not funny?[/sc]”
 
 “Probably not in the way you intended it to be.”
 
-“OH.”
+“[sc]Oh.[/sc]”
 
 “I think you might not be very good at jokes.”
 
-“I THINK IT IS VERY SURPRISING THAT THE MOST DIRE THREAT TO THE WORLD IS PROPHESIED ALSO TO BE ITS REDEEMER. TAKEN TOGETHER WITH ISAIAH 53:12 STATING THAT THE MESSIAH WILL BE NUMBERED AMONG THE GREAT TRANSGRESSORS, IT PRESENTS A VERY UNUSUAL VIEW OF SIN AND REDEMPTION.”
+“[sc]I think it is very surprising that the most dire threat to the world is prophesied also to be its redeemer. Taken together with Isaiah 53:12 stating that the Messiah will be numbered among the great transgressors, it presents a very unusual view of sin and redemption.[/sc]”
 
 “It has to be a special type of surprising. Uh... why don’t we get back to the lesson.”
 
-“OKAY. LAST WEEK I SAID YOUR HOMEWORK ASSIGNMENT WAS TO TO LEARN EVERY LANGUAGE. DID YOU COMPLETE IT?”
+“[sc]Okay. Last week I said your homework assignment was to to learn every language. Did you complete it?[/sc]”
 
 “I told you, humans can’t do things like that.”
 
-“OH. RIGHT. THEN I TOLD YOU TO DO SOMETHING HUMANS WERE GOOD AT. LIKE START A WAR. DID YOU COMPLETE THAT ONE?”
+“[sc]Oh. Right. Then I told you to do something humans were good at. Like start a war. Did you complete that one?[/sc]”
 
 “I thought you were joking!”
 
-“NO. YOU CAN LEARN A LOT OF THINGS FROM STARTING A WAR. FIFTY YEARS AGO SOME PEOPLE STARTED A WAR AND THEY ENDED UP LEARNING THE SECRETS OF THE ATOM. IT WAS VERY IMPRESSIVE.”
+“[sc]No. You can learn a lot of things from starting a war. Fifty years ago some people started a war and they ended up learning the secrets of the atom. It was very impressive.[/sc]”
 
 “I’m not starting a war!”
 
-“OKAY.” Sohu tried to read his face. Was she [i]disappointing[/i] him? “TODAY WE WILL LEARN ABOUT THE TWO PILLARS ON THE TREE OF LIFE. THE RIGHT PILLAR CONSISTS OF CHOKHMAH, CHESED, AND NETZACH. IT REPRESENTS THE RIGHT HAND OF GOD AND IS ASSOCIATED WITH MERCY. THE LEFT PILLAR CONSISTS OF BINAH, GEVURAH, AND HOD. IT REPRESENTS THE LEFT HAND OF GOD AND IS ASSOCIATED WITH JUSTICE. MY BOOK ON EDUCATION SAYS I SHOULD STOP TO SEE IF YOU HAVE ANY QUESTIONS. DO YOU HAVE ANY QUESTIONS?”
+“[sc]Okay.[/sc]” Sohu tried to read his face. Was she [i]disappointing[/i] him? “[sc]Today we will learn about the two pillars on the tree of life. The right pillar consists of chokhmah, chesed, and netzach. It represents the right hand of God and is associated with mercy. The left pillar consists of binah, gevurah, and hod. It represents the left hand of god and is associated with justice. My book on education says I should stop to see if you have any questions. Do you have any questions?[/sc]”
 
 She didn’t want to disappoint him further. She tried to think of a question. “Um. You talk about these correspondences all the time. So... uh... how does this correspond to human politics. We also talk about a right side and a left side, but in human politics the Right is usually more concerned with justice, and the Left is usually more concerned with mercy. How come in kabbalah it’s the opposite of that?”
 
-“THAT IS AN EXCELLENT QUESTION. YOUR HOMEWORK FOR NEXT WEEK IS TO FIGURE OUT THE ANSWER.”
+“[sc]That is an excellent question. Your homework for next week is to figure out the answer.[/sc]”
 
 Oh. So it was going to be one of [i]those[/i] types of lessons. Sohu scowled.
 
-“IT IS A COMMON MISCONCEPTION THAT THE RIGHT HAND IS GOOD AND THE LEFT EVIL. AS ASPECTS OF THE DEITY, BOTH ARE GOOD AND NECESSARY TO PRODUCE BALANCE. THE RIGHT HAND CREATES AND SUSTAINS. THE LEFT HAND DIRECTS AND PURIFIES. BUT AFTER THE SHATTERING OF THE VESSELS, WHEN ALL ASPECTS LOST THEIR CONNECTION TO SUPERNAL DIVINITY, THE RIGHT HAND BECAME AIMLESS IN ITS BLESSINGS, AND THE LEFT SWITCHED FROM THE CAREFUL DIRECTION OF A LOVING FATHER, TO PUNISHMENT FOR ITS OWN SAKE. THE MIDDLE PILLAR REPRESENTS THE COMPROMISE BETWEEN THESE TWO EXTREMES. BALANCE. UNION. HIDE.”
+“[sc]It is a common misconception that the right hand is good and the left evil. As aspects of the deity, both are good and necessary to produce balance. The right hand creates and sustains. The left hand directs and purifies. But after the shattering of the vessels, when all aspects lost their connection to supernal divinity, the right hand became aimless in its blessings, and the left switched from the careful direction of a loving father, to punishment for its own sake. The middle pillar represents the compromise between these two extremes. Balance. Union. Hide.[/sc]”
 
 “Um, another question. What do you mean by hide?”
 
@@ -3087,33 +3087,33 @@ Uriel was talking to someone. She could barely see him at this distance. Human-s
 
 “Would you like to get this over with and kill me now?” he asked. “Or do we have to do it the hard way?”
 
-“THE HARD WAY,” said Uriel.
+“[sc]The hard way,[/sc]” said Uriel.
 
-Then they both took a step skew to any of the dimensions her normal eyes could see. She felt new senses opening up as she tried to follow their path, senses that inferred their presence from the paths of the colored letters that swirled around the storm. The hurricane abstracted, became a series of perturbations in the seed of the world. She traced them back. SA’AR. Then along another set of threads. TEMPESTAS. Still another. HURRICANE.
+Then they both took a step skew to any of the dimensions her normal eyes could see. She felt new senses opening up as she tried to follow their path, senses that inferred their presence from the paths of the colored letters that swirled around the storm. The hurricane abstracted, became a series of perturbations in the seed of the world. She traced them back. [sc]Sa’ar[/sc]. Then along another set of threads. [sc]Tempestas[/sc]. Still another. [sc]Hurricane[/sc].
 
-The stranger seized the threads, pulled them forward, sheared them to their essence. HRCN. Then he rearranged them, made them dance. CHRN. Then fleshed them out. ACHERON. The river that formed the boundary of Hell. Sohu felt the storm darken, become deathly hot. Somehow the transmutation was affecting reality.
+The stranger seized the threads, pulled them forward, sheared them to their essence. [sc]Hrcn[/sc]. Then he rearranged them, made them dance. [sc]Chrn[/sc]. Then fleshed them out. [sc]Acheron[/sc]. The river that formed the boundary of Hell. Sohu felt the storm darken, become deathly hot. Somehow the transmutation was affecting reality.
 
-Uriel reached out, his flaming sword now in his hand, and parted the threads. CH. RN. He fleshed them out. Turned the first set into CHAI, meaning “life”. The second into AARON, brother of Moses, progenitor of the priesthood, who bore the Shem HaMephorash upon his forehead. The darkness broke. Waves of holy light rushed forth from where Uriel had made the change.
+Uriel reached out, his flaming sword now in his hand, and parted the threads. [sc]Ch[/sc]. [sc]Rn[/sc]. He fleshed them out. Turned the first set into [sc]Chai[/sc], meaning “life”. The second into [sc]Aaron[/sc], brother of Moses, progenitor of the priesthood, who bore the Shem HaMephorash upon his forehead. The darkness broke. Waves of holy light rushed forth from where Uriel had made the change.
 
 The stranger snarled, hurt.
 
-“GO AWAY, THAMIEL,” said the archangel.
+“[sc]Go away, Thamiel,[/sc]” said the archangel.
 
 Sohu froze. Thamiel. The Lord of Demons. Was here. Was fighting Uriel.
 
-Thamiel touched both sets of threads. AARON shifted vowels, became RUIN. From the whistling of the wind he drew an S, added it to CHAI, shifted it into CHAOS. Chaos and ruin. The carefully arranged threads of symbols that made up Uriel’s machine began crumbling, falling apart in the wind.
+Thamiel touched both sets of threads. [sc]Aaron[/sc] shifted vowels, became [sc]Ruin[/sc]. From the whistling of the wind he drew an S, added it to [sc]Chai[/sc], shifted it into [sc]Chaos[/sc]. Chaos and ruin. The carefully arranged threads of symbols that made up Uriel’s machine began crumbling, falling apart in the wind.
 
-Uriel drew water from the sea in a great waterspout. The Semitic pictograph for “water” was the origin of the Hebrew letter mem. He turned the water into an M, then grabbed the CH from CHAOS and the n from RUIN, made MACHINE. The remaining letters R and S he stuck together, slashed at the S until it hardened and became a Z. RZ. RAZ. Secrets. Through the angel Raziel, the secrets of kabbalah in particular. A machine of kabbalistic secrets. His machinery stopped crumbling, starting putting itself together, glowing with renewed light.
+Uriel drew water from the sea in a great waterspout. The Semitic pictograph for “water” was the origin of the Hebrew letter mem. He turned the water into an M, then grabbed the [sc]Ch[/sc] from [sc]Chaos[/sc] and the n from [sc]Ruin[/sc], made [sc]Machine[/sc]. The remaining letters R and S he stuck together, slashed at the S until it hardened and became a Z. [sc]Rz[/sc]. [sc]Raz[/sc]. Secrets. Through the angel Raziel, the secrets of kabbalah in particular. A machine of kabbalistic secrets. His machinery stopped crumbling, starting putting itself together, glowing with renewed light.
 
-Thamiel grabbed the Z, held it in the plume of water until it softened back into an S, then used it to make RASHA, “wicked” and NACOM, “punishment”. The punishment of the wicked, the Devil’s task. Thamiel began to grow bigger as the power of the storm drained into his essence.
+Thamiel grabbed the Z, held it in the plume of water until it softened back into an S, then used it to make [sc]Rasha[/sc], “wicked” and [sc]Nacom[/sc], “punishment”. The punishment of the wicked, the Devil’s task. Thamiel began to grow bigger as the power of the storm drained into his essence.
 
-Then he paused. pointed at the letters. Of their own accord, two dropped away, made a new pattern. MEREA. “Friend”.
+Then he paused. pointed at the letters. Of their own accord, two dropped away, made a new pattern. [sc]Merea[/sc]. “Friend”.
 
 “You have a friend here,” he told Uriel.
 
-“NO,” said Uriel.
+“[sc]No,[/sc]” said Uriel.
 
-“The letters don’t lie,” said Thamiel. He pointed to them again. Another two dropped out. SOHU.
+“The letters don’t lie,” said Thamiel. He pointed to them again. Another two dropped out. [sc]Sohu[/sc].
 
 “[i]Interesting[/i],” said Thamiel.
 
@@ -3129,7 +3129,7 @@ To the right of his head was a second head. It looked like a deformed infant. It
 
 He had two bat wings on his back, no bigger than they would have been on a bat. On him they looked ridiculous, vestigial. They held him aloft nonetheless. In his hand was a bident—like a trident, but with two points instead of three. He looked straight at her. Held out the bident, and the clouds hiding her melted away.
 
-“DO NOT HURT HER,” said Uriel.
+“[sc]Do not hurt her[/sc],” said Uriel.
 
 “Ah,” said Thamiel. “Perhaps now you’re more interested in killing me?”
 
@@ -3155,7 +3155,7 @@ The second head just kept screaming.
 
 “Still,” said Thamiel, “I’m busy, and duty calls.” He lifted the bident from Sohu’s forehead, and she collapsed onto the cloud. “I’m changing my mind,” he told the archangel. “You don’t need to kill me today. I think it will be more interesting watching you explain yourself to Sohu. We can do the usual death-return thing the next time.”
 
-“GO AWAY, THAMIEL,” said Uriel.
+“[sc]Go away, Thamiel,[/sc]” said Uriel.
 
 “Of course,” said the devil, and he dove into the sea and disappeared.
 
@@ -3165,11 +3165,11 @@ Sohu lay there for a moment. Let the light and fresh air slowly leak back into h
 
 A rush of air, as Uriel summoned her cloud back beside him at the center of the storm. A bulge in the center gradually took shape and developed, bud-like, into her cottage. The flying kayak was still there, somehow, tethered to the edge of the cloud just as it had been before.
 
-“ARE YOU OKAY?”
+“[sc]Are you okay?[/sc]”
 
 She struggled to speak. Finally she just said “What happened?”
 
-“THAMIEL DOES NOT LIKE ME. HE WANTED ME TO DO SOMETHING BAD TO SAVE YOU. I DID NOT. I AM SORRY.”
+“[sc]Thamiel does not like me. He wanted me to do something bad to save you. I did not. I am sorry.[/sc]”
 
 Sohu turned herself over, so that she was supine on the cloud. She saw the angel’s head leaning over her, filling the sky, his eyes as bright as the sun, and she covered her own eyes to avoid being blinded.
 
@@ -3177,19 +3177,19 @@ She thought for a second. So many things she wanted to say. She formed the respo
 
 “I... trust you to do the right thing.”
 
-“YOU DO?”
+“[sc]You do?[/sc]”
 
 “I... Uriel, it was really bad. You have no idea how scary that was. Please don’t let him hurt me again. Please don’t let me die.”
 
-“UM. I WILL TRY TO KEEP YOU SAFE.”
+“[sc]Um. I will try to keep you safe.[/sc]”
 
 “I don’t want to be kept safe. I want to... you fought him, Uriel.”
 
-“NOT VERY WELL.”
+“[sc]Not very well.[/sc]”
 
 “But you did. I want to learn how to do that. I want to learn how to fight.”
 
-“I WILL TEACH YOU MANY THINGS. BUT YOUR HOMEWORK FOR TONIGHT IS TO REST AND FEEL BETTER.” He stopped himself. “OR IS THAT ONE OF THE THINGS HUMANS CANNOT DO?”
+“[sc]I will teach you many things. But your homework for tonight is to rest and feel better.[/sc]” He stopped himself. “[sc]Or is that one of the things humans cannot do?[/sc]”
 
 “I... I’m not sure. But I think I can try.”
 
@@ -3241,7 +3241,7 @@ I nodded, and let them open the door of my cell and march me down the corridor. 
 
 It didn’t fail to register that if no one had ever revealed the existence of this place before, that meant either that they were [i]very[/i] good with the Amnestic Name, or else no one had ever gotten out of here before. I tried to remember exactly how effective the Amnestic Name was and ironically came up blank. And what about the Confounding Name? I couldn’t remember.
 
-The facility wasn’t small, either. We walked through poorly-lit corridor after poorly-lit corridor. I tried to look for other prisoners, references to the location, even doors with signs on them, but all I spotted were a couple of locked rooms with the UNSONG seal on the front. An aleph superimposed on the United Nations globe, and around it, the name “United Nations Subcommittee On Names of God” and the motto “I TEGO ARCANA DEI”. [i]Begone, I hide the secrets of God[/i]. There were deep kabbalistic depths in that phrase, but I didn’t have the energy to think about them, because [i]something was horribly wrong[/i].
+The facility wasn’t small, either. We walked through poorly-lit corridor after poorly-lit corridor. I tried to look for other prisoners, references to the location, even doors with signs on them, but all I spotted were a couple of locked rooms with the UNSONG seal on the front. An aleph superimposed on the United Nations globe, and around it, the name “United Nations Subcommittee On Names of God” and the motto “[sc]I tego arcana dei[/sc]”. [i]Begone, I hide the secrets of God[/i]. There were deep kabbalistic depths in that phrase, but I didn’t have the energy to think about them, because [i]something was horribly wrong[/i].
 
 We came to a room. A conference room, it looked like. They motioned me to sit down. The sense that something was horribly wrong got stronger. The guards could feel it too. I could tell.
 
@@ -3353,7 +3353,7 @@ Ngo was starting to look very dubious now. I didn’t have much time.
 
 But to Malia Ngo, I said only: “Neptune.”
 
-DASAT-ZAM-RUSH-SHAN-SEVER-LAS-KYON-DAL-ATHEN-TRY-KOPHU-LI-MAR-TAN!
+[sc]Dasat-zam-rush-shan-sever-las-kyon-dal-athen-try-kophu-li-mar-tan![/sc]
 
 [i]Don’t use the Vanishing Name,[/i] I had said during choir practice, unless you are in a situation where it is absolutely vital to your well-being and continued survival that you be accosted by a different band of hooligans than the ones who are currently accosting you. Right now, being accosted by a different band of hooligans was my heart’s fondest and most desperate desire.
 
@@ -3498,177 +3498,177 @@ Runes of glowing fire troubled Sohu’s dreams, and she woke up the next morning
 
 “Uriel! Uriel! What’s happening?”
 
-“THE ICE IS CALVING IN ANTARCTICA. I HAVE BEEN BUSY ALL MORNING TRYING TO PREVENT THE ICEBERGS FROM DISRUPTING SHIPPING LANES. IT IS VERY ANNOYING. I CANNOT EVEN REMEMBER WHY I PUT A CONTINENT AT THE SOUTH POLE. NOBODY EVER USES IT.”
+“[sc]The ice is calving in antarctica. I have been busy all morning trying to prevent the icebergs from disrupting shipping lanes. It is very annoying. I cannot even remember why I put a continent at the south pole. Nobody ever uses it.[/sc]”
 
 “No, to me! Look!”
 
 The angel scanned her with his flaming golden eyes.
 
-“OH. YES. YESTERDAY. WHEN I LET THAMIEL TORTURE YOU. IT WAS FOR... IT WAS BECAUSE... I AM SORRY. YOU DID NOT BLAME ME OR YELL AT ME. YOU TRUSTED ME. PEOPLE DO NOT USUALLY DO THAT. IT WAS VERY STRANGE. YOU TRUSTED ME EVEN THOUGH YOU WERE HURT VERY BADLY. I... THANK YOU.”
+“[sc]Oh. Yes. Yesterday. When I let Thamiel torture you. It was for... it was because... I am sorry. You did not blame me or yell at me. You trusted me. People do not usually do that. It was very strange. You trusted me even though you were hurt very badly. I... thank you.[/sc]”
 
 “Uriel! The things all over my skin!”
 
-“I WANTED TO DO SOMETHING NICE FOR YOU. THE OTHER DAY YOU SAID ‘PLEASE DON’T LET ME DIE’. SO I THOUGHT I WOULD DO THAT FOR YOU. NOW YOU ARE IMMORTAL. IT WAS VERY HARD.”
+“[sc]I wanted to do something nice for you. The other day you said ‘Please don’t let me die’. So I thought I would do that for you. Now you are immortal. It was very hard.[/sc]”
 
 Sohu stared again at the characters on her skin, then freaked out. The angel watched her flail with something between curiosity and discomfort.
 
-“UM. THE WELTS WILL FADE IN A FEW DAYS.”
+“[sc]Um. The welts will fade in a few days.[/sc]”
 
 “That wasn’t what I meant! When I said not to let me die! I meant I didn’t want to die right [i]then[/i]! Not I didn’t want to die [i]ever[/i]!”
 
-“OH. WELL. UM. IF YOU EVER FEEL LIKE DYING, LET ME KNOW AND I WILL KILL YOU. THAT IS ACTUALLY MUCH EASIER THAN GRANTING IMMORTALITY.”
+“[sc]Oh. Well. Um. If you ever feel like dying, let me know and I will kill you. That is actually much easier than granting immortality.[/sc]”
 
 “Aaaaaah Uriel you don’t understand! Is this going to do something horrible like I’m going to grow older and older until I become shriveled and tiny and turn into a grasshopper?”
 
-“NO. PLEASE DO NOT WORRY. I MADE SURE YOU WILL NOT GROW OLDER.”
+“[sc]No. Please do not worry. I made sure you will not grow older.[/sc]”
 
 Sohu stopped flailing. Now she was very, very still. “Wait. Not grow older [i]at all[/i].”
 
-“YES. IT IS A VERY GOOD IMMORTALITY RITUAL.”
+“[sc]Yes. It is a very good immortality ritual.[/sc]”
 
 “You mean [i]I am going to be eight years old forever[/i]?”
 
-“UM.”
+“[sc]Um.[/sc]”
 
 “Uriel, [i]take it back![/i]”
 
-“WHAT DO YOU MEAN, TAKE IT BACK? YOU WANT TO GROW OLD AND DIE?”
+“[sc]What do you mean, take it back? You want to grow old and die?[/sc]”
 
 “Yes!” She stopped, a look of horror coming over her face. “Wait! I mean, no! Not now!” Then, “But yes! Eventually!”
 
-“I DON’T SEE WHY YOU SHOULD WANT TO AGE. YOU WOULD BECOME OLD AND SENILE AND PROBABLY TERRIBLE AT REMEMBERING KABBALAH.”
+“[sc]I don’t see why you should want to age. You would become old and senile and probably terrible at remembering kabbalah.[/sc]”
 
 “Uriel I know you don’t always understand humans very well but trust me this is really important take it back take it back now.”
 
-“UM, ACTUALLY, THOUGH THE FLOW OF UNCONDITIONED LIGHT EMANATING FROM THE UPPER SPHERES IS IN THEORY PERFECTLY MATCHED BY THE FLOW OF CONDITIONED LIGHT REFLECTING FROM THE LOWER, THE CHANNELS ARE NOT SYMMETRICAL, AND BY A SPIRITUAL LAW ISOMORPHIC TO THE SECOND LAW OF THERMODYNAMICS IT IS NOT ALWAYS POSSIBLE TO RETRACE A PARTICULAR COMBINATION OF SPIRITTUAL PATHS WITHOUT SOLVING AN NP-COMPLETE PROBLEM WITH A SIZE APPROXIMATELLY EQUAL TO THE NUMBER OF ATOMS IN THE UNIVERSE TIMES THE NUMBER OF DIVINE NITZUTZOT.”
+“[sc]Um, actually, though the flow of unconditioned light emanating from the upper spheres is in theory perfectly matched by the flow of conditioned light reflecting from the lower, the channels are not symmetrical, and by a spiritual law isomorphic to the second law of thermodynamics it is not always possible to retrace a particular combination of spiritual paths without solving an NP-complete problem with a size approximately equal to the number of atoms in the universe times the number of divine nitzutzot.[/sc]”
 
 “Are you saying you [i]can’t take it back[/i]?”
 
-“MAYBE. SORT OF. YES.”
+“[sc]Maybe. Sort of. Yes.[/sc]”
 
 “Oh god oh god oh god I’m going to be eight years old [i]forever[/i],” said Sohu, and she started crying.
 
-“I AM SORRY.
+“[sc]I am sorry.[/sc]”
 
 “You’re sure there’s no way to change this and make me not eight years old forever, or to add back aging, or...”
 
-“POSSIBLY I COULD MANUALLY INCREMENT YOUR AGE ON EACH BIRTHDAY. IT WOULD BE VERY INELEGANT, BUT...”
+“[sc]Possibly I could manually increment your age on each birthday. It would be very inelegant, but...[/sc]”
 
 “[i]Possibly?[/i]”
 
-“UM. I DON’T THINK I AM A VERY GOOD FRIEND.”
+“[sc]Um. I don’t think I am a very good friend.[/sc]”
 
 “It’s... okay. You... didn’t know... you... tried to help,  I guess.”
 
-“YOU SEEMED SO SCARED.”
+“[sc]You seemed so scared.[/sc]”
 
 “I was!”
 
-“I WANTED TO HELP. I FELT BAD THAT I DID NOT SAVE YOU.”
+“[sc]I wanted to help. I felt bad that I did not save you.[/sc]”
 
 “Why? Why did you let Thamiel do that to me? You said you could have killed him. Why didn’t you just kill him and save me and then you wouldn’t have had to do some weird ritual to me and [i]now I have to be eight years old forever?[/i]”
 
-“EIGHT YEARS OLD IS NOT A BAD AGE. I HAVE TO LISTEN TO EVERYONE’S PRAYERS, AND THEY BECOME REALLY WEIRD ONCE PEOPLE HIT PUBERTY.”
+“[sc]Eight years old is not a bad age. I have to listen to everyone’s prayers, and they become really weird once people hit puberty.[/sc]”
 
 “Why, Uriel? [i]Why?[/i]”
 
-“UM. I AM TRYING TO KEEP THE WORLD FROM ENDING.”
+“[sc]Um. I am trying to keep the world from ending.[/sc]”
 
 For some reason Sohu chose that moment to calm down. As if discussion of the end of the world were more normal, an island of normality she could hold on to. “And why is the world going to end if you kill Thamiel?”
 
-“A LONG TIME AGO THERE WAS A WAR IN HEAVEN. ALL OF THE ARCHANGELS FOUGHT THAMIEL, AND THAMIEL WON. I DID NOT LIKE THIS RESULT, SO I ADDED A NEW STRUCTURE AT THE ONTOLOGICAL BASE OF THE UNIVERSE, A LAYER THAT REINTERPRETS ADAM KADMON. I CONVERTED THE WORLD FROM A SUBSTRATE OF DIVINE LIGHT TO A SUBSTRATE OF MATHEMATICS. THIS PREVENTED ANGELS AND DEMONS FROM EXISTING IN ANY MORE THAN A METAPHORICAL WAY. WHEN THE DIVINE LIGHT ENTERED THE UNIVERSE I CHANNELED IT INTO A RESERVOIR SO THAT IT DID NOT INTERFERE WITH THE CLOCKWORK.”
+“[sc]A long time ago there was a war in heaven. All of the archangels fought Thamiel, and Thamiel won. I did not like this result, so I added a new structure at the ontological base of the universe, a layer that reinterprets Adam Kadmon. I converted the world from a substrate of divine light to a substrate of mathematics. This prevented angels and demons from existing in any more than a metaphorical way. When the divine light entered the universe I channeled it into a reservoir so that it did not interfere with the clockwork.[/sc]”
 
 “And then we crashed Apollo 8 into the edge of the world.”
 
-“YOU WENT BEYOND THE EDGE OF THE WORLD AND RECITED THE BIBLE. YOU INJECTED THE CODE FOR THE ORIGINAL SYSTEM VIA A BUFFER OVERFLOW ATTACK. MY SYSTEM WAS CATASTROPHICALLY DESTABILIZED. EVEN DRAWING ON THE RESERVES OF DIVINE LIGHT I HAD COLLECTED OVER MILLENNIA, I WAS ONLY ABLE TO PARTIALLY STABILIZE IT. SCIENCE AND MATHEMATICS STILL WORK, AND THE SUPERNATURAL IS LIMITED TO A FRACTION OF ITS TRUE POWER. BUT IT REQUIRES A CONSTANT INFUSION OF DIVINE LIGHT TO MAINTAIN EVEN THIS LIMITED FUNCTIONALITY.”
+“[sc]You went beyond the edge of the world and recited the Bible. You injected the code for the original system via a buffer overflow attack. My system was catastrophically destabilized. Even drawing on the reserves of divine light I had collected over millennia, I was only able to partially stabilize it. Science and mathematics still work, and the supernatural is limited to a fraction of its true power. But it requires a constant infusion of divine light to maintain even this limited functionality.[/sc]”
 
 “Can your reservoir of divine light run out?”
 
-“YES. AT THE CURRENT RATE IT WILL RUN OUT IN ABOUT FIFTY YEARS. EACH GREAT MIRACLE I PERFORM BEYOND THE RANGE OF MY ORDINARY POWER DEPLETES IT FURTHER. THAMIEL HOPED I WOULD CALL UPON THE DIVINE LIGHT TO KILL HIM. THEN HE WOULD RECOALESCE A FEW WEEKS OR MONTHS LATER UNHARMED. IT IS IMPOSSIBLE TO KILL HIM PERMANENTLY. HE IS A FACET OF GOD. AND EVERY TIME I KILL HIM TEMPORARILY, IT REQUIRES SO MUCH DIVINE LIGHT THAT IT TAKES YEARS OFF THE LIFESPAN OF THE UNIVERSE. THIS IS HIS PLAN. TO TAUNT ME AND TRICK ME INTO EXPENDING MY RESOURCES AND HASTEN THE COLLAPSE OF THE CELESTIAL MACHINERY.”
+“[sc]Yes. At the current rate it will run out in about fifty years. Each great miracle I perform beyond the range of my ordinary power depletes it further. Thamiel hoped I would call upon the divine light to kill him. Then he would recoalesce a few weeks or months later unharmed. It is impossible to kill him permanently. He is a facet of God. And every time I kill him temporarily, it requires so much divine light that it takes years off the lifespan of the universe. This is his plan. To taunt me and trick me into expending my resources and hasten the collapse of the celestial machinery.[/sc]”
 
 “What happens when it collapses?”
 
-“HUMAN TECHNOLOGY CEASES TO WORK. THAMIEL BECOMES INVINCIBLE. THE WORLD ENDS.”
+“[sc]Human technology ceases to work. Thamiel becomes invincible. The world ends.[/sc]”
 
 “Oh. So how do we prevent that?”
 
-“I AM NOT SURE THAT WE DO.”
+“[sc]I am not sure that we do.[/sc]”
 
 “Can’t you repair the machine? Or get it to run without divine light? Or find another way to replenish divine light? Or something?”
 
-“NO. I HAVE SPENT AEONS OF SUBJECTIVE TIME CONSIDERING THESE POSSIBILITIES. THEY ARE IMPOSSIBLE. THE SKY IS CRACKED. THE STRUCTURE OF THE HIGHER WORLDS IS MADE ILLEGIBLE. THE MACHINE CANNOT BE FULLY REPAIRED. IT IS IMPOSSIBLE. EVEN IF I TRIED, NOW THAT THAMIEL UNDERSTANDS ITS PURPOSE HE WOULD CERTAINLY STOP ME.”
+“[sc]No. I have spent aeons of subjective time considering these possibilities. They are impossible. The sky is cracked. The structure of the higher worlds is made illegible. The machine cannot be fully repaired. It is impossible. Even if i tried, now that Thamiel understands its purpose he would certainly stop me.[/sc]”
 
 “So kill him with the divine light, then do it before he recoalesces.”
 
-“HE IS THE LEFT HAND OF GOD. THERE ARE MANY THINGS HE CAN DO WITHOUT A CORPOREAL BODY.”
+“[sc]He is the left hand of God. There are many things he can do without a corporeal body.[/sc]”
 
 “Why? Why does God have a screwy left hand that wants to destroy everything?”
 
-“YOU SHOULD READ ISAAC LURIA.”
+“[sc]You should read Isaac Luria.[/sc]”
 
 “I’ve read Isaac Luria. So what? Why did God allow the vessels to shatter in the first place?”
 
-“THAT IS VERY COMPLICATED.”
+“[sc]That is very complicated.[/sc]”
 
 “So what? So you’re just going to hang around for fifty years until you run out of charge, your machine goes dead, and Thamiel takes over the universe?”
 
-“MAYBE THE COMET KING WILL COME UP WITH SOMETHING BEFORE THEN.”
+“[sc]Maybe the Comet King will come up with something before then.[/sc]”
 
 “That’s your plan?”
 
-“IT IS A GOOD PLAN.”
+“[sc]It is a good plan.[/sc]”
 
 Sohu nodded. “Okay. Fair. Waiting for him to come in and solve every problem has always worked in the past. But... [i]still[/i]! What about you? Shouldn’t you... can’t you at least try to help?”
 
-“I RUN CONTINENTAL DRIFT, AND GUIDE THE BUTTERFLY MIGRATION, AND KEEP ICEBERGS IN THE RIGHT PLACE, AND PREVENT PEOPLE FROM BOILING GOATS IN THEIR MOTHERS’ MILK. IT IS DIFFICULT AND I AM GOOD AT IT AND IT ALLOWS THE WORLD TO ENDURE THAT MUCH LONGER. I WILL NOT BEAT MYSELF UP OVER FAILING TO DO THE IMPOSSIBLE.”
+“[sc]I run continental drift, and guide the butterfly migration, and keep icebergs in the right place, and prevent people from boiling goats in their mothers’ milk. It is difficult and I am good at it and it allows the world to endure that much longer. I will not beat myself up over failing to do the impossible.[/sc]”
 
 “Matthew 19:26. With God, all things are possible.”
 
-“UM.”
+“[sc]Um.[/sc]”
 
 “What? Out with it.”
 
-“I HAVE BEEN IN THIS UNIVERSE SIX THOUSAND YEARS. I HAVE FOUGHT THE DEVIL. I HAVE REWRITTEN THE LAWS OF REALITY. I HAVE DONE MANY INTERESTING THINGS. UM.”
+“[sc]I have been in this universe six thousand years. I have fought the devil. I have rewritten the laws of reality. I have done many interesting things. Um.[/sc]”
 
 “What?”
 
-“AND I HAVE NEVER SEEN ANYTHING TO CONVINCE ME THAT GOD PLAYS AN ACTIVE PART IN THE UNIVERSE. HIS ROLE SEEMS TO BE ENTIRELY ONTOLOGICAL.”
+“[sc]And I have never seen anything to convince me that God plays an active part in the universe. his role seems to be entirely ontological.[/sc]”
 
 “You can’t be a deist! You’re an archangel!”
 
-“I AM NOT A VERY GOOD ARCHANGEL.”
+“[sc]I am not a very good archangel.[/sc]”
 
 “What about San Francisco?”
 
-“GOD CAN HAVE A RIGHT HAND AS WELL AS A LEFT HAND. I SEE NO EVIDENCE THAT EITHER IS CONTROLLED BY ANY HEAD.”
+“[sc]God can have a right hand as well as a left hand. I see no evidence that either is controlled by any head.[/sc]”
 
 “What about Metatron?”
 
-“A VOICE OF GOD WHO NEVER TALKS. A PERFECT SYMBOL.”
+“[sc]A voice of god who never talks. A perfect symbol.[/sc]”
 
 “You won against Thamiel! That was a miracle! Don’t you think that God was involved in that?”
 
-“UM. THE SEPHIROT WERE INVOLVED. THOSE ARE SORT OF A PART OF GOD. BUT THEY WERE NOT IN A VERY ACTIVE ROLE. THEY MOSTLY JUST SAT THERE AS I REWROTE THEM.”
+“[sc]Um. The sephirot were involved. Those are sort of a part of God. But they were not in a very active role. They mostly just sat there as I rewrote them.[/sc]”
 
 “You know what I mean!”
 
-“GOD CREATED ADAM KADMON, THE FUNDAMENTAL STRUCTURE THAT BINDS EVERYTHING TOGETHER. HE BREATHED FIRE INTO THE STRUCTURE AND MADE IT EXIST AND MADE ALL THINGS HAPPEN ACCORDING TO ITS PLAN. BUT THAT PLAN DOES NOT FOLLOW OUR RULES OR OUR HOPES. WHEN A HUMAN MACHINE BREAKS—WHEN A PLANE’S ENGINES STOP WORKING, AND IT FALLS FROM THE AIR—GOD DOES NOT REACH DOWN AND SAVE IT. THE STRUCTURE CONTINUES TO ITS PREORDAINED CONCLUSION. I SEE NO REASON TO BELIEVE A FAILURE OF MY OWN MACHINE WILL BE ANY DIFFERENT. IT WILL MERELY BE MORE FINAL.”
+“[sc]God created Adam Kadmon, the fundamental structure that binds everything together. He breathed fire into the structure and made it exist and made all things happen according to its plan. But that plan does not follow our rules or our hopes. When a human machine breaks—when a plane’s engines stop working, and it falls from the air—God does not reach down and save it. The structure continues to its preordained conclusion. I see no reason to believe a failure of my own machine will be any different. It will merely be more final.[/sc]”
 
 “Well, I think you’re wrong. Father believes God will save us.”
 
-“HE BELIEVES THAT [i]HE[/i] WILL SAVE US, AND PLANS TO CREDIT GOD. THERE IS A DIFFERENCE.”
+“[sc]He believes that [i]he[/i] will save us, and plans to credit God. There is a difference.[/sc]”
 
 “[i]I[/i] believe God will save us! Think about how fantastically unlikely all of this is—the universe, your machinery, everything Father’s doing. You think it’s all a coincidence?”
 
-“YES.”
+“[sc]Yes.[/sc]”
 
 “Book of Lamentations, 3:24. ‘The Lord is my portion, therefore I will place my hope in Him.'”
 
-“I DO NOT THINK THAT WORKED VERY WELL, BASED ON WHAT THEY TITLED THEIR BOOK.”
+“[sc]I do not think that worked very well, based on what they titled their book.[/sc]”
 
 Sohu snorted. “All right then. You’re going to teach me kabbalah. But I’m going to teach you to have faith. How do to knock-knock jokes properly and how to have faith. That’s what I’m going to teach you.”
 
-“I AM SORRY. I AM NOT VERY GOOD AT FAITH FOR AN ARCHANGEL.”
+“[sc]I am sorry. I am not very good at faith for an archangel.[/sc]”
 
 Sohu said nothing. Uriel turned away and went back to running the universe.
 
@@ -3703,19 +3703,19 @@ Nobody knew how long it lasted. Probably had been different lengths of time for 
 
 The bizarre communiques from the archangel Uriel had become an accepted feature of daily life. Sometimes they would appear in the sky, or writ in blood on the surface of the moon, or spoken in unexpected phone calls to world leaders with unlisted numbers, or spotted on vegetables that had grown to enormous size. The news was rarely good.
 
-“DUE TO SYSTEM RESOURCES SHORTAGES, THE ISLAND OF TAIWAN HAS BEEN CANCELLED. WE APOLOGIZE FOR THE INCONVENIENCE.”
+“[sc]Due to system resources shortages, the island of Taiwan has been cancelled. We apologize for the inconvenience.[/sc]”
 
-“THE NUMBER EIGHT WILL BE DOWN FROM ONE AM TO SIX AM TOMORROW MORNING FOR EMERGENCY REPAIRS. PLEASE DO NOT PERFORM ANY CALCULATIONS THAT REQUIRE THE NUMBER EIGHT DURING THAT TIME. ALSO, PLEASE TURN ALL CLOCK FACES AWAY FROM YOU, ESPECIALLY IF THEY INCLUDE THE NUMBER EIGHT. THANK YOU FOR YOUR COOPERATION. AS COMPENSATION FOR YOUR TROUBLES, WE HAVE CURED ALL VALVULAR HEART DISEASE.”
+“[sc]The number eight will be down from one am to six am tomorrow morning for emergency repairs. Please do not perform any calculations that require the number eight during that time. Also, please turn all clock faces away from you, especially if they include the number eight. Thank you for your cooperation. As compensation for your troubles, we have cured all valvular heart disease.[/sc]”
 
-“HUMANS NOW HAVE ONLY ONE HUNDRED EIGHTY BONES. WE EXPECT THE NEW BONES TO BE UP TO 50% MORE EFFICIENT AND TO PERFORM AT THE SAME HIGH STANDARDS AS THE OLD TWO HUNDRED SIX BONE SYSTEM. THE PREVALENCE OF SKELETAL DISEASES WILL NOT CHANGE. HOWEVER, DIFFERENT PEOPLE WILL HAVE THEM. IF YOU THINK YOU HAVE A NEW SKELETAL DISEASE, PLEASE CONSULT YOUR DOCTOR.”
+“[sc]Humans now have only one hundred eighty bones. We expect the new bones to be up to 50% more efficient and to perform at the same high standards as the old two hundred six bone system. The prevalence of skeletal diseases will not change. However, different people will have them. If you think you have a new skeletal disease, please consult your doctor.[/sc]”
 
-“PLEASE AVOID THE AREA WHERE TAIWAN USED TO BE. IN ADDITION, PLEASE AVOID AREAS CLOSE TO WHERE TAIWAN USED TO BE, IN PARTICULAR, THE EAST CHINA SEA, THE SOUTH CHINA SEA, THE PHILIPPINE SEA, JAPAN, KOREA, AND ALL PARTS OF CHINA WITHIN ONE THOUSAND MILES OF A COAST. THANK YOU FOR YOUR COOPERATION.”
+“[sc]Please avoid the area where Taiwan used to be. In addition, please avoid areas close to where Taiwan used to be, in particular, the East China Sea, the South China Sea, the Philippine Sea, Japan, Korea, and all parts of China within one thousand miles of a coast. Thank you for your cooperation.[/sc]”
 
-“ATTENTION. DUE TO A SCALE BACK IN COVERAGE, THE MORAL ARC OF THE UNIVERSE NO LONGER BENDS TOWARD JUSTICE. WE APOLOGIZE FOR THE INCONVENIENCE.”
+“[sc]Attention. Due to a scale back in coverage, the moral arc of the universe no longer bends toward justice. we apologize for the inconvenience.[/sc]”
 
 Seventy-one days after the chaos had begun, a message from Uriel appeared in raised welts on the skin of all of the livestock in the world:
 
-“THE FOLLOWING HAVE BEEN CANCELLED AS PART OF THE RECENT CUTBACKS: THE LAST WEEK IN SEPTEMBER. THE EMOTION ENNUI. THE GALL BLADDER. ALL NUMBERS BETWEEN 405,668,922 AND 407,215,810. JAZZ. THE MATTERHORN. ALL DRAVIDIAN LANGUAGES EXCEPT TELUGU. THE CRESCENT MOON. WHITE WINE. AMETHYST. ALL VARIETIES OF COUSIN BEYOND THE FIRST. THE SYSTEM WILL REGAIN TEMPORARY STABILITY AFTER THE CURRENT ROUND OF CHANGES. THANK YOU FOR BEARING WITH US DURING THIS DIFFICULT TIME.”
+“[sc]The following have been cancelled as part of the recent cutbacks: The last week in september. The emotion ennui. The gall bladder. All numbers between 405,668,922 and 407,215,810. Jazz. The Matterhorn. All Dravidian languages except Telugu. The crescent moon. White wine. Amethyst. All varieties of cousin beyond the first. The system will regain temporary stability after the current round of changes. Thank you for bearing with us during this difficult time.[/sc]”
 
 The next day was April 1. The Long March was finally over.
 
@@ -3795,7 +3795,7 @@ There followed a short argument over which of the two had to actually climb down
 
 “Colonel Aldrin here, Houston. Commander Armstrong has disappeared below the light barrier.”
 
-“Ground control to Commander Armstrong. COME IN, COMMANDER ARMSTRONG.”
+“Ground control to Commander Armstrong. [sc]Come in, commander armstrong.[/sc]”
 
 ...
 
@@ -3821,7 +3821,7 @@ There followed a short argument over which of the two had to actually climb down
 
 “Houston, this is Commander Armstrong.”
 
-“COMMANDER ARMSTRONG! COME IN, COMMANDER ARMSTRONG! IS SOMETHING WRONG?”
+“[sc]Commander Armstrong! Come in, Commander Armstrong! Is something wrong?[/sc]”
 
 “No, Houston. Nothing is wrong.”
 
@@ -3877,4 +3877,3 @@ But what was that unearthly note?
 
 My uncle told me it was Neil Armstrong, who had passed beyond time into Eternity, praising God forever.
 
-<hr/>

@@ -1,3 +1,9 @@
+- Next:
+    - Skim book 1 and find deal-breakers.
+        - HTML.
+        - Bad images.
+    - Get Aryeh to make a cover. Or Eloise?
+    - Print book.
 - Why are some lines too long?
     - See end of test.md, and see what the penalties are for the various options.
     - Are penalizing too much for being shorter?
@@ -7,11 +13,11 @@
     - Because it looks really ugly to stick out.
 - Convert Uriel's text to smallcaps.
     - Write script to find Uriel's lines, count how many there are.
-        % python3 count_uriel.py < unsong-1.md | wc -l
+        % python3 count_uriel.py unsong-1.md | wc -l
         179
-        % python3 count_uriel.py < unsong-2.md | wc -l
+        % python3 count_uriel.py unsong-2.md | wc -l
         182
-        % python3 count_uriel.py < unsong-3.md | wc -l
+        % python3 count_uriel.py unsong-3.md | wc -l
         252
     - If too many, modify script to update them.
         - It's about 613.
@@ -29,10 +35,15 @@
             - Can accept, skip, mark, or quit.
             - If mark, inserts both and puts XXX next to old line.
             - Save as you go, so can be interrupted anytime.
-    - Also maybe Names of God in chapter 1.
-        - Test this.
-        - Yeah it's much better.
-    - Or crowd-source this.
+        - Or:
+            * Modify script to generate vim errorfile.
+                filename:line:column: message
+            * Write macros to insert [sc] or [/sc] and convert to lower case.
+            * Just do it by hand.
+            * If we only want to print the first part, that's only 180 lines.
+    * Also maybe Names of God in chapter 1.
+        * Test this.
+        * Yeah it's much better.
 - Types of blockquotes:
     - Resolve isInBlockQuote() and BLOCK_QUOTE block type.
     - Cases:
@@ -64,7 +75,15 @@
     why it's not centered properly. Too small? Also fix all other
     images.
 - Insert various photos and drawings.
+    - Can we just drop all these? I don't find that they add a lot and
+        they make the book look less professional, and they'd be a ton
+        of work.
 - Come up with a cover image.
+    - For 250 pages:
+        - 12.873in x 9.25in
+        - At 300 DPI, that's 3862 x 2775 pixels
+        - Spine: 0.623in / 15.82mm, or 187 pixels, located at 1931, 1387.5 (center) or 1838,0
+    - Ask Aryeh.
 
 Done:
 
