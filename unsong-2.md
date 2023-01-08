@@ -58,7 +58,7 @@
 
 [!book2imageb.png]
 
-## [TODO Chapter 17: ]No Earthly Parents I Confess
+## [SECTION-NAME Chapter 17]No Earthly Parents I Confess
 
 [blockquote]
 Said the night wind to the little lamb,<br/>
@@ -129,7 +129,7 @@ And so in November 1976, behold, a virgin conceived and bore a son, and she call
 
 
 
-## [TODO Chapter 18: ][SHORTENED That The Children Of Jerusalem May Be Saved...]That The Children Of Jerusalem May Be Saved From Slavery
+## [SECTION-NAME Chapter 18][SHORTENED That The Children Of Jerusalem May Be Saved...]That The Children Of Jerusalem May Be Saved From Slavery
 
 [blockquote]
  And the LORD said unto Moses, Pharaoh’s heart is hardened, he refuseth to let the user control whether or not to memoize thunks.
@@ -504,7 +504,7 @@ Then he turned to lightning and flew out of the room.
 
 
 
-## [TODO Chapter 19: ]The Form Of The Angelic Land
+## [SECTION-NAME Chapter 19]The Form Of The Angelic Land
 
 
    -Morning, May 12, 2017
@@ -771,7 +771,7 @@ Jane threw the single paddle to me, scooted forward suddenly, and the kayak drop
 
 
 
-## [TODO Chapter 20: ]When The Stars Threw Down Their Spears
+## [SECTION-NAME Chapter 20]When The Stars Threw Down Their Spears
 
 [blockquote]
 Where wast thou when I laid the foundations for theoretical computer science?
@@ -1251,7 +1251,7 @@ When Gabriel was out of sight, Uriel sat back down and started shaking. He shook
 
 
 
-## [TODO Chapter 21: ]Thou Also Dwellest In Eternity
+## [SECTION-NAME Chapter 21]Thou Also Dwellest In Eternity
 
 [blockquote]
 Work hard, play hard, converge to a transcendent and unified end state of human evolution called the Omega Point as predicted by Teilhard.
@@ -1389,7 +1389,7 @@ In front of her was the most beautiful ship she had ever seen.
 
 
 
-## Interlude ח: War and Peace
+## [SECTION-NAME Interlude ח]War and Peace
 
 [blockquote]
 Exodus 15:3 says “The LORD is a man of war; the LORD is His Name.” But this verse is ambiguous: “man of war” can mean either a type of Portuguese jellyfish or a type of British warship. Which one is the LORD?
@@ -1531,7 +1531,7 @@ But as the demons very slowly pushed their way toward Moscow, buoyed by their ne
 
 So passed the first quarter of the 1970s.
 
-## [TODO Chapter 22: ]Whose Ears Have Heard The Holy Word
+## [SECTION-NAME Chapter 22]Whose Ears Have Heard The Holy Word
 
 [blockquote]
 Object gods have meta gods<br/>
@@ -1694,7 +1694,7 @@ And then there was the rather high chance that he would be executed very painful
 
 
 
-## [TODO Chapter 23: ]Now Descendeth Out Of Heaven A City
+## [SECTION-NAME Chapter 23]Now Descendeth Out Of Heaven A City
 
 [blockquote]
 Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the LORD.
@@ -1836,7 +1836,7 @@ James, Lin, and John looked at her as though it was by no means obvious.
 
 
 
-## Interlude ט: The General Assembly
+## [SECTION-NAME Interlude ט]The General Assembly
 
 [blockquote]
 And Satan stood up against them in the global environment.
@@ -1886,7 +1886,7 @@ The nameplate was tastefully on fire.
 
 
 
-## [TODO Chapter 24: ]Why Dost Thou Come To Angels’ Eyes?
+## [SECTION-NAME Chapter 24]Why Dost Thou Come To Angels’ Eyes?
 
 
    -Morning, May 12, 2017
@@ -1969,7 +1969,7 @@ Holding my hand was forgotten. Keeping track of me at all was forgotten. I could
 
 
 
-## [TODO Chapter 25: ]Lie Down Before My Feet, O Dragon
+## [SECTION-NAME Chapter 25]Lie Down Before My Feet, O Dragon
 
 
    -Afternoon, May 12, 2017
@@ -2076,7 +2076,7 @@ And now we were going to Vegas. A dark place, to be sure, but not Jane’s place
 
 
 
-## Interlude י: The Broadcast
+## [SECTION-NAME Interlude י]The Broadcast
 
 [blockquote]
 The greatest trick the Devil ever pulled was spreading a catchy quote denying all tricks greater than the one about faking nonexistence.
@@ -2262,7 +2262,7 @@ On November 1, 1973, the Broadcast went out to an unsuspecting nation.
 
 
 
-## [TODO Chapter 26: ][SHORTENED For Not One Sparrow Can Suffer...]For Not One Sparrow Can Suffer And The Whole Universe Not Suffer Also
+## [SECTION-NAME Chapter 26][SHORTENED For Not One Sparrow Can Suffer...]For Not One Sparrow Can Suffer And The Whole Universe Not Suffer Also
 
 [blockquote]
 St. Francis saw above him, filling the whole heavens, some vast immemorial unthinkable power, ancient like the Ancient of Days, whose calm men had conceived under the forms of winged bulls or monstrous cherubim, and all that winged wonder was in pain like a wounded bird.
@@ -2456,7 +2456,7 @@ She sighed theatrically, but gave no further protest. “In Proto-Semitic,” sh
 
 
 
-## Interlude כ: The Outer Gate
+## [SECTION-NAME Interlude כ]The Outer Gate
 
 #### I.
 
@@ -2564,7 +2564,7 @@ The way having been prepared before them, the armies of Thamiel the Lord of Demo
 
 
 
-## [TODO Chapter 27: ]The Starry Floor, The Watery Shore
+## [SECTION-NAME Chapter 27]The Starry Floor, The Watery Shore
 
 
    -May 12-13, 2017
@@ -2900,7 +2900,7 @@ Slowly, brokenly, the [i]Not A Metaphor[/i] began to sail south.
 
 
 
-## [TODO Chapter 28: ]Hid As In An Ark
+## [SECTION-NAME Chapter 28]Hid As In An Ark
 
 
    -May 12, 2017
@@ -2969,7 +2969,7 @@ Gadiriel opened the Ark of the Covenant.
 
 
 
-## Interlude ל: New York City
+## [SECTION-NAME Interlude ל]New York City
 
 
    -September 3, 1978
@@ -3193,7 +3193,7 @@ Protect us by Thy might,<br/>
 Great God our King.
 [/blockquote]
 
-## [TODO Chapter 29: ]He Who Respects The Infant’s Faith
+## [SECTION-NAME Chapter 29]He Who Respects The Infant’s Faith
 
 [blockquote]
 Said the little lamb to the shepherd boy<br/>
@@ -3488,7 +3488,7 @@ Vihaan and Ellis looked at each other.
 
 
 
-## [TODO Chapter 30: ]Over The Dark Deserts
+## [SECTION-NAME Chapter 30]Over The Dark Deserts
 
 [blockquote]
 You don’t truly understand necromancy if you can’t explain it to your great-great-great-grandmother.
@@ -3630,7 +3630,7 @@ Night fell upon the city of the Other King.
 
 
 
-## [TODO Chapter 31: ]The Foundation Of Empire
+## [SECTION-NAME Chapter 31]The Foundation Of Empire
 
 [blockquote]
 Together, we can build a better America, colonize it, and use the old one for raw materials and target practice.
@@ -3814,7 +3814,7 @@ A presidential staffer came in. “Mr. President, lunch is ready. Reporters from
 
 
 
-## [TODO Chapter 32: ]The Human Form Divine
+## [SECTION-NAME Chapter 32]The Human Form Divine
 
 
    -August 7, 1991
@@ -4019,7 +4019,7 @@ Uriel grumbled. “I HAVE JUST LOST A NEGOTIATION WITH AN EIGHT YEAR OLD GIRL. T
 
 
 
-## [TODO Chapter 33: ]The Doors Of Perception
+## [SECTION-NAME Chapter 33]The Doors Of Perception
 
 
    -May 13, 2017
@@ -4178,7 +4178,7 @@ Simeon was already gone.
 
 
 
-## [TODO Chapter 34: ]Why Wilt Thou Rend Thyself Apart, Jerusalem?
+## [SECTION-NAME Chapter 34]Why Wilt Thou Rend Thyself Apart, Jerusalem?
 
 [blockquote]
 He said, Go and utterly destroy them; namely, the Hittites, and the Girgashites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, which were not defiled with women; for they are not very good for implementing high-performance floating-point calculations or calculations that intensively manipulate bit vectors.
@@ -4369,7 +4369,7 @@ In the center of the crater where Madrid had once been located, Uriel turned int
 
 
 
-## [TODO Chapter 35: ]The Voices Of Children In His Tents
+## [SECTION-NAME Chapter 35]The Voices Of Children In His Tents
 
 [blockquote]
 Fast cars! Fast women! Fastidious adherence to the precepts of the moral law!
@@ -4467,7 +4467,7 @@ The Comet King had no more children.
 
 
 
-## [TODO Chapter 36: ]My Father’s Business
+## [SECTION-NAME Chapter 36]My Father’s Business
 
 [blockquote]
 Fill the god-shaped hole in your soul with molten metal, then shatter your soul, leaving only a metal god
@@ -4729,7 +4729,7 @@ She fell asleep while the archangel worked silently outside.
 
 
 
-## Interlude מ: Miss American Pie
+## [SECTION-NAME Interlude מ]Miss American Pie
 
 
    -April 22, 2017
@@ -4848,7 +4848,7 @@ Then we both broke down laughing helplessly.
 
 I tell you this story as an apology. So that when we get to the part in the next chapter where I had to decide between dooming the world and dooming Ana, you understand why it was such a tough choice.
 
-## [TODO Chapter 37: ]Love That Never Told Can Be
+## [SECTION-NAME Chapter 37]Love That Never Told Can Be
 
 
    -May 13, 2017
@@ -4981,7 +4981,7 @@ I swallowed the peyote before my better side could talk me out of it.
 
 
 
-## [TODO Chapter 38: ]I Will Not Cease From Mental Fight
+## [SECTION-NAME Chapter 38]I Will Not Cease From Mental Fight
 
 [blockquote]
 Hershel of Ostropol came to an inn and asked for a warm meal. The innkeeper demanded he pay in advance, and when Hershel had no money, he told him to get out. Hershel raised himself up to his full height, looked the innkeeper in the eye menacingly, and said “Give me my meal, or I will do what my father did? You hear me? I will DO WHAT MY FATHER DID!” The terrified innkeeper served the traveller a nice warm meal. After dinner, when Hershel was calmer, he ventured to ask exactly what Hershel’s father had done. “That is simple,” answered Hershel. “When my father asked someone for a meal, and they refused to give it to him—then he would go to bed hungry.”
@@ -5231,7 +5231,7 @@ The hallucinatory landscape was beginning to dissolve. The pyramids of Teotihuac
 
 
 
-## [TODO Chapter 39: ]Fearful Symmetry
+## [SECTION-NAME Chapter 39]Fearful Symmetry
 
 [blockquote]Tiferet’s position down the center between Keter and Yesod indicates to many Kabbalists that it is somewhat of a “converting” Sephirot between form (Yesod) and force (Keter). In other words, all crossing over the middle path via Tiferet results in a reversed polarity.
 [/blockquote]
@@ -5529,7 +5529,7 @@ Not A Metaphor entered the Atlantic Ocean and sailed into the rising sun.
 
 
 
-## [TODO Chapter 40: ]In Terrible Majesty
+## [SECTION-NAME Chapter 40]In Terrible Majesty
 
 [blockquote]
 In a large and complicated system there might be various things that are pleasing in His eyes.

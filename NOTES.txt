@@ -1,30 +1,25 @@
 - Next:
     - Read the book and take notes.
-        - I'm supposed to read through chapter 7, but I've removed all the
-            chapter numbers. With so many chapters, people might refer to
-            chapter numbers. But they're ugly in the Table of Contents.
-            I think novels typically don't number chapters?
-            - Check novels in our library.
-            - Those that have chapter numbers do two things:
-                - In ToC, the number lone is outdented to the left.
-                - At chapter, the chapter number (with or without "Chapter")
-                    is above the chapter name.
-            - Dunno how to deal with interludes.
-                - Maybe just have only the Hebrew?
-                - I think the word "Interlude" is important.
-            - How about:
-                - In TOC just have number or Hebrew letter.
-                - At chapter, have "Chapter 5" or "Interlude א".
-            - Need:
-                - A syntax to specify both noun and letter.
-                - Associate with section.
-                - Draw only letter in TOC (modern).
-                - Draw both at chapter.
-                - Draw neither in page header.
         - Superscript (footnote) numbers seem a little high.
+            - See if we adjusted this in the uncle book.
         - Hel-l-bound is hyphenated between the Ls.
             - A bunch of weird hyphenation throughout. Check that we're using the right language.
+        - Extra page before book page and chapter 1 page.
+        - Look for "disabled the Internet connections", in that paragraph there's a
+            line that goes far too long, and a hyphen is right there to break nicely.
+        - In classic ToC, lines can extend into the page number area.
+    - Support chapter numbers:
+        - Multi-line chapter names have bad leading at chapter headers. See
+          chapter 8 (page 121).
+            - Instead of setting leading to zero, have a one-shot way to disable
+                the inserted vertical space.
+        - Document in readme.
+        - Regenerate javadoc.
     - Support drop caps?
+        - Dunno how to mark which paragraphs need this.
+        - Paragraph shape already supports first N lines being indented.
+        - Need to set indent to width of glyph.
+        - Ideally it would follow glyph shape. Not sure if font library allows this.
     - Skim book 1 and find deal-breakers.
         - HTML.
         - Bad images.

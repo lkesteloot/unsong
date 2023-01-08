@@ -58,7 +58,7 @@
 
 [!book3image.png]
 
-## [TODO Chapter 41: ]Go Love Without The Help Of Any Thing On Earth
+## [SECTION-NAME Chapter 41]Go Love Without The Help Of Any Thing On Earth
 
 <b>To:</b> aaron.teller@gmail.com, telleraar@countenance.com, a.smithte@stanford.edu, aleph_samech_tet@stevensite.net, _LOS_@hotmail.com, A_IS_FOR_ADAM@myfreeemails.tk...<br/>
 <b>From:</b> root@[open-bracket]58.175.48.72]
@@ -92,7 +92,7 @@ Sarah Smith-Teller
 
 
 
-## Interlude נ: CHANGELOG
+## [SECTION-NAME Interlude נ]CHANGELOG
 
 [open-bracket]High Holy Days bonus Interlude. Not exactly canon.]
 
@@ -152,7 +152,7 @@ NEW ISSUES WILL BE ADDED TO THE QUEUE AS THEY ARISE. THERE MAY BE SOME GLITCHES 
 
 
 
-## [TODO Chapter 42: ]Whose Whole Delight Is In Destroying
+## [SECTION-NAME Chapter 42]Whose Whole Delight Is In Destroying
 
 [blockquote]
 They smote the city with the edge of the sword, and one of his main motivations was the high cost of proprietary software houses.
@@ -296,7 +296,7 @@ Dylan slapped his head. “The girl’s a genius!” he said. “See! I knew thi
 
 
 
-## [TODO Chapter 43: ]Lest They Be Annihilated In Thy Annihilation
+## [SECTION-NAME Chapter 43]Lest They Be Annihilated In Thy Annihilation
 
 [blockquote]
 And Abraham said unto the LORD, “Will you not destroy the world if there are even a million righteous people in it?” And the LORD replied unto Abraham, “The world shall not be destroyed if there are even a thousand competent people in it. I don’t have anything to do with the process, mind, just making a prediction.”
@@ -404,7 +404,7 @@ He turned to lightning and flew out of the room.
 
 
 
-## [TODO Chapter 44: ]A World Within Opening Its Gates
+## [SECTION-NAME Chapter 44]A World Within Opening Its Gates
 
 [blockquote]
 The LORD sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give unto all this evil that was come to the decisive step of mathematical abstraction
@@ -693,7 +693,7 @@ Sohu thought for a second.
 
 
 
-## [TODO Chapter 45: ]In The Remotest Bottoms Of The Caves
+## [SECTION-NAME Chapter 45]In The Remotest Bottoms Of The Caves
 
 [blockquote]
 Praise the LORD from my hand for my son, to make a faster machine.
@@ -791,7 +791,7 @@ Sarah fell to the ground unconscious.
 
 
 
-## [TODO Chapter 46: ]To Talk Of Patience To The Afflicted
+## [SECTION-NAME Chapter 46]To Talk Of Patience To The Afflicted
 
 [blockquote]
 Why some people think the self is a prison escapes me.
@@ -939,7 +939,7 @@ A few minutes later, three invisible figures walked right past the guard and lef
 
 
 
-## [TODO Chapter 47: ]For He Beheld New Female Forms
+## [SECTION-NAME Chapter 47]For He Beheld New Female Forms
 
 
    -February 1984
@@ -1034,7 +1034,7 @@ The anger evaporated from the priest’s face. “What’s wrong, Jala?”
 
 
 
-## [TODO Chapter 48: ]Bring Me My Chariot Of Fire
+## [SECTION-NAME Chapter 48]Bring Me My Chariot Of Fire
 
 [blockquote]
 Rage in favor of the proposition that the machine is somehow important in a way that could be uncovered through dispassionate analysis.
@@ -1212,7 +1212,7 @@ The Medical Officer picked up a syringe and walked into the cabin. Wasn’t too 
 
 
 
-## Interlude ס: Binary
+## [SECTION-NAME Interlude ס]Binary
 
 “Today I will expound unto you the kabbalistic theory of the creation of the world,” said Ana. “It all starts with Leibniz...”
 
@@ -1308,7 +1308,7 @@ We were all silent just a little too long.
 
 
 
-## [TODO Chapter 49: ]Terrors Of The Sun And Moon
+## [SECTION-NAME Chapter 49]Terrors Of The Sun And Moon
 
 
    -December 4, 1993
@@ -1559,7 +1559,7 @@ The military is standing by in case of any disturbances.
 
 
 
-## [TODO Chapter 50: ]Silent As Despairing Love
+## [SECTION-NAME Chapter 50]Silent As Despairing Love
 
 [blockquote]
 Praise the LORD from my hand for my son, to make a faster machine.
@@ -1730,7 +1730,7 @@ We walked back to the Cometspawn hand in hand. Five pairs of eyes focused on us.
 
 
 
-## Interlude ע: Hell on Earth
+## [SECTION-NAME Interlude ע]Hell on Earth
 
 [i]Content warning: More discussion of Hell.[/i]
 
@@ -1801,7 +1801,7 @@ Ever since that conversation with Ana, I’ve had a horrible theory of my own. M
 
 (But the soul is still oracular; amid the market’s din / List the ominous stern whisper from the Delphic cave within / ‘They enslave their children’s children who make compromise with sin.’)
 
-## [TODO Chapter 51: ]He Wondered That He Felt Love
+## [SECTION-NAME Chapter 51]He Wondered That He Felt Love
 
 
    -February 1984
@@ -1931,7 +1931,7 @@ and be like a gazelle<br/>
 or like a young stag<br/>
 on the spice-laden mountains.
 
-## [TODO Chapter 52: ]The King Of Light Beheld Her Mourning
+## [SECTION-NAME Chapter 52]The King Of Light Beheld Her Mourning
 
 [blockquote]
 And the shepherds returned, glorifying and praising God for all the possible values of x and f(x).
@@ -2153,7 +2153,7 @@ She sighed and went back to her cottage to cry.
 
 
 
-## [TODO Chapter 53: ]Lover Of Wild Rebellion
+## [SECTION-NAME Chapter 53]Lover Of Wild Rebellion
 
 
    -Morning, May 13, 2017
@@ -2304,7 +2304,7 @@ A few cheers. Clark rolled his eyes. Mark McCarthy mouthed [i]He’s crazy[/i] a
 
 
 
-## Interlude ק: Bush
+## [SECTION-NAME Interlude ק]Bush
 
 #### I.
 
@@ -2368,7 +2368,7 @@ In the midst of the word he was trying to say—in the midst of his laughter and
 
 
 
-## [TODO Chapter 54: ]My Course Among the Stars
+## [SECTION-NAME Chapter 54]My Course Among the Stars
 
    -Spring 1999
 
@@ -2418,7 +2418,7 @@ Sleep came to them there, together, for the last time.
 
 
 
-## [TODO Chapter 55: ]None Can Visit His Regions
+## [SECTION-NAME Chapter 55]None Can Visit His Regions
 
 [blockquote]
 I’ve reserved this space as a safety zone for pouring my empty and vain wishes.
@@ -2592,7 +2592,7 @@ The archangel deposited Jalaketu on a hill a few miles outside of camp. Then he 
 
 
 
-## Interlude ר: The Shrouded Constitution
+## [SECTION-NAME Interlude ר]The Shrouded Constitution
 
 It was February 2002, and America tottered above a precipice.
 
@@ -2614,7 +2614,7 @@ There were a lot of people who thought that America would never go for martial l
 
 
 
-## [TODO Chapter 56: ]Agony In The Garden
+## [SECTION-NAME Chapter 56]Agony In The Garden
 
 [blockquote]
 Said the shepherd boy to the mighty king,<br/>
@@ -2760,7 +2760,7 @@ She said nothing.
 
 
 
-## Interlude ש: Obama
+## [SECTION-NAME Interlude ש]Obama
 
 In 2008 Dick Cheney declined to pursue a third term due to his failing health. A delegation of the nation’s civic and religious leaders entered the National Archives after several days’ fasting and purification and, after lifting the Shroud upon the Constitution, declared that the proper thing to do in this sort of situation was to hold an election.
 
@@ -2802,7 +2802,7 @@ The idiot Chaos blew Earth’s dust away.
 
 
 
-## [TODO Chapter 57: ]Now Taking On Ahania’s Form...
+## [SECTION-NAME Chapter 57]Now Taking On Ahania’s Form...
 
 [blockquote]
 The word of the LORD is a great deal of research activity in this area, and probabilistic algorithms have been fruitfully applied.
@@ -2932,7 +2932,7 @@ The circle flared brighter and higher than I’d ever seen before, probably beca
 
 
 
-## [TODO Chapter 58: ]... And Now The Form Of Enion
+## [SECTION-NAME Chapter 58]... And Now The Form Of Enion
 
 [blockquote]
 The LORD is greater than or equal to the expression involving f(y)
@@ -3117,7 +3117,7 @@ I woke into the regular world. A new stack of books was piled on the table. Sohu
 
 
 
-## Interlude ת: Trump
+## [SECTION-NAME Interlude ת]Trump
 
 [blockquote]
 Want to feel old? The span of time between Saddam Hussein’s death and now is longer than between now and when 1/3 of the sea becomes blood.
@@ -3256,7 +3256,7 @@ But really, you don’t need to bring out the big guns to figure this stuff out.
 And in the end, the new administration managed to outperform everyone’s expectations: it lasted an entire four months before the apocalypse descended in fire and blood upon America and the world.
 
 
-## [TODO Chapter 59: ]Clothe Yourself In Golden Arms
+## [SECTION-NAME Chapter 59]Clothe Yourself In Golden Arms
 
 [blockquote]
 This is a reasonable approach for handling small problems, but it would be awkward if there were any that did understand, and seek God.
@@ -3422,7 +3422,7 @@ For a second, all was quiet. Then: “That was the most feckin’ pointless thin
 
 
 
-## [TODO Chapter 60: ]O Rose, Thou Art Sick
+## [SECTION-NAME Chapter 60]O Rose, Thou Art Sick
 
 [blockquote]
 There is free memory available into which we can design our programs, to increase the trespass of Israel.
@@ -3516,7 +3516,7 @@ Before he could respond, the lady was gone.
 
 
 
-## [TODO Chapter 61: ][SHORTENED And Ololon Said, Let Us Descend Also...]And Ololon Said, Let Us Descend Also, And Let Us Give Ourselves To Death In Ulro Among The Transgressors
+## [SECTION-NAME Chapter 61][SHORTENED And Ololon Said, Let Us Descend Also...]And Ololon Said, Let Us Descend Also, And Let Us Give Ourselves To Death In Ulro Among The Transgressors
 
 [blockquote]
 He has a devil-may-care-so-let-us-make-every-effort-to-be-considerate-of-his-infernal-highness’s-feelings attitude.
@@ -3632,7 +3632,7 @@ She lay there, in the Garden of the Gods, naked and alone, on the foul sulfur-sc
 
 
 
-## [TODO Chapter 62: ]That The Wide World Might Fly From Its Hinges
+## [SECTION-NAME Chapter 62]That The Wide World Might Fly From Its Hinges
 
 [blockquote]
 Thou hast been faithful in a very interesting way.
@@ -3792,7 +3792,7 @@ The Other King’s missile was not headed toward Colorado Springs.
 
 
 
-## [TODO Chapter 63: ]My Wrath Burns To The Top Of Heaven
+## [SECTION-NAME Chapter 63]My Wrath Burns To The Top Of Heaven
 
 [blockquote]
 So when the last and dreadful hour<br/>
@@ -3836,7 +3836,7 @@ Then there was fire, and hurricane and archangel and machinery alike disintegrat
 
 
 
-## [TODO Chapter 64: ]Another Better World Shall Be
+## [SECTION-NAME Chapter 64]Another Better World Shall Be
 
 [blockquote]
 These be the words which the LORD did there confound the language of electrical systems.
@@ -3952,7 +3952,7 @@ Before Dylan could give any kind of a monologue, Erica pushed her way forward, b
 
 
 
-## [TODO Chapter 65: ]The Fruit Of My Mysterious Tree
+## [SECTION-NAME Chapter 65]The Fruit Of My Mysterious Tree
 
 [blockquote]
 We find that the pattern unifies with the conclusion of the rule which God hath spoken in his holiness
@@ -4046,7 +4046,7 @@ Malia frowned at her.
 
 Erica lunged forward and thrust the molten metal nameplate through Malia Ngo’s throat as the flames closed around them both.
 
-## [TODO Chapter 66: ]In The Forests Of The Night
+## [SECTION-NAME Chapter 66]In The Forests Of The Night
 
 [blockquote]
 It’s coming to America first<br/>
@@ -4160,7 +4160,7 @@ A minute later, back came James, half-dragging a figure who looked like he’d s
 
 
 
-## [TODO Chapter 67: ]The Night Of Enitharmon’s Joy
+## [SECTION-NAME Chapter 67]The Night Of Enitharmon’s Joy
 
 [blockquote]
 Everybody knows that the boat is leaking<br/>
@@ -4410,7 +4410,7 @@ Ana climbed belowdecks and knocked on the door to the Captain’s quarters.
 
 
 
-## [TODO Chapter 68: ]... Puts All Heaven In A Rage
+## [SECTION-NAME Chapter 68]... Puts All Heaven In A Rage
 
 [blockquote]
 For a Tear is an Intellectual Thing<br/>
@@ -4523,7 +4523,7 @@ The two of them disappeared.
 
 [!book4image.png]
 
-## [TODO Chapter 69: ]Love Seeketh Not Itself To Please
+## [SECTION-NAME Chapter 69]Love Seeketh Not Itself To Please
 
 
    -Afternoon, May 14, 2017
@@ -4642,7 +4642,7 @@ Then she walked out of the room.
 
 
 
-## [TODO Chapter 70: ]Nor For Itself Hath Any Care
+## [SECTION-NAME Chapter 70]Nor For Itself Hath Any Care
 
 
    -Evening, May 14, 2017
@@ -4843,7 +4843,7 @@ Sohu blinked again, and her eyes were deep brown.
 
 Sohu turned to lightning and disappeared. The last few ashes and sparks fell to the base of Pike’s Peak. The force of the battle had split the mountain in two.
 
-## [TODO Chapter 71: ]But For Another Gives Its Ease
+## [SECTION-NAME Chapter 71]But For Another Gives Its Ease
 
 [blockquote]
 Everybody already has enlightenment. Why did Buddha sit for six years, see a star, and then get enlightenment? That’s stupid! If you see a star, you get enlightenment now!
@@ -5145,7 +5145,7 @@ The final chapter will be posted next week. I will be doing a dramatic reading o
 
 
 
-## [TODO Chapter 72: ]And Builds A Heaven In Hell’s Despair
+## [SECTION-NAME Chapter 72]And Builds A Heaven In Hell’s Despair
 
 [blockquote]
 If we are worthy, our Master will redeem us by justice, and if not, He will redeem us with mercy.

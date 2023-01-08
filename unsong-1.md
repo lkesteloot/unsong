@@ -12,7 +12,6 @@
 [Copyright: Copyright © 2017 Scott Alexander]
 [Colophon: First edition, October 2018]
 [Toc-Title: Table of Contents]
-[Toc-Style: Modern]
 
 % Font configuration.
 [Body-Font: Minion, regular, 11pt]
@@ -114,9 +113,9 @@ Then, mid-sentence, they crashed into the crystal sphere surrounding the world, 
 
 # Book I: Genesis
 
-[!book1image.png]
+[TODO [!book1image.png]]
 
-## [TODO Chapter 1: ]Dark Satanic Mills
+## [SECTION-NAME Chapter 1]Dark Satanic Mills
 
 [TODO [blockquote]
 It is good practice to have your program poke around at runtime and see if it can be used to give a light unto the Gentiles.
@@ -286,7 +285,7 @@ This was not a coincidence, because nothing is ever a coincidence.
 
 
 
-## Interlude א: The Cracks In The Sky
+## [SECTION-NAME Interlude א]The Cracks In The Sky
 
 
    -March 14, 1969
@@ -363,7 +362,7 @@ He sat down on the piano bench and performed a flawless rendition of Bach’s Co
 
 
 
-## [TODO Chapter 2: ]Arise To Spiritual Strife
+## [SECTION-NAME Chapter 2]Arise To Spiritual Strife
 
 [TODO [blockquote]
 Jerusalem is builded as a city that is in the public domain.
@@ -538,7 +537,7 @@ And that was why every Wednesday night the choir of the Unitarian Church would m
 
 
 
-## Interlude ב: The Code of the World
+## [SECTION-NAME Interlude ב]The Code of the World
 
 [TODO [blockquote]
 For the LORD will work for each type of data it is applied to.
@@ -598,7 +597,7 @@ Understand the seed, and you understand everything that grows from it. This is t
 
 
 
-## [TODO Chapter 3: ]On A Cloud I Saw A Child
+## [SECTION-NAME Chapter 3]On A Cloud I Saw A Child
 
    -September 29, 1990
 
@@ -786,7 +785,7 @@ Uriel let out a long sigh.
 
 
 
-## [TODO Chapter 4: ]Tools Were Made And Born Were Hands
+## [SECTION-NAME Chapter 4]Tools Were Made And Born Were Hands
 
 [TODO [blockquote]
 And ye shall be sorrowful, but your sorrow shall be turned into effective devices for computing in any direction.
@@ -882,7 +881,7 @@ And I ended: “[sc]meh-meh-meh-meh-meh-meh![/sc]”
 
 
 
-## [TODO Chapter 5: ]Never Seek To Tell Thy Love
+## [SECTION-NAME Chapter 5]Never Seek To Tell Thy Love
 
 [TODO [blockquote]
 My beloved is like a bit of information that flows in the system.
@@ -1600,7 +1599,7 @@ And I thought: [open-bracket]Shamu Yisrael, HaShem elokeinu...]
 
 
 
-## Interlude ג: Cantors and Singers
+## [SECTION-NAME Interlude ג]Cantors and Singers
 
 Those who speak the Names of God aloud are called cantors and singers. Like everything, these terms have both overt and kabbalistic meanings.
 
@@ -1612,11 +1611,11 @@ This reading we derive from Georg Cantor, the German mathematician who explored 
 
 The overall effect on him was much like the man in the limerick:
 
-[i]There once was a fellow from Trinity,<br/>
-Who took the square root of infinity.<br/>
-But the number of digits,<br/>
-Quite gave him the fidgets;<br/>
-And he dropped Math and took up Divinity.[/i]
+   /[i]There once was a fellow from Trinity,[/i]
+   /[i]Who took the square root of infinity.[/i]
+   /[i]But the number of digits,[/i]
+   /[i]Quite gave him the fidgets;[/i]
+   /[i]And he dropped Math and took up Divinity.[/i]
 
 Cantor began talking about how his discoveries were direct and personal revelations from God, who wished him to preach the gospel of infinity so that an infinite Deity could be better understood. He posited an Absolute Infinite, beyond all the forms of infinity he had discovered, with which God might be identified. Finally, he declared:
 
@@ -1648,9 +1647,9 @@ The idea of billions of human beings suffering unbearable pain for all eternity 
 
 He was killed by a car bomb on his way to a talk in Salt Lake City. They never found the man responsible, if indeed it was a man. They saw Singer’s body, they showed it on all the television networks, but some say he never died, or that he rose again on the third day, or that he speaks to them in dreams, or all manner of strange things. When the Comet King besieged Hell, some say he brought Singer’s bones as a relic, others that Singer was in his retinue, disguised. But the conventional wisdom was that he truly died—which suited conventional people and their conventional morality just fine.
 
-(“But the soul is still oracular; amid the market’s din,<br/>
-List the ominous stern whisper from the Delphic cave within,—<br/>
-‘They enslave their children’s children who make compromise with sin.'”)
+   /(“But the soul is still oracular; amid the market’s din,
+   /List the ominous stern whisper from the Delphic cave within,—
+   /‘They enslave their children’s children who make compromise with sin.'”)
 
 (“We’re not making compromise with sin. We just want to be less than maximally saintly sometimes.”)
 
@@ -1668,13 +1667,13 @@ And a singer is someone who tries to be good.
 
 
 
-## [TODO Chapter 6: ]Till We Have Built Jerusalem
+## [SECTION-NAME Chapter 6]Till We Have Built Jerusalem
 
-[blockquote]
+[TODO [blockquote]
 God, grant me the serenity to accept that I will never have the serenity to accept the things I cannot change.
 
    -—[a href="https://twitter.com/stevenkaas"]Steven Kaas[/a]
-[/blockquote]
+[/blockquote]]
 
    -Early morning, May 11, 2017
 
@@ -1756,9 +1755,9 @@ I’m not sure exactly where the phrase came from. But when I said it, it fit.
 
 “Ordinary mortal parents? Ha! My family can [i]destroy worlds[/i].”
 
-This was true. My great-uncle Edward Teller invented the hydrogen bomb. My father Adrian Teller had followed in his footsteps and spent the ’90s conducting unspecified nuclear research at Livermore Laboratories east of Fremont . My mother had been a waitress at the cafeteria there. The two met, they had a brief fling, she got knocked up, she told him so. He suddenly realized he had vitally important national security business to tend to on the opposite side of the country, so sorry about that, good luck with the whole child-rearing thing. My mother was left alone to take care of me, whispering in my ears since the day I was born that I was a famous physicist’s child and I was going to be better than everyone else. I would invent the next big doomsday device and become rich and famous, and so she would be rich and famous, and then all of the suffering she was going through as a single mother trying to get by on a waitress’s salary would be worth it.
+This was true. My great-uncle Edward Teller invented the hydrogen bomb. My father Adrian Teller had followed in his footsteps and spent the ’90s conducting unspecified nuclear research at Livermore Laboratories east of Fremont. My mother had been a waitress at the cafeteria there. The two met, they had a brief fling, she got knocked up, she told him so. He suddenly realized he had vitally important national security business to tend to on the opposite side of the country, so sorry about that, good luck with the whole child-rearing thing. My mother was left alone to take care of me, whispering in my ears since the day I was born that I was a famous physicist’s child and I was going to be better than everyone else. I would invent the next big doomsday device and become rich and famous, and so she would be rich and famous, and then all of the suffering she was going through as a single mother trying to get by on a waitress’s salary would be worth it.
 
-In kindergarten, I scored through the roof on some kind of placement test and skipped two grades. My mother was so happy. I was happy too: I was making her proud. It was only later I realized that when other mothers were proud, you couldn’t see the same glimmer of greed in their eye, the same restless energy that came from resisting the urge to rub their hands together and say “Everything according to plan”.
+In kindergarten, I scored through the roof on some kind of placement test and skipped two grades. My mother was so happy. I was happy too: I was making her proud. It was only later I realized that when other mothers were proud, you couldn’t see the same glimmer of greed in their eye, the same restless energy that came from resisting the urge to rub their hands together and say, “Everything according to plan.”
 
 At first she would dip into her meager savings to buy me physics books, big tomes from the library on optics and mechanics. Then, when the theonomics became big, she realized that physics was (literally and figuratively) on its way out and started getting me books on kabbalah, the ones whose covers use faux Hebrew letters and whose authors write under vaguely Jewish sounding pen names. This is probably the point at which a normal kid would have rebelled against the role he was being shoehorned into. But by happy coincidence I loved kabbalah. I loved the fluidity of it, picking everything apart and building it together exactly the way I wanted. I loved the power that I felt when I used one of the toy Names that UNSONG had let into the public domain.
 
@@ -1766,26 +1765,26 @@ I met my father once when I was thirteen. I’d searched for him online on a whi
 
 I spent the BART ride home leafing through the book. I read about Teller’s invention of the bomb. I mused over his retreat into an almost fanatical patriotism—self-justification? A patch over the horror of what he had done? I learned about his war against communist sympathizers in the physics community. And I read through one of his interviews, where someone asked him about being “Father of the Hydrogen Bomb”:
 
-REPORTER: “Is ‘father’ an appropriate label?”<br/>
-TELLER: “Well, I made some essential contributions.”
+   /REPORTER: “Is ‘father’ an appropriate label?”
+   /TELLER: “Well, I made some essential contributions.”
 
 I couldn’t help imagining the same exchange an hour earlier, back at the Burger King. “Is ‘father’ an appropriate label?” I would ask. “Well,” he would tell me, “I made some essential contributions.” So much for Adrian Teller, and so much for my heritage.
 
 More interesting was the poem. [i]My great-uncle had written a traditional kabbalistic alphabet poem.[/i] I don’t think he did it on purpose, I don’t think he knew he was working in a genre beloved by sages for centuries, I think he just sat down one day and thought it would be funny to write a poem on the different alphabet letters. It started:
 
-[i]A stands for atom; it is so small<br/>
-No one has ever seen it at all. [/i]
-
-B stands for bombs; now the bombs are much bigger.<br/>
-So, brother, do not be too fast on the trigger.
+   /[i]A stands for atom; it is so small[/i]
+   /[i]No one has ever seen it at all.[/i]
+[VERTICAL-SPACE]
+   /[i]B stands for bombs; now the bombs are much bigger.[/i]
+   /[i]So, brother, do not be too fast on the trigger.[/i]
 
 Then the book—the nerve of it—moves on! As if there was something more important than my great-uncle’s correspondences between the letters of the alphabet to the aspects of the destruction he had unleashed. Oppenheimer might have been a Hindu heathen, but Teller must have been, deep down, a kabbalist. Since then I’ve searched high and low, but I have only been able to find two more of his couplets.
 
-[i]H has become a most ominous letter;<br/>
-It means something bigger, if not something better. [/i]
-
-S stands for secret—you’ll keep it forever<br/>
-Provided there’s nobody else who is clever.
+   /[i]H has become a most ominous letter;[/i]
+   /[i]It means something bigger, if not something better.[/i]
+[VERTICAL-SPACE]
+   /[i]S stands for secret—you’ll keep it forever[/i]
+   /[i]Provided there’s nobody else who is clever.[/i]
 
 I obsessed over these when I was younger. Part of me thought they were secret messages to me. Part of me still does. The reference to “brother” on the B, for example—his brother was my grandfather. Don’t tell me that’s a coincidence. Nothing is ever a coincidence.
 
@@ -1861,13 +1860,13 @@ Was I arrogant to even make the comparison? Maybe. But I had crossed out of the 
 
 
 
-## [TODO Chapter 7: ]The Perishing Vegetable Memory
+## [SECTION-NAME Chapter 7]The Perishing Vegetable Memory
 
-[blockquote]
+[TODO [blockquote]
 Sleep like nothing is watching. Gaze at the stars like it will never hurt.
 
    -—[a href="https://twitter.com/stevenkaas"]Steven Kaas[/a]
-[/blockquote]
+[/blockquote]]
 
    -Early morning, May 11, 2017
 
@@ -1921,7 +1920,7 @@ I had forgotten the most important thing about Bill, which was that he liked to 
 
 Then I started speaking Aramaic.
 
-Around 200 BC the Aramaic language started catching on in Israel and most people switched from Biblical Hebrew to the new tongue. Some people started praying in Aramaic, or trying to translate the Torah. The rabbis, who wanted to protect the sacred language at all costs, waged a passionate campaign against Aramaic penetrating into the liturgy, and in the midst of their zeal, they might have kind of told the populace that they had to pray in Hebrew because the angels don’t understand Aramaic. Some people wrote this down, one thing led to another, and it became part of the Talmud. Have I mentioned that the Talmud is kind of crazy?
+Around 200 [sc]bc[/sc] the Aramaic language started catching on in Israel and most people switched from Biblical Hebrew to the new tongue. Some people started praying in Aramaic, or trying to translate the Torah. The rabbis, who wanted to protect the sacred language at all costs, waged a passionate campaign against Aramaic penetrating into the liturgy, and in the midst of their zeal, they might have kind of told the populace that they had to pray in Hebrew because the angels don’t understand Aramaic. Some people wrote this down, one thing led to another, and it became part of the Talmud. Have I mentioned that the Talmud is kind of crazy?
 
 Couple of centuries later, the Romans destroy Jerusalem, the Jews are scattered to the seventy nations of the world, and now they’re speaking all of these foreign languages like Yiddish and Arabic and Ladino. They don’t know a word of Hebrew, but they still want to pray. The rabbis want to let them, but there’s this old ruling standing in the way, saying that you should pray in Hebrew because the angels don’t understand Aramaic.
 
@@ -2041,7 +2040,7 @@ My mind burning, I set out for the CalTrain station and Stanford.
 
 
 
-## [TODO Chapter 8: ]Laughing To Scorn Thy Laws And Terrors
+## [SECTION-NAME Chapter 8]Laughing To Scorn Thy Laws And Terrors
 
 [blockquote]
 Love is the law, but it is poorly enforced.
@@ -2312,7 +2311,7 @@ Mark McCarthy, the last remaining Archmage of North America, took a deep breath.
 Three and one half minutes later, the police burst through the door. They had received an anonymous tip by a man with a slight Mexican accent, saying that they would find the man who had killed his four fellow Archmages sitting alone and sobbing among the bodies of his victims.
 
 
-## [TODO Chapter 9: ]With Art Celestial
+## [SECTION-NAME Chapter 9]With Art Celestial
 
 [blockquote]
 The claim that the Talmudic sages were great kabbalists is a historical error. Most sages make no mention of the kabbalistic tradition at all. Shimon bar Yochai, who lived in a cave and composed 1700 pages of kabbalistic texts, is an exception and should be considered separately.
@@ -2468,7 +2467,7 @@ Sohu experimentally slathered one the fried fish-parts in ketchup, tentatively t
 
 
 
-## [TODO Chapter 10: ]Bring The Swift Arrows Of Light
+## [SECTION-NAME Chapter 10]Bring The Swift Arrows Of Light
 
 [TODO [blockquote]
 Notice also that the sharing is what enables us to increase the trespass of thy brethren.
@@ -2564,7 +2563,7 @@ We drove off.
 
 
 
-## Interlude ד: N-Grammata
+## [SECTION-NAME Interlude ד]N-Grammata
 
 The shortest effective Name of God is the Tetragrammaton. This was the Name recorded in the Bible, the one the High Priests of Israel would speak in the Temple of Solomon. The rabbis said it was so holy that God would smite any impure person who said it. Some of them went on wild flights of raptures about the holiness of this Name, said it was the Shem haMephorash, the holiest Name of all.
 
@@ -2574,7 +2573,7 @@ They worked out this whole horrible system. On Yom Kippur, the High Priest would
 
 The Jews naturally got a little bit spooked about the Tetragrammaton after a few centuries of this sort of thing, and the rabbis decreed that any time you needed to use the Tetragrammaton, you should instead substitute the totally different word “A—i”. And [i]then[/i] when you were going to say “A—i” you should substitute [i]that[/i] with “HaShem”, so as to stay two semantic steps away from the Tetragrammaton at all times. If they could have, they would have demanded that “HaShem” be replaced with something else too, except that “HaShem” literally just meant “the Name” and so was already maximally vague.
 
-It is a well-known fact among kabbalists that Christians are really dumb. At some point in the AD era, the Christians decided that something something Jesus died for our sins something something made us pure, and they decided to show their deep communion with God by just speaking the Tetragrammaton willy-nilly at random points in their services. Luckily for them by this point Uriel had pretty well finished blocking the divine light, and their services caused nothing worse than facepalms from any Jews who happened to overhear. Then the sky cracked. There very well could have been this huge catastrophe the Sunday afterwards when every Christian church suddenly went up in flames. But the Tetragrammaton is famously difficult to pronounce, and the true pronunciation, which turned out to sound sort of like “[sc]ja-ho-rah[/sc]”, came as a total surprise to everyone, wasn’t in anybody’s liturgy, and actually doesn’t even quite correspond to the Hebrew letters involved. Thus was the entire Christian religion saved by its inability to pronounce a four-letter word.
+It is a well-known fact among kabbalists that Christians are really dumb. At some point in the [sc]ad[/sc] era, the Christians decided that something something Jesus died for our sins something something made us pure, and they decided to show their deep communion with God by just speaking the Tetragrammaton willy-nilly at random points in their services. Luckily for them by this point Uriel had pretty well finished blocking the divine light, and their services caused nothing worse than facepalms from any Jews who happened to overhear. Then the sky cracked. There very well could have been this huge catastrophe the Sunday afterwards when every Christian church suddenly went up in flames. But the Tetragrammaton is famously difficult to pronounce, and the true pronunciation, which turned out to sound sort of like “[sc]ja-ho-rah[/sc]”, came as a total surprise to everyone, wasn’t in anybody’s liturgy, and actually doesn’t even quite correspond to the Hebrew letters involved. Thus was the entire Christian religion saved by its inability to pronounce a four-letter word.
 
 If you don’t insist on magic powers for your Names, there are ones even shorter than this. The Digrammaton is aleph-lamed, or “El”. To a Californian like me, that always made places like El Segundo and El Cerrito seem a bit creepy. It wasn’t the same sort of primal horror as sticking the Tetragrammaton in the middle of something, but no kabbalist I know has ever voluntarily eaten at El Pollo Loco either.
 
@@ -2601,7 +2600,7 @@ It means something bigger, if not something better.
 What are we to say to [i]that?[/i]
 
 
-## [TODO Chapter 11: ]Drive The Just Man Into Barren Climes
+## [SECTION-NAME Chapter 11]Drive The Just Man Into Barren Climes
 
 
    -May 11, 2017
@@ -2699,7 +2698,7 @@ Then she went visible again, called a cab, and asked how much it would cost to g
 
 
 
-## Interlude ה: The Right Hand Of God
+## [SECTION-NAME Interlude ה]The Right Hand Of God
 
 [TODO [blockquote]
 But woe unto them that were with him, at the valley gate, and at the University of California at Berkeley.
@@ -2749,7 +2748,7 @@ Quivering from head to toe, Paul knelt.
 
 
 
-## [TODO Chapter 12: ]Borne On Angels’ Wings
+## [SECTION-NAME Chapter 12]Borne On Angels’ Wings
 
 
    -May 11, 2017
@@ -2872,7 +2871,7 @@ She rested her head against a bag of luggage and fell asleep.
 
 
 
-## Interlude ו: There’s A Hole In My Bucket
+## [SECTION-NAME Interlude ו]There’s A Hole In My Bucket
 
 [blockquote]
 Ring the bells that still can ring<br/>
@@ -2945,7 +2944,7 @@ Still other texts say the Messiah will come in a generation that is [i]both[/i] 
 
 
 
-## [TODO Chapter 13: ]The Image Of Eternal Death
+## [SECTION-NAME Chapter 13]The Image Of Eternal Death
 
 
    -October 10, 1990
@@ -3186,7 +3185,7 @@ She thought for a second. So many things she wanted to say. She formed the respo
 
 
 
-## [TODO Chapter 14: ]Cruelty Has A Human Heart
+## [SECTION-NAME Chapter 14]Cruelty Has A Human Heart
 
 [TODO [blockquote]
 Because the law worketh wrath: for where no law is, there is power: and who may stand in thy sight are but as yesterday when it is applied. These two rules describe the essence of a computer programmer trainee
@@ -3352,7 +3351,7 @@ As Director-General Malia Ngo and two UNSONG guards strained to understand my ma
 
 
 
-## [TODO Chapter 15: ]O Where Shall I Hide My Face?
+## [SECTION-NAME Chapter 15]O Where Shall I Hide My Face?
 
 [blockquote]
 You saved your shillings and your last six pence<br/>
@@ -3464,7 +3463,7 @@ She was finished with the lands of men.
 
 She was going to San Francisco.
 
-## [TODO Chapter 16: ][SHORTENED If Perchance With Iron Power...]If Perchance With Iron Power He Might Avert His Own Despair
+## [SECTION-NAME Chapter 16][SHORTENED If Perchance With Iron Power...]If Perchance With Iron Power He Might Avert His Own Despair
 
 [blockquote]
 There’s a story about an old man walking down a beach. He sees a child picking up starfish and throwing them into the water. The man asks the child what he’s doing, and the child says that these starfish are stuck on land at low tide. They can’t survive out of water, so he’s throwing them back in the ocean to save them. The old man says, “But surely you know that there are millions of starfish just on this one beach. And there are thousands of beaches all around the world. And this same thing happens at high tide day after day, forever. You’ll never be able to make a difference.” And the child just picks up another starfish, throws it into the ocean, and said “Made a difference to that one!”
@@ -3665,7 +3664,7 @@ Sohu said nothing. Uriel turned away and went back to running the universe.
 
 
 
-## Interlude ז: Man On The Sphere
+## [SECTION-NAME Interlude ז]Man On The Sphere
 
 [blockquote]
 Let’s play Twister, let’s play Risk<br/>
