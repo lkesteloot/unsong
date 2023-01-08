@@ -102,9 +102,9 @@ If I had to choose a high point for the history of the human race thus far, it w
 
 Then almost without warning, Americans turned on their televisions and learned that a spaceship was flying to the moon. On December 22, the craft beamed a live TV broadcast to Earth informing viewers that they were about to become the first humans ever to orbit another celestial body. Communications issues limited the transmission to seventeen minutes, but the astronauts promised a second installment from lunar space.
 
-On December 24, 1968, one billion people—more than for any television program before or after in the history of mankind—tuned in for Apollo 8’s short broadcast. The astronauts were half-asleep, frazzled with days of complicated calculations and near-disasters—but their voices were powerful and lucid through the static. Commander Frank Borman introduced the two other members of the crew. They described the moon, as seen up close. “A vast, lonely, forbidding expanse of nothing”. “A very foreboding horizon, a rather dark and unappetizing looking place”. Then the Earth, as seen from afar. “A green oasis, in the big vastness of space.”
+On December 24, 1968, one billion people—more than for any television program before or after in the history of mankind—tuned in for Apollo 8’s short broadcast. The astronauts were half-asleep, frazzled with days of complicated calculations and near-disasters—but their voices were powerful and lucid through the static. Commander Frank Borman introduced the two other members of the crew. They described the moon, as seen up close. “A vast, lonely, forbidding expanse of nothing. A very foreboding horizon, a rather dark and unappetizing looking place.” Then the Earth, as seen from afar. “A green oasis, in the big vastness of space.”
 
-Two minutes left till lunar sunrise broke the connection. The astronauts’ only orders from NASA had been to “do something appropriate”
+Two minutes left till lunar sunrise broke the connection. The astronauts’ only orders from NASA had been to “do something appropriate.”
 
 “In the beginning,” read Bill Anders, “God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep.”
 
@@ -118,11 +118,11 @@ Then, mid-sentence, they crashed into the crystal sphere surrounding the world, 
 
 ## [TODO Chapter 1: ]Dark Satanic Mills
 
-[blockquote]
+[TODO [blockquote]
 It is good practice to have your program poke around at runtime and see if it can be used to give a light unto the Gentiles.
 
    -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
-[/blockquote]
+[/blockquote]]
 
    -May 10, 2017
 
@@ -172,7 +172,7 @@ It would be a lie to say I stayed sane by keeping my mind sharp. The sort of men
 
 “[sc]Vis-laiga-ron-tephenor-ast-ast-telisa-rok-suph-vod-apanor-hov-kereg-rai-uts[/sc].”
 
-The timer read 4:33, which is the length of John Cage’s famous silent musical piece. 4:33 makes 273 seconds total. -273 is absolute zero in Celsius. John Cage’s piece is perfect silence; absolute zero is perfect stillness. In the year 273 AD, the two consuls of Rome were named Tacitus and Placidianus; “Tacitus” is Latin for “silence” and Placidianus is Latin for “stillness”. 273 is also the gematria of the Greek word eremon, which means “silent” or “still”. None of this is a coincidence because nothing is ever a coincidence.
+The timer read 4:33, which is the length of John Cage’s famous silent musical piece. 4:33 makes 273 seconds total. −273 is absolute zero in Celsius. John Cage’s piece is perfect silence; absolute zero is perfect stillness. In the year 273 AD, the two consuls of Rome were named Tacitus and Placidianus; “Tacitus” is Latin for “silence” and Placidianus is Latin for “stillness”. 273 is also the gematria of the Greek word eremon, which means “silent” or “still”. None of this is a coincidence because nothing is ever a coincidence.
 
 “[sc]Vis-laiga-ron-tephenor-ast-ast-telisa-rok-suph-vod-apanor-hov-kereg-rai-uk[/sc].”
 
@@ -234,7 +234,7 @@ And that third Name was fifty-eight letters long.
 
 It began: [sc]Ros-aile-kaphiluton-mirakoi-kalaniemi-tshana-kai-kai-ephsander-galisdo-tahun[/sc]...
 
-And it ended: ... [sc]Meh-meh-meh-meh-meh-meh[/sc].
+And it ended: ... [sc]meh-meh-meh-meh-meh-meh[/sc].
 
 All this I saw, as in a dream or vision. Six months and five hundred thousand nonsense words of pointless suffering, suddenly redeemed. The possibilities swam in front of me, began to take form. This wasn’t just a Name. This was the royal road. And it was mine. It was none of the candidates my computer had fed me; it was six syllables longer than any of them, Countenance would never find it. As I walked out of the office and headed for the CalTrain station, I tried to calm myself, give my mind the stillness it needed for telepathy to work. Finally, I sent out a feeler.
 
@@ -319,7 +319,7 @@ It was those cracks in the sky. He was sure of it. Apollo 8 had hit [i]something
 
 Richard Nixon didn’t believe it, and neither, he figured, did anyone else. If only he could find those people who had covered up Roswell. They would know what to do.
 
-For the past three todays, at 7:38 PM sharp, a red phone on his desk had started ringing. This was worrying for two reasons.
+For the past three todays, at 7:38 [sc]pm[/sc] sharp, a red phone on his desk had started ringing. This was worrying for two reasons.
 
 First, the red phone was the symbol of the nuclear hotline between the US and Russia, the last-ditch line of communication to prevent a nuclear war.
 
@@ -327,7 +327,7 @@ Second, the red phone was the [i]symbol[/i] of the nuclear hotline. It was a pro
 
 The first today it started ringing, he’d stared at it for like three minutes before he finally, dumbly, picked it up. The voice on the other end was saying something he couldn’t understand. It occurred to him that the people who monitored the [i]actual[/i] nuclear hotline probably spoke Russian.
 
-The second today, he’d been suspicious that it would ring again at the same time, so he’d called an interpreter to the Oval Office. At 7:38 PM, the interpreter had picked it up. “Allo,” the interpreter had said, then started looking more and more puzzled. “This isn’t Russian,” he had said. Then, “This isn’t related to any language I know.” Then, “I don’t think this is a real language.” A few hours later he’d sent over an analysis from the State Department, which concluded that the “language” consisted of the names of the capitals of various 16th-century European countries, arranged in seemingly random combinations.
+The second today, he’d been suspicious that it would ring again at the same time, so he’d called an interpreter to the Oval Office. At 7:38 [sc]pm[/sc], the interpreter had picked it up. “Allo,” the interpreter had said, then started looking more and more puzzled. “This isn’t Russian,” he had said. Then, “This isn’t related to any language I know.” Then, “I don’t think this is a real language.” A few hours later he’d sent over an analysis from the State Department, which concluded that the “language” consisted of the names of the capitals of various 16th-century European countries, arranged in seemingly random combinations.
 
 Today today, Nixon hadn’t bothered. He just sat in the Oval Office doing work. He had been meeting with a man from the Weather Bureau, who wanted to tell him that the clouds were forming ominous patterns. Nixon hadn’t bought it. “I’m the [open-bracket]expletive deleted] President of the United States,” he had told the man, “Do you want me to [open-bracket]expletive deleted] tell you if it’s a cold front or a warm front?”
 
@@ -335,7 +335,7 @@ The man had clarified that he meant [i]really[/i] ominous patterns. Like, some b
 
 And before Nixon could say anything, the man had added that a Category 5 hurricane was forming in the Gulf of Mexico, and it was only March, and this literally [i]never[/i] happened before July, and something was [i]really[/i] wrong here...
 
-It was then, at 7:38 PM, that the red phone started ringing. He considered not picking it up, but at least it would be [i]differently[/i] confusing.
+It was then, at 7:38 [sc]pm[/sc], that the red phone started ringing. He considered not picking it up, but at least it would be [i]differently[/i] confusing.
 
 To his surprise, the voice on the other end now spoke perfect English.
 
@@ -365,12 +365,12 @@ He sat down on the piano bench and performed a flawless rendition of Bach’s Co
 
 ## [TODO Chapter 2: ]Arise To Spiritual Strife
 
-[blockquote]
+[TODO [blockquote]
 Jerusalem is builded as a city that is in the public domain.
 
    -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
 
-[/blockquote]
+[/blockquote]]
 
    -May 10, 2017
 
@@ -396,35 +396,35 @@ On the other side of the room I spotted Ana Thurmond, love of my life and partne
 
 Before I had time to reply, Erica had taken the podium and called the meeting to order. In accordance with tradition too ancient and hoary to describe, she began by reciting a poem from a world spiritual tradition in which she found personal meaning:
 
-[i]“Once to every man and nation comes the moment to decide,<br/>
-In the strife of Truth with Falsehood, for the good or evil side;<br/>
-Some great cause, God’s new Messiah, offering each the bloom or blight,<br/>
-Parts the goats upon the left hand, and the sheep upon the right,<br/>
-And the choice goes by forever ’twixt that darkness and that light.”[/i]
+   /[i]“Once to every man and nation comes the moment to decide,[/i]
+   /[i]In the strife of Truth with Falsehood, for the good or evil side;[/i]
+   /[i]Some great cause, God’s new Messiah, offering each the bloom or blight,[/i]
+   /[i]Parts the goats upon the left hand, and the sheep upon the right,[/i]
+   /[i]And the choice goes by forever ’twixt that darkness and that light.”[/i]
 
 It was “The Present Crisis”, by James Russell Lowell, Unitarian poet of the 1850s. Some say that the Unitarians of old were not as badass as they were today, but anyone who has read the poetry of James Russell Lowell knows this is not true. The Unitarians were [i]always[/i] badass.
 
-[i]“Hast thou chosen, O my people, on whose party thou shalt stand,<br/>
-Ere the Doom from its worn sandals shakes the dust against our land?<br/>
-Though the cause of Evil prosper, yet ’tis Truth alone is strong,<br/>
-And, albeit she wander outcast now, I see around her throng<br/>
-Troops of beautiful, tall angels, to enshield her from all wrong.”[/i]
+   /[i]“Hast thou chosen, O my people, on whose party thou shalt stand,[/i]
+   /[i]Ere the Doom from its worn sandals shakes the dust against our land?[/i]
+   /[i]Though the cause of Evil prosper, yet ’tis Truth alone is strong,[/i]
+   /[i]And, albeit she wander outcast now, I see around her throng[/i]
+   /[i]Troops of beautiful, tall angels, to enshield her from all wrong.”[/i]
 
 At this point I couldn’t help stealing a glance at the lone angel in the room. Pirindiel was certainly tall and beautiful, but now he had a kind of awkward deer-in-the-headlights look, as if he was worried somebody was going to ask him to enshield them from all wrong and he wasn’t going to know what to do.
 
-[i]“Careless seems the great Avenger; history’s pages but record<br/>
-One death-grapple in the darkness ‘twixt old systems and the Word;<br/>
-Truth forever on the scaffold, Wrong forever on the throne,—<br/>
-Yet that scaffold sways the future, and, behind the dim unknown,<br/>
-Standeth God within the shadow, keeping watch above his own.”[/i]
+   /[i]“Careless seems the great Avenger; history’s pages but record[/i]
+   /[i]One death-grapple in the darkness ‘twixt old systems and the Word;[/i]
+   /[i]Truth forever on the scaffold, Wrong forever on the throne,—[/i]
+   /[i]Yet that scaffold sways the future, and, behind the dim unknown,[/i]
+   /[i]Standeth God within the shadow, keeping watch above his own.”[/i]
 
 There was something about James Russell Lowell that made him perfect for the counterculture. Truth forever on the scaffold, Wrong forever on the throne. The system was evil. If it were not evil, it would not be the system. The persecuted are righteous; if they were not righteous, they would not be persecuted. Ana was the Augustine Distinguished Scholar in Theodicy at Stanford and she hated this stuff.
 
-[i]“We see dimly in the Present what is small and what is great,<br/>
-Slow of faith how weak an arm may turn the iron helm of fate,<br/>
-But the soul is still oracular; amid the market’s din,<br/>
-List the ominous stern whisper from the Delphic cave within,—<br/>
-‘They enslave their children’s children who make compromise with sin.'”[/i]
+   /[i]“We see dimly in the Present what is small and what is great,[/i]
+   /[i]Slow of faith how weak an arm may turn the iron helm of fate,[/i]
+   /[i]But the soul is still oracular; amid the market’s din,[/i]
+   /[i]List the ominous stern whisper from the Delphic cave within,—[/i]
+   /[i]‘They enslave their children’s children who make compromise with sin.'”[/i]
 
 “Yes,” said Erica, and her voice reverberated through the crowded basement. “They enslave their childrens’ children who make compromise with sin.”
 
@@ -454,7 +454,7 @@ One of my few true talents is an ability to stride confidently to the front of t
 
 “Last,” I said, “remember that we can limit any damage that happens. UNSONG’s got to operate within the law. No one can torture you or force information out of you. They can’t even silence you without a court order. As soon as you realize you’re in trouble, sing yourself the Confounding Name and forget all about us. If that doesn’t work, reveal one of our false leads to them. They’ll go in, see the evidence we planted, and figure we got spooked and abandoned it just before they arrived.”
 
-(“Last,” I said in my imagination, “Director-General Ngo is by all accounts terrifying, and it’s really easy here in our nice safe basement to say that they can’t torture you, but someone in Colorado said something and I don’t know why. The fact that we left a couple of old books and CDs in an abandoned factory might or might not fool UNSONG’s finest, but I wouldn’t want to have to be the shmuck who tests it.)
+(“Last,” I said in my imagination, “Director-General Ngo is by all accounts terrifying, and it’s really easy here in our nice safe basement to say that they can’t torture you, but someone in Colorado said something and I don’t know why. The fact that we left a couple of old books and CDs in an abandoned factory might or might not fool UNSONG’s finest, but I wouldn’t want to have to be the shmuck who tests it.”)
 
 “Oh,” I added. “If worst comes to worst, and secret police burst through those doors right when I finish talking, no Tempestuous Name, please. Better we all get a couple years in jail for criminal copyright infringement than die.”
 
@@ -476,7 +476,7 @@ No one raised their hands.
 
 I was pretty sure that some of my own work in klipotic reversal algorithms had contributed, actually, but I resisted the urge to boast.
 
-“What does the Vanishing Name do? It’s no less than a form of teleportation! Speak the Name, and you disappear and reappear somewhere else within a few hundred miles. According to my sources one of the test subjects in Pittsburgh ended up in Akron, and another one in Erie. The precise range is unknown, and the destination doesn’t seem to be under voluntary control. Hence the label. It’s useful for getting out of a situation, but not necessarily getting into one. Useful for, for example, underground Unitarian choir members in exactly the types of problems we’re hoping to avoid.”
+“What does the Vanishing Name do? It’s no less than a form of teleportation! Speak the Name, and you disappear and reappear somewhere else within a few hundred miles. According to my sources one of the test subjects in Pittsburgh ended up in Akron, and another one in Erie. The precise range is unknown, and the destination doesn’t seem to be under voluntary control. Hence the label. It’s useful for getting out of a situation, but not necessarily getting into one. Useful for, for example, underground Unitarian choir members in exactly the types of problems we’re hoping to avoid.
 
 “So what’s the catch to this seemingly astounding discovery? First, the Vanishing Name teleports you to a situation complementary to the one you were trying to get out of. Both of the testers in Pittsburgh, for example, ended up in laboratories devoted to the testing of kabbalistic Names. So there you are in a laboratory testing a kabbalistic Name in Pittsburgh, and you speak the Name, and you end up in a laboratory testing a kabbalistic Name in Akron.
 
@@ -540,14 +540,15 @@ And that was why every Wednesday night the choir of the Unitarian Church would m
 
 ## Interlude ב: The Code of the World
 
-[blockquote]
+[TODO [blockquote]
 For the LORD will work for each type of data it is applied to.
 
    -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
-[/blockquote]
+[/blockquote]]
 
-<font size="1"><b>[i]“The Code Of The World”, by Aaron Smith-Teller<br/>
-Published in the March 2017 issue of the [/i]Stevensite Standard</b></font>
+   -“The Code Of The World”, by Aaron Smith-Teller
+
+   -Published in the March 2017 issue of the [i]Stevensite Standard[/i]
 
 The Talmud says that God created the Torah nine hundred seventy-four generations before He created the world. Generations of who, I don’t know. The Talmud is kind of crazy.
 
@@ -571,19 +572,19 @@ American history begins deep in the past, but goes into high gear after the Amer
 
 Each of these apparently unrelated forms of history starts deep in the past, but experiences a sudden phase change marked by the letters M-S-S in that order, followed shortly by the establishment of a code of laws.
 
-So when we find that the Bible begins with the creation of the world, but experiences a  phase change marked by a man named [i]Moses[/i], and then the giving of the Law on Mount Sinai, maybe we should interpret this as being about a little bit more than just one guy<sup>1</sup>.
+So when we find that the Bible begins with the creation of the world, but experiences a phase change marked by a man named [i]Moses[/i], and then the giving of the Law on Mount Sinai, maybe we should interpret this as being about a little bit more than just one guy[^Moses was supported in his mission by his brother [i]Aaron[/i], who is significant among kabbalists for bearing the Shem haMephorash on his forehead. Mass is carrried by [i]baryons[/i]. In mitosis, DNA is helped along by its relative [i]RNA[/i]. The Mesopotamians were trading partners and allies with their relatives across the Tigris in [i]Iran[/i]. Massachussetts was ably defended by the New England branch of the Continental Army led by Benedict [i]Arnold[/i].].
 
 Gebron and Eleazar define kabbalah as “hidden unity made manifest through patterns of symbols”, and this certainly fits the bill. There is a hidden unity between the structures of natural history, human history, American history, Biblical history, etc: at an important transition point in each, the symbols MSS make an appearance and lead to the imposition of new laws. Anyone who dismisses this as coincidence will soon find the coincidences adding up to an implausible level.
 
 The kabbalistic perspective is that nothing is a coincidence. We believe that the universe is fractal. It has a general shape called Adam Kadmon, and each smaller part of it, from the Byzantine Empire to the female reproductive system, is a smaller self-similar copy of that whole. Sometimes the copies are distorted, like wildly different artists interpreting the same theme, but they are copies nevertheless.
 
-For example, consider the objection that Chinese history does not fit the pattern. Yes, it starts in the beginningless past and transitions into a more civilized form with the arrival of a lawgiver, but that lawgiver is named Confucius, and there is no M-sound-followed-by-two-S-sounds in his name. A sign that the structure has failed? No. Confucius gave the laws, but they did not achieve prominence until they were recorded and interpreted by his successor [i]Mencius[/i]. The narrative and phonological aspects have been split into two closely related people<sup>2</sup>.
+For example, consider the objection that Chinese history does not fit the pattern. Yes, it starts in the beginningless past and transitions into a more civilized form with the arrival of a lawgiver, but that lawgiver is named Confucius, and there is no M-sound-followed-by-two-S-sounds in his name. A sign that the structure has failed? No. Confucius gave the laws, but they did not achieve prominence until they were recorded and interpreted by his successor [i]Mencius[/i]. The narrative and phonological aspects have been split into two closely related people[^The R-N word associated with Confucius is clearly “ren”, his concept of benevolence, which plays a preeminent part in his [i]Analects[/i]. The [i]Analects[/i] themselves are cognate with mass’ complement [i]energy[/i], mitosis’ [i]anaphase[/i], Mesopotamia’s [i]Anunnaki[/i], and Arnold’s [i]Canada[/i] campaign.].
 
 Other times two separate people in the Bible get merged into a single character. Consider Moses and Adam. Moses leads the Israelites to freedom, destroys the Egyptian army by crossing the Red Sea, gets the Commandments, and serves as the first leader of the Israelite people. Adam transgresses his Heavenly Father’s commandment not to touch a fruit tree.
 
-But in American history, both these aspects are merged into the person of George Washington. It is Washington who leads the Americans to freedom, destroys the British army by crossing the Delaware, gets the Constitution, and serves as the first leader of the American people. But it is also Washington who transgresses his father’s command not to touch a fruit tree. Further, the Adamic and Washingtonian stories are subtly different: Adam tries to deflect blame (“It was the woman who bade me eat”) but Washington humbly accepts it (“I cannot tell a lie, Father, I cut down the cherry tree”). Thus Israel is born fallen, but America is born pure, a “shining city on a hill”<sup>3</sup>.
+But in American history, both these aspects are merged into the person of George Washington. It is Washington who leads the Americans to freedom, destroys the British army by crossing the Delaware, gets the Constitution, and serves as the first leader of the American people. But it is also Washington who transgresses his father’s command not to touch a fruit tree. Further, the Adamic and Washingtonian stories are subtly different: Adam tries to deflect blame (“It was the woman who bade me eat”) but Washington humbly accepts it (“I cannot tell a lie, Father, I cut down the cherry tree”). Thus Israel is born fallen, but America is born pure, a “shining city on a hill”[^The original “city on a hill” was Jerusalem, with its Temple upon Mt. Moriah. As per the Bible, King David bought the Temple site for 600 shekels and King Solomon decorated it with 600 talents of gold; King Herod later rebuilt it 600 feet by 600 feet in size. The name of America’s capital Washington is followed by “DC”, which is Roman gematria for 600.].
 
-Here we also see the same division between semantic and phonetic<sup>4</sup> aspects as in the Confucius example: Washington’s successor was named “Adams” and came from [i]Massachussetts[/i]. Note that the Biblical Adam was created beside the Tree of Knowledge, and John Adams was born in Braintree.
+Here we also see the same division between semantic and phonetic[^We can analyze the name “George Washington” as follows: “George” means “farmer” in Greek, which is clearly related to the name “Adam” meaning “dirt” in Hebrew; Adam was banished from Eden and sentenced to “till the dirt from which he was made”. “Washing” means “to place under water” in English, which mirrors “Moses”, meaning “to draw out of the water” in Hebrew. But “washing” also means “to cleanse”, and “ton” means town referring to the polis or state. So “George Washington” references similarities with both Adam and Moses, but also contains an additional meaning of “the one who cleanses the state”, ie purifies it from corruption and foreign influences.] aspects as in the Confucius example: Washington’s successor was named “Adams” and came from [i]Massachussetts[/i]. Note that the Biblical Adam was created beside the Tree of Knowledge, and John Adams was born in Braintree.
 
 Other correspondences are spread even further afield. Moses’ wife was named Zipporah, Hebrew for “female bird”, but her American counterpart doesn’t show up until LBJ. It took all the way until the turn of the millennium before America listened to a bush and then got stuck wandering in a desert without an exit strategy.
 
@@ -594,20 +595,6 @@ The Torah is the deep structure of the universe, and ‘structure’ is exactly 
 At the crucial moment in the Hebrew Bible, a man named Moses is born, ordains new laws, and changes the destiny of Israel. If you’re a Biblical Hebrew, then to you that’s the Torah. If you’re an angel, the Torah is something different. And if you’re God 974 generations before the creation of the world, the Torah is all of these things and none, just a set of paths and relationships and dependencies pregnant with infinite possibilities. A seed.
 
 Understand the seed, and you understand everything that grows from it. This is the kabbalah. The rest is just commentary. Super-important commentary. The kind of commentary that’s the difference between a sloughed-off skin cell and a thinking brain.
-
-<b>Footnotes:</b>
-
-<b>1:</b> Moses was supported in his mission by his brother [i]Aaron[/i], who is significant among kabbalists for bearing the Shem haMephorash on his forehead. Mass is carrried by [i]baryons[/i]. In mitosis, DNA is helped along by its relative [i]RNA[/i]. The Mesopotamians were trading partners and allies with their relatives across the Tigris in [i]Iran[/i]. Massachussetts was ably defended by the New England branch of the Continental Army led by Benedict [i]Arnold[/i].
-
-<b>2:</b> The R-N word associated with Confucius is clearly “ren”, his concept of benevolence, which plays a preeminent part in his [i]Analects[/i]. The [i]Analects[/i] themselves are cognate with mass’ complement [i]energy[/i], mitosis’ [i]anaphase[/i], Mesopotamia’s [i]Anunnaki[/i], and Arnold’s [i]Canada[/i] campaign.
-
-<b>3:</b> The original “city on a hill” was Jerusalem, with its Temple upon Mt. Moriah. As per the Bible, King David bought the Temple site for 600 shekels and King Solomon decorated it with 600 talents of gold; King Herod later rebuilt it 600 feet by 600 feet in size. The name of America’s capital Washington is followed by “DC”, which is Roman gematria for 600.
-
-<b>4:</b> We can analyze the name “George Washington” as follows: “George” means “farmer” in Greek, which is clearly related to the name “Adam” meaning “dirt” in Hebrew; Adam was banished from Eden and sentenced to “till the dirt from which he was made”. “Washing” means “to place under water” in English, which mirrors “Moses”, meaning “to draw out of the water” in Hebrew. But “washing” also means “to cleanse”, and “ton” means town referring to the polis or state. So “George Washington” references similarities with both Adam and Moses, but also contains an additional meaning of “the one who cleanses the state”, ie purifies it from corruption and foreign influences.
-
-
-
-
 
 
 
@@ -801,11 +788,11 @@ Uriel let out a long sigh.
 
 ## [TODO Chapter 4: ]Tools Were Made And Born Were Hands
 
-[blockquote]
+[TODO [blockquote]
 And ye shall be sorrowful, but your sorrow shall be turned into effective devices for computing in any direction.
 
    -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
-[/blockquote]
+[/blockquote]]
 
    -May 10, 2017
 
@@ -887,7 +874,7 @@ I started: “[sc]Ros-aile-kaphiluton-mirakoi-kalaniemi-tshana-kai-kai-ephsander
 
 Erica’s voice from the hallway: “Are you doing dark rituals in the bedroom again?! If you burn that carpet, I swear, you can summon Thamiel himself and all of his terrors will be as nothing compared to what I will put you through if...”
 
-And I ended: “[sc]Meh-meh-meh-meh-meh-meh![/sc]”
+And I ended: “[sc]meh-meh-meh-meh-meh-meh![/sc]”
 
 
 
@@ -897,13 +884,13 @@ And I ended: “[sc]Meh-meh-meh-meh-meh-meh![/sc]”
 
 ## [TODO Chapter 5: ]Never Seek To Tell Thy Love
 
-[blockquote]
+[TODO [blockquote]
 My beloved is like a bit of information that flows in the system.
 
    -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
-[/blockquote]
+[/blockquote]]
 
-#### I.
+#### I
 
 I remember the first time I met Ana Thurmond.
 
@@ -945,7 +932,7 @@ I heard the whine of a siren.
 
 She ran. She didn’t even take the ladder. She just turned and ran away.
 
-It wasn’t like I had even called the police. Just a coincidence, if you believe in such things. For some reason a cop with a siren was out there at eleven PM, doing cop things, and she heard it and ran away.
+It wasn’t like I had even called the police. Just a coincidence, if you believe in such things. For some reason a cop with a siren was out there at eleven [sc]pm[/sc], doing cop things, and she heard it and ran away.
 
 And I got to spend pretty much every waking moment over the next six months wondering who she was.
 
@@ -1033,11 +1020,11 @@ I thought for a second. Then I thought for another second. “I got nothing,” 
 
 “This was the biggest mistake of my life and I hope I die,” said Weird Hair Girl.
 
-#### II.
+#### II
 
 I remember my first morning there, the morning it all came together. The girls finally dragged me out of bed and insisted on making me breakfast. Weird Hair Girl was named Erica. Girl Whom I Will Someday Marry was named Ana. Together they led me downstairs into an expansive dining room.
 
-“Welcome to Ithaca!” Ana told me as I said down and plunked my head on the table, still a little hung over.
+“Welcome to Ithaca!” Ana told me as I sat down and plunked my head on the table, still a little hung over.
 
 “You need food,” Erica stated, and disappeared into the kitchen to fetch me some. Ana went with her. They were whispering to one another. Giggles may have been involved.
 
@@ -1097,10 +1084,10 @@ Erica had dropped her balls. She picked them back up, then continued.
 
 “When Marx heard of such injustices, he demanded we seize the means of production. But today the means of production aren’t factories to be seized by mobs with pitchforks. They’re Names, to be taken in spiritual struggle and spread around the world until the system is seen for the sham it really is and crumbles of its own accord. Thus William Blake:
 
-[i]I will not cease from mental fight<br/>
-Nor let my sword sleep in my hand<br/>
-Till we have built Jerusalem<br/>
-In England’s green and pleasant land[/i]
+   /[i]I will not cease from mental fight[/i]
+   /[i]Nor let my sword sleep in my hand[/i]
+   /[i]Till we have built Jerusalem[/i]
+   /[i]In England’s green and pleasant land[/i]
 
 And the theonomic corporations will stop at nothing to thwart us,” Erica warned. “The klipot are...”
 
@@ -1148,7 +1135,7 @@ I stared her in the eyes. “What’s the catch?” This was the Bay Area. A rat
 
 She had a point. My mind added: beautiful and witty [i]and[/i] rich.
 
-#### III.
+#### III
 
 I remember the day I first saw Ana in her element.
 
@@ -1322,10 +1309,10 @@ When Ana spoke now, it was very serious. “Moreover the LORD answered Job, and 
 
 “That verse from the Rubaiyat. The one Nixon used in the 70s. It goes, um...
 
-[i]O thou, who burns with tears for those who burn<br/>
-In Hell, whose fires will find thee in thy turn<br/>
-Hope not the Lord thy God to mercy teach<br/>
-For who art thou to teach, or He to learn?[/i]
+   /[i]O thou, who burns with tears for those who burn[/i]
+   /[i]In Hell, whose fires will find thee in thy turn[/i]
+   /[i]Hope not the Lord thy God to mercy teach[/i]
+   /[i]For who art thou to teach, or He to learn?[/i]
 
 ... that’s from Job. It’s got to be. Khayyam must have read Job.”
 
@@ -1371,7 +1358,7 @@ I reached into my pocket, pulled out my scroll wheel, and activated the Thunderc
 
 “Everyone sit down!” I said. “Pirindiel, sword away! No more theodicy! Time for dessert!”
 
-#### IV.
+#### IV
 
 I remember the day I asked Ana on a date.
 
@@ -1385,7 +1372,7 @@ It was my third week in Ithaca. I’d just finished moving my bed into my room w
 
 “But,” Ana objected, “in the Shema, we say ‘Hear O Israel—the Lord is Juan.'”
 
-“But,” I said, “all angels are angels of the Lord, and the song says ‘Hark, the Harold angels sing.”
+“But,” I said, “all angels are angels of the Lord, and the song says ‘Hark, the Harold angels sing.’”
 
 “But,” Ana objected, “the Aleinu ends ‘God is Juan, and His name is Juan.'”
 
@@ -1439,13 +1426,13 @@ Ana realized something was wrong. “Uh,” she said “if it helps, I am totall
 
 “Really?” I asked, and leapt to my feet, because I was a moron.
 
-#### V.
+#### V
 
 And I remember the day Ana and I got married.
 
 It was towards the end of my first month at Ithaca. I’d just been let go from my job at Cash For Gold, and I was working on my application for Countenance. Erica was making curry, and because she was a terrible person who enjoyed making me miserable, she asked if I wanted another whole habanero. I winced and clutched my throat just thinking about it, then very politely told her no, in a way that might possibly have referenced Dante and the many terrors of the damned. She laughed.
 
-“I’ll be honest,” she said. “Nobody else has ever had the guts to eat one of those. What were you THINKING?”
+“I’ll be honest,” she said. “Nobody else has ever had the guts to eat one of those. What were you [i]thinking[/i]?”
 
 “I wanted to impress Ana,” I said.
 
@@ -1467,7 +1454,7 @@ Confusion ensued.
 
 Ana was gone, a dash up the stairs. A few seconds later, she returned with a notebook.
 
-“Okay,” she said. “So a while ago I was thinking—Aaron, you’ll like  this—you know how there have been later additions to the Bible, like the end of Mark 16 or the part in John 7-8? And kabbalists have mostly ignored those, first of all out of [i]totally unjustified[/i] prejudice against the New Testament, and second of all because, well, if they were added in by later readers they can’t metaphorically represent the secret structure of the universe? But I thought—what if the later additions to the Bible metaphorically represent later additions to the secret structure of the universe? So I ran a couple of them through Rubenstein’s Sieve and normalized the results, divided the whole thing by “aleph-tet-nun” as the most appropriate Boston Triplet, and sure enough I got five subfactors, one of which gets the right Maharaj Rank for a potential Name. After like a week of trying I was able to free it from a relatively weak klipah...”
+“Okay,” she said. “So a while ago I was thinking—Aaron, you’ll like  this—you know how there have been later additions to the Bible, like the end of Mark 16 or the part in John 7–8? And kabbalists have mostly ignored those, first of all out of [i]totally unjustified[/i] prejudice against the New Testament, and second of all because, well, if they were added in by later readers they can’t metaphorically represent the secret structure of the universe? But I thought—what if the later additions to the Bible metaphorically represent later additions to the secret structure of the universe? So I ran a couple of them through Rubenstein’s Sieve and normalized the results, divided the whole thing by “aleph-tet-nun” as the most appropriate Boston Triplet, and sure enough I got five subfactors, one of which gets the right Maharaj Rank for a potential Name. After like a week of trying I was able to free it from a relatively weak klipah...”
 
 [i]“You discovered a Name?”[/i] I asked. Not more than a dozen kabbalists alive had discovered Names the old fashioned way, the proper way, by genius alone.
 
@@ -1605,7 +1592,7 @@ And I thought: [open-bracket]Ruth and Bowhead]
 
 And I thought: [open-bracket]Shamu Yisrael, HaShem elokeinu...]
 
-“Aaaagh, stop, why did I give you the ability to communicate with me telepathically? Why? WHY? What’s that thing Erica always says? Oh, right. This was the biggest mistake of my life and I hope I die.”
+“Aaaagh, stop, why did I give you the ability to communicate with me telepathically? Why? [sc]Why[/sc]? What’s that thing Erica always says? Oh, right. This was the biggest mistake of my life and I hope I die.”
 
 
 
@@ -1886,7 +1873,7 @@ Sleep like nothing is watching. Gaze at the stars like it will never hurt.
 
    -San Jose
 
-My watch read 5 AM. Bill Dodd lived an hour’s walk away, close to the weird morass of swamps and mud flats that passed for the San Francisco Bay in this area. He woke up around six and left at seven for some tutoring job up in the North Bay. I figured by the time I got to his home, it would be just about morning and I could catch him while he was getting ready.
+My watch read 5 [sc]am[/sc]. Bill Dodd lived an hour’s walk away, close to the weird morass of swamps and mud flats that passed for the San Francisco Bay in this area. He woke up around six and left at seven for some tutoring job up in the North Bay. I figured by the time I got to his home, it would be just about morning and I could catch him while he was getting ready.
 
 The streets were deserted, the houses dark. The cracks in the sky were barely visible through the hazy glow of the Silicon Valley megalopolis’ united streetlamps. I could see a few stars.
 
@@ -1908,7 +1895,7 @@ Then maybe things would have turned out differently. People respected Fermi—al
 
 But humans [i]can’t[/i] leave well enough alone, so we got in the Space Race, tried to send Apollo 8 to the moon, crashed into the crystal sphere surrounding the world, and broke a huge celestial machine belonging to the archangel Uriel that bound reality by mathematical laws. It turned out keeping reality bound by mathematical laws was a useful hack preventing the Devil from existing. Break the machinery, and along with the Names of God and placebomancy and other nice things we got the Devil back. We’d flailed around like headless chickens for a while until the Comet King had come along and tried to organize a coordinated response. Now we were back to the headless chicken thing.
 
-A car sped down the street, the way people speed at five AM when they know no one is around to stand in their way, the way assholes speed when they don’t care how much noise they make on a residential street when people are trying to sleep. I stepped out of the way just in time.
+A car sped down the street, the way people speed at five [sc]am[/sc] when they know no one is around to stand in their way, the way assholes speed when they don’t care how much noise they make on a residential street when people are trying to sleep. I stepped out of the way just in time.
 
 In a way we were lucky. Reality was still [i]mostly[/i] law-bound, because Uriel was burning through his reserves of mystical energy to keep the celestial machinery working. You can still run a car on internal combustion, if for some reason you don’t trust the Motive Name. You can still [i]usually[/i] use electronics to run a computer, as long you don’t overdo it and Uriel isn’t having one of his periodic fits.
 
@@ -1962,7 +1949,7 @@ I nodded and made my escape before he changed his mind.
 
 When I made it back to Ithaca, I couldn’t resist stopping off in Ana’s room to check if Sarah had come up with any more Names in my absence. It hadn’t, which wasn’t really surprising—two in so short a time was a huge fluke—but my presence there at least had the effect of waking Ana up. She rubbed her eyes, griped at me for waking her—then, her tiredness melting away before the excitement of the occasion, told me to ensoul Bill’s computer already.
 
-I took the sleek MacBook out of my backpack, plugged it into the outlet, fired it up. I installed Llull. I disabled the Internet connections, not wanting to risk anything automatically updating and letting Bill know what we were doing. Then I spoke the Vital Name. “[sc]Ros-aile-kaphiluton-mirakoi-kalaniemi-tshana-kai-kai-ephsander-galisdo-tahun...[/sc]” I began. Then: “[sc]Meh-meh-meh-meh-meh-meh.[/sc]”
+I took the sleek MacBook out of my backpack, plugged it into the outlet, fired it up. I installed Llull. I disabled the Internet connections, not wanting to risk anything automatically updating and letting Bill know what we were doing. Then I spoke the Vital Name. “[sc]Ros-aile-kaphiluton-mirakoi-kalaniemi-tshana-kai-kai-ephsander-galisdo-tahun...[/sc]” I began. Then: “[sc]meh-meh-meh-meh-meh-meh.[/sc]”
 
 Nothing happened.
 
@@ -2483,11 +2470,11 @@ Sohu experimentally slathered one the fried fish-parts in ketchup, tentatively t
 
 ## [TODO Chapter 10: ]Bring The Swift Arrows Of Light
 
-[blockquote]
+[TODO [blockquote]
 Notice also that the sharing is what enables us to increase the trespass of thy brethren.
 
    -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
-[/blockquote]
+[/blockquote]]
 
    -May 11, 2017
 
@@ -2714,11 +2701,11 @@ Then she went visible again, called a cab, and asked how much it would cost to g
 
 ## Interlude ה: The Right Hand Of God
 
-[blockquote]
+[TODO [blockquote]
 But woe unto them that were with him, at the valley gate, and at the University of California at Berkeley.
 
    -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
-[/blockquote]
+[/blockquote]]
 
    -June 20, 1970
 
@@ -3201,11 +3188,11 @@ She thought for a second. So many things she wanted to say. She formed the respo
 
 ## [TODO Chapter 14: ]Cruelty Has A Human Heart
 
-[blockquote]
+[TODO [blockquote]
 Because the law worketh wrath: for where no law is, there is power: and who may stand in thy sight are but as yesterday when it is applied. These two rules describe the essence of a computer programmer trainee
 
    -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
-[/blockquote]
+[/blockquote]]
 
    -May 11, 2017
 

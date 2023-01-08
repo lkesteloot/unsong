@@ -1,8 +1,34 @@
 - Next:
+    - Read the book and take notes.
+        - I'm supposed to read through chapter 7, but I've removed all the
+            chapter numbers. With so many chapters, people might refer to
+            chapter numbers. But they're ugly in the Table of Contents.
+            I think novels typically don't number chapters?
+            - Check novels in our library.
+            - Those that have chapter numbers do two things:
+                - In ToC, the number lone is outdented to the left.
+                - At chapter, the chapter number (with or without "Chapter")
+                    is above the chapter name.
+            - Dunno how to deal with interludes.
+                - Maybe just have only the Hebrew?
+                - I think the word "Interlude" is important.
+            - How about:
+                - In TOC just have number or Hebrew letter.
+                - At chapter, have "Chapter 5" or "Interlude א".
+            - Need:
+                - A syntax to specify both noun and letter.
+                - Associate with section.
+                - Draw only letter in TOC (modern).
+                - Draw both at chapter.
+                - Draw neither in page header.
+        - Superscript (footnote) numbers seem a little high.
+        - Hel-l-bound is hyphenated between the Ls.
+            - A bunch of weird hyphenation throughout. Check that we're using the right language.
+    - Support drop caps?
     - Skim book 1 and find deal-breakers.
         - HTML.
         - Bad images.
-    - Get Aryeh to make a cover. Or Eloise?
+    - Get Aryeh to make a cover.
     - Print book.
 - Why are some lines too long?
     - See end of test.md, and see what the penalties are for the various options.
