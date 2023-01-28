@@ -2042,11 +2042,11 @@ My mind burning, I set out for the CalTrain station and Stanford.
 
 ## [SECTION-NAME Chapter 8]Laughing To Scorn Thy Laws And Terrors
 
-[blockquote]
+[TODO [blockquote]
 Love is the law, but it is poorly enforced.
 
    -—Reverend Raymond Stevens, [i]“Singers In The Hands Of An Angry God”[/i]
-[/blockquote]
+[/blockquote]]
 
    -March 20, 2001
 
@@ -2377,7 +2377,7 @@ A series of knives rained from the sky, barely missing the girl’s head, and em
 
 Sohu stared at the objects for a while, then sighed, then picked up one of the larger knives.
 
-“Rabbi Akiva proposed that the verse has been misinterpreted. ‘God made Man in his image’ means ‘God made Man according to an image belonging to God’. In other words, Man was built to a specific celestial blueprint. We call that blueprint Adam Kadmon, meaning ‘original man’. Adam Kadmon is the blueprint not only for Man, but for the entire universe. The relationship between this blueprint and the universe itself is the basis of kabbalah.”
+“[sc]Rabbi Akiva proposed that the verse has been misinterpreted. ‘God made Man in his image’ means ‘God made Man according to an image belonging to God’. In other words, Man was built to a specific celestial blueprint. We call that blueprint Adam Kadmon, meaning ‘original man’. Adam Kadmon is the blueprint not only for Man, but for the entire universe. The relationship between this blueprint and the universe itself is the basis of kabbalah.[/sc]”
 
 Sohu cut through a scale, and was rewarded with a spurt of blood for her efforts. She shrieked and almost fell off the cloud.
 
@@ -2593,9 +2593,8 @@ And “he” corresponds to the English letter H. H is for hydrogen, the very be
 
 And then there was my crazy great-uncle. Invented a bomb that could destroy the world, the deadliest and most terrifying object any human being has ever produced—and slapped an H in front of the name. I still wonder, every so often, if he was a hidden kabbalist. It takes a certain amount of obsessiveness to be as reckless as he was. That’s how I picture him, actually, studying Torah by night, figuring out new ways to annihilate cities by day. What sort of religion must such a man have? What kind of relationship with God? What soteriology? What theodicy? All I have to guide me is that one old book, the only thing my father gave me:
 
-[blockquote]H has become a most troublesome letter<br/>
-It means something bigger, if not something better.
-[/blockquote]
+   /[i]H has become a most ominous letter;[/i]
+   /[i]It means something bigger, if not something better.[/i]
 
 What are we to say to [i]that?[/i]
 
@@ -2873,16 +2872,17 @@ She rested her head against a bag of luggage and fell asleep.
 
 ## [SECTION-NAME Interlude ו]There’s A Hole In My Bucket
 
-[blockquote]
-Ring the bells that still can ring<br/>
-Forget your perfect offering<br/>
-There is a crack in everything<br/>
-That’s how the light gets in.<br/>
-—Leonard Cohen, [i]“Anthem”[/i]
+   /Ring the bells that still can ring
+   /Forget your perfect offering
+   /There is a crack in everything
+   /That’s how the light gets in.
+   /—Leonard Cohen, [i]“Anthem”[/i]
 
-[/blockquote]
-<font size="1"><b>[i]“There’s A Hole In My Bucket”, by Aaron Smith-Teller<br/>
-Submitted for the June 2017 issue of the [/i]Stevensite Standard</b></font>
+[VERTICAL-SPACE]
+
+   -“There’s A Hole In My Bucket”, by Aaron Smith-Teller
+
+   -Submitted for the June 2017 issue of the [i]Stevensite Standard[/i]
 
 You’ve probably heard [a href="https://en.wikipedia.org/wiki/There's_a_Hole_in_My_Bucket#Lyrics"]the old children’s song[/a]. “There’s a hole in my bucket, dear Liza, dear Liza.” A child named Henry asks his friend Liza for help with a hole in his bucket. Liza tells him to mend it with straw, but Henry needs—successively—a knife to cut the straw, a stone to sharpen the knife, water to wet the stone, and a bucket to get the water. He ends up in the same place he started—there is a hole in his bucket and he doesn’t know what to do. All of this has obvious kabbalistic implications.
 
@@ -3131,7 +3131,7 @@ She remembered it because it was the only thing that could describe how it felt.
 
 “Uriel!” she shouted with her last ounce of strength. “Kill me!”
 
-Thamiel opened one eye a little wider on his first face; the eyes of the second were still glued shut. “I was going for ‘kill [i]him[/i]‘,” said the devil, “but your way works too, actually.”
+Thamiel opened one eye a little wider on his first face; the eyes of the second were still glued shut. “I was going for ‘kill [i]him[/i]’,” said the devil, “but your way works too, actually.”
 
 The second head continued to scream. Uriel stood silently as the colors and symbols whirled around him, no emotion on his face.
 
@@ -3243,7 +3243,7 @@ And I thought: [i]Huh, I’ve seen this person in the newspaper[/i].
 
 Okay. So any hope that they were just annoyed at Erica’s secret meetings was gone. This was Director-General Malia Ngo. The head of UNSONG. If she was involved, they thought this was the most important thing happening in the world at this moment. Which of course it was. They knew all about the Vital Name and everything it could do, and they were going straight to the top. Okay. So I was really, [i]really[/i] doomed.
 
-When the President and the Comet King had worked together to convince the United Nations to fund UNSONG, leadership of the fledgling bureaucracy had gone to a elderly Brazilian politician who had taken a hands-off approach. He’d gone after the biggest gangs and most blatant serial abusers of Names, talking about “decapitation strikes” against networks of large-scale pirates. The policy was very popular—everyone agreed that having the Mafia in on the Name business was a bad idea—and pretty ineffective, because most unauthorized Name use was by ordinary non-Mafia people who talked to each other online.
+When the President and the Comet King had worked together to convince the United Nations to fund UNSONG, leadership of the fledgling bureaucracy had gone to an elderly Brazilian politician who had taken a hands-off approach. He’d gone after the biggest gangs and most blatant serial abusers of Names, talking about “decapitation strikes” against networks of large-scale pirates. The policy was very popular—everyone agreed that having the Mafia in on the Name business was a bad idea—and pretty ineffective, because most unauthorized Name use was by ordinary non-Mafia people who talked to each other online.
 
 He’d died about ten years ago and been replaced by Ms. Ngo, who had joined the organization two years earlier and presided over a famous sting on the medicinal-Name gangs in the Harmonious Jade Dragon Empire. She replaced her predecessor’s cautious balance with a scorched-earth approach that won her dozens of powerful enemies—all of whom were carefully outmanuevered. It didn’t hurt that theonomic profits increased about 300% during the first five years of her tenure. Sure, a lot of people thought that was because of blockbuster discoveries like the Precious Name and Zahlenquadrat-boxing, but pirated Names becoming a hundred times harder to find couldn’t have hurt either. Soon any move against her would have half the theonomics bigwigs in the country at the President’s doorstep within an hour, and UNSONG was her private fiefdom. She scared a lot of people, and I’d always thought it was a deliberate attempt to play the bully in order to compensate for her unthreatening appearance.
 
@@ -3353,7 +3353,7 @@ As Director-General Malia Ngo and two UNSONG guards strained to understand my ma
 
 ## [SECTION-NAME Chapter 15]O Where Shall I Hide My Face?
 
-[blockquote]
+[TODO [blockquote]
 You saved your shillings and your last six pence<br/>
 Cause in God’s Name they built a barbed wire fence<br/>
 Be glad you sail for a better day<br/>
@@ -3365,9 +3365,9 @@ Ah, no ball or chain no prison shall keep<br/>
 We’re the rebels of the sacred heart<br/>
 —[a href="https://www.youtube.com/watch?v=Gdlkx_cIqtE"]Rebels Of The Sacred Heart[/a]
 
-[/blockquote]
+[/blockquote]]
 
-   -May 11-12, 2017
+   -May 11–12, 2017
 
    -Ione, California
 
@@ -3417,7 +3417,7 @@ A door marked with the UNSONG seal swung open, and a very short woman in a purpl
 
 Holy euphemism, thought Ana, that’s Director-General Malia Ngo.
 
-Malia looked her Ana straight in the eye and asked: “Who are you and why are you invisible?”
+Malia looked at Ana straight in the eye and asked: “Who are you and why are you invisible?”
 
 Something was horribly wrong, and Malia Ngo was that something. Ana ran.
 
@@ -3604,7 +3604,7 @@ For some reason Sohu chose that moment to calm down. As if discussion of the end
 
 “[sc]It is a good plan.[/sc]”
 
-Sohu nodded. “Okay. Fair. Waiting for him to come in and solve every problem has always worked in the past. But... [i]still[/i]! What about you? Shouldn’t you... can’t you at least try to help?”
+Sohu nodded. “Okay. Fair. Waiting for him to come in and solve every problem has always worked in the past. But... [i]still![/i] What about you? Shouldn’t you... can’t you at least try to help?”
 
 “[sc]I run continental drift, and guide the butterfly migration, and keep icebergs in the right place, and prevent people from boiling goats in their mothers’ milk. It is difficult and I am good at it and it allows the world to endure that much longer. I will not beat myself up over failing to do the impossible.[/sc]”
 
@@ -3618,7 +3618,7 @@ Sohu nodded. “Okay. Fair. Waiting for him to come in and solve every problem h
 
 “What?”
 
-“[sc]And I have never seen anything to convince me that God plays an active part in the universe. his role seems to be entirely ontological.[/sc]”
+“[sc]And I have never seen anything to convince me that God plays an active part in the universe. His role seems to be entirely ontological.[/sc]”
 
 “You can’t be a deist! You’re an archangel!”
 
@@ -3652,7 +3652,7 @@ Sohu nodded. “Okay. Fair. Waiting for him to come in and solve every problem h
 
 “[sc]I do not think that worked very well, based on what they titled their book.[/sc]”
 
-Sohu snorted. “All right then. You’re going to teach me kabbalah. But I’m going to teach you to have faith. How do to knock-knock jokes properly and how to have faith. That’s what I’m going to teach you.”
+Sohu snorted. “All right then. You’re going to teach me kabbalah. But I’m going to teach you to have faith. How to do knock-knock jokes properly and how to have faith. That’s what I’m going to teach you.”
 
 “[sc]I am sorry. I am not very good at faith for an archangel.[/sc]”
 
@@ -3666,7 +3666,7 @@ Sohu said nothing. Uriel turned away and went back to running the universe.
 
 ## [SECTION-NAME Interlude ז]Man On The Sphere
 
-[blockquote]
+[TODO [blockquote]
 Let’s play Twister, let’s play Risk<br/>
 See you in Heaven if you make the list
 
@@ -3677,7 +3677,7 @@ See you in Heaven if you make the list
 I believe that this nation should commit itself to achieving the goal, until we’ve landed on the moon, of preventing this decade from ending
 
    -—[a href="https://twitter.com/vesselofspirit"]@vesselofspirit[/a]
-[/blockquote]
+[/blockquote]]
 
 #### I.
 
@@ -3697,7 +3697,7 @@ The bizarre communiques from the archangel Uriel had become an accepted feature 
 
 “[sc]Please avoid the area where Taiwan used to be. In addition, please avoid areas close to where Taiwan used to be, in particular, the East China Sea, the South China Sea, the Philippine Sea, Japan, Korea, and all parts of China within one thousand miles of a coast. Thank you for your cooperation.[/sc]”
 
-“[sc]Attention. Due to a scale back in coverage, the moral arc of the universe no longer bends toward justice. we apologize for the inconvenience.[/sc]”
+“[sc]Attention. Due to a scale back in coverage, the moral arc of the universe no longer bends toward justice. We apologize for the inconvenience.[/sc]”
 
 Seventy-one days after the chaos had begun, a message from Uriel appeared in raised welts on the skin of all of the livestock in the world:
 

@@ -1,30 +1,16 @@
+
 - Next:
     - Read the book and take notes.
-        - Superscript (footnote) numbers seem a little high.
-            - See if we adjusted this in the uncle book.
         - Hel-l-bound is hyphenated between the Ls.
             - A bunch of weird hyphenation throughout. Check that we're using the right language.
-        - Extra page before book page and chapter 1 page.
+            - Lots of "could-n't". Feels very wrong.
         - Look for "disabled the Internet connections", in that paragraph there's a
             line that goes far too long, and a hyphen is right there to break nicely.
         - In classic ToC, lines can extend into the page number area.
-    - Support chapter numbers:
-        - Multi-line chapter names have bad leading at chapter headers. See
-          chapter 8 (page 121).
-            - Instead of setting leading to zero, have a one-shot way to disable
-                the inserted vertical space.
-        - Document in readme.
-        - Regenerate javadoc.
-    - Support drop caps?
-        - Dunno how to mark which paragraphs need this.
-        - Paragraph shape already supports first N lines being indented.
-        - Need to set indent to width of glyph.
-        - Ideally it would follow glyph shape. Not sure if font library allows this.
-    - Skim book 1 and find deal-breakers.
-        - HTML.
-        - Bad images.
-    - Get Aryeh to make a cover.
-    - Print book.
+            - Can we really not have a shape that starts at the end?
+        - The "The Tree of Life" diagram is low-res.
+        - I removed the haMephorash poem, should I put it back in text form?
+            - https://www.jefftk.com/p/hamephorash
 - Why are some lines too long?
     - See end of test.md, and see what the penalties are for the various options.
     - Are penalizing too much for being shorter?
@@ -33,6 +19,7 @@
         - Or in the paragraph indent?
     - Because it looks really ugly to stick out.
 - Convert Uriel's text to smallcaps.
+    - Did this for unsong-1 but not -2 or -3.
     - Write script to find Uriel's lines, count how many there are.
         % python3 count_uriel.py unsong-1.md | wc -l
         179
