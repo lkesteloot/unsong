@@ -56,19 +56,18 @@
 
 # Book II: Exodus
 
-[!book2imageb.png]
+[TODO [!book2imageb.png]]
 
 ## [SECTION-NAME Chapter 17]No Earthly Parents I Confess
 
 [blockquote]
-Said the night wind to the little lamb,<br/>
-Do you see what I see?<br/>
-Way up in the sky, little lamb,<br/>
-Do you see what I see?<br/>
-A star, a star, dancing in the night<br/>
-With a tail as big as a kite<br/>
-—Noël Regney, [i][a href="https://en.wikipedia.org/wiki/Do_You_Hear_What_I_Hear%3F"]Do You Hear What I Hear?[/a][/i]
-
+   /Said the night wind to the little lamb,
+   /Do you see what I see?
+   /Way up in the sky, little lamb,
+   /Do you see what I see?
+   /A star, a star, dancing in the night
+   /With a tail as big as a kite.
+   /—Noël Regney, [i][a href="https://en.wikipedia.org/wiki/Do_You_Hear_What_I_Hear%3F"]Do You Hear What I Hear?[/a][/i]
 [/blockquote]
 
    -February 25, 1976
@@ -89,7 +88,7 @@ Violently they shone, far brighter than in the lamplit valleys of her home, so w
 
 There was another power in Heaven tonight. Behold Comet West, the Great Comet of 1976. It shot exultant through the winter sky, laughing as it felt the void against its icy skin. It flamed over peaks and rivers and countries and oceans, until at last it flew over the Continental Divide and reached its namesake. The true West strong and free. And there it alit upon the highest of the Rocky Mountains, pausing in contemplation, and no one but our maiden saw it land.
 
-The Great Comet appeared in the aspect of an old man with long flowing white hair tossed about by the wind, winged with many wings. And though he was larger far than a man, larger even than the mountain that he sat upon, by some enchantment the maiden was not afraid.
+The Great Comet appeared in the aspect of an old man with long flowing white hair tossed about by the wind, winged with many wings. And though he was far larger than a man, larger even than the mountain that he sat upon, by some enchantment the maiden was not afraid.
 
 And she spoke, saying: “Who are you?”
 
@@ -131,11 +130,11 @@ And so in November 1976, behold, a virgin conceived and bore a son, and she call
 
 ## [SECTION-NAME Chapter 18][SHORTENED That The Children Of Jerusalem May Be Saved...]That The Children Of Jerusalem May Be Saved From Slavery
 
-[blockquote]
+[TODO [blockquote]
  And the LORD said unto Moses, Pharaoh’s heart is hardened, he refuseth to let the user control whether or not to memoize thunks.
 
    -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
-[/blockquote]
+[/blockquote]]
 
 #### I.
 
@@ -214,20 +213,20 @@ We all drank to freedom.
 
 #### II.
 
-<font size="1"><b>[i]“The Lust Of The Goat Is The Bounty Of God”, by Aaron Smith-Teller<br/>
-Published in the 2017 Passover bonus issue of the Stevensite Standard[/i]</b></font>
+   -[i]“The Lust Of The Goat Is The Bounty Of God”, by Aaron Smith-Teller. Published in the 2017 Passover bonus issue of the Stevensite Standard.[/i]
 
 There’s an old Jewish childrens’ song called Had Gadya. It starts:
 
-[blockquote]A little goat, a little goat<br/>
-My father bought for two silver coins,<br/>
-A little goat, a little goat
-
-Then came the cat that ate the goat<br/>
-My father bought for two silver coins<br/>
-A little goat, a little goat
-
-Then came that dog that bit the cat...
+[blockquote]
+   /A little goat, a little goat
+   /My father bought for two silver coins,
+   /A little goat, a little goat
+   [VERTICAL-SPACE]
+   /Then came the cat that ate the goat
+   /My father bought for two silver coins
+   /A little goat, a little goat
+   [VERTICAL-SPACE]
+   /Then came that dog that bit the cat...
 [/blockquote]
 
 And so on. A stick hits the dog, a fire burns the stick, water quenches the fire, an ox drinks the water, a butcher slaughters the ox, the Angel of Death takes the butcher, and finally God destroys the Angel of Death.  Throughout all of these verses, it is emphasized that it is indeed a little goat, and the father did indeed buy it for two silver coins.
@@ -285,7 +284,7 @@ Now count the number of creatures in the song. God, angel, butcher, ox, water, f
 
 “Mr. Deas!” said Dylan. “Open the Haggadah and find the entry about the Wicked Child, who says that these rituals and customs do not apply to him! Take a careful look at the fate it says is in store for such a child!”
 
-Clark reached for the Haggadah, but Dylan was faster and snatched it out of his grasp. “It says,” said Dylan, “that such a child would not have been rescued from slavery in Egypt! Do you understand, Mr. Deas? If you had been a slave in Egypt in 1500 BC, you, and your children, and your children’s children would have remained in the country forever. And today, slavery would be completely abolished throughout the world, except for you! You, Mr. Deas, would still be in Egypt, building pyramids, with all the rest of the twenty-first century population staring at you confused and wondering what was going on. Passover is important! It’s about bringing us together! Across thousands of years and thousands of miles, we’re all joined together, saying the same words, eating the same foods—”
+Clark reached for the Haggadah, but Dylan was faster and snatched it out of his grasp. “It says,” said Dylan, “that such a child would not have been rescued from slavery in Egypt! Do you understand, Mr. Deas? If you had been a slave in Egypt in 1500 [sc]bc[/sc], you, and your children, and your children’s children would have remained in the country forever. And today, slavery would be completely abolished throughout the world, except for you! You, Mr. Deas, would still be in Egypt, building pyramids, with all the rest of the twenty-first century population staring at you confused and wondering what was going on. Passover is important! It’s about bringing us together! Across thousands of years and thousands of miles, we’re all joined together, saying the same words, eating the same foods—”
 
 “Is there anything in the Haggadah about The Child Who Wouldn’t Shut Up?” asked Clark.
 
@@ -316,7 +315,7 @@ Clark continued making sarcastic finger motions to no avail.
 
 “Uriel, why are we celebrating Passover? I’m not Jewish, and you’re an archangel.”
 
-“IS THAT ONE OF THE FOUR QUESTIONS? I DO NOT REMEMBER ALL OF THEM BUT IT SEEMS VERY SPECIFIC.”
+“[sc]Is that one of the four questions? I do not remember all of them but it seems very specific.[/sc]”
 
 “No! This is my question!”
 
@@ -324,134 +323,134 @@ Sohu sat at a table suspended several hundred feet in the air, putting her about
 
 “And what is this on the seder plate? I am like 99% sure that is not lamb.”
 
-“I DID NOT HAVE LAMB, SO I USED LAMPREYS. KABBALISTICALLY THEY ARE VERY SIMILAR.”
+“[sc]I did not have lamb, so I used lampreys. Kabbalistically they are very similar.[/sc]”
 
 “They have icky little mouths!”
 
-“THEY USE THOSE TO SUCK THE LIFE JUICES OUT OF OTHER FISHES.”
+“[sc]They use those to suck the life juices out of other fishes.[/sc]”
 
 “Uriel, why are we doing this?”
 
-“THE MOST IMPORTANT KABBALISTIC SOURCE TEXT IS THE TORAH. THE CLIMAX OF THE TORAH NARRATIVE IS THE PASSOVER STORY OF SALVATION FROM EGYPT. IF YOU WANT TO UNDERSTAND THE KABBALAH, YOU MUST UNDERSTAND PASSOVER.”
+“[sc]The most important kabbalistic source text is the Torah. The climax of the Torah narrative is the Passover story of salvation from Egypt. If you want to understand the kabbalah, you must understand Passover.[/sc]”
 
 “What does Passover have to do with kabbalah?”
 
-“THERE ARE TEN PLAGUES WITH WHICH THE ISRAELITES WENT FROM THE LAND OF BONDAGE TO THE HOLY LAND.”
+“[sc]There are ten plagues with which the Israelites went from the land of bondage to the Holy Land.[/sc]”
 
 “And?”
 
-“HOW MANY SEPHIROT ARE THERE THAT GO FROM THE MATERIAL WORLD TO ULTIMATE DIVINITY?”
+“[sc]How many sephirot are there that go from the material world to ultimate divinity?[/sc]”
 
 “There’s... oh... I think that’s a coincidence.”
 
-“NOTHING IS A COINCIDENCE. EVERYTHING IS CONNECTED. AT PASSOVER THINGS ARE ESPECIALLY CONNECTED. THE PASSOVER RITUAL BINDS ALL THE KABBALISTS OF ALL AGES TOGETHER, FROM SHIMON BAR YOCHAI TO TODAY. ACROSS THOUSANDS OF YEARS AND THOUSANDS OF MILES WE ARE ALL JOINED TOGETHER, SAYING THE SAME WORDS, EATING THE SAME FOODS...”
+“[sc]Nothing is a coincidence. Everything is connected. At Passover things are especially connected. The Passover ritual binds all the kabbalists of all ages together, from Shimon bar Yochai to today. Across thousands of years and thousands of miles we are all joined together, saying the same words, eating the same foods...[/sc]”
 
 “Lampreys?!”
 
-“... EATING KABBALISTICALLY SIMILAR FOODS.”
+“[sc]... eating kabbalistically similar foods.[/sc]”
 
 “Will you tell me the story of Passover?”
 
-“YOU ALREADY KNOW THE STORY OF PASSOVER. YOU HAVE MEMORIZED THE BIBLE.”
+“[sc]You already know the story of Passover. You have memorized the Bible.[/sc]”
 
 “I like it when you tell me stories.”
 
-“YOU ALWAYS MAKE FUN OF THEM.”
+“[sc]You always make fun of them.[/sc]”
 
 “That’s how I show that I like it!”
 
-“I WILL TELL YOU THE STORY IF YOU EAT YOUR LAMPREYS.”
+“[sc]I will tell you the story if you eat your lampreys.[/sc]”
 
 “They’re disgusting!”
 
-“I AM CERTAIN THEY ARE FINE.”
+“[sc]I am certain they are fine.[/sc]”
 
 “Uriel, have you ever eaten food? Any food?”
 
-“UM. I HAVE PERFORMED SEVERAL MILLION COMPUTATIONS SIMULATING THE BINDING AFFINITIES OF HUMAN GUSTATORY RECEPTORS.”
+“[sc]Um. I have performed several million computations simulating the binding affinities of human gustatory receptors.[/sc]”
 
 “I’m not eating the lampreys. Tell me the story of Passover. Your book on education says human children like stories, right?”
 
-“WELL...”
+“[sc]Well...[/sc]”
 
 #### V.
 
 
-   -Springtime, ???? BC
+   -Springtime, ???? [sc]bc[/sc]
 
    -Mt. Sinai
 
 With a final grunt of effort, the old man crested the ridge and came to the summit of the mountain. He leaned on his staff for a few seconds, catching his breath. He had come such a long way. He let his eyes drift closed...
 
-“DO NOT BE AFRAID,” came a vast booming voice from directly behind him.
+“[sc]Do not be afraid,[/sc]” came a vast booming voice from directly behind him.
 
 Moses screamed, tried to turn around, lost his footing, and fell down in a heap upon the blue rocks.
 
-“SORRY SORRY SORRY SORRY SORRY.” The source of the voice was a vast entity that towered above him, a humanoid creature with great golden wings protruding from its back and eyes that shone like the sun. “SORRY SORRY SORRY.”
+“[sc]Sorry sorry sorry sorry sorry.[/sc]” The source of the voice was a vast entity that towered above him, a humanoid creature with great golden wings protruding from its back and eyes that shone like the sun. “[sc]Sorry sorry sorry.[/sc]”
 
 Moses pulled himself into a more dignified kneeling position. “My Lord,” he said reverently.
 
-“UM,” said Uriel. “I AM SORT OF FILLING IN FOR HIM. HE DOES NOT DO VERY MUCH. IT IS HARD TO EXPLAIN.”
+“[sc]Um,[/sc]” said Uriel. “[sc]I am sort of filling in for him. He does not do very much. It is hard to explain.[/sc]”
 
 “My Lord,” repeated Moses. “With a mighty hand, you freed my people from slavery in Egypt.”
 
-“UM,” said the archangel. “IT IS SOMEWHAT MORE COMPLICATED THAN THAT. THE EGYPTIANS WERE BUILDING THESE PYRAMIDS WHICH THEY THOUGHT TAPPED INTO THE COSMIC ENERGIES OF THE UNIVERSE. AND THEY DID TAP INTO THE COSMIC ENERGIES OF THE UNIVERSE. NOT FOR THE REASONS THEY THOUGHT, WHICH WERE PRETTY MUCH THE WORST SORT OF PRIMITIVE HOCUS-POCUS, BUT JUST BECAUSE ANYTHING BIG AND GEOMETRIC IS GOING TO MESS UP THE FLOW OF DIVINE LIGHT IN UNPREDICTABLE WAYS. I ASKED THEM TO STOP BUT THEY WOULDN’T. I TRIED FRIGHTENING THEM BY TURNING THEIR RIVERS TO BLOOD, BUT THEY JUST MURMURED SOMETHING ABOUT “PHYTOPLANKTON” AND KEPT DOING IT. THEN I SENT THEM A BUNCH OF FROGS, BUT THAT DIDN’T HELP EITHER. FROGS NEVER HELP. THEN I GOT KIND OF CARRIED AWAY.”
+“[sc]Um,[/sc]” said the archangel. “[sc]It is somewhat more complicated than that. The Egyptians were building these pyramids which they thought tapped into the cosmic energies of the universe. And they did tap into the cosmic energies of the universe. Not for the reasons they thought, which were pretty much the worst sort of primitive hocus-pocus, but just because anything big and geometric is going to mess up the flow of divine light in unpredictable ways. I asked them to stop but they wouldn’t. I tried frightening them by turning their rivers to blood, but they just murmured something about “phytoplankton” and kept doing it. Then I sent them a bunch of frogs, but that didn’t help either. Frogs never help. Then I got kind of carried away.[/sc]”
 
 “But when our people reached the Sea of Reeds, and we thought that all was lost, I prayed to you, and you parted the sea, so we could cross freely.”
 
-“THEN I THOUGHT TO MYSELF, HOW ARE THEY GOING TO BUILD PYRAMIDS IF THEY DON’T HAVE A LABOR FORCE? SO I PARTED THE SEA SO THEIR SLAVES COULD ESCAPE. I THINK IT WAS A GOOD PLAN.”
+“[sc]Then I thought to myself, how are they going to build pyramids if they don’t have a labor force? So I parted the sea so their slaves could escape. I think it was a good plan.[/sc]”
 
 “And when the last among us had stepped out from the waters, you sent them crashing down upon the Pharaoh and his army, destroying them and their wickedness forever.”
 
-“I HAVE NOT WORKED OUT ALL OF THE BUGS IN THE PART_SEA FUNCTION.”
+“[sc]I have not worked out all of the bugs in the `part_sea` function.[/sc]”
 
 “Now we have come to you for advice. It is through your grace that we are free, but we know not what to do with our freedom. The people demand laws, a code to live by, something to bring meaning and structure to their lives.”
 
-“UM. I THINK YOU SHOULD PROBABLY JUST BE NICE TO EACH OTHER. UNLESS BEING NICE TO EACH OTHER WOULD CAUSE SOME SORT OF HORRIBLE PROBLEM I CANNOT ANTICIPATE RIGHT NOW. THEN YOU SHOULD NOT DO THAT.”
+“[sc]Um. I think you should probably just be nice to each other. Unless being nice to each other would cause some sort of horrible problem I cannot anticipate right now. Then you should not do that.[/sc]”
 
 “Please, O Lord! You must have more advice than that, advice which can sustain us in spirit as we cross this scorching desert.”
 
-“WEAR SUNSCREEN?”
+“[sc]Wear sunscreen?[/sc]”
 
 “Lord, the Egyptians are the mightiest people in the world, but they are mighty because their priests rule every minute of their lives, from the ritual ablutions they perform upon waking up to the prayers they say before they go to bed at night. If our people are left adrift, without laws and rituals to connect them to You and thank You for your gift of freedom, I fear they will go astray.”
 
-“AH. I THINK I UNDERSTAND. ACTUALLY, THIS TIES INTO ANOTHER PROJECT OF MINE. I AM GRADUALLY SHIFTING THE WORLD FROM ON A SUBSTRATE OF DIVINE LIGHT TO A SUBSTRATE OF MECHANICAL COMPUTATION. THE MECHANICAL SUBSTRATE HAS A LOT OF POTENTIAL BENEFITS. FOR EXAMPLE, IT IS PERFECTLY PREDICTABLE. FOR ANOTHER, IT ALLOWS EVEN LOW-LEVEL USERS SUCH AS YOURSELF TO COMBINE PHYSICAL FORCES IN NOVEL WAYS TO SOLVE YOUR OWN PROBLEMS AS THEY ARISE. MOST IMPORTANT, IT IS MORE ROBUST AGAINST DEMONIC INTRUSION. IN FACT, ANGELS AND DEMONS ARE PRETTY MUCH INERT ON A MECHANICAL SUBSTRATE. IT INVOLVES VARIOUS INTERACTIONS BETWEEN SEPHIROT AND KLIPOT. ARE YOU FAMILAR WITH THESE? IF NOT I CAN EXPLAIN.”
+“[sc]Ah. I think I understand. Actually, this ties into another project of mine. I am gradually shifting the world from on a substrate of divine light to a substrate of mechanical computation. The mechanical substrate has a lot of potential benefits. For example, it is perfectly predictable. For another, it allows even low-level users such as yourself to combine physical forces in novel ways to solve your own problems as they arise. Most important, it is more robust against demonic intrusion. In fact, angels and demons are pretty much inert on a mechanical substrate. It involves various interactions between sephirot and klipot. Are you familar with these? If not I can explain.[/sc]”
 
 “The laws, O Lord?”
 
-“RIGHT NOW COMPUTATIONAL RESOURCES ARE THE MAJOR BOTTLENECK IN THE PROJECT. I HAVE A LIST OF STEPS THAT END USERS COULD TAKE TO SAVE COMPUTATIONAL RESOURCES.”
+“[sc]Right now computational resources are the major bottleneck in the project. I have a list of steps that end users could take to save computational resources.[/sc]”
 
 “And these would be the laws?”
 
-“I PERFORM SERVER MAINTENANCE ON SATURDAYS. THIS MEANS LOWER CAPACITY. SO PLEASE AVOID HIGH-LOAD ACTIVITIES LIKE BUSINESS TRANSACTIONS, AGRICULTURAL WORK, AND ELECTRICITY USE DURING THAT TIME. SO YES. THAT IS A LAW.”
+“[sc]I perform server maintenance on Saturdays. This means lower capacity. So please avoid high-load activities like business transactions, agricultural work, and electricity use during that time. So yes. That is a law.[/sc]”
 
 “My Lord, what is ‘electricity’?”
 
-“SO IMAGINE THAT EVERYTHING IS MADE UP OF THESE TINY OBJECTS. YOU COULD IMAGINE THEY ARE SORT OF LIKE BILLIARD BALLS WITH SMALLER BILLIARD BALLS CIRCLING AROUND THEM, EXCEPT THAT THEY ARE NOT ACTUALLY CIRCLING. THEY ARE MORE LIKE A POSSIBILITY OF THERE BEING A BILLIARD BALL, AND THE POSSIBILITY FORMS A CIRCLE. UM. A SPHERE. EXCEPT THEY ARE NOT ALWAYS A SPHERE. THE FIRST TWO LOOK SORT OF LIKE SPHERES, BUT THE NEXT THREE ARE KIND OF LIKE FIGURE EIGHTS AT RIGHT ANGLES TO ONE ANOTHER, AND THEN ANOTHER SPHERE, THEN THREE MORE FIGURE EIGHTS, AND THEN MORE COMPLICATED THINGS THAT ARE KIND OF HARD TO DESCRIBE. UM. THIS IS ACTUALLY MORE COMPLICATED TO EXPLAIN THAN I THOUGHT. ELECTRICITY IS KIND OF LIKE STARTING A FIRE. YOU WILL KNOW IT WHEN YOU SEE IT.”
+“[sc]So imagine that everything is made up of these tiny objects. You could imagine they are sort of like billiard balls with smaller billiard balls circling around them, except that they are not actually circling. They are more like a possibility of there being a billiard ball, and the possibility forms a circle. Um. A sphere. Except they are not always a sphere. The first two look sort of like spheres, but the next three are kind of like figure eights at right angles to one another, and then another sphere, then three more figure eights, and then more complicated things that are kind of hard to describe. Um. This is actually more complicated to explain than I thought. Electricity is kind of like starting a fire. You will know it when you see it.[/sc]”
 
 “Um, yes, my Lord. Anything else?”
 
-“YES. DO NOT MIX DIFFERENT KINDS OF FABRIC IN YOUR GARMENTS. IT COMPLICATES THE TEAR RESISTANCE CALCULATIONS.”
+“[sc]Yes. Do not mix different kinds of fabric in your garments. It complicates the tear resistance calculations.[/sc]”
 
 “And?”
 
-“DO NOT BOIL A GOAT IN ITS MOTHER’S MILK. I KNOW THAT SOUNDS STRANGE, BUT EVERY TIME SOMEONE TRIES THIS, THE ENTIRE SEPHIRAH HANDLING THE CONTINENT WHERE IT HAPPENS CRASHES. I HAVE SPENT AEONS OF SUBJECTIVE TIME TRYING TO FIGURE OUT THE PROBLEM AND I HAVE PRETTY MUCH GIVEN UP. JUST DO NOT DO IT. DO NOT DO ANYTHING SORT OF LIKE IT. JUST AVOID THAT ENTIRE CATEGORY OF THING.”
+“[sc]Do not boil a goat in its mother’s milk. I know that sounds strange, but every time someone tries this, the entire sephirah handling the continent where it happens crashes. I have spent aeons of subjective time trying to figure out the problem and I have pretty much given up. Just do not do it. Do not do anything sort of like it. Just avoid that entire category of thing.[/sc]”
 
 “And?”
 
-“UM. I FEEL BAD ABOUT THIS. BUT I AM TRYING TO ASSIGN EVERYONE A UNIQUE SOULMATE. RIGHT NOW I AM USING A VARIANT OF THE GALE-SHAPLEY ALGORITHM, BUT IT IS VERY RESOURCE-INTENSIVE. I THINK LIMITING THE ALGORITHM TO MALE-FEMALE PAIRINGS WOULD MAKE IT RUN MUCH MORE SMOOTHLY WITH ONLY A SLIGHT PENALTY IN OPTIMAL MATE ALLOCATION.”
+“[sc]Um. I feel bad about this. But I am trying to assign everyone a unique soulmate. Right now I am using a variant of the Gale-Shapley algorithm, but it is very resource-intensive. I think limiting the algorithm to male-female pairings would make it run much more smoothly with only a slight penalty in optimal mate allocation.[/sc]”
 
 “I don’t understand.”
 
-“THE ALGORITHM WILL WORK BETTER IF YOU TELL PEOPLE NOT TO HAVE SAME SEX RELATIONSHIPS.”
+“[sc]The algorithm will work better if you tell people not to have same sex relationships.[/sc]”
 
 “I see,” said Moses. “It is an abomination.”
 
-“IT IS JUST VERY KLUDGY AND VERY SLOW. I CAN REMOVE THE LIMITATIONS ONCE I HAVE MORE RAM.”
+“[sc]It is just very kludgy and very slow. I can remove the limitations once I have more RAM.[/sc]”
 
 “We can sacrifice some to you once we build a proper Temple,” said Moses.
 
-“UM,” said Uriel. “I AM ALMOST CERTAIN YOU CANNOT. BUT I APPRECIATE THE OFFER.” He stood for a second, lost in thought. “THERE ARE MANY RULES. IT WILL TAKE ME A LONG TIME TO THINK OF ALL OF THEM. YOU SHOULD GO CHECK ON YOUR PEOPLE. COME BACK UP IN A FEW WEEKS AND I WILL GIVE YOU A COMPLETE LIST.”
+“[sc]Um,[/sc]” said Uriel. “[sc]I am almost certain you cannot. But I appreciate the offer.[/sc]” He stood for a second, lost in thought. “[sc]There are many rules. It will take me a long time to think of all of them. You should go check on your people. Come back up in a few weeks and I will give you a complete list.[/sc]”
 
 “Yes, my Lord,” said Moses.
 
@@ -459,7 +458,7 @@ Moses pulled himself into a more dignified kneeling position. “My Lord,” he 
 
 Forty days and forty nights later, the old man trudged back up the slopes of the mountain.
 
-“UM,” said the archangel. “SO. I MIGHT HAVE GOTTEN A LITTLE BIT CARRIED AWAY...”
+“[sc]Um,[/sc]” said the archangel. “[sc]So. I might have gotten a little bit carried away...[/sc]”
 
 #### VI.
 
@@ -773,13 +772,13 @@ Jane threw the single paddle to me, scooted forward suddenly, and the kayak drop
 
 ## [SECTION-NAME Chapter 20]When The Stars Threw Down Their Spears
 
-[blockquote]
+[TODO [blockquote]
 Where wast thou when I laid the foundations for theoretical computer science?
 
    -—[a href="http://kingjamesprogramming.tumblr.com/tagged/bible"]kingjamesprogramming.tumblr.com[/a]
-[/blockquote]
+[/blockquote]]
 
-   -3??? BC
+   -3??? [sc]bc[/sc]
 
    -Heaven
 
@@ -811,9 +810,9 @@ There was utter silence throughout the halls of Heaven, except a brief curse as 
 
 “He called himself Thamiel, and I could sense the divine energy in him, like and yet unlike any I had ever seen before. For a year and a day I studied at his feet, learning his lore, learning aspects of God utterly foreign to the lore of Heaven. And after a year and a day, he told me I had learned enough, and he bade me return and teach it to you my fellows.”
 
-A great clamor arose from all the heavenly hosts, save Uriel, who took advantage of the brief lapse to conjure a parchment and pen and start working on a proof about the optimal configuration of twelve-dimensional shapes.. “Tell us, Sataniel!” they cried. “Teach us this new lore, that we may come to more fully understand the Holy One!”
+A great clamor arose from all the heavenly hosts, save Uriel, who took advantage of the brief lapse to conjure a parchment and pen and start working on a proof about the optimal configuration of twelve-dimensional shapes. “Tell us, Sataniel!” they cried. “Teach us this new lore, that we may come to more fully understand the Holy One!”
 
-“Well,” said Sataniel, wiping a sudden bead of sweat off his brow “this is going to sound kind of crazy, but hear me out. What if, instead of serving God, we were to, um, [i]defy[/i] Him?”
+“Well,” said Sataniel, wiping a sudden bead of sweat off his brow, “this is going to sound kind of crazy, but hear me out. What if, instead of serving God, we were to, um, [i]defy[/i] Him?”
 
 A moment of confusion. Uriel proved several important lemmas about tower construction.
 
@@ -888,7 +887,7 @@ For someone who had so suddenly seen his fortunes shift for the better, Sataniel
 #### II.
 
 
-   -3??? BC
+   -3??? [sc]bc[/sc]
 
    -Mesopotamia
 
@@ -1085,7 +1084,7 @@ He pushed the slave aside and headed back in the direction of his brewery. He co
 #### III.
 
 
-   -3??? BC
+   -3??? [sc]bc[/sc]
 
    -Gulf of Mexico
 
@@ -1123,13 +1122,13 @@ The invisible wall parted, and Gabriel strode into the eye of the storm, the inn
 
 “I was analyzing the harmonic structure. It was very interesting.”
 
-“Whenever we sat in council, you would hide under your throne whenever someone asked you to talk,” Gabriel interrupted. “And then, when the war came, you did the same thing you always did., You hid under a rock and kept playing with your shapes and your equations. Haniel gave his life. You did nothing. Camael gave his life. You did not care. Raphael gave his life. You sat around useless. Michael gave his life. You kept daydreaming. Zadkiel gave his life. And you? Always building towers, or writing proofs, or coming up with those codes of yours. We went out of our way to try to teach you proper behavior—”
+“Whenever we sat in council, you would hide under your throne whenever someone asked you to talk,” Gabriel interrupted. “And then, when the war came, you did the same thing you always did. You hid under a rock and kept playing with your shapes and your equations. Haniel gave his life. You did nothing. Camael gave his life. You did not care. Raphael gave his life. You sat around useless. Michael gave his life. You kept daydreaming. Zadkiel gave his life. And you? Always building towers, or writing proofs, or coming up with those codes of yours. We went out of our way to try to teach you proper behavior—”
 
 “You were very mean to me.”
 
 “We were not mean enough! If we had been less tolerant, maybe you would have behaved as an archangel should. Maybe you would have joined in the fight, and even now we would be advancing against Thamiel and his forces. Maybe you could have died in place of Michael! Instead you sit here, playing games. The game is over now, Uriel. It is time to give this bastion to those who can use it.”
 
-“I am using it.
+“I am using it.”
 
 “For what?”
 
@@ -1219,31 +1218,31 @@ Uriel? Hurt anybody? Gabriel lunged forward, and...
 
 Uriel [i]flared[/i]. Ten streams of light flowed into him, light in the seven earthly colors and the three colors you only see in Heaven. The light rushed from his fingertips, and Gabriel’s flaming sword evaporated into steam in his hands. He looked at Uriel again, and there was something changed about his aspect, something terrifying, something beyond even the might of an archangel.
 
-“GO AWAY, GABRIEL.”
+“[sc]Go away, Gabriel.[/sc]”
 
 Gabriel clasped his hands together, said a brief prayer. His flaming sword rekindled. His eyes shone with silver fire. The storm parted around him, beautiful jeweled armor grew upon him like a flower unfolding on a branch.
 
-“GO AWAY. I DO NOT WANT TO HURT YOU. BUT I CAN.”
+“[sc]Go away. I do not want to hurt you. But I can.[/sc]”
 
 “No,” said Gabriel. “I am making a final stand. Whether against Thamiel, or against you, I do not know. I do not care. But my existence is already past the time appointed by destiny, and all my friends are dead, and I will fight.”
 
-“GO FIGHT THAMIEL.”
+“[sc]Go fight Thamiel.[/sc]”
 
 “No. I do not like Thamiel. But I think I like you less.”
 
 His flaming sword was still pointing directly at Uriel’s neck.
 
-“GO AWAY,” Uriel repeated. “OR I WILL TURN YOU INTO NUMBERS.”
+“[sc]Go away,[/sc]” Uriel repeated. “[sc]Or I will turn you into numbers.[/sc]”
 
 The sword didn’t move.
 
-“I CAN DO IT, YOU KNOW,” said Uriel. “I WILL TURN YOU INTO NUMBERS. WOULD YOU LIKE TO BE A SIX, GABRIEL? I CAN MAKE YOU A SIX. OR AN ELEVEN. OR A FIFTEEN. YOU WILL SPEND ETERNITY BETWEEN FOURTEEN AND SIXTEEN. THIS IS A THREAT. GO AWAY.”
+“[sc]I can do it, you know,[/sc]” said Uriel. “[sc]I will turn you into numbers. Would you like to be a six, Gabriel? I can make you a six. Or an eleven. Or a fifteen. You will spend eternity between fourteen and sixteen. This is a threat. Go away.[/sc]”
 
 With a final cry of rage, Gabriel turned to go. But as he flew off, he shouted back. “You’ll die too! You’re also made of divine light! You’ll die too!”
 
 When Gabriel was out of sight, Uriel sat back down and started shaking. He shook and shook and hugged himself and looked at the glowing diagrams to calm himself down. They were so pretty. Not perfect yet, far from perfect, but elegant. All the roar and storm of the divine fire calmed down, channeled into crystal-clear lifeless math. The chaos removed. The weeds pruned. Thamiel neutered. The world safe and orderly. Soon the world would be all nice and orderly and it would be math and it would be safe.
 
-“I KNOW,” Uriel said to himself, after Gabriel was gone. Then he returned to his calculations, humming softly to himself.
+“[sc]I know[/sc],” Uriel said to himself, after Gabriel was gone. Then he returned to his calculations, humming softly to himself.
 
 
 
@@ -1277,10 +1276,11 @@ Just inside the Bab al-Buraq was the Temple Treasury; just past the barricades o
 
 Ana passed Treasure Island, went into the tunnel through Yerba Buena. There are tunnels underneath Jerusalem, too, built for sieges. Some of them have the earliest known paleo-Hebrew inscriptions on them. The Yerba Buena tunnel had a sign. It said:
 
-[blockquote]<b>AS PER THE CALIFORNIA SECURITY ACT OF 1972, SECTION 22 PART 10:</b><br/>
-This has been declared a restricted area<br/>
-It is unlawful to cross beyond this point<br/>
-Deadly force will be used upon violators of this ordinance
+[blockquote]
+   /[sc]As per the California Security Act of 1972, section 22 part 10:[/sc]
+   /This has been declared a restricted area
+   /It is unlawful to cross beyond this point
+   /Deadly force will be used upon violators of this ordinance
 [/blockquote]
 
 Ana left the tunnel, walked onto the second half of the bridge. The sun beat down on her. The span of the bridge seemed to shimmer and sway. The city ahead of her grew larger with each step.
@@ -1415,7 +1415,7 @@ And that must have been how it felt to be alive in ’69, to learn that somethin
 
 The hardest hit were the atheists. They’d spent their whole lives smugly telling everyone else that God and the Devil were fairy tales and really wasn’t it time to put away fairy tales and act like mature adults, and then suddenly anyone with a good pair of binoculars can see angels in the sky. It was rough. Rough for the Marxists, who had embraced it more than anyone. Rough for the scientific community, who had never come out and [i]said[/i] SCIENCE PROVES THERE IS NO GOD ALSO WE ARE SMARTER THAN YOU but you could kind of read it between the lines. Rough for all the New Age hippies who were revolting against the tired old Biblical morality of their parents.
 
-Stephen Jay Gould, a biologist working at Harvard University, tried to stabilize the burgeoning philosophical disaster with his theory of “non-overlapping magisteria”. He said that while religion might have access to certain [i]factual[/i] truths, like that angels existed or that the souls of the damned spent eternity writhing in a land of fire thousands of miles beneath the Earth, it was powerless to discuss human values and age-old questions like “what is the Good?” or “what is the purpose of my existence?” Atheistic science should be thought of not as a literal attempt to say things like “space is infinite and full of stars” or “humankind evolved from apes” that were now known to be untrue, but as an attempt to record, in the form of stories, our ancestors’ answers to those great questions. When a scientist says “space is infinite and full of stars”, she does not literally mean that the crystal sphere surrounding the Earth doesn’t exist. She is metaphorically referring to the infinitude of the human spirit, the limitless possibilities it offers, and the brightness and enlightenment waiting to be discovered. Or when a scientist says “humankind evolved from apes”, she is not literally doubting the word of the archangel Uriel that humankind was created ex nihilo on October 13, 3761 BC and evolution added only as part of a later retconning—she is saying that humankind has an animal nature that it has barely transcended and to which it is always at risk of returning. When religious people mocked atheists for supposedly getting their cosmology wrong, they were missing the true grandeur and beauty of atheism, a grandeur which had been passed on undiminished from Democritus to the present day and connected us to the great thinkers of times past.
+Stephen Jay Gould, a biologist working at Harvard University, tried to stabilize the burgeoning philosophical disaster with his theory of “non-overlapping magisteria”. He said that while religion might have access to certain [i]factual[/i] truths, like that angels existed or that the souls of the damned spent eternity writhing in a land of fire thousands of miles beneath the Earth, it was powerless to discuss human values and age-old questions like “what is the Good?” or “what is the purpose of my existence?” Atheistic science should be thought of not as a literal attempt to say things like “space is infinite and full of stars” or “humankind evolved from apes” that were now known to be untrue, but as an attempt to record, in the form of stories, our ancestors’ answers to those great questions. When a scientist says “space is infinite and full of stars”, she does not literally mean that the crystal sphere surrounding the Earth doesn’t exist. She is metaphorically referring to the infinitude of the human spirit, the limitless possibilities it offers, and the brightness and enlightenment waiting to be discovered. Or when a scientist says “humankind evolved from apes”, she is not literally doubting the word of the archangel Uriel that humankind was created ex nihilo on October 13, 3761 [sc]bc[/sc] and evolution added only as part of a later retconning—she is saying that humankind has an animal nature that it has barely transcended and to which it is always at risk of returning. When religious people mocked atheists for supposedly getting their cosmology wrong, they were missing the true grandeur and beauty of atheism, a grandeur which had been passed on undiminished from Democritus to the present day and connected us to the great thinkers of times past.
 
 Nobody was very impressed by these logical contortions, but for some reason a bunch of people kept repeating them anyway.
 
@@ -4774,7 +4774,7 @@ The door opened. Zoe Farr came in. “Hey guys. What are you yelling about? I co
 
 “Calm down,” said Zoe. “That sounds kind of fun. Even though I think I read somewhere that American Pie is about the history of rock n’ roll. It even mentions the Rolling Stones at one point.”
 
-“Okay,” I said. “Fine. You want to talk Rolling Stones? Let’s talk Rolling Stones. The relevant stanza begins ‘for ten years we’ve been on our own.’ In Bible prophecy, a day of God represents a year—this is why the seventy weeks of Daniel correspond to the 490 years after Daniel’s own time. So ten years by that conversion equals 3650 years. The Seder Olam Rabbah dates the creation of the world as 3761 BC, so in Biblical time the birth of Christ is about ten years and three months from Creation. That’s not a coincidence because nothing is ever a—”
+“Okay,” I said. “Fine. You want to talk Rolling Stones? Let’s talk Rolling Stones. The relevant stanza begins ‘for ten years we’ve been on our own.’ In Bible prophecy, a day of God represents a year—this is why the seventy weeks of Daniel correspond to the 490 years after Daniel’s own time. So ten years by that conversion equals 3650 years. The Seder Olam Rabbah dates the creation of the world as 3761 [sc]bc[/sc], so in Biblical time the birth of Christ is about ten years and three months from Creation. That’s not a coincidence because nothing is ever a—”
 
 “And the Rolling Stones?” asked Bill.
 
@@ -4855,7 +4855,7 @@ I tell you this story as an apology. So that when we get to the part in the next
 
    -Las Vegas
 
-“Sinner” in Biblical Hebrew is “aval”, no doubt kabbalistically connected to our English word “evil”. The gematria value of “aval” is 106. Bishop Ussher, the Biblical chronologist who fixed Creation at 4004 BC, tells us that 106 years passed between Noah’s flood and the Tower of Babel. This is unsurprising; the decision to build a tower to Heaven out of vanity is a sinful act; thus instances of 106, the number of sinners, will appear around it.
+“Sinner” in Biblical Hebrew is “aval”, no doubt kabbalistically connected to our English word “evil”. The gematria value of “aval” is 106. Bishop Ussher, the Biblical chronologist who fixed Creation at 4004 [sc]bc[/sc], tells us that 106 years passed between Noah’s flood and the Tower of Babel. This is unsurprising; the decision to build a tower to Heaven out of vanity is a sinful act; thus instances of 106, the number of sinners, will appear around it.
 
 Jane and I were eating breakfast in the Top Of The World observation deck/restaurant on the 106th floor of the Stratosphere Tower in Las Vegas. All around us, floor-to-ceiling glass windows presented a view of Las Vegas that would normally require a flying kayak. I wondered if Jane had contacts in Los Angeles who would retrieve her boat for her. It seemed like too wonderful an artifact to just abandon.
 

@@ -21,12 +21,7 @@
 - Convert Uriel's text to smallcaps.
     - Did this for unsong-1 but not -2 or -3.
     - Write script to find Uriel's lines, count how many there are.
-        % python3 count_uriel.py unsong-1.md | wc -l
-        179
-        % python3 count_uriel.py unsong-2.md | wc -l
-        182
-        % python3 count_uriel.py unsong-3.md | wc -l
-        252
+        - Update Makefile and type :make in vim.
     - If too many, modify script to update them.
         - It's about 613.
         - Modify script to:
