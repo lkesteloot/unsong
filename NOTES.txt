@@ -11,6 +11,7 @@
         - The "The Tree of Life" diagram is low-res.
         - I removed the haMephorash poem, should I put it back in text form?
             - https://www.jefftk.com/p/hamephorash
+        - Kerning between W and e is too large in "Well".
 - Why are some lines too long?
     - See end of test.md, and see what the penalties are for the various options.
     - Are penalizing too much for being shorter?

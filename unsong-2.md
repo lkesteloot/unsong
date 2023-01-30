@@ -1252,11 +1252,11 @@ When Gabriel was out of sight, Uriel sat back down and started shaking. He shook
 
 ## [SECTION-NAME Chapter 21]Thou Also Dwellest In Eternity
 
-[blockquote]
+[TODO [blockquote]
 Work hard, play hard, converge to a transcendent and unified end state of human evolution called the Omega Point as predicted by Teilhard.
 
    -—[a href="https://twitter.com/GapOfGods"]@GapOfGods[/a]
-[/blockquote]
+[/blockquote]]
 
    -Noon, May 12, 2017
 
@@ -1396,11 +1396,13 @@ Exodus 15:3 says “The LORD is a man of war; the LORD is His Name.” But this 
 
 I suggest that He is the latter. A jellyfish is a primitive and ignorant animal, unworthy to be compared to the glories of God. But a warship is mighty and inspires awe, and divine comparisons are entirely suitable; indeed, God may be the only thing worthy of being compared to it. For it is written, “The LORD alone is worthy of warship.”
 
-—From “A Call To Arms”, by Aaron Smith-Teller<br/>
-Submitted for the January 2017 issue of the [i]Stevensite Standard[/i]<br/>
-Rejected with extreme prejudice by editor Erica Lowry
+   -—From “A Call To Arms”, by Aaron Smith-Teller
 
+   -Submitted for the January 2017 issue of the [i]Stevensite Standard[/i]
+
+   -Rejected with extreme prejudice by editor Erica Lowry
 [/blockquote]
+
 #### I.
 
 It’s hard for me to imagine what it must have been like to be alive in ’69, to see the demons spill forth from the ground and the angels descend from the clouds.
@@ -1497,21 +1499,24 @@ But outside the Beltway, the reaction was less positive. Preachers in small town
 
 The backlash was stronger still in America’s foreign allies. The Archbishop of Canterbury led a candlelight vigil against the treaty. Italian syndicalists set off bombs. The Christian Democrats brought down the French government, and were denounced as Communist sympathizers. In Iran, Shia Muslim protesters took to the streets, shouting [i]Marg bar Shaytan-e bozorg![/i]—“Death to the Great Satan”. The Shah’s riot police attacked the protesters, the protesters fought back, and the disturbance was calmed only when a loyal Ayatollah stated that it was not the duty of Muslims to fight against Hell bodily, but only spiritually, for Hell itself was created by God for a reason. Thus the quote from Khayyam’s [i]rubaiyat[/i] eight hundred years earlier:
 
-[blockquote]O thou, who burns with tears for those who burn<br/>
-In Hell, whose fires will find thee in thy turn<br/>
-Hope not the Lord thy God to mercy teach<br/>
-For who art thou to teach, or He to learn?
+[blockquote]
+   /O thou, who burns with tears for those who burn
+   /In Hell, whose fires will find thee in thy turn
+   /Hope not the Lord thy God to mercy teach
+   /For who art thou to teach, or He to learn?
 [/blockquote]
 
 That was the end of Iranian resistance to the alliance. And the quote made it to America, Europe, and all the other countries of the world, became a sort of motto, an excuse, a “well, who are we to say that allying with the forces of Hell isn’t the sort of thing that might be part of the divine plan after all?”
 
-(But the soul is still oracular; amid the market’s din<br/>
-List the ominous stern whisper, from the Delphic cave within<br/>
-They enslave their children’s children who make compromise with sin.)
+[blockquote]
+   /(But the soul is still oracular; amid the market’s din
+   /List the ominous stern whisper, from the Delphic cave within
+   /They enslave their children’s children who make compromise with sin.)
+[/blockquote]
 
 (“It’s not a ‘compromise with sin’, per se, just a strategic alliance with the Devil.”)
 
-(...)
+...
 
 (“Okay, fine, whatever, maybe it’s [i]kind of[/i] a compromise with sin.”)
 
@@ -1534,10 +1539,10 @@ So passed the first quarter of the 1970s.
 ## [SECTION-NAME Chapter 22]Whose Ears Have Heard The Holy Word
 
 [blockquote]
-Object gods have meta gods<br/>
-Up in their skies to smite them<br/>
-And meta gods have meta gods,<br/>
-And so ad infinitum.
+   /Object gods have meta gods
+   /Up in their skies to smite them
+   /And meta gods have meta gods,
+   /And so ad infinitum.
 
    -—[a href="https://twitter.com/stevenkaas/"]Steven Kaas[/a]
 [/blockquote]
@@ -1616,10 +1621,11 @@ Five years ago, the Comet King had set out to find God. Not in the way where you
 
 It was the height of his power, the age when he held sway over the whole American West and parts of Mexico. His ambitions soared to the conquest of Hell itself, to break the power of the Devil and release his victims from their eternal torture. But defeating Hell would take more than mortal weapons. It would take the Shem haMephorash, the true explicit Name of God, the Name which allowed the speaker to destroy and remake worlds. It was the Name that God had spoken during the Creation, the Name that would blare from the Last Trumpet, the Name about which Khayyam had written:
 
-[blockquote]Ah Love! could thou and I with Fate conspire<br/>
-To grasp this sorry Scheme of Things entire,<br/>
-Would not we shatter it to bits—and then<br/>
-Re-mould it nearer to the Heart’s Desire!
+[blockquote]
+   /Ah Love! could thou and I with Fate conspire
+   /To grasp this sorry Scheme of Things entire,
+   /Would not we shatter it to bits—and then
+   /Re-mould it nearer to the Heart’s Desire!
 [/blockquote]
 
 But it was also unplumbable by mortal cleverness. The only way to learn it was from the lips of God Himself.
@@ -1738,11 +1744,11 @@ Paul tried to stand. He took a second to catch his breath. Kesey—the thing in 
 
 Quivering from head to toe, Paul knelt.
 
-“NO. I AM NEIL ARMSTRONG. ELEVEN MONTHS AGO, I FELL THROUGH A CRACK IN THE SKY INTO THE EIN SOF, THE TRUE GOD WHOSE VASTNESS SURROUNDS CREATION. LIKE ENOCH BEFORE ME, I WAS INVESTED WITH A PORTION OF THE MOST HIGH, THEN SENT BACK INTO CREATION TO SERVE AS A MESSENGER. I AM TO SHOW MANKIND A CITY UPON A HILL, A NEW JERUSALEM THAT STANDS BEYOND ALL CONTRARIES AND NEGATIONS.”
+“[sc]No. I am Neil Armstrong. Eleven months ago, I fell through a crack in the sky into the Ein Sof, the true God whose vastness surrounds creation. Like Enoch before me, I was invested with a portion of the most high, then sent back into creation to serve as a messenger. I am to show mankind a city upon a hill, a new Jerusalem that stands beyond all contraries and negations.[/sc]”
 
 Paul just stared at him, goggle-eyed.
 
-“YOU DO NOT BELIEVE. I WILL GIVE YOU A SIGN. ARISE AND OPEN YOUR BIBLE, AND READ THE FIRST WORDS UPON WHICH YOUR EYES FALL.”
+“[sc]You do not believe. I will give you a sign. Arise and open your Bible, and read the first words upon which your eyes fall.[/sc]”
 
 Mutely, Paul rose to his feet and took a Bible off his shelf, an old dog-eared King James Version he thought he might have stolen from a hotel once. He opened it somewhere near the middle and read from Psalm 89:12-13:
 
@@ -1761,11 +1767,11 @@ For a moment, Paul still doubted—did God really send His messengers through dr
 
 For the second time in as many minutes, he fell to his knees.
 
-“IN ORDER TO INSTANTIATE THE NEW JERUSALEM, YOU MUST GATHER TOGETHER ALL OF THE LSD IN THE CITY AND PLACE IT IN A RESERVOIR WHICH I WILL SHOW YOU. WHEN EVERYONE HAS ACHIEVED DIVINE CONSCIOUSNESS, IT WILL CREATE A CRITICAL MASS THAT WILL ALLOW A NEW LEVEL OF SPIRITUAL TRANSFORMATION. I WILL BECOME ONE WITH THE CITY, BECOME ITS GUARDIAN AND ITS GUIDE. AND NONE SHALL BE POOR, OR SICK, OR DYING, AND NONE SHALL CRY OUT TO THE LORD FOR SUCCOUR UNANSWERED.”
+“[sc]In order to instantiate the new Jerusalem, you must gather together all of the LSD in the city and place it in a reservoir which I will show you. When everyone has achieved divine consciousness, it will create a critical mass that will allow a new level of spiritual transformation. I will become one with the city, become its guardian and its guide. And none shall be poor, or sick, or dying, and none shall cry out to the lord for succour unanswered.[/sc]”
 
 “But... if I put LSD in the water supply... if the whole city... are you saying we, like, [i]secede[/i] from the United States?... you don’t understand. We’ve been trying to spread a new level of consciousness for [i]years[/i]. It never... if the whole city tries to become some kind of... if they don’t pay taxes or anything... we’re going to be in the [i]biggest[/i] trouble. You don’t know Nixon, he’s ruthless, he’d crush it, it’d never...”
 
-“YOU STILL DO NOT BELIEVE. OPEN YOUR BIBLE A SECOND TIME.”
+“[sc]You still do not believe. Open your Bible a second time.[/sc]”
 
 Paul Foster opened his Bible a second time, to Isaiah 62:8:
 
@@ -2274,177 +2280,177 @@ St. Francis saw above him, filling the whole heavens, some vast immemorial unthi
 
    -Gulf of Mexico
 
-“TELL ME ABOUT THE WORD WATER”.
+“[sc]Tell me about the word water.[/sc]”
 
-Sohu sat on her cloud, snacking on manna with ketchup on top. He had been doing this increasingly often over the past few weeks, asking her to tell him about a word, never satisfied with the amount of meaning she was able to wring from it. It didn’t matter how many connections she drew, how many languages she was able to weave together, he would always just say something like “YES, BUT WHAT DO YOU MAKE OF PROTO-NABATEAN, IN WHICH THE SAME WORD REFERS TO AN OBSCURE KIND OF COOKING-IMPLEMENT?” and she would have to admit that, for some reason, that had never crossed her mind.
+Sohu sat on her cloud, snacking on manna with ketchup on top. He had been doing this increasingly often over the past few weeks, asking her to tell him about a word, never satisfied with the amount of meaning she was able to wring from it. It didn’t matter how many connections she drew, how many languages she was able to weave together, he would always just say something like “[sc]Yes, but what do you make of proto-Nabatean, in which the same word refers to an obscure kind of cooking-implement?[/sc]” and she would have to admit that, for some reason, that had never crossed her mind.
 
 She sighed theatrically, but gave no further protest. “In Proto-Semitic,” she said, “it is akwa. In Proto-Eurasiatic, also akwa. In Proto-Amerind, akwa again. So we’re getting a very strong aleph-kaf-vav vibe. Aleph connects Chesed to Gevurah, and kaf connects Chesed to Binah, and vav connects Binah to Keter, so we’re getting two paths out of Chesed, one all the way up to Kether, and the other down to Gevurah.”
 
-“GO ON.”
+“[sc]Go on.[/sc]”
 
 “So we’re invoking Chesed, the kindness of God. Compare Psalm 65: “You visit the Earth and water it, you greatly enrich it with the river of God, which is full of water.” But we’re also invoking Gevurah, the severity of God. Water is the kindess of God, but also His severity; think Noah’s flood, where it was His severity that punished the wicked, but His kindness that saved Noah and promised never again to flood the Earth. We’ve got Binah, the understanding of God. Spiritual growth. Compare John 4:14: “Whosoever drinketh of the water that I give him shall never thirst; the water that I shall give him shall be a well of water springing up into eternal life.” And finally, we’ve got Kether. The crown of God. Human beings are 66% water. The human brain is something like 90%. Human beings are made in God’s own image. Therefore, Kether.
 
-“BUT WHAT ABOUT...”
+“[sc]But what about...[/sc]”
 
 “The English word water, which breaks the pattern? It keeps the vav, but it finishes with tav and resh. That’s a very special combination. Tav goes up from Malkuth, at the very bottom of the tree, and then resh goes straight up again, until you’re all the way at Tiferet in two moves. And from Tiferet you can go anywhere. A tav-resh is the shortest path, it’s efficiency, it’s no-nonsense, it’s utilitarian, it’s for when you need a lot of power really really quickly.”
 
-“AND WHY DOES—”
+“[sc]And why does—[/sc]”
 
 “English deviates from the other languages because for the Tibetans and American Indians and Egyptians, water represents life and mystery and so on. But Britain is an island, and the British are the greatest seafarers in history. The Tibetans think of water and they think of good crops and spiritual rebirth. The English take one look at it and think ‘Yes, an understanding of God is all nice and well, but you can sail over this stuff to get [i]anywhere[/i].'”
 
-“BUT WHAT ABOUT THE HEBREW, IN WHICH WATER IS ‘MAYIM’?”
+“[sc]But what about the Hebrew, in which water is ‘mayim’?[/sc]”
 
 “It means... because... I don’t know. Who knows? How deep do we need to go? Isn’t it enough that I brought in three reconstructed ancestral languages from three different continents, plus explained deviations from the trend? Just once, could you say ‘Good job, Sohu, that’s enough, Sohu’?”
 
-“UM. GOOD JOB, SOHU.”
+“[sc]Um. Good job, Sohu.[/sc]”
 
 “Uriel, this is [i]really boring[/i].”
 
-“YOU ARE VERY ENGLISH. YOU WANT TO GET PLACES AS EFFICIENTLY AS POSSIBLE. BUT SOMETIMES...”
+“[sc]You are very English. You want to get places as efficiently as possible. But sometimes...[/sc]”
 
 “When do I get to learn how to do cool stuff, like blow up mountains?”
 
-“UM. PLEASE DO NOT BLOW UP MOUNTAINS. MOUNTAINS ARE USEFUL. THEY HELP CONTROL CLIMACTIC PATTERNS.”
+“[sc]Um. Please do not blow up mountains. Mountains are useful. They help control climactic patterns.[/sc]”
 
 “Blow up [i]Thamiel[/i], then.”
 
-“YOU CANNOT KILL THAMIEL. HE IS A FACET OF GOD.”
+“[sc]You cannot kill Thamiel. He is a facet of God.[/sc]”
 
 “When do I get to learn [i]anything[/i]? Uriel! This. Is. So. Boring. Learning about the structure of words all day. I want to be able to help Father, to help save the world.”
 
-“THE USE OF KABBALAH TO AFFECT THE PHYSICAL WORLD IS DONE PRIMARILY UPON THE PLANES OF YETZIRAH AND BRIAH. THESE PLANES ARE NOT CONSTRUCTED OF MATTER BUT OF VARIOUS FORMS OF SUBTLE STRUCTURE. UNTIL YOU UNDERSTAND THE CORRESPONDENCES AND THE STRUCTURE, YOU CANNOT HOPE TO INFLUENCE THEM CONSISTENTLY.”
+“[sc]The use of kabbalah to affect the physical world is done primarily upon the planes of Yetzirah and Briah. These planes are not constructed of matter but of various forms of subtle structure. Until you understand the correspondences and the structure, you cannot hope to influence them consistently.[/sc]”
 
 “I made [i]all the rivers in the world[/i] run in reverse my first day here.”
 
-“BY ACCIDENT. THAT IS WHAT I AM SAYING. IF YOU DO NOT KNOW EXACTLY WHAT YOU ARE DOING, THERE WILL BE MORE ACCIDENTS. AND YOU WILL NOT BE ABLE TO FIX THEM.”
+“[sc]By accident. That is what I am saying. If you do not know exactly what you are doing, there will be more accidents. And you will not be able to fix them.[/sc]”
 
 “I’ll be careful.”
 
-“I WILL TELL YOU A STORY.”
+“[sc]I will tell you a story.[/sc]”
 
 “Is this going to be one of your stories that’s a weird metaphor for something?”
 
-“ONCE UPON A TIME, RABBI BEN AZZAI, RABBI BEN ZOMA, THE OTHER ONE, AND RABBI AKIVA VISITED AN ORCHARD. BEN AZZAI SAW IT AND DIED. BEN ZOMA SAW IT AND WENT CRAZY. THE OTHER ONE BURNED DOWN ALL THE TREES. AKIVA CAME IN PEACE AND DEPARTED IN PEACE. THE END.”
+“[sc]Once upon a time, Rabbi ben Azzai, Rabbi ben Zoma, the other one, and Rabbi Akiva visited an orchard. Ben Azzai saw it and died. Ben Zoma saw it and went crazy. The other one burned down all the trees. Akiva came in peace and departed in peace. The end.[/sc]”
 
 “So yes, then.”
 
-“IT MEANS THAT—”
+“[sc]It means that—[/sc]”
 
 “Wait. Who is the other one?”
 
-“THE OTHER ONE?”
+“[sc]The other one?[/sc]”
 
 “You said Rabbi ben Azzai, Rabbi ben Zoma, and the other one.”
 
-“OH. YES. THE OTHER ONE. HIS NAME WAS ELISHA BEN ABUYAH, BUT WE DO NOT SPEAK OF HIM. IN THE TALMUD HE IS ALWAYS CALLED ‘ACHER’, WHICH MEANS ‘THE OTHER ONE’.”
+“[sc]Oh. Yes. The other one. His name was Elisha ben Abuyah, but we do not speak of him. In the Talmud he is always called ‘acher’, which means ‘the other one’.[/sc]”
 
 “Why is his name never spoken?”
 
-“THAT IS A LONG STORY.”
+“[sc]That is a long story.[/sc]”
 
 “I want to hear it!”
 
-“THE HUMAN BOOK ON EDUCATION SAYS THAT I SHOULD ALWAYS MAKE AN EFFORT TO ANSWER CHILDREN’S QUESTIONS, EVEN WHEN THEY ARE VERY ANNOYING.”
+“[sc]The human book on education says that I should always make an effort to answer children’s questions, even when they are very annoying.[/sc]”
 
 “Yes.”
 
-“ELISHA BEN ABUYAH WAS A GREAT RABBI OF ANCIENT ISRAEL. A BRILLIANT KABBALIST. A MIGHTY MIRACLE WORKER. A TRUE SAINT. ONE DAY HE WAS WALKING ALONG A PATH WHEN HE SAW A LITTLE BOY CLIMB A TREE. THE BOY FOUND A BIRD’S NEST. HE TOOK THE EGGS TO EAT, AND HE ALSO KILLED THE MOTHER BIRD. BUT THIS IS IN DEFIANCE OF DEUTERONOMY 22:6, WHICH SAYS [i]‘HE WHO SHALL HURT THE LITTLE WREN, WILL NEVER BE BELOVED BY MEN.’[/i]”
+“[sc]Elisha ben Abuyah was a great rabbi of ancient Israel. A brilliant kabbalist. A mighty miracle worker. A true saint. One day he was walking along a path when he saw a little boy climb a tree. The boy found a bird’s nest. He took the eggs to eat, and he also killed the mother bird. But this is in defiance of Deuteronomy 22:6, which says [i]‘he who shall hurt the little wren, will never be beloved by men.’[/i][/sc]”
 
 “That’s not how Deuteronomy goes... it says... uh... ‘If you come across a bird’s nest in any tree or on the ground, with young ones or eggs and the mother sitting on the young or on the eggs, you shall not take the mother with the young. You shall let the mother go, but the young you may take for yourself, that it may go well with you, and that you may live long.’”
 
-“IT WAS NOT AN EXACT TRANSLATION. ANYWAY, THE LITTLE BOY KILLED THE MOTHER BIRD, THEN CLIMBED BACK DOWN THE TREE AND WANDERED OFF.”
+“[sc]It was not an exact translation. Anyway, the little boy killed the mother bird, then climbed back down the tree and wandered off.[/sc]”
 
 “Not an exact translation? What version are you...”
 
-“A FEW MONTHS LATER, HE WAS WALKING ALONG THE SAME PATH WHEN HE SAW ANOTHER LITTLE BOY CLIMB A TREE LOOKING FOR EGGS TO EAT. THIS BOY FOUND A NEST, TOOK THE EGGS, BUT LEFT THE MOTHER BIRD IN PEACE, IN ACCORDANCE WITH THE LAW. ON HIS WAY BACK DOWN THE TREE, HE STUMBLED, FELL, BROKE HIS NECK, AND DIED. SO ELISHA BEN ABUYAH SWORE ETERNAL VENGEANCE AGAINST GOD.”
+“[sc]A few months later, he was walking along the same path when he saw another little boy climb a tree looking for eggs to eat. This boy found a nest, took the eggs, but left the mother bird in peace, in accordance with the law. On his way back down the tree, he stumbled, fell, broke his neck, and died. So Elisha ben Abuyah swore eternal vengeance against God.[/sc]”
 
 “[i]What?[/i]”
 
-“THE ONE BOY DID A WICKED DEED AND WAS NOT PUNISHED. THE OTHER BOY DID A VIRTUOUS DEED AND WAS PUNISHED WITH DEATH. ELISHA BEN ABUYAH SAW THIS AND DECLARED THAT WHATEVER POWER IN THE UNIVERSE METED OUT JUDGMENT, HE WAS IN REBELLION AGAINST IT.”
+“[sc]The one boy did a wicked deed and was not punished. The other boy did a virtuous deed and was punished with death. Elisha ben Abuyah saw this and declared that whatever power in the universe meted out judgment, he was in rebellion against it.[/sc]”
 
 “Because of one bird? Isn’t that a little extreme?”
 
-“WHAT IS THE CORRECT LEVEL OF INJUSTICE AT WHICH TO DECLARE YOURSELF IN REBELLION AGAINST THE POWER METING OUT JUDGMENT IN THE UNIVERSE?”
+“[sc]What is the correct level of injustice at which to declare yourself in rebellion against the power meting out judgment in the universe?[/sc]”
 
 “I mean, you would need to have... oh. [i]Oh.[/i]”
 
-“YES. ELISHA WAS VERY ANGRY. ONE BY ONE, HE BROKE ALL OF THE LAWS. HE WAS A GREAT RABBI, SO HE KNEW EVERY LAW AND WHICH ONES MOST OFFENDED GOD WHEN BROKEN, AND HE DEVOTED HIMSELF TO THE TASK WITH FEARSOME DEDICATION. HE LIT FIRES ON THE SABBATH. HE ATE PORK. HE EVEN BOILED A GOAT IN ITS MOTHER’S MILK. WHICH BY THE WAY IS WHY THERE IS NO LONGER A CITY OF POMPEII. BUT THESE WERE NOT ENOUGH FOR HIM. HE SWORE TO BREAK THE MOST IMPORTANT LAW OF ALL.”
+“[sc]Yes. Elisha was very angry. One by one, he broke all of the laws. He was a great rabbi, so he knew every law and which ones most offended God when broken, and he devoted himself to the task with fearsome dedication. He lit fires on the sabbath. He ate pork. He even boiled a goat in its mother’s milk. Which by the way is why there is no longer a city of Pompeii. But these were not enough for him. He swore to break the most important law of all.[/sc]”
 
 “What’s the most important law of all?”
 
-“THE UNITY OF GOD. ELISHA ASCENDED TO HEAVEN, AS ONE DOES, AND HE POINTED AT THE ARCHANGEL METATRON, THE REGENT OF THE DIVINE IN THE FINITE WORLD. AND HE DECLARED ‘THAT GUY THERE, HE IS ALSO A GOD. THERE ARE TWO GODS. T-W-O G-O-D-S. DEAL WITH IT.’ THE RABBIS DECREED THAT HIS NAME MUST NEVER BE SPOKEN. AND ALL WHO HEARD OF IT SAID ‘SURELY THE GREAT RABBI ELISHA BEN ABUYAH WOULD NEVER DO SUCH A THING. IT MUST BE SOME OTHER ONE.’ AND SO FROM THAT DAY ON, HE WAS CALLED ‘THE OTHER ONE’.”
+“[sc]The unity of God. Elisha ascended to heaven, as one does, and he pointed at the archangel Metatron, the regent of the divine in the finite world. And he declared ‘That guy there, he is also a God. There are two gods. t-w-o g-o-d-s. Deal with it.’ The rabbis decreed that his name must never be spoken. And all who heard of it said ‘surely the great rabbi Elisha ben Abuyah would never do such a thing. It must be some other one.’ And so from that day on, he was called ‘the other one’.[/sc]”
 
 “Did he ever repent?”
 
-“GOD REFUSED TO FORGIVE HIM.”
+“[sc]God refused to forgive him.[/sc]”
 
 “What? God always forgives these sorts of things!”
 
-“YES.”
+“[sc]Yes.[/sc]”
 
-“Then -”
+“Then—”
 
-“EXCEPT ELISHA BEN ABUYAH.”
+“[sc]Except Elisha ben Abuyah.[/sc]”
 
 “Just him?”
 
-“IT IS SAID THAT EACH YEAR ON THE DAY OF ATONEMENT, A GREAT VOICE WOULD RING FORTH FROM THE HOLY PLACES, SAYING ‘REPENT, O CHILDREN OF ISRAEL, FOR THE LORD YOUR GOD IS MERCIFUL AND SHALL FORGIVE YOU. EXCEPT YOU, ELISHA BEN ABUYAH.”
+“[sc]It is said that each year on the day of atonement, a great voice would ring forth from the holy places, saying ‘Repent, o children of Israel, for the Lord your God is merciful and shall forgive you. Except you, Elisha ben Abuyah.[/sc]”
 
 “It really said that?”
 
-“IT WAS A VERY SPECIFIC VOICE.”
+“[sc]It was a very specific voice.[/sc]”
 
 “So what happened to him?”
 
-“NOTHING.”
+“[sc]Nothing.[/sc]”
 
 “He just hung around being sinful, then died and went to Hell?”
 
-“NO.”
+“[sc]No.[/sc]”
 
 “No?”
 
-“THE BABYLONIAN TALMUD SAYS THAT HE WAS TOO GREAT A RABBI TO GO TO HELL, BUT TOO EVIL TO GO TO HEAVEN.”
+“[sc]The Babylonian Talmud says that he was too great a rabbi to go to Hell, but too evil to go to Heaven.[/sc]”
 
 “So where did he go?”
 
-“I DON’T KNOW. I NEVER ASKED.”
+“[sc]I don’t know. I never asked.[/sc]”
 
 “You never asked?”
 
-“I AM VERY BUSY. I CANNOT KEEP TRACK OF EVERY TALMUDIC RABBI. CAN I GET BACK TO MY STORY NOW?”
+“[sc]I am very busy. I cannot keep track of every Talmudic rabbi. can I get back to my story now?[/sc]”
 
 “How do you just lose an entire rabbi?”
 
-“SINCE YOU ARE SUCH AN EXPERT ON METAPHORS, HOW DO YOU INTERPRET THE STORY?”
+“[sc]Since you are such an expert on metaphors, how do you interpret the story?[/sc]”
 
 “I... forgot the story. What was it again?”
 
-“ONCE UPON A TIME, RABBI BEN AZZAI, RABBI BEN ZOMA, THE OTHER ONE, AND RABBI AKIVA VISITED AN ORCHARD. BEN AZZAI SAW IT AND DIED. BEN ZOMA SAW IT AND WENT CRAZY. THE OTHER ONE BURNED DOWN ALL THE TREES. AKIVA CAME IN PEACE AND DEPARTED IN PEACE. THE END.”
+“[sc]Once upon a time, Rabbi ben Azzai, Rabbi ben Zoma, the other one, and Rabbi Akiva visited an orchard. Ben Azzai saw it and died. Ben Zoma saw it and went crazy. The other one burned down all the trees. Akiva came in peace and departed in peace. The end.[/sc]”
 
 “That was an awful story.”
 
-“I NEVER SAID IT WASN’T.”
+“[sc]I never said it wasn’t.[/sc]”
 
 “The story of Elisha ben Abuyah was like a million times more interesting!”
 
-“THIS STORY IS A PARABLE ABOUT THE DANGERS OF MYSTICAL ACHIEVEMENT. THE ORCHARD REPRESENTS THE HIGHER PLANES YOU WILL CONTACT IN YOUR STUDIES. IF YOU ARE UNPREPARED, KABBALAH CAN KILL YOU. IF YOU ARE ONLY PARTIALLY PREPARED, KABBALAH CAN DRIVE YOU MAD. IF YOU YOUR INTENTIONS ARE NOT PURE, KABBALAH CAN TURN YOU INTO A FORCE FOR GREAT EVIL WHO DESTROYS EVERYTHING AROUND YOU. ONLY IF YOU ARE WISE AND VIRTUOUS LIKE AKIVA CAN YOU ESCAPE UNSCATHED.”
+“[sc]This story is a parable about the dangers of mystical achievement. The orchard represents the higher planes you will contact in your studies. If you are unprepared, kabbalah can kill you. If you are only partially prepared, kabbalah can drive you mad. If you your intentions are not pure, kabbalah can turn you into a force for great evil who destroys everything around you. Only if you are wise and virtuous like Akiva can you escape unscathed.[/sc]”
 
 “So you’re saying you’re not going to teach me anything interesting until I am wise and virtuous like Akiva.”
 
-“MAYBE NOT THAT WISE AND VIRTUOUS. BUT I WOULD LIKE YOU TO STOP TALKING ABOUT BLOWING UP MOUNTAINS.”
+“[sc]Maybe not that wise and virtuous. But I would like you to stop talking about blowing up mountains.[/sc]”
 
 “Maybe the mountains are evil. Or evil is hiding in them. Or something.”
 
-“PLEASE DO NOT BLOW UP MOUNTAINS. IT NEVER HELPS.”
+“[sc]Please do not blow up mountains. It never helps.[/sc]”
 
 “Grumble.”
 
-“DID YOU EVER FINISH LEARNING ALL THE WORLD’S LANGUAGES?”
+“[sc]Did you ever finish learning all the world’s languages?[/sc]”
 
 “I told you, that’s impossible!”
 
-“I THINK YOU SHOULD TRY.”
+“[sc]I think you should try.[/sc]”
 
 “You’re trying to get rid of me, aren’t you!”
 
